@@ -1,0 +1,14 @@
+# OpticGlass automation: the Python packages the live pipeline imports, at the versions verified on the source PC
+# (2026-11-05, Python 3.14.7 x64). Install: py -m pip install -r requirements.txt -e ./pyCapCut
+# pyCapCut must be the repo's patched copy (editable), not PyPI's.
+opencv-python==5.0.0.93
+numpy==2.5.4
+pillow==12.3.0
+pillow-heif==1.8.1
+# pyCapCut's own requirements (pyCapCut/requirements.txt), pinned
+pymediainfo==7.0.1
+imageio==2.38.1
+uiautomation==2.0.29
+comtypes==1.4.17
+# reference-video cut analysis only (video-editing-automation skill); no builder uses it
+scenedetect==0.7.2

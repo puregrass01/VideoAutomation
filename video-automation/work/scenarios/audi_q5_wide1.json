@@ -1,0 +1,685 @@
+{
+ "template": "opticglass_wide1",
+ "car": {},
+ "scenes": [
+  {
+   "id": "w00",
+   "role": "exterior",
+   "start": 0.0,
+   "dur": 4.667,
+   "name": "w00_car_detail",
+   "kind": "car_detail",
+   "src": "20210609_141939.mp4",
+   "in": 81.47,
+   "look": "bright"
+  },
+  {
+   "id": "w01",
+   "role": "detail",
+   "start": 4.667,
+   "dur": 3.167,
+   "name": "w01_car_detail",
+   "kind": "car_detail",
+   "src": "20210609_143036_HDR.jpg",
+   "in": 0.0,
+   "look": "bright"
+  },
+  {
+   "id": "w02",
+   "role": "detail",
+   "start": 7.833,
+   "dur": 2.233,
+   "name": "w02_car_detail",
+   "kind": "car_detail",
+   "src": "20210609_143104_HDR.jpg",
+   "in": 0.0,
+   "look": "bright",
+   "faces": [
+    [
+     [
+      0.0,
+      1711,
+      71,
+      72
+     ],
+     [
+      1.0,
+      1711,
+      71,
+      72
+     ]
+    ],
+    [
+     [
+      0.0,
+      1730,
+      363,
+      55
+     ],
+     [
+      1.0,
+      1730,
+      363,
+      55
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "w03",
+   "role": "exterior",
+   "start": 10.067,
+   "dur": 2.5,
+   "name": "w03_car_exterior",
+   "kind": "car_exterior",
+   "src": "1.jpg",
+   "in": 0.0,
+   "look": "bright"
+  },
+  {
+   "id": "w04",
+   "role": "card",
+   "start": 12.567,
+   "dur": 5.633,
+   "name": "w04_car_exterior",
+   "kind": "car_exterior",
+   "src": "20210609_143019_HDR.jpg",
+   "in": 0.0,
+   "look": "title",
+   "plates": [
+    [
+     0.0,
+     [
+      [
+       696,
+       766
+      ],
+      [
+       1080,
+       768
+      ],
+      [
+       1080,
+       846
+      ],
+      [
+       696,
+       842
+      ]
+     ]
+    ],
+    [
+     1.0,
+     [
+      [
+       696,
+       766
+      ],
+      [
+       1080,
+       768
+      ],
+      [
+       1080,
+       846
+      ],
+      [
+       696,
+       842
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "w05",
+   "role": "card",
+   "start": 18.2,
+   "dur": 4.4,
+   "name": "w05_car_exterior",
+   "kind": "car_exterior",
+   "src": "20210609_143020_HDR.jpg",
+   "in": 0.0,
+   "look": "title",
+   "plates": [
+    [
+     0.0,
+     [
+      [
+       697,
+       753
+      ],
+      [
+       1082,
+       755
+      ],
+      [
+       1082,
+       833
+      ],
+      [
+       697,
+       830
+      ]
+     ]
+    ],
+    [
+     1.0,
+     [
+      [
+       697,
+       753
+      ],
+      [
+       1082,
+       755
+      ],
+      [
+       1082,
+       833
+      ],
+      [
+       697,
+       830
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "w06",
+   "role": "compare_before",
+   "start": 22.6,
+   "dur": 5.0,
+   "name": "w06_mirror_before",
+   "kind": "mirror_before",
+   "src": "@media/c40/gdrive_raw/운전석 순정미러.JPG",
+   "in": 0.0,
+   "look": "bright"
+  },
+  {
+   "id": "w07",
+   "role": "compare_before",
+   "start": 27.6,
+   "dur": 5.0,
+   "name": "w07_mirror_before",
+   "kind": "mirror_before",
+   "src": "@media/cybertruck/gdrive_raw/IMG_1553.JPG",
+   "in": 0.0,
+   "look": "bright",
+   "faces": [
+    [
+     [
+      0.0,
+      758,
+      173,
+      300
+     ],
+     [
+      1.0,
+      758,
+      173,
+      300
+     ]
+    ],
+    [
+     [
+      0.0,
+      61,
+      923,
+      130
+     ],
+     [
+      1.0,
+      61,
+      923,
+      130
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "w08",
+   "role": "compare_after",
+   "start": 32.6,
+   "dur": 5.0,
+   "name": "w08_mirror_after",
+   "kind": "mirror_after",
+   "src": "@media/c40/gdrive_raw/운전석 옵틱글래스.JPG",
+   "in": 0.0,
+   "look": "bright",
+   "arrows": [
+    [
+     540,
+     534,
+     -1.0,
+     0.0,
+     125
+    ],
+    [
+     1553,
+     534,
+     1.0,
+     0.0,
+     125
+    ],
+    [
+     1046,
+     188,
+     0.0,
+     -1.0,
+     125
+    ],
+    [
+     1046,
+     880,
+     0.0,
+     1.0,
+     125
+    ]
+   ]
+  },
+  {
+   "id": "w09",
+   "role": "compare_after",
+   "start": 37.6,
+   "dur": 5.0,
+   "name": "w09_mirror_after",
+   "kind": "mirror_after",
+   "src": "@media/c40/gdrive_raw/조수석 옵틱글래스.JPG",
+   "in": 0.0,
+   "look": "bright",
+   "plates": [
+    [
+     0.0,
+     [
+      [
+       886,
+       131
+      ],
+      [
+       901,
+       134
+      ],
+      [
+       901,
+       140
+      ],
+      [
+       886,
+       137
+      ]
+     ]
+    ],
+    [
+     1.0,
+     [
+      [
+       886,
+       131
+      ],
+      [
+       901,
+       134
+      ],
+      [
+       901,
+       140
+      ],
+      [
+       886,
+       137
+      ]
+     ]
+    ]
+   ],
+   "arrows": [
+    [
+     346,
+     513,
+     -1.0,
+     0.0,
+     125
+    ],
+    [
+     1284,
+     513,
+     1.0,
+     0.0,
+     125
+    ],
+    [
+     815,
+     238,
+     0.0,
+     -1.0,
+     125
+    ],
+    [
+     815,
+     788,
+     0.0,
+     1.0,
+     125
+    ]
+   ]
+  },
+  {
+   "id": "w10",
+   "role": "split",
+   "start": 42.6,
+   "dur": 4.0,
+   "name": "w10_split",
+   "kind": [
+    "mirror_before",
+    "mirror_after"
+   ],
+   "src": "@media/sealion7/gdrive_raw/IMG_5340.JPG",
+   "in": 0.0,
+   "split": {
+    "src_after": "@media/cybertruck/gdrive_raw/IMG_1533.JPG",
+    "in_after": 0.0,
+    "crop_before": "crop=1920:2160:1042:0",
+    "crop_after": "crop=1728:1946:976:214"
+   },
+   "faces": [
+    [
+     [
+      0.0,
+      100,
+      108,
+      180
+     ],
+     [
+      1.0,
+      100,
+      108,
+      180
+     ]
+    ],
+    [
+     [
+      0.0,
+      1509,
+      211,
+      215
+     ],
+     [
+      1.0,
+      1509,
+      211,
+      215
+     ]
+    ],
+    [
+     [
+      0.0,
+      1492,
+      522,
+      15
+     ],
+     [
+      1.0,
+      1492,
+      522,
+      15
+     ]
+    ]
+   ],
+   "arrows": [
+    [
+     1160,
+     609,
+     -1.0,
+     0.0,
+     110
+    ],
+    [
+     1724,
+     609,
+     1.0,
+     0.0,
+     110
+    ],
+    [
+     1442,
+     396,
+     0.0,
+     -1.0,
+     110
+    ],
+    [
+     1442,
+     822,
+     0.0,
+     1.0,
+     110
+    ]
+   ]
+  },
+  {
+   "id": "w11",
+   "role": "split",
+   "start": 46.6,
+   "dur": 4.0,
+   "name": "w11_split",
+   "kind": [
+    "mirror_before",
+    "mirror_after"
+   ],
+   "src": "@media/sealion7/gdrive_raw/IMG_5341.JPG",
+   "in": 0.0,
+   "split": {
+    "src_after": "@media/cybertruck/gdrive_raw/IMG_1534.JPG",
+    "in_after": 0.0,
+    "crop_before": "crop=1920:2160:1058:0",
+    "crop_after": "crop=1716:1930:994:230"
+   },
+   "faces": [
+    [
+     [
+      0.0,
+      100,
+      108,
+      180
+     ],
+     [
+      1.0,
+      100,
+      108,
+      180
+     ]
+    ],
+    [
+     [
+      0.0,
+      851,
+      535,
+      55
+     ],
+     [
+      1.0,
+      851,
+      535,
+      55
+     ]
+    ],
+    [
+     [
+      0.0,
+      1509,
+      216,
+      220
+     ],
+     [
+      1.0,
+      1509,
+      216,
+      220
+     ]
+    ]
+   ],
+   "arrows": [
+    [
+     1160,
+     609,
+     -1.0,
+     0.0,
+     110
+    ],
+    [
+     1724,
+     609,
+     1.0,
+     0.0,
+     110
+    ],
+    [
+     1442,
+     396,
+     0.0,
+     -1.0,
+     110
+    ],
+    [
+     1442,
+     822,
+     0.0,
+     1.0,
+     110
+    ]
+   ]
+  },
+  {
+   "id": "w12",
+   "role": "outro",
+   "start": 50.6,
+   "dur": 7.133,
+   "name": "opticglass_outro",
+   "src": "outro",
+   "in": 0.0,
+   "look": "plain"
+  }
+ ],
+ "lines": [
+  {
+   "id": "lt01",
+   "text": "아우디 Q5"
+  },
+  {
+   "id": "w04a",
+   "start": 12.567,
+   "dur": 10.033,
+   "fc_pos": [
+    960,
+    420
+   ],
+   "size": 38,
+   "color": "#FFFFFF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "BY OPTICGLASS"
+  },
+  {
+   "id": "w04b",
+   "start": 12.567,
+   "dur": 10.033,
+   "fc_pos": [
+    960,
+    535
+   ],
+   "size": 78,
+   "color": "#FFFFFF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "광각미러가 꼭 필요한 이유"
+  },
+  {
+   "id": "wb1",
+   "text": "광각미러 설치 전"
+  },
+  {
+   "id": "wb2",
+   "text": "광각미러 설치 후"
+  },
+  {
+   "id": "wc1",
+   "text": "미러만 보기엔 아쉬워 고개를 다시 돌려 살피고"
+  },
+  {
+   "id": "wc2",
+   "text": "좁은 화각 탓에 차선 변경 때마다 신경 쓰이는 순정 미러"
+  },
+  {
+   "id": "wc3",
+   "text": "조수석 뒤쪽에서 다가오는 차량이 사각지대에 쉽게 가려져"
+  },
+  {
+   "id": "wc4",
+   "text": "합류 구간이나 끼어들기 상황에서 판단이 늦어지기 쉽습니다"
+  },
+  {
+   "id": "wc5",
+   "text": "옵틱글래스가 측면에서 후방까지 시야를 넓게 이어주어"
+  },
+  {
+   "id": "wc6",
+   "text": "주변 도로 흐름이 한눈에 자연스럽게 들어오고"
+  },
+  {
+   "id": "wc7",
+   "text": "갑자기 파고드는 차량의 움직임도 빠르게 읽힙니다"
+  },
+  {
+   "id": "wc8",
+   "text": "주차선 확인부터 주행까지 한결 여유로워지는 광각 시야"
+  },
+  {
+   "id": "ws1",
+   "text": "시공 전"
+  },
+  {
+   "id": "ws2",
+   "text": "시공 후",
+   "color": "#F4C70F"
+  },
+  {
+   "id": "ws3",
+   "text": "시공 전"
+  },
+  {
+   "id": "ws4",
+   "text": "시공 후",
+   "color": "#F4C70F"
+  },
+  {
+   "id": "wz1",
+   "text": "더 넓은 시야로 시작하는"
+  },
+  {
+   "id": "wz2",
+   "text": "옵틱글래스로 운전석 시야를 바꿔보세요",
+   "color": "#F4C70F"
+  },
+  {
+   "id": "wz3",
+   "text": "아우디 Q5에 걸맞은 편안한 시야 변화를"
+  },
+  {
+   "id": "wz4",
+   "text": "옵틱글래스 광각미러로 직접 경험해보세요",
+   "color": "#F4C70F"
+  }
+ ],
+ "generated": {
+  "by": "make_scenario.py",
+  "skeleton": "opticglass_wide1"
+ },
+ "thumbnail": {
+  "line2": "시야부터 다릅니다"
+ }
+}

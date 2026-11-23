@@ -1,0 +1,811 @@
+{
+  "spec_version": "0.1",
+  "meta": {
+    "template_name": "mercedes_21_0728_opticglass_longform",
+    "template_category": "longform",
+    "source_type": "local_draft",
+    "template": "opticglass_wide1",
+    "reference_template_id": "27112FC3-97E2-43fc-A81C-C439DFFB1BAD",
+    "outro_pool_dir": "C:\\Users\\bssho\\OneDrive\\문서\\카카오톡 받은 파일\\아웃트로\\아웃트로",
+    "selected_outro": "옵틱글래스 광각미러 아웃트로.mp4",
+    "duration_s": 57.733,
+    "notes": "옵틱글래스 공식 16:9 롱폼 템플릿(옵틱글래스 광각미러 템플릿 1 / 27112FC3) 기반 21' 벤츠 gle 광각미러 롱폼 명세 (100% 실제 4K .MOV 영상, 외곽선 없는 불투명 검정 배경 박스 자막(가이드 정합), 시공 후 확장 화살표 4개 강조, 로고_번호판 및 얼굴 마스킹 적용)."
+  },
+  "canvas": {
+    "w": 1920,
+    "h": 1080,
+    "fps": 30.0,
+    "aspect": "16:9"
+  },
+  "audio": {
+    "bgm_slot": "C:\\Users\\bssho\\Downloads\\paperclip-master\\구글드라이브다운파일\\media\\0.옵틱 광각\\21' 벤츠 gle 옵틱(07.28)\\mercedes_21_0728_longform_bgm_41s.mp3",
+    "bpm": 120.0,
+    "downbeats_s": [
+      0.0,
+      4.667,
+      7.833,
+      10.067,
+      12.567,
+      18.2,
+      22.6,
+      27.6,
+      32.6,
+      37.6,
+      42.6,
+      46.6,
+      50.6
+    ],
+    "sections": [
+      {
+        "label": "full",
+        "start": 0.0,
+        "end": 57.733
+      }
+    ]
+  },
+  "styles": {
+    "longform_stroke_sub": {
+      "font": "NotoSansKR Bold",
+      "latin_font": "NotoSansKR-Bold-Static",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.0,
+      "color": "#FFFFFF",
+      "stroke": {
+        "color": "#000000",
+        "width": 0.06
+      },
+      "background": {
+        "enabled": false,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.85
+      ]
+    },
+    "longform_corner_badge": {
+      "font": "NotoSansKR Bold",
+      "latin_font": "NotoSansKR-Bold-Static",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.5,
+      "color": "#FFE650",
+      "stroke": {
+        "color": "#000000",
+        "width": 0.06
+      },
+      "background": {
+        "enabled": false,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.12
+      ]
+    }
+  },
+  "scenes": [
+    {
+      "id": "w00",
+      "start": 0.0,
+      "dur": 4.667,
+      "snap": "cut#w00",
+      "slot": {
+        "id": "clip_w00",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.667,
+        "subject_hint": "lf_w00_w00_car_exterior.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w01",
+      "start": 4.667,
+      "dur": 3.167,
+      "snap": "cut#w01",
+      "slot": {
+        "id": "clip_w01",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 3.167,
+        "subject_hint": "lf_w01_w01_car_detail.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "21' 벤츠 gle",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            3.167
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w02",
+      "start": 7.833,
+      "dur": 2.233,
+      "snap": "cut#w02",
+      "slot": {
+        "id": "clip_w02",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.233,
+        "subject_hint": "lf_w02_w02_car_detail.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w03",
+      "start": 10.067,
+      "dur": 2.5,
+      "snap": "cut#w03",
+      "slot": {
+        "id": "clip_w03",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.5,
+        "subject_hint": "lf_w03_w03_car_exterior.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w04",
+      "start": 12.567,
+      "dur": 5.633,
+      "snap": "cut#w04",
+      "slot": {
+        "id": "clip_w04",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.633,
+        "subject_hint": "lf_w04_w04_car_exterior.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "BY OPTICGLASS",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            5.633
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "광각미러 시공이 필요한 이유",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            5.633
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w05",
+      "start": 18.2,
+      "dur": 4.4,
+      "snap": "cut#w05",
+      "slot": {
+        "id": "clip_w05",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.4,
+        "subject_hint": "lf_w05_w05_car_exterior.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w06",
+      "start": 22.6,
+      "dur": 5.0,
+      "snap": "cut#w06",
+      "slot": {
+        "id": "clip_w06",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.0,
+        "subject_hint": "lf_w06_w06_mirror_before.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "광각미러 설치 전",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            2.967
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "좁은 미러 시야 때문에 매번 고개를 돌려 확인하고",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.5
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "주행 중 늘 불안한 마음이 들게 하는 순정 미러",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.5,
+            5.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w07",
+      "start": 27.6,
+      "dur": 5.0,
+      "snap": "cut#w07",
+      "slot": {
+        "id": "clip_w07",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.0,
+        "subject_hint": "lf_w07_w07_mirror_before.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "조수석 뒤쪽에서 다가오는 차량이 사각지대에 가려져",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.5
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "예상치 못한 위험 상황으로 이어질 수 있는 순정 미러",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.5,
+            5.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w08",
+      "start": 32.6,
+      "dur": 5.0,
+      "snap": "cut#w08",
+      "slot": {
+        "id": "clip_w08",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.0,
+        "subject_hint": "lf_w08_w08_mirror_after.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "광각미러 설치 후",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            2.967
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "옵틱글래스로 측면부터 후방까지 시원하게 펼쳐지는",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.5
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "한눈에 주변 흐름을 읽는 뚜렷한 시야의 차이",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.5,
+            5.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w09",
+      "start": 37.6,
+      "dur": 5.0,
+      "snap": "cut#w09",
+      "slot": {
+        "id": "clip_w09",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.0,
+        "subject_hint": "lf_w09_w09_mirror_after.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "급하게 끼어드는 차량의 움직임도 바로 포착해 주는",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.5
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "주차부터 주행까지 빈틈없이 편안함을 더하는 광각미러",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.5,
+            5.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w10",
+      "start": 42.6,
+      "dur": 4.0,
+      "snap": "cut#w10",
+      "slot": {
+        "id": "clip_w10",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.0,
+        "subject_hint": "lf_w10_w10_split.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "시공 전",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "시공 후",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "넓은 시야로 여유를 더해주는",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "옵틱글래스 광각미러로 시야를 완성하세요",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w11",
+      "start": 46.6,
+      "dur": 4.0,
+      "snap": "cut#w11",
+      "slot": {
+        "id": "clip_w11",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.0,
+        "subject_hint": "lf_w11_w11_split.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "시공 전",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "시공 후",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "21' 벤츠 gle의 한층 넓어진 미러 시야를",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "옵틱글래스 광각미러로 경험해 보세요",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w12",
+      "start": 50.6,
+      "dur": 7.133,
+      "snap": "cut#w12",
+      "slot": {
+        "id": "clip_w12",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 7.133,
+        "subject_hint": "random_outro:옵틱글래스 광각미러 아웃트로.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    }
+  ]
+}

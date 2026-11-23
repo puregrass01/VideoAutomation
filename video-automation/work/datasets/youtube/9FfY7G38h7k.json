@@ -1,0 +1,3319 @@
+{
+ "id": "9FfY7G38h7k",
+ "tab": "videos",
+ "upload_date": "20260811",
+ "duration": 151.8,
+ "title": "2억 넘는 BMW XM SUV는 뭐가 다를까?",
+ "url": "https://www.youtube.com/watch?v=9FfY7G38h7k",
+ "width": 1280,
+ "height": 720,
+ "format": "longform",
+ "aspect": "16:9",
+ "cuts": [
+  0.07,
+  0.67,
+  1.23,
+  1.7,
+  2.2,
+  2.7,
+  4.8,
+  6.07,
+  10.93,
+  13.63,
+  15.8,
+  17.17,
+  21.57,
+  26.9,
+  29.5,
+  32.37,
+  38.37,
+  44.0,
+  49.03,
+  55.5,
+  60.9,
+  66.17,
+  72.07,
+  79.6,
+  84.07,
+  95.63,
+  102.67,
+  103.8,
+  107.2,
+  128.8,
+  134.6,
+  145.5,
+  146.97,
+  147.97,
+  149.53
+ ],
+ "ocr_readings": 2365,
+ "captions": [
+  {
+   "start": 2.25,
+   "end": 4.75,
+   "x": 0.5266,
+   "y": 0.6326,
+   "w": 0.0938,
+   "h": 0.0264,
+   "frames": 5,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     4
+    ],
+    [
+     "pure Grass",
+     1
+    ],
+    [
+     "Pure Gra",
+     1
+    ],
+    [
+     "pure Gra",
+     1
+    ],
+    [
+     "GraSS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 5.75,
+   "end": 8.25,
+   "x": 0.2035,
+   "y": 0.9083,
+   "w": 0.5938,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "안녕하세요 옵틱글래스입니다 오늘 만나볼 차량은",
+   "ocr": "안녕하세요 옵틱글래스입니다 오늘 만나볼 차량은",
+   "readings": [
+    [
+     "안녕하세요 옵틱글래스입니다 오늘 만나볼 차량은",
+     5
+    ],
+    [
+     "안녕하세요 옵틱글래스입니다 오늘 만나몰 차량은",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 8.25,
+   "end": 12.25,
+   "x": 0.2957,
+   "y": 0.9083,
+   "w": 0.4102,
+   "h": 0.0493,
+   "frames": 8,
+   "text": "1978년 상징적인 슈퍼카 M1 이후",
+   "ocr": "1978년 상징적인 슈퍼카 MI 이후",
+   "readings": [
+    [
+     "1978년 상징적인 슈퍼카 MI 이후",
+     8
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 12.25,
+   "end": 13.25,
+   "x": 0.4316,
+   "y": 0.9076,
+   "w": 0.1361,
+   "h": 0.0503,
+   "frames": 2,
+   "text": "BMW M이",
+   "ocr": "BMW M이",
+   "readings": [
+    [
+     "BMW M이",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 13.25,
+   "end": 14.25,
+   "x": 0.373,
+   "y": 0.9083,
+   "w": 0.2555,
+   "h": 0.0493,
+   "frames": 2,
+   "text": "전용으로 독자 개발한",
+   "ocr": "전용으로 독자 개발한",
+   "readings": [
+    [
+     "전용으로 독자 개발한",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.25,
+   "end": 16.75,
+   "x": 0.2871,
+   "y": 0.9083,
+   "w": 0.4273,
+   "h": 0.05,
+   "frames": 5,
+   "text": "최초의 고성능 차량 XM 모델입니다",
+   "ocr": "최초의 고성능 차량 )(M 모델입니다",
+   "readings": [
+    [
+     "최초의 고성능 차량 )(M 모델입니다",
+     5
+    ],
+    [
+     "최초의 고성능 차량 XM 모델입니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 16.75,
+   "end": 18.25,
+   "x": 0.373,
+   "y": 0.908,
+   "w": 0.2559,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "첫 번째는 외관입니다",
+   "ocr": "첫 번패는 외관입니다",
+   "readings": [
+    [
+     "첫 번패는 외관입니다",
+     2
+    ],
+    [
+     "첫 번째는 외관입니다",
+     1
+    ],
+    [
+     "첫'번째는 외관입니다",
+     1
+    ],
+    [
+     "1번째는 외관입니다",
+     1
+    ],
+    [
+     "첫 번째는외관입니다",
+     1
+    ],
+    [
+     "7 = 첫번째는 외관입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 17.25,
+   "end": 18.75,
+   "x": 0.2219,
+   "y": 0.4278,
+   "w": 0.5625,
+   "h": 0.15,
+   "frames": 3,
+   "text": "PART 01. 외부",
+   "ocr": "PART 01. 회부",
+   "readings": [
+    [
+     "PART 01. 회부",
+     3
+    ],
+    [
+     "PART 0뛉. 회부",
+     1
+    ],
+    [
+     "PARTOIV의부",
+     1
+    ],
+    [
+     "PART 01言 의부",
+     1
+    ],
+    [
+     "¯PART 01 : 의부결饔",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 17.25,
+   "end": 21.25,
+   "x": 0.5289,
+   "y": 0.741,
+   "w": 0.1119,
+   "h": 0.0326,
+   "frames": 8,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     8
+    ],
+    [
+     "O Pure Grass",
+     1
+    ],
+    [
+     "& Pure Grass",
+     1
+    ],
+    [
+     "pure Grass",
+     1
+    ],
+    [
+     "Grass",
+     1
+    ],
+    [
+     "鬱 Pure Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 18.75,
+   "end": 20.75,
+   "x": 0.3641,
+   "y": 0.9083,
+   "w": 0.2738,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "BMW XM의 전면부는",
+   "ocr": "BMW )(M의 전면부는",
+   "readings": [
+    [
+     "BMW )(M의 전면부는",
+     4
+    ],
+    [
+     "BMW XM의 전면부는",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 19.25,
+   "end": 60.75,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1852,
+   "h": 0.0465,
+   "frames": 83,
+   "text": "PART 01. 외부",
+   "ocr": "PART 01. 의부",
+   "readings": [
+    [
+     "PART 01. 의부",
+     82
+    ],
+    [
+     "PART 01. 회부",
+     20
+    ],
+    [
+     "PART 01. 인부",
+     15
+    ],
+    [
+     "PART 0줨. 의부",
+     4
+    ],
+    [
+     "PART 01. 위부",
+     2
+    ],
+    [
+     "PARTOI. 의부",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.75,
+   "end": 23.75,
+   "x": 0.2117,
+   "y": 0.9076,
+   "w": 0.5789,
+   "h": 0.05,
+   "frames": 6,
+   "text": "초슬림 분리형 LED 헤드램프 주간주행등과 하단",
+   "ocr": "초술림 분리형 LED 헤드램프 주간주행등과 하단",
+   "readings": [
+    [
+     "초술림 분리형 LED 헤드램프 주간주행등과 하단",
+     4
+    ],
+    [
+     "초슬림 분리형 LED 헤드램프 주간주행등과 하단",
+     3
+    ],
+    [
+     "초슬림 분리형 LED 해드램프 주간주행등과 하단",
+     2
+    ],
+    [
+     "초술림-분리형 LIED 헤드램프 주간주행등과-하단",
+     1
+    ],
+    [
+     "초술림 분리형 LED 헤트램프 주간주행등과 하단",
+     1
+    ],
+    [
+     "초슬림 분리형 LED 해드램프 주간주행등과-하단",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 23.75,
+   "end": 25.75,
+   "x": 0.341,
+   "y": 0.9069,
+   "w": 0.3168,
+   "h": 0.0569,
+   "frames": 3,
+   "text": "프로젝터 헤드램프의 분리",
+   "ocr": "프로젝터 해드램프의 분리",
+   "readings": [
+    [
+     "프로젝터 해드램프의 분리",
+     2
+    ],
+    [
+     "프로젝터 헤드램프의 분리",
+     1
+    ],
+    [
+     "프로젝터 헤드램프의2분리",
+     1
+    ],
+    [
+     "프로젝터 헤드램프•의 분리",
+     1
+    ],
+    [
+     "프로젝테헤드램프의휸리′",
+     1
+    ],
+    [
+     "=프로젝터해드램프의=분리규=",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 25.75,
+   "end": 26.75,
+   "x": 0.4258,
+   "y": 0.8104,
+   "w": 0.1664,
+   "h": 0.0413,
+   "frames": 2,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     2
+    ],
+    [
+     "험능 Pure Grass",
+     1
+    ],
+    [
+     "ée, Pure Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 25.75,
+   "end": 27.25,
+   "x": 0.3715,
+   "y": 0.9069,
+   "w": 0.2559,
+   "h": 0.05,
+   "frames": 3,
+   "text": "윤곽 조명과 XM 배지",
+   "ocr": "윤곽 조명과 XM 배지",
+   "readings": [
+    [
+     "윤곽 조명과 XM 배지",
+     2
+    ],
+    [
+     "윤곽 조명과 )(M 배지",
+     1
+    ],
+    [
+     "윤곽조명과 )(M 배지",
+     1
+    ],
+    [
+     "윤곽 조명과ⅨM 배지",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 27.25,
+   "end": 28.25,
+   "x": 0.4141,
+   "y": 0.9083,
+   "w": 0.182,
+   "h": 0.0535,
+   "frames": 2,
+   "text": "및 나이트 골드",
+   "ocr": "및 나이트 골드",
+   "readings": [
+    [
+     "및 나이트 골드",
+     2
+    ],
+    [
+     "및 나이트 골의",
+     1
+    ],
+    [
+     "맞나이트 골드",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 28.25,
+   "end": 29.25,
+   "x": 0.8465,
+   "y": 0.7757,
+   "w": 0.082,
+   "h": 0.0785,
+   "frames": 2,
+   "text": "GrasS",
+   "ocr": "GrasS",
+   "readings": [
+    [
+     "GrasS",
+     1
+    ],
+    [
+     "GraSS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 28.25,
+   "end": 29.25,
+   "x": 0.7174,
+   "y": 0.8226,
+   "w": 0.1143,
+   "h": 0.0757,
+   "frames": 2,
+   "text": "0-0) pure",
+   "ocr": "0-0) pure",
+   "readings": [
+    [
+     "0-0) pure",
+     1
+    ],
+    [
+     "0 pure",
+     1
+    ],
+    [
+     "pure",
+     1
+    ],
+    [
+     "Pure",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 28.75,
+   "end": 30.25,
+   "x": 0.3078,
+   "y": 0.9069,
+   "w": 0.384,
+   "h": 0.05,
+   "frames": 3,
+   "text": "또는 레드 등의 대비 링이 적용된",
+   "ocr": "또는 레드 등의 대비 링이 적용된",
+   "readings": [
+    [
+     "또는 레드 등의 대비 링이 적용된",
+     2
+    ],
+    [
+     "챷E는 레드 등의 대비 링이 적용된",
+     1
+    ],
+    [
+     "또는 레드 등의 대비 링이 적횽된",
+     1
+    ],
+    [
+     "또는 레드 등의 대비 링이적용된",
+     1
+    ],
+    [
+     "또는레드 등의 대비 링이 적용된",
+     1
+    ],
+    [
+     "또는 레드 등의 대비 링이\"적용`된十",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 30.25,
+   "end": 32.25,
+   "x": 0.2574,
+   "y": 0.9083,
+   "w": 0.4867,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "아이코닉 글로우 키드니 그릴이 있습니다",
+   "ocr": "아이코닉 글로우 키드니 그릴이 있습니다",
+   "readings": [
+    [
+     "아이코닉 글로우 키드니 그릴이 있습니다",
+     4
+    ],
+    [
+     "아이코닉 글로우키드니 그릴이 있습니다 /",
+     1
+    ],
+    [
+     "아이코닉 글로우 키드니그릴아 있습니다/",
+     1
+    ],
+    [
+     "아이코닉글로우 키드니 그릴이 있습니다",
+     1
+    ],
+    [
+     "아이코닉 글로우 키드니 그릴이 있습니다”",
+     1
+    ],
+    [
+     "國}이코닉 글로우 키드니 그릴아 있습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 32.75,
+   "end": 35.75,
+   "x": 0.1832,
+   "y": 0.9076,
+   "w": 0.6348,
+   "h": 0.05,
+   "frames": 6,
+   "text": "기하학적으로 설계된 거대한 수직형 에어 인테이크 등",
+   "ocr": "기하학적으로 설계된 거대한 수직형 에어 인테이크 등",
+   "readings": [
+    [
+     "기하학적으로 설계된 거대한 수직형 에어 인테이크 등",
+     6
+    ],
+    [
+     "기하학적으로 설계된 거대한 수직형 에어 인텐이크 등",
+     1
+    ],
+    [
+     "기하학적으로 설계된 거대한 수직형 에어은!테이크 등",
+     1
+    ],
+    [
+     "기하학적으로 설계된켜대한 수직형 에어 인테이크 등",
+     1
+    ],
+    [
+     "기하학적으로 설계된 거대한 수직형 에어 인테이크등",
+     1
+    ],
+    [
+     "기하학적으로결계된꺼대한 수직형 에어 인테이크 등",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 35.75,
+   "end": 37.75,
+   "x": 0.2574,
+   "y": 0.9083,
+   "w": 0.4867,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "공격적인 디자인 요소를 갖추고 있습니다",
+   "ocr": "공격적인 디자인 요소를 갖추고 있습니다",
+   "readings": [
+    [
+     "공격적인 디자인 요소를 갖추고 있습니다",
+     4
+    ],
+    [
+     "공격적인규자인 요소를 갖추고 있츄니다년효",
+     1
+    ],
+    [
+     "공격적인l디자인 요소를 갖추고 있습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 38.25,
+   "end": 43.75,
+   "x": 0.4938,
+   "y": 0.6431,
+   "w": 0.0992,
+   "h": 0.0271,
+   "frames": 11,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     11
+    ],
+    [
+     "pure Grass",
+     7
+    ],
+    [
+     "Grass",
+     2
+    ],
+    [
+     "pure GraSS",
+     1
+    ],
+    [
+     "Pu『e Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 38.25,
+   "end": 41.25,
+   "x": 0.1861,
+   "y": 0.908,
+   "w": 0.6289,
+   "h": 0.0497,
+   "frames": 6,
+   "text": "후면부 디자인도 정말 독특하고 시선을 사로잡습니다",
+   "ocr": "후면부 디자인도 정말 독특하고 시선을 사로잡습니다",
+   "readings": [
+    [
+     "후면부 디자인도 정말 독특하고 시선을 사로잡습니다",
+     6
+    ],
+    [
+     "후면부 디자인도 정말 독특하과시선을 사로잡습니다",
+     1
+    ],
+    [
+     "후면부 디자인도정말독특하고 시선을 사로잡습니다",
+     1
+    ],
+    [
+     "후면皁 디자인도 정말 독특하고 시선을 사로잡습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 41.75,
+   "end": 43.75,
+   "x": 0.3078,
+   "y": 0.9069,
+   "w": 0.3844,
+   "h": 0.05,
+   "frames": 4,
+   "text": "전설적인 M1을 오마주하기 위해",
+   "ocr": "전설적인 MI을 오마주하기 위해",
+   "readings": [
+    [
+     "전설적인 MI을 오마주하기 위해",
+     4
+    ],
+    [
+     "처설적인 MI을 오마주하기 위해 曰",
+     1
+    ],
+    [
+     "전설적인 MI을 오마주하가霪",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 43.75,
+   "end": 45.25,
+   "x": 0.373,
+   "y": 0.9083,
+   "w": 0.2543,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "뒷유리 상단 모서리에",
+   "ocr": "뒷유리 상단 모서리에",
+   "readings": [
+    [
+     "뒷유리 상단 모서리에",
+     3
+    ],
+    [
+     "뒷유리 상단 모서리에i",
+     2
+    ],
+    [
+     "『뒷유리 상단 모서리에",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 45.25,
+   "end": 47.75,
+   "x": 0.282,
+   "y": 0.9076,
+   "w": 0.4363,
+   "h": 0.0556,
+   "frames": 5,
+   "text": "레이저로 각인된 BMW 원형 엠블럼",
+   "ocr": "레이저로 각인된 BMW 원형 엠블럼",
+   "readings": [
+    [
+     "레이저로 각인된 BMW 원형 엠블럼",
+     3
+    ],
+    [
+     "레이저로 각인된 BMW 원형 엠블|럼",
+     2
+    ],
+    [
+     "레이저로 각인된 BMW 원형 엠톾",
+     1
+    ],
+    [
+     "레이저로 각인된 BMW 원형 엠블럼′",
+     1
+    ],
+    [
+     "//// 레이저로 각인된 BMW 원형 엠블럼′",
+     1
+    ],
+    [
+     "(72 레이저로 각인된 BMW 원형 엠블럼′",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 47.75,
+   "end": 49.75,
+   "x": 0.3543,
+   "y": 0.9076,
+   "w": 0.2906,
+   "h": 0.0556,
+   "frames": 4,
+   "text": "수직형 4구 쿼드 머플러",
+   "ocr": "수직형 4구 쿼드 머플러",
+   "readings": [
+    [
+     "수직형 4구 쿼드 머플러",
+     4
+    ],
+    [
+     "수직형 /4구 쿼드 머플러",
+     1
+    ],
+    [
+     "수직형 4구 쿼드퍼플러′",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 48.75,
+   "end": 55.25,
+   "x": 0.5111,
+   "y": 0.7125,
+   "w": 0.1637,
+   "h": 0.0528,
+   "frames": 13,
+   "text": "pure Grass",
+   "ocr": "pure Grass",
+   "readings": [
+    [
+     "pure Grass",
+     7
+    ],
+    [
+     "Pure Grass",
+     7
+    ],
+    [
+     "pure GraSS",
+     2
+    ],
+    [
+     "pure GrasS",
+     1
+    ],
+    [
+     "pure",
+     1
+    ],
+    [
+     "0'℃ Pure Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 49.75,
+   "end": 51.75,
+   "x": 0.3195,
+   "y": 0.9073,
+   "w": 0.3639,
+   "h": 0.0559,
+   "frames": 4,
+   "text": "얇게 감싸는 수평형 테일 램프",
+   "ocr": "얇게 감싸는 수평형 테일 램프",
+   "readings": [
+    [
+     "얇게 감싸는 수평형 테일 램프",
+     4
+    ],
+    [
+     "얇게감짜는 수평형 테일 램프",
+     2
+    ],
+    [
+     "얇게 감짜는수평형 테일 램프",
+     1
+    ],
+    [
+     "얇게-감싸는 수평형 테일꽴프",
+     1
+    ],
+    [
+     "얇게 감싸는 수평형 테일꽴프",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 51.75,
+   "end": 55.25,
+   "x": 0.198,
+   "y": 0.9083,
+   "w": 0.6059,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "일반적인 중앙 BMW 로고가 없는 것이 특징입니다",
+   "ocr": "일반적인 중앙 BMW 로고가 없는 것이 특징입니다",
+   "readings": [
+    [
+     "일반적인 중앙 BMW 로고가 없는 것이 특징입니다",
+     5
+    ],
+    [
+     "일반적인 중양 BMW 로고가 없는 것이 특징입니다",
+     4
+    ],
+    [
+     "일반적인 중ßFBMW 로고가 없는 것이 특징입니다",
+     2
+    ],
+    [
+     "일반적인,중앙 BMW 로고과없는 것이(특징입니다",
+     1
+    ],
+    [
+     "일반적인 중BFBMW 로고가 없는 것이특징입니다",
+     1
+    ],
+    [
+     "일반적인 중앙 BMW 로고가꾒는 것이:특징입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 55.25,
+   "end": 56.75,
+   "x": 0.377,
+   "y": 0.9083,
+   "w": 0.2465,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "휠은 M SUV와 다른",
+   "ocr": "휄은 M SUV와 다른",
+   "readings": [
+    [
+     "휄은 M SUV와 다른",
+     3
+    ],
+    [
+     "휠은 M SUV와 다른",
+     2
+    ],
+    [
+     "훨은 M SUV와 다른",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 56.75,
+   "end": 60.25,
+   "x": 0.2219,
+   "y": 0.9083,
+   "w": 0.5578,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "희귀한 5x120 볼트 패턴 섀시를 적용했습니다",
+   "ocr": "희귀한 5x120 볼트 패턴 새시를 적용했습니다",
+   "readings": [
+    [
+     "희귀한 5x120 볼트 패턴 새시를 적용했습니다",
+     6
+    ],
+    [
+     "희귀한 5x120몰트 패턴 새시를 적용했습니다 /",
+     1
+    ],
+    [
+     "희귀한 5)(120 볼트 패턴 새시를 적용했습니다",
+     1
+    ],
+    [
+     "희귀한 5x120몰트 패턴 새시를 적용했습니다",
+     1
+    ],
+    [
+     "희귀한 5x120 볼트 패텐새시를 적용했습니다",
+     1
+    ],
+    [
+     "희귀한 5x120 볼트 패턴썌시를 적용했습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 60.75,
+   "end": 62.75,
+   "x": 0.2219,
+   "y": 0.4056,
+   "w": 0.4629,
+   "h": 0.1722,
+   "frames": 4,
+   "text": "PART 02. 내부",
+   "ocr": "PART 02. LII부 1",
+   "readings": [
+    [
+     "PART 02. LB부",
+     3
+    ],
+    [
+     "PART 02. LJI부",
+     2
+    ],
+    [
+     "PART 02. LII부 1",
+     1
+    ],
+    [
+     "PART 021",
+     1
+    ],
+    [
+     "PART 02",
+     1
+    ],
+    [
+     "4구 PART 02. LJI부",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 60.75,
+   "end": 62.25,
+   "x": 0.3727,
+   "y": 0.9083,
+   "w": 0.2562,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "두 번째는 내부입니다",
+   "ocr": "두 번째는 내부입니다",
+   "readings": [
+    [
+     "두 번째는 내부입니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 62.25,
+   "end": 66.25,
+   "x": 0.1211,
+   "y": 0.9076,
+   "w": 0.759,
+   "h": 0.051,
+   "frames": 8,
+   "text": "핸들에는 독특한 3D 다이아몬드 퀼팅 텍스처가 적용되었습니다",
+   "ocr": "핸들에는 독특한 3D 다이아몬드 퀼팅 텍스처가 적용되었습니다",
+   "readings": [
+    [
+     "핸들에는 독특한 3D 다이아몬드 퀼팅 텍스처가 적용되었습니다",
+     5
+    ],
+    [
+     "핸들에는 독특한 3D 다이아몬드퀼팅 텍스처가 적용되었습니다",
+     2
+    ],
+    [
+     "핸들에는 독특한 3D 다이아몬드 퀼팅 -텍스처가 적용되었습니다",
+     1
+    ],
+    [
+     "핸들에는 독특한13D로다이아몬드 퀼팅 텍스처가 적용되었습니다",
+     1
+    ],
+    [
+     "핸들에는 독특한 3D1다이아몬드 퀼팅'텍스처가 적용되었습니다",
+     1
+    ],
+    [
+     "핸들에특독특한 3D 다이아몬드 퀼팅 텍스처가 적용되었습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 62.75,
+   "end": 95.25,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1852,
+   "h": 0.0465,
+   "frames": 65,
+   "text": "PART 02. 내부",
+   "ocr": "PART 02. Ⅵ부",
+   "readings": [
+    [
+     "PART 02. Ⅵ부",
+     50
+    ],
+    [
+     "PART 02. 내부",
+     47
+    ],
+    [
+     "PART 02. 새부",
+     14
+    ],
+    [
+     "PART 02. L]부",
+     10
+    ],
+    [
+     "PART 02. LB부",
+     9
+    ],
+    [
+     "PART 02. [惢부",
+     8
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 66.25,
+   "end": 68.75,
+   "x": 0.2582,
+   "y": 0.9083,
+   "w": 0.4852,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "BMW XM의 후석 M 라운지는 안락하고",
+   "ocr": "BMW XM의 후석 M 라운지는 안락하고",
+   "readings": [
+    [
+     "BMW XM의 후석 M 라운지는 안락하고",
+     5
+    ],
+    [
+     "BMW )(M의 후석 M 라운지는 안락하고",
+     2
+    ],
+    [
+     "BMW )(M의 후석 M 라운지는 안락하괴",
+     1
+    ],
+    [
+     "우삐w )(M의 후석 M 라운지는 안락하고",
+     1
+    ],
+    [
+     "BMW )(M의 후석 M 라운지는관락하고",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 68.75,
+   "end": 70.75,
+   "x": 0.2844,
+   "y": 0.9069,
+   "w": 0.4328,
+   "h": 0.0542,
+   "frames": 4,
+   "text": "아늑한 소파 같은 느낌을 선사합니다",
+   "ocr": "아늑한 소파 같은 느낌을 선사합니다",
+   "readings": [
+    [
+     "아늑한 소파 같은 느낌을 선사합니다",
+     4
+    ],
+    [
+     "아늑한 소파 같은들'김을 선사합니다",
+     1
+    ],
+    [
+     "아늑한i소파 같은셛낌을썬사합니다",
+     1
+    ],
+    [
+     "아늑한소파 같은셛낌하선사합니다",
+     1
+    ],
+    [
+     "2,•4'아늑한 소파 같은 느낌을 선사합니다",
+     1
+    ],
+    [
+     "아늑한}소파 같은셛낌팀선사합니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 71.25,
+   "end": 72.25,
+   "x": 0.3863,
+   "y": 0.9083,
+   "w": 0.2262,
+   "h": 0.0486,
+   "frames": 2,
+   "text": "양쪽 도어 패널까지",
+   "ocr": "양쪽 도어 패널까지",
+   "readings": [
+    [
+     "양쪽 도어 패널까지",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 72.25,
+   "end": 74.25,
+   "x": 0.2979,
+   "y": 0.9076,
+   "w": 0.4043,
+   "h": 0.0559,
+   "frames": 4,
+   "text": "다이아몬드 퀼팅 가죽으로 감싸며",
+   "ocr": "다이아몬드 퀼팅 가죽으로 감싸며",
+   "readings": [
+    [
+     "다이아몬드 퀼팅 가죽으로 감싸며",
+     4
+    ],
+    [
+     "결/ 다이아몬드 퀼팅 가죽으로 감싸며",
+     1
+    ],
+    [
+     "1다이아몬드 퀼팅 가죽으로 감싸며",
+     1
+    ],
+    [
+     "다이아몬드 퀼팅 가죽으로감짜며,舅",
+     1
+    ],
+    [
+     "///44:'å•f61아몬드 퀼팅 가죽으로 감싸며",
+     1
+    ],
+    [
+     "/ 다이아몬드퀼팅 가죽으로]감짜며′",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 74.75,
+   "end": 76.25,
+   "x": 0.3586,
+   "y": 0.9069,
+   "w": 0.291,
+   "h": 0.05,
+   "frames": 3,
+   "text": "측면까지 길게 이어지는",
+   "ocr": "측면까지 길게 이어지는",
+   "readings": [
+    [
+     "측면까지 길게 이어지는",
+     3
+    ],
+    [
+     "!쥐(류 측면까지 길게 이어지는견",
+     1
+    ],
+    [
+     "!/!결며까지 길게 이어지는",
+     1
+    ],
+    [
+     "측면까지 길게 이어지늑i",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 76.25,
+   "end": 79.75,
+   "x": 0.1652,
+   "y": 0.9076,
+   "w": 0.6691,
+   "h": 0.0514,
+   "frames": 7,
+   "text": "일체형 벤치 타입 쿠션과 XM 전용 쿠션 베개가 적용되어",
+   "ocr": "일체형 벤치 타입 쿠션과 XM 전용 쿠션 베개가 적용되어",
+   "readings": [
+    [
+     "일체형 벤치 타입 쿠션과 XM 전용 쿠션 베개가 적용되어",
+     6
+    ],
+    [
+     "일체형 벤치 타입 쿠션과 )(M 전용 쿠션 베개가 적용되어",
+     2
+    ],
+    [
+     "일체형 벤치 타입 쿠션과 )(M 전용 쿠션 베개가적용되어 /",
+     1
+    ],
+    [
+     "일체형 벤치 타입 쿠션과 XM 전용 쿠션 베개가적용되어 !",
+     1
+    ],
+    [
+     "일체형 벤치 타입 쿠션과 XM 전용휴.쿠션 베개가 적용되어",
+     1
+    ],
+    [
+     "일체형및벤치 타입 쿠션과 XM 전용 쿠션 베개가 적용되어",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 80.25,
+   "end": 82.25,
+   "x": 0.3156,
+   "y": 0.9076,
+   "w": 0.3707,
+   "h": 0.05,
+   "frames": 4,
+   "text": "일반적인 분할형 벤치 시트보다",
+   "ocr": "일반적인 분할형 벤치 시트보다",
+   "readings": [
+    [
+     "일반적인 분할형 벤치 시트보다",
+     4
+    ],
+    [
+     "일반적인 훈喬형 벤치 시트보다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 82.25,
+   "end": 83.75,
+   "x": 0.3457,
+   "y": 0.9076,
+   "w": 0.3105,
+   "h": 0.05,
+   "frames": 3,
+   "text": "훨씬 편안함을 제공합니다",
+   "ocr": "훨씬 편안함을 제공합니다",
+   "readings": [
+    [
+     "훨씬 편안함을 제공합니다",
+     2
+    ],
+    [
+     "훨씬:편한함을 제공합븨다",
+     1
+    ],
+    [
+     "훨씬,*편안함을 제공합.니타",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 83.75,
+   "end": 95.25,
+   "x": 0.0223,
+   "y": 0.0326,
+   "w": 0.1879,
+   "h": 0.0347,
+   "frames": 23,
+   "text": "출처 : @renevaleriojr",
+   "ocr": "출처 : @renevaleriojr",
+   "readings": [
+    [
+     "출처 : @renevaleriojr",
+     7
+    ],
+    [
+     "출처 • @renevaleriojr",
+     6
+    ],
+    [
+     "출처 : •arenevaleriojr",
+     3
+    ],
+    [
+     "출처 : å renevaleriojr",
+     3
+    ],
+    [
+     "출처 : renevaleriojr",
+     2
+    ],
+    [
+     "a renevaleri0Jr",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 83.75,
+   "end": 84.75,
+   "x": 0.5395,
+   "y": 0.8271,
+   "w": 0.04,
+   "h": 0.0163,
+   "frames": 2,
+   "text": "BMW ot",
+   "ocr": "BMW ot",
+   "readings": [
+    [
+     "BMW ot",
+     1
+    ],
+    [
+     "BMW",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 83.75,
+   "end": 84.75,
+   "x": 0.5375,
+   "y": 0.8375,
+   "w": 0.1055,
+   "h": 0.0215,
+   "frames": 2,
+   "text": "BMW 하 Ramsey",
+   "ocr": "BMW 하 Ramsey",
+   "readings": [
+    [
+     "BMW 하 Ramsey",
+     1
+    ],
+    [
+     "BMW 하 Ramsev",
+     1
+    ],
+    [
+     "BMW Romsev",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 83.75,
+   "end": 85.25,
+   "x": 0.3762,
+   "y": 0.9083,
+   "w": 0.248,
+   "h": 0.0486,
+   "frames": 3,
+   "text": "트렁크는 기본 527L",
+   "ocr": "트렁크는 기본 527L",
+   "readings": [
+    [
+     "트렁크는 기본 527L",
+     3
+    ],
+    [
+     "트렁크는 기본'527L",
+     1
+    ],
+    [
+     "트렁크는 기본•527L",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 85.25,
+   "end": 88.75,
+   "x": 0.2918,
+   "y": 0.9083,
+   "w": 0.4156,
+   "h": 0.0549,
+   "frames": 7,
+   "text": "최대 1820L의 트렁크를 갖췄으나",
+   "ocr": "최대 1820L의 트렁크를 갖췄으나",
+   "readings": [
+    [
+     "최대 1820L의 트렁크를 갖췄으나",
+     6
+    ],
+    [
+     "최대 1820L의트령크를 갖췄으나",
+     2
+    ],
+    [
+     "최대 1820L의 트렁크를:갖췄으나,튳",
+     1
+    ],
+    [
+     "최대 1820년의:트령크를 갖췄으나",
+     1
+    ],
+    [
+     "씌대 1820L의 트렁크를 갖췄으나",
+     1
+    ],
+    [
+     "최대 1820L의 트렁크를 갖췄으d하′",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 89.25,
+   "end": 90.25,
+   "x": 0.0232,
+   "y": 0.0306,
+   "w": 0.0385,
+   "h": 0.0326,
+   "frames": 2,
+   "text": "출처",
+   "ocr": "출처",
+   "readings": [
+    [
+     "출처",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 89.25,
+   "end": 90.75,
+   "x": 0.3422,
+   "y": 0.9021,
+   "w": 0.3164,
+   "h": 0.0604,
+   "frames": 3,
+   "text": "배터리 때문에 바닥이 높고",
+   "ocr": "배터리 때문에 바닥이 높고",
+   "readings": [
+    [
+     "배터리 때문에 바닥이 높고",
+     3
+    ],
+    [
+     "1배터린}'[[I믇에 바닥이 높고누",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 90.75,
+   "end": 91.75,
+   "x": 0.3555,
+   "y": 0.9014,
+   "w": 0.2879,
+   "h": 0.0611,
+   "frames": 2,
+   "text": "하단 수납 공간은 없으며",
+   "ocr": "하단 수납 공간은 없으며",
+   "readings": [
+    [
+     "하단 수납 공간은 없으며",
+     2
+    ],
+    [
+     "하단 수납 공간은 없으면",
+     1
+    ],
+    [
+     "하단 수납 공간은/없으며",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 91.75,
+   "end": 95.25,
+   "x": 0.0227,
+   "y": 0.0333,
+   "w": 0.0441,
+   "h": 0.0306,
+   "frames": 6,
+   "text": "출처",
+   "ocr": "출처",
+   "readings": [
+    [
+     "출처",
+     6
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 92.25,
+   "end": 94.75,
+   "x": 0.2543,
+   "y": 0.9083,
+   "w": 0.4934,
+   "h": 0.05,
+   "frames": 5,
+   "text": "전용 방수 충전 케이블 가방이 제공됩니다",
+   "ocr": "전용 방수 충전 케이블 가방이 제공됩니다",
+   "readings": [
+    [
+     "전용 방수 충전 케이블 가방이 제공됩니다",
+     5
+    ],
+    [
+     "전용 방수 충전 케이블 가방이 제공됩니다)",
+     1
+    ],
+    [
+     "전용 방수 충전 케이블 가방이 제공됩니다4",
+     1
+    ],
+    [
+     "전용 방수 충전 ,케이브,가바이 제공됩니다",
+     1
+    ],
+    [
+     "전용 방수-충전 케이블 가방이 제공됩니다",
+     1
+    ],
+    [
+     "전용 방수 충전 케이블까방이 제공됩니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 95.25,
+   "end": 99.75,
+   "x": 0.0227,
+   "y": 0.033,
+   "w": 0.1871,
+   "h": 0.0347,
+   "frames": 9,
+   "text": "출大혁 : arenevaleriojr",
+   "ocr": "출大혁 : arenevaleriojr",
+   "readings": [
+    [
+     "출大혁 : arenevaleriojr",
+     7
+    ],
+    [
+     "renevaleri0J",
+     5
+    ],
+    [
+     "출처 : arenevaleriojr",
+     4
+    ],
+    [
+     "renevaIeri0J",
+     4
+    ],
+    [
+     "출大레 : a renevaleriojr",
+     2
+    ],
+    [
+     "출처 : at-enevaleriojr",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 95.25,
+   "end": 97.75,
+   "x": 0.2586,
+   "y": 0.8042,
+   "w": 0.4836,
+   "h": 0.0181,
+   "frames": 5,
+   "text": "Vehicles 이\"d equipment 5h0협n moy differ from the current product portfolio and/or not be ovoilable in your market",
+   "ocr": "Vehicles 이\"d equipment 5h0협n moy differ from the current product portfolio and/or not be ovoilable in your market",
+   "readings": [
+    [
+     "Vehicles 이\"d equipment 5h0협n moy differ from the current product portfolio and/or not be ovoilable in your market",
+     1
+    ],
+    [
+     "Vehicles ond equipment 5h0협n moy differ from the current product portfolio and/or not be ovoilable in your morket",
+     1
+    ],
+    [
+     "Vehicles 00d equipment 5h0협n may differ from the current product portfolio and/or not be ovoilable in your market",
+     1
+    ],
+    [
+     "Vehicles ond equipment 5h0협n may differ from the current product portfolio and/or not be 에에ab|e in your market",
+     1
+    ],
+    [
+     "Vehicles 이ld equipment 5h0협n may differ from tne (뿌수?덯-뗠夕위id/or not be 에에ab|은 in your morket",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 95.25,
+   "end": 96.75,
+   "x": 0.4016,
+   "y": 0.8875,
+   "w": 0.193,
+   "h": 0.0222,
+   "frames": 3,
+   "text": "RM\\AJ frnm thp XM",
+   "ocr": "RM\\AJ frnm thp XM",
+   "readings": [
+    [
+     "RM\\AJ frnm thp XM",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 95.25,
+   "end": 96.75,
+   "x": 0.3727,
+   "y": 0.9069,
+   "w": 0.2562,
+   "h": 0.0514,
+   "frames": 3,
+   "text": "세 번째는 성능입니다",
+   "ocr": "세 번짜l는 성능입니다",
+   "readings": [
+    [
+     "세 번짜l는 성능입니다",
+     3
+    ],
+    [
+     "세 번째는 성능입니다",
+     3
+    ],
+    [
+     "세 번째는 I성능t입ILI다",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 95.75,
+   "end": 97.25,
+   "x": 0.2219,
+   "y": 0.4278,
+   "w": 0.5625,
+   "h": 0.1458,
+   "frames": 3,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     3
+    ],
+    [
+     "PARt03. 성능",
+     1
+    ],
+    [
+     "PART03. 성능",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 97.25,
+   "end": 98.75,
+   "x": 0.4773,
+   "y": 0.8875,
+   "w": 0.0227,
+   "h": 0.0236,
+   "frames": 3,
+   "text": "like",
+   "ocr": "like",
+   "readings": [
+    [
+     "like",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 97.25,
+   "end": 99.25,
+   "x": 0.3855,
+   "y": 0.9069,
+   "w": 0.2289,
+   "h": 0.0514,
+   "frames": 4,
+   "text": "구동계는 4.4L V8",
+   "ocr": "구동계는 4.4L V8",
+   "readings": [
+    [
+     "구동계는 4.4L V8",
+     4
+    ],
+    [
+     "구동계는 4.4L ⅴ8",
+     4
+    ],
+    [
+     "구동계는4!4L V8",
+     3
+    ],
+    [
+     "구동계른14114L V8",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 97.75,
+   "end": 101.75,
+   "x": 0.0223,
+   "y": 0.0326,
+   "w": 0.0328,
+   "h": 0.0319,
+   "frames": 7,
+   "text": "출처",
+   "ocr": "출처",
+   "readings": [
+    [
+     "출처",
+     7
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 97.75,
+   "end": 115.25,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1848,
+   "h": 0.0465,
+   "frames": 35,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     35
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 97.75,
+   "end": 98.75,
+   "x": 0.2582,
+   "y": 0.8035,
+   "w": 0.0949,
+   "h": 0.0222,
+   "frames": 2,
+   "text": "vehicl\" equipment",
+   "ocr": "vehicl\" equipment",
+   "readings": [
+    [
+     "vehicl\" equipment",
+     1
+    ],
+    [
+     "Vehic equipm",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 97.75,
+   "end": 100.25,
+   "x": 0.3937,
+   "y": 0.8042,
+   "w": 0.3484,
+   "h": 0.0181,
+   "frames": 5,
+   "text": "equipment shown moy differ from the current product portfolio and/or not be ovoilable in your morket",
+   "ocr": "equipment shown moy differ from the current product portfolio and/or not be ovoilable in your morket",
+   "readings": [
+    [
+     "equipment shown moy differ from the current product portfolio and/or not be ovoilable in your morket",
+     1
+    ],
+    [
+     "may differ from the current product portfolio and/or not be ovoilable in your market",
+     1
+    ],
+    [
+     "portfolio and/or not be ovoilable in your market",
+     1
+    ],
+    [
+     "Vehicles 이ld equipment shown 빠0,/ differ from the current product portfolio and/or not be 0날oi|ab|e in your morket",
+     1
+    ],
+    [
+     "moy differ from the current product portfolio and/or not be 0날oi|ab|e in your market",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 98.75,
+   "end": 100.25,
+   "x": 0.4258,
+   "y": 0.8875,
+   "w": 0.143,
+   "h": 0.0236,
+   "frames": 3,
+   "text": "Vn11 thpm in SOil",
+   "ocr": "Vn11 thpm in SOil",
+   "readings": [
+    [
+     "Vn11 thpm in SOil",
+     2
+    ],
+    [
+     "/이| them in snil",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 99.25,
+   "end": 101.75,
+   "x": 0.307,
+   "y": 0.9069,
+   "w": 0.3848,
+   "h": 0.0569,
+   "frames": 5,
+   "text": "가솔린 엔진과 고성능 전기 모터",
+   "ocr": "가솔린 엔진과 고성능 전기 모터",
+   "readings": [
+    [
+     "가솔린 엔진과 고성능 전기 모터",
+     5
+    ],
+    [
+     "가출린 `엔진과고성닣 전기 I모터",
+     3
+    ],
+    [
+     "가솔린 엔진과 고성흥I 전기 모터",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 99.75,
+   "end": 101.75,
+   "x": 0.0645,
+   "y": 0.0333,
+   "w": 0.1457,
+   "h": 0.0333,
+   "frames": 4,
+   "text": "arenevaleriojr",
+   "ocr": "arenevaleriojr",
+   "readings": [
+    [
+     "arenevaleriojr",
+     4
+    ],
+    [
+     "renevalerio",
+     4
+    ],
+    [
+     "줄大레 : årenevaleriojr",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 100.25,
+   "end": 101.75,
+   "x": 0.3242,
+   "y": 0.8875,
+   "w": 0.3219,
+   "h": 0.0236,
+   "frames": 3,
+   "text": "AnH thon thp snirit 「nmpc",
+   "ocr": "AnH thon thp snirit 「nmpc",
+   "readings": [
+    [
+     "AnH thon thp snirit 「nmpc",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 101.75,
+   "end": 103.25,
+   "x": 0.0227,
+   "y": 0.0333,
+   "w": 0.1871,
+   "h": 0.034,
+   "frames": 3,
+   "text": "renevalerio",
+   "ocr": "renevalerio",
+   "readings": [
+    [
+     "renevalerio",
+     3
+    ],
+    [
+     "줄大레 : årenevaleriojr",
+     3
+    ],
+    [
+     "출大?{ : •arenevaleriojr",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 101.75,
+   "end": 103.75,
+   "x": 0.234,
+   "y": 0.9076,
+   "w": 0.5334,
+   "h": 0.0503,
+   "frames": 4,
+   "text": "플러그인 하이브리드 시스템을 탑재했습니다",
+   "ocr": "플러그인 하이브리드 시스템을 탑재했습니다",
+   "readings": [
+    [
+     "플러그인 하이브리드 시스템을 탑재했습니다",
+     4
+    ],
+    [
+     "플러그인 하이브리드'시츠템을 탑재했습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 102.25,
+   "end": 103.25,
+   "x": 0.4062,
+   "y": 0.8875,
+   "w": 0.209,
+   "h": 0.0278,
+   "frames": 2,
+   "text": "whnhlc hnnppoed hprn trnrL",
+   "ocr": "whnhlc hnnppoed hprn trnrL",
+   "readings": [
+    [
+     "whnhlc hnnppoed hprn trnrL",
+     1
+    ],
+    [
+     "whnt'c hnnppoed hprn",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 103.25,
+   "end": 104.75,
+   "x": 0.0223,
+   "y": 0.0326,
+   "w": 0.1871,
+   "h": 0.0347,
+   "frames": 3,
+   "text": "줄大레 : årenevaleriojr",
+   "ocr": "줄大레 : årenevaleriojr",
+   "readings": [
+    [
+     "줄大레 : årenevaleriojr",
+     3
+    ],
+    [
+     "출大 • renevalerio",
+     3
+    ],
+    [
+     "출大?{ : •arenevaleriojr",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 103.75,
+   "end": 105.75,
+   "x": 0.3363,
+   "y": 0.9083,
+   "w": 0.3266,
+   "h": 0.0549,
+   "frames": 4,
+   "text": "수치는 최고 출력 748마력",
+   "ocr": "수치는 최고 출력 748마력",
+   "readings": [
+    [
+     "수치는 최고 출력 748마력",
+     4
+    ],
+    [
+     "수치는 최고 출력 748마력′",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 104.75,
+   "end": 109.75,
+   "x": 0.0227,
+   "y": 0.0333,
+   "w": 0.1871,
+   "h": 0.0347,
+   "frames": 10,
+   "text": "출처 : a reneva(eriojr",
+   "ocr": "출처 : a reneva(eriojr",
+   "readings": [
+    [
+     "출처 : a reneva(eriojr",
+     10
+    ],
+    [
+     "출大?i : å renevaleriojr",
+     10
+    ],
+    [
+     "renevaleri이",
+     9
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 104.75,
+   "end": 105.75,
+   "x": 0.309,
+   "y": 0.5715,
+   "w": 0.0996,
+   "h": 0.066,
+   "frames": 2,
+   "text": "hE1935E",
+   "ocr": "hE1935E",
+   "readings": [
+    [
+     "hE1935E",
+     1
+    ],
+    [
+     "서쐬935E",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 106.25,
+   "end": 108.25,
+   "x": 0.2633,
+   "y": 0.9076,
+   "w": 0.473,
+   "h": 0.0556,
+   "frames": 4,
+   "text": "최대 토크 킬로그램 힘 미터를 발휘하며",
+   "ocr": "최대 토크 킬로그램 힘 미터를 발휘하며",
+   "readings": [
+    [
+     "최대 토크 킬로그램 힘 미터를 발휘하며",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 108.25,
+   "end": 109.75,
+   "x": 0.366,
+   "y": 0.9083,
+   "w": 0.2691,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "제로백은 3.8초입니다",
+   "ocr": "제로백은 3.8초입니다",
+   "readings": [
+    [
+     "제로백은 3.8초입니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 109.75,
+   "end": 110.75,
+   "x": 0.0223,
+   "y": 0.0319,
+   "w": 0.1834,
+   "h": 0.0365,
+   "frames": 2,
+   "text": "출처 : årenevaleriojr",
+   "ocr": "출처 : årenevaleriojr",
+   "readings": [
+    [
+     "출처 : årenevaleriojr",
+     2
+    ],
+    [
+     "출大 • renevaleri0J",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 109.75,
+   "end": 112.25,
+   "x": 0.2832,
+   "y": 0.9083,
+   "w": 0.4324,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "효율은 복합 연비 리터당 10KM이며",
+   "ocr": "효율은 복합 연비 리터당 IOKM이며",
+   "readings": [
+    [
+     "효율은 복합 연비 리터당 IOKM이며",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.75,
+   "end": 114.75,
+   "x": 0.0574,
+   "y": 0.034,
+   "w": 0.1482,
+   "h": 0.0344,
+   "frames": 8,
+   "text": "renevaleri0J",
+   "ocr": "renevaleri0J",
+   "readings": [
+    [
+     "renevaleri0J",
+     8
+    ],
+    [
+     "출처 : årenevaleriojr",
+     8
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 112.25,
+   "end": 115.25,
+   "x": 0.2125,
+   "y": 0.9083,
+   "w": 0.577,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "1회 충전 시 순수 전기 주행거리는 60KM입니다",
+   "ocr": "1회 충전 시 순수 전기 주행거리는 60KM입니다",
+   "readings": [
+    [
+     "1회 충전 시 순수 전기 주행거리는 60KM입니다",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 114.75,
+   "end": 118.75,
+   "x": 0.0223,
+   "y": 0.0326,
+   "w": 0.1871,
+   "h": 0.0347,
+   "frames": 8,
+   "text": "출처 : a renevaleriojr",
+   "ocr": "출처 : a renevaleriojr",
+   "readings": [
+    [
+     "출처 : a renevaleriojr",
+     8
+    ],
+    [
+     "출大 • renevalerio",
+     8
+    ],
+    [
+     "출大?i : renevaleriojr",
+     7
+    ],
+    [
+     "출大?i : arenevaleriojr",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 115.25,
+   "end": 116.75,
+   "x": 0.3738,
+   "y": 0.9083,
+   "w": 0.2551,
+   "h": 0.0486,
+   "frames": 3,
+   "text": "네 번째는 가격입니다",
+   "ocr": "네 번패는 가격입니다",
+   "readings": [
+    [
+     "네 번패는 가격입니다",
+     3
+    ],
+    [
+     "네 번째는 가격입니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 115.75,
+   "end": 117.25,
+   "x": 0.2219,
+   "y": 0.4306,
+   "w": 0.5563,
+   "h": 0.1444,
+   "frames": 3,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     3
+    ],
+    [
+     "PART04. 가격",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 117.25,
+   "end": 121.25,
+   "x": 0.1719,
+   "y": 0.9069,
+   "w": 0.6578,
+   "h": 0.0569,
+   "frames": 8,
+   "text": "가격은 주력 트림 기준 2억 2,770만원부터 시작합니다",
+   "ocr": "가격은 주력 트림 기준 2억 2,770만원부터 시작합니다",
+   "readings": [
+    [
+     "가격은 주력 트림 기준 2억 2,770만원부터 시작합니다",
+     8
+    ],
+    [
+     "가격은 주력 트림[기준2억 (277b만원부터 시작합니다",
+     2
+    ],
+    [
+     "가격은 주력 트림 기준 2억2′770만원부터 시작합니다",
+     2
+    ],
+    [
+     "가격은 주력 트림 기준 2억회770만원부터 시작합니다",
+     1
+    ],
+    [
+     "가격은 주력 트림 기준 2억혁770만원부터 시작합니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 117.75,
+   "end": 145.25,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1836,
+   "h": 0.0465,
+   "frames": 55,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     55
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 118.25,
+   "end": 120.25,
+   "x": 0.3805,
+   "y": 0.8875,
+   "w": 0.2078,
+   "h": 0.0278,
+   "frames": 4,
+   "text": "nhle tO modify thpqp 국에",
+   "ocr": "nhle tO modify thpqp 국에",
+   "readings": [
+    [
+     "nhle tO modify thpqp 국에",
+     3
+    ],
+    [
+     "nhle tO modify thPSP 국에",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 118.75,
+   "end": 123.75,
+   "x": 0.0227,
+   "y": 0.0333,
+   "w": 0.0441,
+   "h": 0.0306,
+   "frames": 10,
+   "text": "출처",
+   "ocr": "출처",
+   "readings": [
+    [
+     "출처",
+     10
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 118.75,
+   "end": 119.75,
+   "x": 0.0645,
+   "y": 0.0333,
+   "w": 0.1457,
+   "h": 0.0333,
+   "frames": 2,
+   "text": "출처 : a renevaleriojr",
+   "ocr": "출처 : a renevaleriojr",
+   "readings": [
+    [
+     "출처 : a renevaleriojr",
+     2
+    ],
+    [
+     "renevalerio",
+     2
+    ],
+    [
+     "@renevaleriojr",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 119.75,
+   "end": 121.25,
+   "x": 0.0572,
+   "y": 0.0337,
+   "w": 0.1486,
+   "h": 0.0347,
+   "frames": 3,
+   "text": "renevaleri0J",
+   "ocr": "renevaleri0J",
+   "readings": [
+    [
+     "renevaleri0J",
+     3
+    ],
+    [
+     "출大* : •arenevaleriojr",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 120.25,
+   "end": 121.25,
+   "x": 0.3242,
+   "y": 0.8875,
+   "w": 0.3023,
+   "h": 0.0236,
+   "frames": 2,
+   "text": "nnd 0 nO\\NPrfl ]| nf",
+   "ocr": "nnd 0 nO\\NPrfl ]| nf",
+   "readings": [
+    [
+     "nnd 0 nO\\NPrfl ]| nf",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 121.25,
+   "end": 122.25,
+   "x": 0.0783,
+   "y": 0.0358,
+   "w": 0.1275,
+   "h": 0.0326,
+   "frames": 2,
+   "text": "renevaleri0J",
+   "ocr": "renevaleri0J",
+   "readings": [
+    [
+     "renevaleri0J",
+     2
+    ],
+    [
+     "a•renevaleriojr",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 121.25,
+   "end": 122.25,
+   "x": 0.3242,
+   "y": 0.8875,
+   "w": 0.3023,
+   "h": 0.0236,
+   "frames": 2,
+   "text": "and trnnqlnyp thpm n nnwerflll (급",
+   "ocr": "and trnnqlnyp thpm n nnwerflll (급",
+   "readings": [
+    [
+     "and trnnqlnyp thpm n nnwerflll (급",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 121.25,
+   "end": 123.25,
+   "x": 0.3281,
+   "y": 0.9076,
+   "w": 0.3434,
+   "h": 0.0503,
+   "frames": 4,
+   "text": "실구매가는 개별 소비세 변동",
+   "ocr": "실구매가는 개별 소비세 변동",
+   "readings": [
+    [
+     "실구매가는 개별 소비세 변동",
+     4
+    ],
+    [
+     "실구매가는 개별4비세현동",
+     1
+    ],
+    [
+     "실구매가는 개별4비세",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 122.25,
+   "end": 124.75,
+   "x": 0.0227,
+   "y": 0.0333,
+   "w": 0.1871,
+   "h": 0.0347,
+   "frames": 5,
+   "text": "renevaleri0J",
+   "ocr": "renevaleri0J",
+   "readings": [
+    [
+     "renevaleri0J",
+     5
+    ],
+    [
+     "출大* : •arenevaleriojr",
+     5
+    ],
+    [
+     "출처 : arenevaleriojr",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 123.25,
+   "end": 125.25,
+   "x": 0.2555,
+   "y": 0.9083,
+   "w": 0.4922,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "및 트림별 옵션에 따라 차이가 발생합니다",
+   "ocr": "및 트림별 옵션에 따라 차이가 발생합니다",
+   "readings": [
+    [
+     "및 트림별 옵션에 따라 차이가 발생합니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 124.75,
+   "end": 129.75,
+   "x": 0.0227,
+   "y": 0.0333,
+   "w": 0.1805,
+   "h": 0.034,
+   "frames": 10,
+   "text": "출처 : å renevaleriojr",
+   "ocr": "출처 : å renevaleriojr",
+   "readings": [
+    [
+     "출처 : å renevaleriojr",
+     9
+    ],
+    [
+     "renevalerioj",
+     7
+    ],
+    [
+     "출大 • renevalerioj",
+     2
+    ],
+    [
+     "大 : renevaler10Jr",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 125.75,
+   "end": 127.25,
+   "x": 0.3426,
+   "y": 0.9083,
+   "w": 0.3141,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "일정은 국내 공식 출시되어",
+   "ocr": "일정은 국내 공식 출시되어",
+   "readings": [
+    [
+     "일정은 국내 공식 출시되어",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 127.25,
+   "end": 129.25,
+   "x": 0.298,
+   "y": 0.9076,
+   "w": 0.4055,
+   "h": 0.05,
+   "frames": 4,
+   "text": "현재 활발히 판매가 진행 중입니다",
+   "ocr": "현재 활발히 판매가 진행 중입니다",
+   "readings": [
+    [
+     "현재 활발히 판매가 진행 중입니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 129.25,
+   "end": 132.25,
+   "x": 0.2609,
+   "y": 0.9083,
+   "w": 0.4793,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "오늘은 BMW XM을 확인해 보았습니다",
+   "ocr": "오늘은 BMW )(M을 확인해 보았습니다",
+   "readings": [
+    [
+     "오늘은 BMW )(M을 확인해 보았습니다",
+     6
+    ],
+    [
+     "오늘은 BMW XM을 확인해 보았습니다",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 129.75,
+   "end": 134.75,
+   "x": 0.0227,
+   "y": 0.0333,
+   "w": 0.1871,
+   "h": 0.0347,
+   "frames": 10,
+   "text": "출大* : arenevaleriojr",
+   "ocr": "출大* : arenevaleriojr",
+   "readings": [
+    [
+     "출大* : arenevaleriojr",
+     10
+    ],
+    [
+     "renevalerioj",
+     9
+    ],
+    [
+     "줄大혁 : renevaleriojr",
+     8
+    ],
+    [
+     "C.I renevaleriojr",
+     2
+    ],
+    [
+     "출大 • renevalerioj",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 129.75,
+   "end": 131.25,
+   "x": 0.2148,
+   "y": 0.5292,
+   "w": 0.0719,
+   "h": 0.0403,
+   "frames": 3,
+   "text": "H싄935E",
+   "ocr": "H싄935E",
+   "readings": [
+    [
+     "H싄935E",
+     1
+    ],
+    [
+     "E!935E",
+     1
+    ],
+    [
+     "너正!935E",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 130.25,
+   "end": 131.25,
+   "x": 0.0227,
+   "y": 0.0333,
+   "w": 0.032,
+   "h": 0.0306,
+   "frames": 2,
+   "text": "출처",
+   "ocr": "출처",
+   "readings": [
+    [
+     "출처",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 132.25,
+   "end": 137.25,
+   "x": 0.0688,
+   "y": 0.9083,
+   "w": 0.8625,
+   "h": 0.0493,
+   "frames": 10,
+   "text": "과연 여러분은 이 초고성능 플래그십 SAV를 직접 소유하고 싶으신가요?",
+   "ocr": "과연 여러분은 이 초고성능 플래그십 SAV를 직접 소유하고 싶으신가요?",
+   "readings": [
+    [
+     "과연 여러분은 이 초고성능 플래그십 SAV를 직접 소유하고 싶으신가요?",
+     10
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 133.25,
+   "end": 134.25,
+   "x": 0.3578,
+   "y": 0.5743,
+   "w": 0.0645,
+   "h": 0.0236,
+   "frames": 2,
+   "text": "MEL935E",
+   "ocr": "MEL935E",
+   "readings": [
+    [
+     "MEL935E",
+     1
+    ],
+    [
+     "녀E1935F",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 134.75,
+   "end": 139.75,
+   "x": 0.0227,
+   "y": 0.0333,
+   "w": 0.1871,
+   "h": 0.034,
+   "frames": 10,
+   "text": "출大?i : drenevaleriojr",
+   "ocr": "출大?i : drenevaleriojr",
+   "readings": [
+    [
+     "출大?i : drenevaleriojr",
+     9
+    ],
+    [
+     "renevalerioj",
+     8
+    ],
+    [
+     "줄大레 : arenevaleriojr",
+     8
+    ],
+    [
+     "출처 : arenevaleriojr",
+     1
+    ],
+    [
+     "reneva er10Jr",
+     1
+    ],
+    [
+     "줄大레 : renevaleriojr",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 137.25,
+   "end": 138.75,
+   "x": 0.3457,
+   "y": 0.9083,
+   "w": 0.3082,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "오늘 영상이 유익하셨다면",
+   "ocr": "오늘 영상이 유익하셨다면",
+   "readings": [
+    [
+     "오늘 영상이 유익하셨다면",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 138.75,
+   "end": 139.75,
+   "x": 0.4125,
+   "y": 0.9083,
+   "w": 0.1742,
+   "h": 0.0549,
+   "frames": 2,
+   "text": "구독과 좋아요",
+   "ocr": "구독과 좋아요",
+   "readings": [
+    [
+     "구독과 좋아요",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 139.75,
+   "end": 145.25,
+   "x": 0.0223,
+   "y": 0.0326,
+   "w": 0.1875,
+   "h": 0.0347,
+   "frames": 11,
+   "text": "출처 : @renevaleriojr",
+   "ocr": "출大넣 : •arenevaleriojr",
+   "readings": [
+    [
+     "출大넣 : •arenevaleriojr",
+     10
+    ],
+    [
+     "renevalerio",
+     8
+    ],
+    [
+     "줄서 : a renevaleriojr",
+     1
+    ],
+    [
+     "renevaleri0J(",
+     1
+    ],
+    [
+     "출大* : renevaleriojr",
+     1
+    ],
+    [
+     "출大 • renevalerio",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 139.75,
+   "end": 144.75,
+   "x": 0.0227,
+   "y": 0.0333,
+   "w": 0.0645,
+   "h": 0.0306,
+   "frames": 10,
+   "text": "출처 : a",
+   "ocr": "출처 : a",
+   "readings": [
+    [
+     "출처 : a",
+     10
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 139.75,
+   "end": 141.25,
+   "x": 0.3359,
+   "y": 0.9083,
+   "w": 0.3297,
+   "h": 0.0486,
+   "frames": 3,
+   "text": "알림설정까지 부탁드립니다",
+   "ocr": "알림설정까지 부탁드립니다",
+   "readings": [
+    [
+     "알림설정까지 부탁드립니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 141.25,
+   "end": 143.25,
+   "x": 0.3129,
+   "y": 0.9083,
+   "w": 0.3762,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "더 자세한 내용이나 궁금한 점은",
+   "ocr": "더 자세한 내용이나 궁금한 점은",
+   "readings": [
+    [
+     "더 자세한 내용이나 궁금한 점은",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 143.25,
+   "end": 144.25,
+   "x": 0.391,
+   "y": 0.9083,
+   "w": 0.2199,
+   "h": 0.0486,
+   "frames": 2,
+   "text": "댓글로 남겨주세요",
+   "ocr": "댓글로 남겨주세요",
+   "readings": [
+    [
+     "댓글로 남겨주세요",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 144.25,
+   "end": 145.25,
+   "x": 0.434,
+   "y": 0.9083,
+   "w": 0.1336,
+   "h": 0.0493,
+   "frames": 2,
+   "text": "감사합니다",
+   "ocr": "감사합니다",
+   "readings": [
+    [
+     "감사합니다",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 145.75,
+   "end": 146.75,
+   "x": 0.1656,
+   "y": 0.7792,
+   "w": 0.6479,
+   "h": 0.1288,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 147.75,
+   "end": 149.25,
+   "x": 0.041,
+   "y": 0.0444,
+   "w": 0.8613,
+   "h": 0.1431,
+   "frames": 2,
+   "text": "안 보이던 사각지대까지 보입니다.",
+   "ocr": "안 보아던&구적:까지 보임,니촤.느",
+   "readings": [
+    [
+     "안 보아던&구적:까지 보임,니촤.느",
+     1
+    ],
+    [
+     "안 보아던c구적까지 보임,니촤.!",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 148.25,
+   "end": 149.25,
+   "x": 0.175,
+   "y": 0.0556,
+   "w": 0.7063,
+   "h": 0.1333,
+   "frames": 2,
+   "text": "짜제 모입니다。",
+   "ocr": "짜제 모입니다。",
+   "readings": [
+    [
+     "짜제 모입니다。",
+     1
+    ],
+    [
+     "한모㉧뗜 ~짜제 모입니다。",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 149.75,
+   "end": 151.25,
+   "x": 0.3543,
+   "y": 0.3792,
+   "w": 0.0906,
+   "h": 0.0333,
+   "frames": 2,
+   "text": "Optic-Glass",
+   "ocr": "Optic-Glass",
+   "readings": [
+    [
+     "Optic-Glass",
+     2
+    ],
+    [
+     "OPtiC",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:15:02"
+}

@@ -1,0 +1,21 @@
+{
+    "FeatureRecommend": {
+        "": {
+            "A152CEBE-01FF-4c17-A81B-DA43E04E8842": "2025053015503481418466405FEB2A2E6E"
+        },
+        "ColorMatch": {
+            "C2788903-882A-43d0-B08D-BDE2B0CF7605": "2025052808412877F31DAE25EC202E206E"
+        },
+        "MovementAI": {
+            "C2788903-882A-43d0-B08D-BDE2B0CF7605": "2025052808482492D8C950585770559016"
+        }
+    },
+    "timeline_settings": {
+        "1D4243F2-179F-43c2-AC12-977981653637": {
+            "adsorb_enabled": true,
+            "linkage_enabled": true
+        }
+    },
+    "tracking_adjustment_settings_autosmooth": false,
+    "tracking_adjustment_settings_traject": false
+}

@@ -1,0 +1,177 @@
+{
+ "id": "2BY8BDhVqbs",
+ "tab": "shorts",
+ "upload_date": "20260923",
+ "duration": 19.55,
+ "title": "포드 익스페디션 수준 미쳤네요",
+ "url": "https://www.youtube.com/watch?v=2BY8BDhVqbs",
+ "width": 720,
+ "height": 1280,
+ "format": "shortform",
+ "aspect": "9:16",
+ "cuts": [
+  3.07,
+  5.67,
+  8.67,
+  13.4,
+  14.85,
+  15.85,
+  17.43
+ ],
+ "ocr_readings": 407,
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 19.25,
+   "x": 0.3563,
+   "y": 0.8141,
+   "w": 0.4847,
+   "h": 0.0449,
+   "frames": 39,
+   "text": "Optic-Glass",
+   "ocr": "Optic-Glass",
+   "readings": [
+    [
+     "Optic-Glass",
+     39
+    ],
+    [
+     "Optic-GIass",
+     33
+    ],
+    [
+     "optic-GlaSS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 19.25,
+   "x": 0.1007,
+   "y": 0.1172,
+   "w": 0.7931,
+   "h": 0.0477,
+   "frames": 38,
+   "text": "주차장 두 칸 먹는 덩치",
+   "ocr": "주차장 두 간 먹는 덩치",
+   "readings": [
+    [
+     "주차장 두 간 먹는 덩치",
+     38
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 19.25,
+   "x": 0.0757,
+   "y": 0.1746,
+   "w": 0.8472,
+   "h": 0.0477,
+   "frames": 38,
+   "text": "미국 감성 풀사이즈 강림",
+   "ocr": "미국 감성 풀사이즈 강림",
+   "readings": [
+    [
+     "미국 감성 풀사이즈 강림",
+     37
+    ],
+    [
+     "미국 감성 품사이",
+     1
+    ],
+    [
+     "미국감성풀사이",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 9.75,
+   "end": 11.25,
+   "x": 0.4778,
+   "y": 0.625,
+   "w": 0.175,
+   "h": 0.032,
+   "frames": 3,
+   "text": "0 tlc-Giass",
+   "ocr": "0 tlc-Giass",
+   "readings": [
+    [
+     "0 tlc-Giass",
+     1
+    ],
+    [
+     "0 tlC",
+     1
+    ],
+    [
+     "0 ti",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 13.75,
+   "end": 14.75,
+   "x": 0.1715,
+   "y": 0.5852,
+   "w": 0.6469,
+   "h": 0.0453,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ],
+    [
+     "『사각7i지대, 아찔하솋죠7",
+     1
+    ],
+    [
+     "『사각7i지홰,夕 아찔하솋죠7",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 16.25,
+   "end": 17.25,
+   "x": 0.6014,
+   "y": 0.3609,
+   "w": 0.351,
+   "h": 0.04,
+   "frames": 2,
+   "text": "1)臥입i미•1과?.죟1부",
+   "ocr": "1)臥입i미•1과?.죟1부",
+   "readings": [
+    [
+     "1)臥입i미•1과?.죟1부",
+     1
+    ],
+    [
+     "1)臥입i미•1과h",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:27:49"
+}

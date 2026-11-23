@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "82ec5ec2-b08a-4bff-bd1b-3903f76bc946",
+  "status": "current",
+  "command": "deliver",
+  "type": "architecture",
+  "input": "C:\\Users\\bssho\\Downloads\\paperclip-master\\.archify\\architecture-youtube-copy-flow-20261113-160200\\candidate.json",
+  "output": "C:\\Users\\bssho\\Downloads\\paperclip-master\\.archify\\architecture-youtube-copy-flow-20261113-160200\\youtube-copy-flow.html",
+  "specification": {
+    "sha256": "b624e181f87a40724841e23ab728fffccf7e3a87e9c06c1a328bbefaa0952ab0",
+    "bytes": 6053
+  },
+  "artifact": {
+    "sha256": "a4838d88a257bef3832289788f9ec57cfe52c08116dfc9b9b2942f11cf4f39a4",
+    "bytes": 858382
+  }
+}

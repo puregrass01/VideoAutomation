@@ -1,0 +1,204 @@
+{
+  "cloud_draft_cover": false,
+  "cloud_draft_sync": false,
+  "cloud_package_completed_time": "",
+  "draft_cloud_capcut_purchase_info": "",
+  "draft_cloud_last_action_download": false,
+  "draft_cloud_package_type": "",
+  "draft_cloud_purchase_info": "",
+  "draft_cloud_template_id": "",
+  "draft_cloud_tutorial_info": "",
+  "draft_cloud_videocut_purchase_info": "",
+  "draft_cover": "",
+  "draft_deeplink_url": "",
+  "draft_enterprise_info": {
+    "draft_enterprise_extra": "",
+    "draft_enterprise_id": "",
+    "draft_enterprise_name": "",
+    "enterprise_material": []
+  },
+  "draft_fold_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft/hermes_bmwx7_optic_shorts",
+  "draft_id": "D5F6215A-84E9-4050-BFE6-F3C05B6ADB6D",
+  "draft_is_ae_produce": false,
+  "draft_is_ai_packaging_used": false,
+  "draft_is_ai_shorts": false,
+  "draft_is_ai_translate": false,
+  "draft_is_article_video_draft": false,
+  "draft_is_cloud_temp_draft": false,
+  "draft_is_from_deeplink": "false",
+  "draft_is_invisible": false,
+  "draft_materials": [
+    {
+      "type": 0,
+      "value": [
+        {
+          "ai_group_type": "",
+          "create_time": 1793004542,
+          "duration": 2367000,
+          "enter_from": 0,
+          "extra_info": "bmwx7_s01_stock_mirror.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/bmwx7/bmwx7_s01_stock_mirror.mp4",
+          "height": 1920,
+          "id": "c8d2b8c9-30c1-4b6f-9c9d-4ce16c4eba49",
+          "import_time": 1793004542,
+          "import_time_ms": 1793004542718778,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 2367000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1080
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1793004542,
+          "duration": 3400000,
+          "enter_from": 0,
+          "extra_info": "bmwx7_s02_install.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/bmwx7/bmwx7_s02_install.mp4",
+          "height": 1920,
+          "id": "79cdcdfc-7e61-4700-9b15-2d9f516cf2b5",
+          "import_time": 1793004542,
+          "import_time_ms": 1793004542718778,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3400000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1080
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1793004542,
+          "duration": 3200000,
+          "enter_from": 0,
+          "extra_info": "bmwx7_s03_compare.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/bmwx7/bmwx7_s03_compare.mp4",
+          "height": 1920,
+          "id": "1e8361b4-239d-4ddb-ad85-178c42157ebf",
+          "import_time": 1793004542,
+          "import_time_ms": 1793004542718778,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3200000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1080
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1793004542,
+          "duration": 3034000,
+          "enter_from": 0,
+          "extra_info": "bmwx7_s04_result.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/bmwx7/bmwx7_s04_result.mp4",
+          "height": 1920,
+          "id": "71fde248-11eb-4f10-9dde-c97a65b9b33b",
+          "import_time": 1793004542,
+          "import_time_ms": 1793004542718778,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3034000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1080
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1793004542,
+          "duration": 12024000,
+          "enter_from": 0,
+          "extra_info": "bmwx7_shorts_bgm_12s.mp3",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/bmwx7/bmwx7_shorts_bgm_12s.mp3",
+          "height": 0,
+          "id": "2ec6ef38cadd4ad4803d7c39351111ac",
+          "import_time": 1793004542,
+          "import_time_ms": 1793004542718778,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "music",
+          "roughcut_time_range": {
+            "duration": 12024000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 0
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "value": []
+    },
+    {
+      "type": 2,
+      "value": []
+    },
+    {
+      "type": 3,
+      "value": []
+    },
+    {
+      "type": 6,
+      "value": []
+    },
+    {
+      "type": 7,
+      "value": []
+    },
+    {
+      "type": 8,
+      "value": []
+    }
+  ],
+  "draft_materials_copied_info": [],
+  "draft_name": "hermes_bmwx7_optic_shorts",
+  "draft_new_version": "",
+  "draft_removable_storage_device": "",
+  "draft_root_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft",
+  "draft_segment_extra_info": [],
+  "draft_timeline_materials_size_": 8114,
+  "draft_type": "",
+  "tm_draft_cloud_completed": "",
+  "tm_draft_cloud_entry_id": 0,
+  "tm_draft_cloud_modified": 0,
+  "tm_draft_removed": 0,
+  "tm_duration": 12000000
+}

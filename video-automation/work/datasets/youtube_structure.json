@@ -1,0 +1,373 @@
+{
+ "made": "2026-11-11",
+ "channel": "https://www.youtube.com/channel/UCncj0fohwMC3-ck7FKx4GZg",
+ "groups": {
+  "longform/carinfo": {
+   "videos": 16,
+   "uploaded": [
+    "20260811",
+    "20261017"
+   ],
+   "duration_s": {
+    "q1": 54.82,
+    "median": 149.62,
+    "q3": 166.59,
+    "n": 16
+   },
+   "shots": {
+    "q1": 13.25,
+    "median": 41.0,
+    "q3": 73.25,
+    "n": 16
+   },
+   "shot_s": {
+    "q1": 2.45,
+    "median": 2.92,
+    "q3": 4.16,
+    "n": 16
+   },
+   "captions_per_video": {
+    "q1": 19.75,
+    "median": 67.0,
+    "q3": 77.0,
+    "n": 16
+   },
+   "caption_s": {
+    "q1": 1.5,
+    "median": 2.0,
+    "q3": 3.5,
+    "n": 855
+   },
+   "caption_chars": {
+    "q1": 11.0,
+    "median": 15.0,
+    "q3": 22.0,
+    "n": 855
+   },
+   "caption_position": {
+    "bottom": 681,
+    "middle": 63,
+    "top": 111
+   },
+   "parts": {
+    "solution": 50,
+    "hook": 39,
+    "body": 595,
+    "problem": 38,
+    "cta": 35,
+    "ending": 66,
+    "title": 8,
+    "section": 4,
+    "compare": 20
+   },
+   "sections": {
+    "광각미러가 꼭 필요한 이유": {
+     "videos": 4,
+     "start_s": {
+      "q1": 8.38,
+      "median": 11.75,
+      "q3": 12.12,
+      "n": 4
+     },
+     "start_share": {
+      "q1": 0.16,
+      "median": 0.21,
+      "q3": 0.23,
+      "n": 4
+     }
+    },
+    "설치 전/후 표시": {
+     "videos": 5,
+     "start_s": {
+      "q1": 14.0,
+      "median": 16.25,
+      "q3": 20.75,
+      "n": 5
+     },
+     "start_share": {
+      "q1": 0.3,
+      "median": 0.32,
+      "q3": 0.37,
+      "n": 5
+     }
+    },
+    "시공 전/후 비교": {
+     "videos": 5,
+     "start_s": {
+      "q1": 31.25,
+      "median": 36.25,
+      "q3": 41.0,
+      "n": 5
+     },
+     "start_share": {
+      "q1": 0.67,
+      "median": 0.7,
+      "q3": 0.73,
+      "n": 5
+     }
+    },
+    "문의 아웃트로": {
+     "videos": 5,
+     "start_s": {
+      "q1": 41.5,
+      "median": 46.25,
+      "q3": 50.75,
+      "n": 5
+     },
+     "start_share": {
+      "q1": 0.89,
+      "median": 0.9,
+      "q3": 0.91,
+      "n": 5
+     }
+    }
+   },
+   "common_lines": [
+    "PART 02. 내부",
+    "PART 04. 가격",
+    "PART 03. 성능",
+    "PART 01. 외관",
+    "네 번째는 가격입니다",
+    "사각지대, 아찔하셨죠?",
+    "첫 번째는 외관입니다",
+    "두 번째는 내부입니다",
+    "세 번째는 성능입니다",
+    "안 보이던 구석까지 보입니다.",
+    "PART 01. 외부",
+    "감사합니다",
+    "광각미러 설치 전",
+    "광각미러 설치 후",
+    "시공 전"
+   ]
+  },
+  "longform/opticglass": {
+   "videos": 57,
+   "uploaded": [
+    "20260811",
+    "20261106"
+   ],
+   "duration_s": {
+    "q1": 41.37,
+    "median": 53.07,
+    "q3": 57.9,
+    "n": 57
+   },
+   "shots": {
+    "q1": 12.0,
+    "median": 13.0,
+    "q3": 15.0,
+    "n": 57
+   },
+   "shot_s": {
+    "q1": 3.47,
+    "median": 4.0,
+    "q3": 4.16,
+    "n": 57
+   },
+   "captions_per_video": {
+    "q1": 16.0,
+    "median": 18.0,
+    "q3": 19.0,
+    "n": 57
+   },
+   "caption_s": {
+    "q1": 2.0,
+    "median": 2.5,
+    "q3": 4.0,
+    "n": 979
+   },
+   "caption_chars": {
+    "q1": 9.0,
+    "median": 20.0,
+    "q3": 26.0,
+    "n": 979
+   },
+   "caption_position": {
+    "middle": 142,
+    "top": 243,
+    "bottom": 594
+   },
+   "parts": {
+    "title": 22,
+    "section": 28,
+    "compare": 225,
+    "body": 331,
+    "problem": 92,
+    "solution": 108,
+    "cta": 162,
+    "hook": 10,
+    "ending": 1
+   },
+   "sections": {
+    "광각미러가 꼭 필요한 이유": {
+     "videos": 27,
+     "start_s": {
+      "q1": 5.75,
+      "median": 9.75,
+      "q3": 11.25,
+      "n": 27
+     },
+     "start_share": {
+      "q1": 0.15,
+      "median": 0.19,
+      "q3": 0.2,
+      "n": 27
+     }
+    },
+    "설치 전/후 표시": {
+     "videos": 53,
+     "start_s": {
+      "q1": 13.25,
+      "median": 18.75,
+      "q3": 21.0,
+      "n": 53
+     },
+     "start_share": {
+      "q1": 0.28,
+      "median": 0.33,
+      "q3": 0.37,
+      "n": 53
+     }
+    },
+    "시공 전/후 비교": {
+     "videos": 56,
+     "start_s": {
+      "q1": 26.5,
+      "median": 37.0,
+      "q3": 41.75,
+      "n": 56
+     },
+     "start_share": {
+      "q1": 0.64,
+      "median": 0.69,
+      "q3": 0.73,
+      "n": 56
+     }
+    },
+    "문의 아웃트로": {
+     "videos": 56,
+     "start_s": {
+      "q1": 36.38,
+      "median": 47.25,
+      "q3": 52.62,
+      "n": 56
+     },
+     "start_share": {
+      "q1": 0.88,
+      "median": 0.9,
+      "q3": 0.91,
+      "n": 56
+     }
+    }
+   },
+   "common_lines": [
+    "시공 전",
+    "시공 후",
+    "옵틱글래스 광각미러\n문의 010-5931-9658",
+    "광각미러 설치 전",
+    "광각미러 설치 후",
+    "옵틱글래스 광각미러를 설치하세요",
+    "옵틱글래스 광각미러로 느껴보세요",
+    "광각미러가 필요한 이유",
+    "광각미러가 꼭 필요한 이유",
+    "필요한 이유",
+    "낮은 시야에 숨어드는 후측방 차량",
+    "옵틱글래스"
+   ]
+  },
+  "shortform/carinfo": {
+   "videos": 45,
+   "uploaded": [
+    "20260812",
+    "20261018"
+   ],
+   "duration_s": {
+    "q1": 26.19,
+    "median": 37.15,
+    "q3": 46.64,
+    "n": 45
+   },
+   "shots": {
+    "q1": 7.5,
+    "median": 10.0,
+    "q3": 14.0,
+    "n": 45
+   },
+   "shot_s": {
+    "q1": 2.36,
+    "median": 3.39,
+    "q3": 5.16,
+    "n": 45
+   },
+   "captions_per_video": {
+    "q1": 12.5,
+    "median": 18.0,
+    "q3": 23.0,
+    "n": 45
+   },
+   "caption_s": {
+    "q1": 1.5,
+    "median": 2.0,
+    "q3": 3.5,
+    "n": 777
+   },
+   "caption_chars": {
+    "q1": 11.0,
+    "median": 14.0,
+    "q3": 21.0,
+    "n": 777
+   },
+   "caption_position": {
+    "middle": 729,
+    "top": 48
+   },
+   "parts": {
+    "hook": 224,
+    "body": 400,
+    "problem": 57,
+    "ending": 26,
+    "solution": 50,
+    "cta": 20
+   },
+   "sections": {
+    "광각미러가 꼭 필요한 이유": {
+     "videos": 0,
+     "start_s": {},
+     "start_share": {}
+    },
+    "설치 전/후 표시": {
+     "videos": 0,
+     "start_s": {},
+     "start_share": {}
+    },
+    "시공 전/후 비교": {
+     "videos": 0,
+     "start_s": {},
+     "start_share": {}
+    },
+    "문의 아웃트로": {
+     "videos": 0,
+     "start_s": {},
+     "start_share": {}
+    }
+   },
+   "common_lines": [
+    "사각지대, 아찔하셨죠?",
+    "PART 04. 가격",
+    "PART 02. 내부",
+    "PART 03. 성능",
+    "운전의 자신감이",
+    "PART 01. 외관",
+    "옵틱글래스",
+    "남달라집니다!",
+    "네 번째는 가격입니다",
+    "감사합니다",
+    "두 번째는 내부입니다",
+    "첫 번째는 외관입니다",
+    "PART 01. 외부",
+    "세 번째는 성능입니다",
+    "출처 : @BMW"
+   ]
+  }
+ }
+}

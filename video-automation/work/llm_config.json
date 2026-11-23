@@ -1,0 +1,12 @@
+{
+  "_help": "파이프라인이 쓰는 LLM을 여기서만 정합니다. 모든 호출은 Antigravity CLI(agy, 데스크톱 앱과 같은 구독·계정, API 키 없음)로 갑니다. 모델 ID는 py video-automation/work/llm.py --list 로 확인 (2026-11-13부터 기본은 gemini-pro-orchestrator = Orchestrator (Carbon), 여러 에이전트를 나눠 부림. 빠른 작업은 gemini-4-carbon-low / medium / high, 예전 argon도 그대로 있음). 작업 칸이 비어 있으면 default_model을 씁니다. scenario_lines = 대사 초안(draft_copy.py), thumbnail_image = 썸네일 AI 배경(이미지 모델은 Antigravity의 generate_image 도구가 고름, 이 칸은 그 도구를 부르는 에이전트 모델): argon-high (2026-11-13: orchestrator는 5분 시간 초과, carbon-high는 plan 모드에서 그림 대신 계획서를 씀, argon-high는 136초에 그림), video_edit = GUI의 agy 입력란(영상 수정), photo_check = 썸네일 사진 자동 분류·번호판/얼굴 찾기·가린 사진 검수(thumb_photos.py), 시나리오 생성의 장면 분류·가림 표시(make_scenario.py): carbon-low (2026-11-13 argon-low에서 바꿈; 2026-11-09: high는 사진 8장에 중앙값 2.5분, 약 10%가 5분 시간 초과. low는 1분 안팎에 얼굴·번호판을 high만큼 찾음). youtube_lines = 유튜브 채널 최근 영상 자막 OCR 결과의 맞춤법 정리·자막 아닌 글자 거르기(youtube_lines.py, 글자만 보냄): low.",
+  "agy_path": "",
+  "default_model": "gemini-pro-orchestrator",
+  "tasks": {
+    "scenario_lines": "gemini-4-carbon-low",
+    "thumbnail_image": "gemini-4-argon-high",
+    "video_edit": "",
+    "photo_check": "gemini-4-carbon-low",
+    "youtube_lines": "gemini-4-carbon-low"
+  }
+}

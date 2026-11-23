@@ -1,0 +1,187 @@
+{
+ "template": "opticglass_wide1",
+ "note": "make_scenario.py skeleton for 「옵틱글래스 광각미러 템플릿 1」: fill = the still kinds a scene takes, {car} = the car title; compare = no transition (the template has none)",
+ "scenes": [
+  {
+   "id": "w00",
+   "role": "exterior",
+   "start": 0.0,
+   "dur": 4.667,
+   "look": "bright"
+  },
+  {
+   "id": "w01",
+   "role": "detail",
+   "start": 4.667,
+   "dur": 3.167,
+   "look": "bright"
+  },
+  {
+   "id": "w02",
+   "role": "detail",
+   "start": 7.833,
+   "dur": 2.233,
+   "look": "bright"
+  },
+  {
+   "id": "w03",
+   "role": "exterior",
+   "start": 10.067,
+   "dur": 2.5,
+   "look": "bright"
+  },
+  {
+   "id": "w04",
+   "role": "card",
+   "start": 12.567,
+   "dur": 5.633,
+   "look": "title"
+  },
+  {
+   "id": "w05",
+   "role": "card",
+   "start": 18.2,
+   "dur": 4.4,
+   "look": "title"
+  },
+  {
+   "id": "w06",
+   "role": "compare_before",
+   "start": 22.6,
+   "dur": 5.0,
+   "look": "bright"
+  },
+  {
+   "id": "w07",
+   "role": "compare_before",
+   "start": 27.6,
+   "dur": 5.0,
+   "look": "bright"
+  },
+  {
+   "id": "w08",
+   "role": "compare_after",
+   "start": 32.6,
+   "dur": 5.0,
+   "look": "bright"
+  },
+  {
+   "id": "w09",
+   "role": "compare_after",
+   "start": 37.6,
+   "dur": 5.0,
+   "look": "bright"
+  },
+  {
+   "id": "w10",
+   "role": "split",
+   "start": 42.6,
+   "dur": 4.0
+  },
+  {
+   "id": "w11",
+   "role": "split",
+   "start": 46.6,
+   "dur": 4.0
+  },
+  {
+   "id": "w12",
+   "role": "outro",
+   "name": "opticglass_outro",
+   "src": "outro",
+   "look": "plain",
+   "start": 50.6,
+   "dur": 7.133
+  }
+ ],
+ "lines": [
+  {
+   "id": "lt01",
+   "text": "{car}"
+  },
+  {
+   "id": "w04a",
+   "text": "BY OPTICGLASS"
+  },
+  {
+   "id": "w04b",
+   "text": "광각미러가 꼭 필요한 이유"
+  },
+  {
+   "id": "wb1",
+   "text": "광각미러 설치 전"
+  },
+  {
+   "id": "wb2",
+   "text": "광각미러 설치 후"
+  },
+  {
+   "id": "wc1",
+   "text": "사이드미러를 믿지 못해 매번 고개를 돌리고"
+  },
+  {
+   "id": "wc2",
+   "text": "불안감에 휩싸여 운전해야 하는 미련한 순정미러"
+  },
+  {
+   "id": "wc3",
+   "text": "조수석 뒤쪽에서 다가오는 차량을 완전히 은폐시켜"
+  },
+  {
+   "id": "wc4",
+   "text": "대형 사고의 주인공으로 만들어 버리는 순정미러"
+  },
+  {
+   "id": "wc5",
+   "text": "옵틱글래스로 한 켠에 파노라마처럼 펼쳐지는"
+  },
+  {
+   "id": "wc6",
+   "text": "스캔하는 것처럼 압도적인 시야의 격차"
+  },
+  {
+   "id": "wc7",
+   "text": "칼치기 차량도 단 1초 만에 포착해 버리는"
+  },
+  {
+   "id": "wc8",
+   "text": "주차부터 타협 없는 완벽하고 더 편한 광각미러"
+  },
+  {
+   "id": "ws1",
+   "text": "시공 전"
+  },
+  {
+   "id": "ws2",
+   "text": "시공 후",
+   "color": "#F4C70F"
+  },
+  {
+   "id": "ws3",
+   "text": "시공 전"
+  },
+  {
+   "id": "ws4",
+   "text": "시공 후",
+   "color": "#F4C70F"
+  },
+  {
+   "id": "wz1",
+   "text": "넓은 시야에서 시작해주는"
+  },
+  {
+   "id": "wz2",
+   "text": "옵틱글래스 광각미러를 설치하세요",
+   "color": "#F4C70F"
+  },
+  {
+   "id": "wz3",
+   "text": "{car}의 시야 업그레이드를"
+  },
+  {
+   "id": "wz4",
+   "text": "옵틱글래스 광각미러로 느껴보세요",
+   "color": "#F4C70F"
+  }
+ ]
+}

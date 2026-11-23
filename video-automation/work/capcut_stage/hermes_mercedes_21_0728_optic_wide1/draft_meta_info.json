@@ -1,0 +1,1040 @@
+{
+  "cloud_draft_cover": false,
+  "cloud_draft_sync": false,
+  "cloud_package_completed_time": "2025-05-28T23:39:05+00:00",
+  "draft_cloud_capcut_purchase_info": "",
+  "draft_cloud_last_action_download": false,
+  "draft_cloud_package_type": "",
+  "draft_cloud_purchase_info": "",
+  "draft_cloud_template_id": "",
+  "draft_cloud_tutorial_info": "",
+  "draft_cloud_videocut_purchase_info": "",
+  "draft_cover": "draft_cover.jpg",
+  "draft_deeplink_url": "",
+  "draft_enterprise_info": {
+    "draft_enterprise_extra": "",
+    "draft_enterprise_id": "",
+    "draft_enterprise_name": "",
+    "enterprise_material": []
+  },
+  "draft_fold_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft/hermes_mercedes_21_0728_optic_wide1",
+  "draft_id": "3D2E2169-FBA9-4990-B5BD-41D5508A1D6A",
+  "draft_is_ae_produce": false,
+  "draft_is_ai_packaging_used": false,
+  "draft_is_ai_shorts": false,
+  "draft_is_ai_translate": false,
+  "draft_is_article_video_draft": false,
+  "draft_is_cloud_temp_draft": false,
+  "draft_is_from_deeplink": "false",
+  "draft_is_invisible": false,
+  "draft_is_pippit_draft": false,
+  "draft_is_web_article_video": false,
+  "draft_materials": [
+    {
+      "type": 0,
+      "value": [
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 4666667,
+          "enter_from": 0,
+          "extra_info": "lf_w00_w00_car_exterior.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w00_w00_car_exterior.mp4",
+          "height": 1080,
+          "id": "1490ffc9-0a7b-48c2-b86b-629f29ea1d81",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4666667,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 3166666,
+          "enter_from": 0,
+          "extra_info": "lf_w01_w01_car_detail.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w01_w01_car_detail.mp4",
+          "height": 1080,
+          "id": "6ec1f152-31bf-43be-88f5-6020e5f70c5f",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3166666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 2233334,
+          "enter_from": 0,
+          "extra_info": "lf_w02_w02_car_detail.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w02_w02_car_detail.mp4",
+          "height": 1080,
+          "id": "7f9b9463-8705-471b-8500-ea4a18311316",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 2233334,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 2500000,
+          "enter_from": 0,
+          "extra_info": "lf_w03_w03_car_exterior.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w03_w03_car_exterior.mp4",
+          "height": 1080,
+          "id": "b89c3f75-bc5e-4a03-8c70-0b27a7fc8898",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 2500000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 5633333,
+          "enter_from": 0,
+          "extra_info": "lf_w04_w04_car_exterior.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w04_w04_car_exterior.mp4",
+          "height": 1080,
+          "id": "d6c842c1-b8a6-44b5-bd4d-4f54707dab1f",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5633333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 4400000,
+          "enter_from": 0,
+          "extra_info": "lf_w05_w05_car_exterior.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w05_w05_car_exterior.mp4",
+          "height": 1080,
+          "id": "ac0da63b-9ea4-4030-ab0b-9e85c9339fba",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4400000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w06_w06_mirror_before.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w06_w06_mirror_before.mp4",
+          "height": 1080,
+          "id": "9e95f592-14fe-4f65-a18c-bcbb5fe71df4",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w07_w07_mirror_before.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w07_w07_mirror_before.mp4",
+          "height": 1080,
+          "id": "44af86fd-a1ec-4715-a3a8-40f16e13b6c4",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w08_w08_mirror_after.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w08_w08_mirror_after.mp4",
+          "height": 1080,
+          "id": "9d5b486d-db72-4be7-b137-7b6d0b5dc52b",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w09_w09_mirror_after.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w09_w09_mirror_after.mp4",
+          "height": 1080,
+          "id": "af8ec58e-baa9-40f2-9b54-b497cb8b27d1",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 4000000,
+          "enter_from": 0,
+          "extra_info": "lf_w10_w10_split.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w10_w10_split.mp4",
+          "height": 1080,
+          "id": "8fff6add-3215-4d2a-beb7-3227d9b8b93d",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 4000000,
+          "enter_from": 0,
+          "extra_info": "lf_w11_w11_split.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w11_w11_split.mp4",
+          "height": 1080,
+          "id": "e950fe7c-2a06-4ffe-903c-4079c6bac3fc",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "lf_w12_opticglass_outro.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_w12_opticglass_outro.mp4",
+          "height": 1080,
+          "id": "e11c0a96-cdea-4e88-8a1d-4907f81115b3",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "lf_mercedes-benz_logo_shadow.png",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/lf_mercedes-benz_logo_shadow.png",
+          "height": 206,
+          "id": "cf276b5e-116c-476c-86a0-61d5373b2a6d",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": 10800000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 258
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 57733333,
+          "enter_from": 0,
+          "extra_info": "mercedes_21_0728_wide1_bgm_41s.mp3",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/mercedes_21_0728_wide1_bgm_41s.mp3",
+          "height": 0,
+          "id": "31c4c477-4c9f-4762-a076-d4ff46a45529",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947203,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "music",
+          "roughcut_time_range": {
+            "duration": 57733333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 0
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 17034800,
+          "enter_from": 0,
+          "extra_info": "20220727_130617.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/gdrive_raw/20220727_130617.mp4",
+          "height": 1080,
+          "id": "ca37b670-e45b-4b6e-90a0-53083732ae78",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 17034800,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 54735922,
+          "enter_from": 0,
+          "extra_info": "20220727_130714.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/gdrive_raw/20220727_130714.mp4",
+          "height": 1080,
+          "id": "acd51dfc-4d5f-4c4d-ace3-4a5473b4c540",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 54735922,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 51025644,
+          "enter_from": 0,
+          "extra_info": "20220727_130824.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/gdrive_raw/20220727_130824.mp4",
+          "height": 1080,
+          "id": "2de1e04a-67a7-4dcd-9dc9-1a47d30d9083",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 51025644,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 146486511,
+          "enter_from": 0,
+          "extra_info": "20220727_131436.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/gdrive_raw/20220727_131436.mp4",
+          "height": 1080,
+          "id": "1e87d083-6ef5-46bf-bda9-bcdbf6269dd6",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 146486511,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 31381977,
+          "enter_from": 0,
+          "extra_info": "20220727_131706.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/gdrive_raw/20220727_131706.mp4",
+          "height": 1080,
+          "id": "ac374f77-e7af-427f-885e-aaf7e4fa4f9d",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 31381977,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 34875144,
+          "enter_from": 0,
+          "extra_info": "20220727_131757.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/gdrive_raw/20220727_131757.mp4",
+          "height": 1080,
+          "id": "42efec57-afdd-45fc-bbb8-f5e85131a7ac",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 34875144,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 79695177,
+          "enter_from": 0,
+          "extra_info": "20220727_131849.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/gdrive_raw/20220727_131849.mp4",
+          "height": 1080,
+          "id": "7c553543-7db7-4a3f-ac2a-6e8e3cf15fe3",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 79695177,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 25244044,
+          "enter_from": 0,
+          "extra_info": "20220727_132052.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/gdrive_raw/20220727_132052.mp4",
+          "height": 1080,
+          "id": "853c22b3-a6d7-4d48-973d-b48130e89765",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 25244044,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 28977377,
+          "enter_from": 0,
+          "extra_info": "20220727_132133.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/gdrive_raw/20220727_132133.mp4",
+          "height": 1080,
+          "id": "0c9ab35f-b8df-4da4-a803-b0a9860c3830",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 28977377,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 57733333,
+          "enter_from": 0,
+          "extra_info": "mercedes_21_0728_wide1_phonk_41s.mp3",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/mercedes_21_0728_wide1_phonk_41s.mp3",
+          "height": 0,
+          "id": "76247366-8943-428c-8611-c27ce3042ff5",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "music",
+          "roughcut_time_range": {
+            "duration": 57733333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 0
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "로고_번호판.png",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/21' 벤츠 gle 옵틱(07.28)/로고_번호판.png",
+          "height": 200,
+          "id": "04c206a0-d226-4486-bbed-ca3989851651",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "CMC 크래프트 PPF 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/CMC 크래프트 PPF 아웃트로.mp4",
+          "height": 2160,
+          "id": "7c00cbb1-ec64-490d-a6ad-37c19f2c0b75",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "CMC 크래프트 썬팅 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/CMC 크래프트 썬팅 아웃트로.mp4",
+          "height": 2160,
+          "id": "30c223bc-8768-4053-a1e8-8894154a29d3",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "블랙미 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/블랙미 아웃트로.mp4",
+          "height": 2160,
+          "id": "399ab636-9ef5-4682-8c8b-ace97935f9a4",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "블랙사운드 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/블랙사운드 아웃트로.mp4",
+          "height": 2160,
+          "id": "44b6b2ce-71a5-4e91-bc54-db7823a948d9",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "스타포쉬 LED엠블럼 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/스타포쉬 LED엠블럼 아웃트로.mp4",
+          "height": 2160,
+          "id": "5f685016-761d-4337-9820-0cd4c3422592",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "스타포쉬 전사스 아웃트로 .mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/스타포쉬 전사스 아웃트로 .mp4",
+          "height": 2160,
+          "id": "4c22ffbb-ab67-4039-83ad-3eda2e6521b8",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 광각미러 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 광각미러 아웃트로.mp4",
+          "height": 2160,
+          "id": "d07f4543-283d-42b8-82f4-4ec4e90fcf97",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 오토사이드미러 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 오토사이드미러 아웃트로.mp4",
+          "height": 2160,
+          "id": "94fe4343-c071-4f97-88d9-bd12d90fd2fe",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 옵틱시스템 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 옵틱시스템 아웃트로.mp4",
+          "height": 2160,
+          "id": "aa5bc2e4-5864-4cdf-abdb-db900e9dcfeb",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075672,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "퓨어그래스 코일매트 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/퓨어그래스 코일매트 아웃트로.mp4",
+          "height": 2160,
+          "id": "c72655c2-79bf-476e-be6b-4e6dad086398",
+          "import_time": 1795075672,
+          "import_time_ms": 1795075672947327,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "value": []
+    },
+    {
+      "type": 2,
+      "value": []
+    },
+    {
+      "type": 3,
+      "value": []
+    },
+    {
+      "type": 6,
+      "value": []
+    },
+    {
+      "type": 7,
+      "value": []
+    },
+    {
+      "type": 8,
+      "value": []
+    }
+  ],
+  "draft_materials_copied_info": [],
+  "draft_name": "hermes_mercedes_21_0728_optic_wide1",
+  "draft_need_rename_folder": false,
+  "draft_new_version": "164.0.0",
+  "draft_removable_storage_device": "",
+  "draft_root_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft",
+  "draft_segment_extra_info": [
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "4515B779-EBAD-4613-AA57-9E41BE716BA6"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "4FAE31D9-28B6-4a3e-A5BB-321ECCCFCCE7"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "E7BCE574-FB7B-4365-BD56-C92050840F5F"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "F59FD670-0637-48bd-9E20-8D0467AD4785"
+    }
+  ],
+  "draft_timeline_materials_size_": 751667134,
+  "draft_type": "",
+  "draft_web_article_video_enter_from": "",
+  "pippit_avatar_url": "",
+  "pippit_extra_info": "",
+  "pippit_id": "",
+  "pippit_user_name": "",
+  "tm_draft_cloud_completed": "1748475545000",
+  "tm_draft_cloud_entry_id": -1,
+  "tm_draft_cloud_modified": 1748475231781864,
+  "tm_draft_cloud_parent_entry_id": -1,
+  "tm_draft_cloud_space_id": 7327545136085664770,
+  "tm_draft_cloud_user_id": -1,
+  "tm_draft_create": 1784618436715121,
+  "tm_draft_modified": 1784622296384116,
+  "tm_draft_removed": 0,
+  "tm_duration": 57733333
+}

@@ -1,0 +1,207 @@
+{
+ "id": "16MarfVRQl0",
+ "tab": "shorts",
+ "upload_date": "20261007",
+ "duration": 19.12,
+ "title": "이 차 보고 그냥 지나갈 수 있어요?  2013 머스탱 S197",
+ "url": "https://www.youtube.com/watch?v=16MarfVRQl0",
+ "width": 720,
+ "height": 1280,
+ "format": "shortform",
+ "aspect": "9:16",
+ "cuts": [
+  1.53,
+  2.3,
+  3.03,
+  6.17,
+  7.3,
+  9.2,
+  12.97,
+  14.42,
+  15.42,
+  16.98
+ ],
+ "ocr_readings": 397,
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 18.75,
+   "x": 0.3563,
+   "y": 0.8141,
+   "w": 0.4847,
+   "h": 0.0449,
+   "frames": 38,
+   "text": "Optic-Glass",
+   "ocr": "Optic-Glass",
+   "readings": [
+    [
+     "Optic-Glass",
+     38
+    ],
+    [
+     "Optic-GIass",
+     36
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 18.75,
+   "x": 0.0826,
+   "y": 0.1172,
+   "w": 0.8292,
+   "h": 0.0477,
+   "frames": 37,
+   "text": "심장을 울리는 머슬카의",
+   "ocr": "심장을 울리는 머슬카의",
+   "readings": [
+    [
+     "심장을 울리는 머슬카의",
+     37
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 18.75,
+   "x": 0.1,
+   "y": 0.1746,
+   "w": 0.7979,
+   "h": 0.0477,
+   "frames": 37,
+   "text": "상징 포드 머스탱 등장!",
+   "ocr": "상징 포드 머스탱 등장!",
+   "readings": [
+    [
+     "상징 포드 머스탱 등장!",
+     36
+    ],
+    [
+     "상징 포드 머스탱",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 11.75,
+   "end": 12.75,
+   "x": 0.4215,
+   "y": 0.6402,
+   "w": 0.1583,
+   "h": 0.0164,
+   "frames": 2,
+   "text": "OPTIC GLASS",
+   "ocr": "OPTIC GLASS",
+   "readings": [
+    [
+     "OPTIC GLASS",
+     2
+    ],
+    [
+     "OPTIC GLÅSS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 13.25,
+   "end": 14.25,
+   "x": 0.1792,
+   "y": 0.5852,
+   "w": 0.6389,
+   "h": 0.0453,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 15.25,
+   "end": 16.25,
+   "x": 0.6007,
+   "y": 0.3586,
+   "w": 0.3434,
+   "h": 0.0418,
+   "frames": 2,
+   "text": ")l쀄훼t!l와1후.들",
+   "ocr": ")l쀄훼t!l와1후.들",
+   "readings": [
+    [
+     ")l쀄훼t!l와1후.들",
+     1
+    ],
+    [
+     ")l쀄훼t!l와구:수",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 15.25,
+   "end": 16.75,
+   "x": 0.1319,
+   "y": 0.3594,
+   "w": 0.7736,
+   "h": 0.0437,
+   "frames": 3,
+   "text": "한이던 구넣식7/i-)`1 모임,나다.느",
+   "ocr": "한이던 구넣식7/i-)`1 모임,나다.느",
+   "readings": [
+    [
+     "한이던 구넣식7/i-)`1 모임,나다.느",
+     2
+    ],
+    [
+     "력한 한이던 구넣식7/i-)`1 모임,나다",
+     1
+    ]
+   ],
+   "caption": null,
+   "fixed_by": "ocr",
+   "agy_stray": "탁 트인 광각 시야가 보입니다."
+  },
+  {
+   "start": 17.25,
+   "end": 18.75,
+   "x": 0.3438,
+   "y": 0.4629,
+   "w": 0.0993,
+   "h": 0.0105,
+   "frames": 2,
+   "text": "OPtic-Glass",
+   "ocr": "OPtic-Glass",
+   "readings": [
+    [
+     "OPtic-Glass",
+     1
+    ],
+    [
+     "Optic-GlasS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:21:13"
+}

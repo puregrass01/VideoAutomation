@@ -1,0 +1,811 @@
+{
+  "spec_version": "0.1",
+  "meta": {
+    "template_name": "sorento_opticglass_longform",
+    "template_category": "longform",
+    "source_type": "local_draft",
+    "template": "opticglass_wide1",
+    "reference_template_id": "27112FC3-97E2-43fc-A81C-C439DFFB1BAD",
+    "outro_pool_dir": "C:\\Users\\bssho\\OneDrive\\문서\\카카오톡 받은 파일\\아웃트로\\아웃트로",
+    "selected_outro": "옵틱글래스 광각미러 아웃트로.mp4",
+    "duration_s": 57.733,
+    "notes": "옵틱글래스 공식 16:9 롱폼 템플릿(옵틱글래스 광각미러 템플릿 1 / 27112FC3) 기반 기아 소렌토 광각미러 롱폼 명세 (100% 실제 4K .MOV 영상, 외곽선 없는 불투명 검정 배경 박스 자막(가이드 정합), 시공 후 확장 화살표 4개 강조, 로고_번호판 및 얼굴 마스킹 적용)."
+  },
+  "canvas": {
+    "w": 1920,
+    "h": 1080,
+    "fps": 30.0,
+    "aspect": "16:9"
+  },
+  "audio": {
+    "bgm_slot": "C:\\Users\\bssho\\Downloads\\paperclip-master\\구글드라이브다운파일\\media\\sorento\\sorento_longform_bgm_41s.mp3",
+    "bpm": 120.0,
+    "downbeats_s": [
+      0.0,
+      4.667,
+      7.833,
+      10.067,
+      12.567,
+      18.2,
+      22.6,
+      27.6,
+      32.6,
+      37.6,
+      42.6,
+      46.6,
+      50.6
+    ],
+    "sections": [
+      {
+        "label": "full",
+        "start": 0.0,
+        "end": 57.733
+      }
+    ]
+  },
+  "styles": {
+    "longform_stroke_sub": {
+      "font": "NotoSansKR Bold",
+      "latin_font": "NotoSansKR-Bold-Static",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.0,
+      "color": "#FFFFFF",
+      "stroke": {
+        "color": "#000000",
+        "width": 0.06
+      },
+      "background": {
+        "enabled": false,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.85
+      ]
+    },
+    "longform_corner_badge": {
+      "font": "NotoSansKR Bold",
+      "latin_font": "NotoSansKR-Bold-Static",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.5,
+      "color": "#FFE650",
+      "stroke": {
+        "color": "#000000",
+        "width": 0.06
+      },
+      "background": {
+        "enabled": false,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.12
+      ]
+    }
+  },
+  "scenes": [
+    {
+      "id": "w00",
+      "start": 0.0,
+      "dur": 4.667,
+      "snap": "cut#w00",
+      "slot": {
+        "id": "clip_w00",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.667,
+        "subject_hint": "lf_w00_w00_car_exterior.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w01",
+      "start": 4.667,
+      "dur": 3.167,
+      "snap": "cut#w01",
+      "slot": {
+        "id": "clip_w01",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 3.167,
+        "subject_hint": "lf_w01_w01_car_detail.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "기아 소렌토",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            3.167
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w02",
+      "start": 7.833,
+      "dur": 2.233,
+      "snap": "cut#w02",
+      "slot": {
+        "id": "clip_w02",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.233,
+        "subject_hint": "lf_w02_w02_car_detail.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w03",
+      "start": 10.067,
+      "dur": 2.5,
+      "snap": "cut#w03",
+      "slot": {
+        "id": "clip_w03",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.5,
+        "subject_hint": "lf_w03_w03_car_exterior.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w04",
+      "start": 12.567,
+      "dur": 5.633,
+      "snap": "cut#w04",
+      "slot": {
+        "id": "clip_w04",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.633,
+        "subject_hint": "lf_w04_w04_car_exterior.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "BY OPTICGLASS",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            5.633
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "광각미러가 꼭 필요한 이유",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            5.633
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w05",
+      "start": 18.2,
+      "dur": 4.4,
+      "snap": "cut#w05",
+      "slot": {
+        "id": "clip_w05",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.4,
+        "subject_hint": "lf_w05_w05_car_exterior.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w06",
+      "start": 22.6,
+      "dur": 5.0,
+      "snap": "cut#w06",
+      "slot": {
+        "id": "clip_w06",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.0,
+        "subject_hint": "lf_w06_w06_mirror_before.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "광각미러 설치 전",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            2.967
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "사이드미러를 믿지 못해 매번 고개를 돌리고",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.5
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "불안감에 휩싸여 운전해야 하는 미련한 순정미러",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.5,
+            5.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w07",
+      "start": 27.6,
+      "dur": 5.0,
+      "snap": "cut#w07",
+      "slot": {
+        "id": "clip_w07",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.0,
+        "subject_hint": "lf_w07_w07_mirror_before.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "조수석 뒤쪽에서 다가오는 차량을 완전히 은폐시켜",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.5
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "대형 사고의 주인공으로 만들어 버리는 순정미러",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.5,
+            5.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w08",
+      "start": 32.6,
+      "dur": 5.0,
+      "snap": "cut#w08",
+      "slot": {
+        "id": "clip_w08",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.0,
+        "subject_hint": "lf_w08_w08_mirror_after.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "광각미러 설치 후",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            2.967
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "옵틱글래스로 한 켠에 파노라마처럼 펼쳐지는",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.5
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "스캔하는 것처럼 압도적인 시야의 격차",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.5,
+            5.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w09",
+      "start": 37.6,
+      "dur": 5.0,
+      "snap": "cut#w09",
+      "slot": {
+        "id": "clip_w09",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.0,
+        "subject_hint": "lf_w09_w09_mirror_after.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "칼치기 차량도 단 1초 만에 포착해 버리는",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.5
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "주차부터 타협 없는 완벽하고 더 편한 광각미러",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.5,
+            5.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w10",
+      "start": 42.6,
+      "dur": 4.0,
+      "snap": "cut#w10",
+      "slot": {
+        "id": "clip_w10",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.0,
+        "subject_hint": "lf_w10_w10_split.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "시공 전",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "시공 후",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "넓은 시야에서 시작해주는",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "옵틱글래스 광각미러를 설치하세요",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w11",
+      "start": 46.6,
+      "dur": 4.0,
+      "snap": "cut#w11",
+      "slot": {
+        "id": "clip_w11",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.0,
+        "subject_hint": "lf_w11_w11_split.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "시공 전",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "시공 후",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "기아 소렌토의 시야 업그레이드를",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            2.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "옵틱글래스 광각미러로 느껴보세요",
+          "style": "longform_stroke_sub",
+          "t": [
+            2.0,
+            4.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "w12",
+      "start": 50.6,
+      "dur": 7.133,
+      "snap": "cut#w12",
+      "slot": {
+        "id": "clip_w12",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 7.133,
+        "subject_hint": "random_outro:옵틱글래스 광각미러 아웃트로.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    }
+  ]
+}

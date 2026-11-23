@@ -1,0 +1,1222 @@
+{
+  "cloud_draft_cover": false,
+  "cloud_draft_sync": false,
+  "cloud_package_completed_time": "2025-05-28T23:39:05+00:00",
+  "draft_cloud_capcut_purchase_info": "",
+  "draft_cloud_last_action_download": false,
+  "draft_cloud_package_type": "",
+  "draft_cloud_purchase_info": "",
+  "draft_cloud_template_id": "",
+  "draft_cloud_tutorial_info": "",
+  "draft_cloud_videocut_purchase_info": "",
+  "draft_cover": "draft_cover.jpg",
+  "draft_deeplink_url": "",
+  "draft_enterprise_info": {
+    "draft_enterprise_extra": "",
+    "draft_enterprise_id": "",
+    "draft_enterprise_name": "",
+    "enterprise_material": []
+  },
+  "draft_fold_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft/hermes_c40_optic_wide1",
+  "draft_id": "27C3EBF8-E3DA-42BF-8EAA-67F089181F40",
+  "draft_is_ae_produce": false,
+  "draft_is_ai_packaging_used": false,
+  "draft_is_ai_shorts": false,
+  "draft_is_ai_translate": false,
+  "draft_is_article_video_draft": false,
+  "draft_is_cloud_temp_draft": false,
+  "draft_is_from_deeplink": "false",
+  "draft_is_invisible": false,
+  "draft_is_pippit_draft": false,
+  "draft_is_web_article_video": false,
+  "draft_materials": [
+    {
+      "type": 0,
+      "value": [
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 4666667,
+          "enter_from": 0,
+          "extra_info": "lf_w00_w00_car_exterior.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w00_w00_car_exterior.mp4",
+          "height": 1080,
+          "id": "e6d32e17-d22e-4ca7-8721-38e1fab18e6d",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4666667,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 3166666,
+          "enter_from": 0,
+          "extra_info": "lf_w01_w01_car_detail.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w01_w01_car_detail.mp4",
+          "height": 1080,
+          "id": "005d43a6-afef-462b-8f49-52add4e918d9",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3166666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 2233334,
+          "enter_from": 0,
+          "extra_info": "lf_w02_w02_car_detail.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w02_w02_car_detail.mp4",
+          "height": 1080,
+          "id": "f2b86fdc-461f-4040-9749-aabe136bbdcb",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 2233334,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 2500000,
+          "enter_from": 0,
+          "extra_info": "lf_w03_w03_car_exterior.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w03_w03_car_exterior.mp4",
+          "height": 1080,
+          "id": "b082fa15-e12a-45f7-8210-80d137cbc027",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 2500000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 5633333,
+          "enter_from": 0,
+          "extra_info": "lf_w04_w04_car_detail.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w04_w04_car_detail.mp4",
+          "height": 1080,
+          "id": "9cb3a1a8-eec9-42eb-91f1-d126c4c98470",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5633333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 4400000,
+          "enter_from": 0,
+          "extra_info": "lf_w05_w05_car_detail.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w05_w05_car_detail.mp4",
+          "height": 1080,
+          "id": "81e6680a-570f-4c28-b079-0054de701d7e",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4400000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w06_w06_mirror_before.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w06_w06_mirror_before.mp4",
+          "height": 1080,
+          "id": "8d2112d3-f20c-445c-8a0f-daf17dc07941",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w07_w07_mirror_before.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w07_w07_mirror_before.mp4",
+          "height": 1080,
+          "id": "24c43934-ddde-40b4-8470-8e38270d0d3a",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w08_w08_mirror_after.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w08_w08_mirror_after.mp4",
+          "height": 1080,
+          "id": "f07d936c-d9e2-4967-a36a-3d4fcfaa3776",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w09_w09_mirror_after.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w09_w09_mirror_after.mp4",
+          "height": 1080,
+          "id": "d5bc7c0f-26d1-428b-a135-4bf80ba650aa",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 4000000,
+          "enter_from": 0,
+          "extra_info": "lf_w10_w10_split.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w10_w10_split.mp4",
+          "height": 1080,
+          "id": "fb0085ae-abb3-4f77-86a5-f498baaf9bf5",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 4000000,
+          "enter_from": 0,
+          "extra_info": "lf_w11_w11_split.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w11_w11_split.mp4",
+          "height": 1080,
+          "id": "42ebc97a-c033-46c6-b813-8189fecb4d0d",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "lf_w12_opticglass_outro.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_w12_opticglass_outro.mp4",
+          "height": 1080,
+          "id": "53c91e14-935b-4be0-a5fd-224079246032",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "lf_volvo_logo_shadow.png",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/lf_volvo_logo_shadow.png",
+          "height": 206,
+          "id": "4d04db0d-5fe3-4c43-a48b-ac28828075a5",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": 10800000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 258
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 57733333,
+          "enter_from": 0,
+          "extra_info": "c40_wide1_bgm_41s.mp3",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/c40_wide1_bgm_41s.mp3",
+          "height": 0,
+          "id": "31c4c477-4c9f-4762-a076-d4ff46a45529",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013497,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "music",
+          "roughcut_time_range": {
+            "duration": 57733333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 0
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 40291666,
+          "enter_from": 0,
+          "extra_info": "시공영상 1.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/시공영상 1.MOV",
+          "height": 2160,
+          "id": "6ef9e60b-6412-433a-83ed-5d342553d2eb",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 40291666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 50346666,
+          "enter_from": 0,
+          "extra_info": "시공영상 2.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/시공영상 2.MOV",
+          "height": 2160,
+          "id": "3942e72f-6b03-4ff8-a8b5-070c86a1b12c",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 50346666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 31261666,
+          "enter_from": 0,
+          "extra_info": "시공영상 3.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/시공영상 3.MOV",
+          "height": 2160,
+          "id": "b2fcedea-2a47-40b5-8afb-f87727758f6f",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 31261666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 83766666,
+          "enter_from": 0,
+          "extra_info": "시공영상 4.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/시공영상 4.MOV",
+          "height": 2160,
+          "id": "9ac12100-341c-4c41-957c-bdc0c60112df",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 83766666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7888333,
+          "enter_from": 0,
+          "extra_info": "외관영상 1.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/외관영상 1.MOV",
+          "height": 2160,
+          "id": "cd2405d4-716a-47f6-959a-4dd624491962",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7888333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 8388333,
+          "enter_from": 0,
+          "extra_info": "외관영상 10.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/외관영상 10.MOV",
+          "height": 2160,
+          "id": "721180eb-65e1-4351-9599-6afe5c6739ed",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 8388333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 8171666,
+          "enter_from": 0,
+          "extra_info": "외관영상 2.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/외관영상 2.MOV",
+          "height": 2160,
+          "id": "6fde6d53-2e0a-4c82-91c5-117aa1d65473",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 8171666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 5486666,
+          "enter_from": 0,
+          "extra_info": "외관영상 3.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/외관영상 3.MOV",
+          "height": 2160,
+          "id": "891002d1-f0b2-4c25-949f-7722b5c4db2e",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5486666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 11973333,
+          "enter_from": 0,
+          "extra_info": "외관영상 4.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/외관영상 4.MOV",
+          "height": 2160,
+          "id": "8065bdef-349a-45e7-a3ac-06620c8b5086",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 11973333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 5920000,
+          "enter_from": 0,
+          "extra_info": "외관영상 5.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/외관영상 5.MOV",
+          "height": 2160,
+          "id": "cb5c4e2c-7813-455f-9468-16872b6b7525",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5920000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 10790000,
+          "enter_from": 0,
+          "extra_info": "외관영상 6.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/외관영상 6.MOV",
+          "height": 2160,
+          "id": "afd89f7b-6aa5-45e0-aa8f-088a52a1a06c",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 10790000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 5036666,
+          "enter_from": 0,
+          "extra_info": "외관영상 7.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/외관영상 7.MOV",
+          "height": 2160,
+          "id": "ab98876f-2c79-4912-a655-661d8a3ac2b9",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5036666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 3885000,
+          "enter_from": 0,
+          "extra_info": "외관영상 8.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/외관영상 8.MOV",
+          "height": 2160,
+          "id": "3a65e769-e000-4369-8a56-6ddeeccd5d70",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3885000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 10390000,
+          "enter_from": 0,
+          "extra_info": "외관영상 9.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/외관영상 9.MOV",
+          "height": 2160,
+          "id": "3e1d9393-bcd3-42ec-b92b-3f055d0336ce",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 10390000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 25181666,
+          "enter_from": 0,
+          "extra_info": "운전석 시야 비교영상.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/운전석 시야 비교영상.MOV",
+          "height": 2160,
+          "id": "233c0dcd-1dd1-4a6e-90a7-0ea9f7b47757",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 25181666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 18228333,
+          "enter_from": 0,
+          "extra_info": "조수석 시야 비교영상.MOV",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/gdrive_raw/조수석 시야 비교영상.MOV",
+          "height": 2160,
+          "id": "93f74768-a59e-4299-88fd-c5c72b565ee5",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 18228333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 57733333,
+          "enter_from": 0,
+          "extra_info": "c40_wide1_phonk_41s.mp3",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/c40_wide1_phonk_41s.mp3",
+          "height": 0,
+          "id": "847934f3-66af-49ce-bd15-0621dcfd3064",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "music",
+          "roughcut_time_range": {
+            "duration": 57733333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 0
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "로고_번호판.png",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/로고_번호판.png",
+          "height": 200,
+          "id": "f12d69fb-6338-4d42-964c-0f159b7f29c5",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "CMC 크래프트 PPF 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/CMC 크래프트 PPF 아웃트로.mp4",
+          "height": 2160,
+          "id": "4ffae4d2-9b2b-4220-b2e9-29b8b9578bb6",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "CMC 크래프트 썬팅 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/CMC 크래프트 썬팅 아웃트로.mp4",
+          "height": 2160,
+          "id": "e98a0ef4-525b-48d4-b4e4-f603356563c9",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "블랙미 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/블랙미 아웃트로.mp4",
+          "height": 2160,
+          "id": "66950295-4651-4381-9797-ceeb7c012881",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "블랙사운드 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/블랙사운드 아웃트로.mp4",
+          "height": 2160,
+          "id": "da8d2e83-daa6-402d-a671-1f553bef3956",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "스타포쉬 LED엠블럼 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/스타포쉬 LED엠블럼 아웃트로.mp4",
+          "height": 2160,
+          "id": "cbe67f9b-6e64-46e5-b47f-d1c74335edde",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "스타포쉬 전사스 아웃트로 .mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/스타포쉬 전사스 아웃트로 .mp4",
+          "height": 2160,
+          "id": "0ef53ea5-6e95-4fc5-b565-003698ce6607",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 광각미러 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 광각미러 아웃트로.mp4",
+          "height": 2160,
+          "id": "5fca40c9-ee9d-40d2-bed9-c19c834a964e",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 오토사이드미러 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 오토사이드미러 아웃트로.mp4",
+          "height": 2160,
+          "id": "8cfdcf00-933f-4ef0-905a-c69f665111cf",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 옵틱시스템 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 옵틱시스템 아웃트로.mp4",
+          "height": 2160,
+          "id": "3ae0fe5c-1328-43aa-8cc4-1e5d2e039d6f",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075574,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "퓨어그래스 코일매트 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/퓨어그래스 코일매트 아웃트로.mp4",
+          "height": 2160,
+          "id": "e1a49379-f6e3-42e3-aa1f-eacd2edc0b73",
+          "import_time": 1795075574,
+          "import_time_ms": 1795075574013615,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "value": []
+    },
+    {
+      "type": 2,
+      "value": []
+    },
+    {
+      "type": 3,
+      "value": []
+    },
+    {
+      "type": 6,
+      "value": []
+    },
+    {
+      "type": 7,
+      "value": []
+    },
+    {
+      "type": 8,
+      "value": []
+    }
+  ],
+  "draft_materials_copied_info": [],
+  "draft_name": "hermes_c40_optic_wide1",
+  "draft_need_rename_folder": false,
+  "draft_new_version": "164.0.0",
+  "draft_removable_storage_device": "",
+  "draft_root_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft",
+  "draft_segment_extra_info": [
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "4515B779-EBAD-4613-AA57-9E41BE716BA6"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "4FAE31D9-28B6-4a3e-A5BB-321ECCCFCCE7"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "E7BCE574-FB7B-4365-BD56-C92050840F5F"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "F59FD670-0637-48bd-9E20-8D0467AD4785"
+    }
+  ],
+  "draft_timeline_materials_size_": 751667134,
+  "draft_type": "",
+  "draft_web_article_video_enter_from": "",
+  "pippit_avatar_url": "",
+  "pippit_extra_info": "",
+  "pippit_id": "",
+  "pippit_user_name": "",
+  "tm_draft_cloud_completed": "1748475545000",
+  "tm_draft_cloud_entry_id": -1,
+  "tm_draft_cloud_modified": 1748475231781864,
+  "tm_draft_cloud_parent_entry_id": -1,
+  "tm_draft_cloud_space_id": 7327545136085664770,
+  "tm_draft_cloud_user_id": -1,
+  "tm_draft_create": 1784618436715121,
+  "tm_draft_modified": 1784622296384116,
+  "tm_draft_removed": 0,
+  "tm_duration": 57733333
+}

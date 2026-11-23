@@ -1,0 +1,667 @@
+{
+ "id": "d_HSiB8f7No",
+ "tab": "shorts",
+ "upload_date": "20260815",
+ "duration": 26.3,
+ "title": "이 덩치가 제로백 3.8초? BMW XM의 반전 성능",
+ "url": "https://www.youtube.com/watch?v=d_HSiB8f7No",
+ "width": 720,
+ "height": 1280,
+ "format": "shortform",
+ "aspect": "9:16",
+ "cuts": [
+  19.83,
+  21.3,
+  22.3,
+  23.87
+ ],
+ "ocr_readings": 843,
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 4.75,
+   "x": 0.0236,
+   "y": 0.3523,
+   "w": 0.1861,
+   "h": 0.0109,
+   "frames": 10,
+   "text": "출처: carenevaler•ojr",
+   "ocr": "출처: carenevaler•ojr",
+   "readings": [
+    [
+     "출처: carenevaler•ojr",
+     10
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.75,
+   "x": 0.2212,
+   "y": 0.476,
+   "w": 0.5611,
+   "h": 0.0486,
+   "frames": 4,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     2
+    ],
+    [
+     "PART03. 성능",
+     2
+    ],
+    [
+     "PART",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.25,
+   "x": 0.4014,
+   "y": 0.6227,
+   "w": 0.1931,
+   "h": 0.007,
+   "frames": 3,
+   "text": "RMi•d mp tha XM",
+   "ocr": "RMi•d mp tha XM",
+   "readings": [
+    [
+     "RMi•d mp tha XM",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.25,
+   "x": 0.3736,
+   "y": 0.6297,
+   "w": 0.2549,
+   "h": 0.0152,
+   "frames": 3,
+   "text": "세 번째는 성능입니다",
+   "ocr": "세 번패는 성능입니다",
+   "readings": [
+    [
+     "세 번패는 성능입니다",
+     3
+    ],
+    [
+     "세 번째는 성능입니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 25.75,
+   "x": 0.3563,
+   "y": 0.8141,
+   "w": 0.4847,
+   "h": 0.0449,
+   "frames": 52,
+   "text": "Optic-Glass",
+   "ocr": "Optic-Glass",
+   "readings": [
+    [
+     "Optic-Glass",
+     52
+    ],
+    [
+     "Optic-GIass",
+     51
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 26.25,
+   "x": 0.1583,
+   "y": 0.1152,
+   "w": 0.6549,
+   "h": 0.0492,
+   "frames": 52,
+   "text": "제로백 3.8초 역시",
+   "ocr": "제로백 3.8초 역시",
+   "readings": [
+    [
+     "제로백 3.8초 역시",
+     52
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 26.25,
+   "x": 0.0792,
+   "y": 0.175,
+   "w": 0.8451,
+   "h": 0.0492,
+   "frames": 52,
+   "text": "스포츠카의 가속력이다",
+   "ocr": "스포츠카의 가속력이다",
+   "readings": [
+    [
+     "스포츠카의 가속력이다",
+     51
+    ],
+    [
+     "스포츠카의 가속",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.25,
+   "end": 2.75,
+   "x": 0.4597,
+   "y": 0.6227,
+   "w": 0.0903,
+   "h": 0.007,
+   "frames": 3,
+   "text": "『• like seede",
+   "ocr": "『• like seede",
+   "readings": [
+    [
+     "『• like seede",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.25,
+   "end": 3.75,
+   "x": 0.3861,
+   "y": 0.6297,
+   "w": 0.2285,
+   "h": 0.0148,
+   "frames": 5,
+   "text": "구동계는 4.4L V8",
+   "ocr": "구동계는 4.4L V8",
+   "readings": [
+    [
+     "구동계는 4.4L V8",
+     5
+    ],
+    [
+     "구동계는 4.4L ⅴ8",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 19.75,
+   "x": 0.7889,
+   "y": 0.357,
+   "w": 0.1847,
+   "h": 0.0145,
+   "frames": 36,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     36
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 2.75,
+   "end": 3.75,
+   "x": 0.4847,
+   "y": 0.6227,
+   "w": 0.0847,
+   "h": 0.007,
+   "frames": 2,
+   "text": "them in 북해",
+   "ocr": "them in 북해",
+   "readings": [
+    [
+     "them in 북해",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 3.75,
+   "end": 6.25,
+   "x": 0.3083,
+   "y": 0.6297,
+   "w": 0.3833,
+   "h": 0.0168,
+   "frames": 5,
+   "text": "가솔린 엔진과 고성능 전기 모터",
+   "ocr": "가솔린 엔진과 고성능 전기 모터",
+   "readings": [
+    [
+     "가솔린 엔진과 고성능 전기 모터",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 4.75,
+   "end": 19.75,
+   "x": 0.0236,
+   "y": 0.3523,
+   "w": 0.1868,
+   "h": 0.0109,
+   "frames": 30,
+   "text": "출서 : (1 renevaler•ojr",
+   "ocr": "출서 : (1 renevaler•ojr",
+   "readings": [
+    [
+     "출서 : (1 renevaler•ojr",
+     10
+    ],
+    [
+     "출서: (1 renevaler•ojr",
+     10
+    ],
+    [
+     "출서: arenevaler•ojr",
+     10
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 4.75,
+   "end": 6.25,
+   "x": 0.3236,
+   "y": 0.6227,
+   "w": 0.0903,
+   "h": 0.007,
+   "frames": 3,
+   "text": "AnH thp",
+   "ocr": "AnH thp",
+   "readings": [
+    [
+     "AnH thp",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 4.75,
+   "end": 6.25,
+   "x": 0.4778,
+   "y": 0.6227,
+   "w": 0.1181,
+   "h": 0.007,
+   "frames": 3,
+   "text": "snirit",
+   "ocr": "snirit",
+   "readings": [
+    [
+     "snirit",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 6.25,
+   "end": 8.25,
+   "x": 0.2347,
+   "y": 0.6297,
+   "w": 0.5326,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "플러그인 하이브리드 시스템을 탑재했습니다",
+   "ocr": "플러그인 하이브리드 시스템을 탑재했습니다",
+   "readings": [
+    [
+     "플러그인 하이브리드 시스템을 탑재했습니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 8.25,
+   "end": 10.25,
+   "x": 0.3368,
+   "y": 0.6297,
+   "w": 0.3257,
+   "h": 0.0168,
+   "frames": 4,
+   "text": "수치는 최고 출력 748마력",
+   "ocr": "수치는 최고 출력 748마력",
+   "readings": [
+    [
+     "수치는 최고 출력 748마력",
+     4
+    ],
+    [
+     "수치는 최고 출력 748마력『",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 10.25,
+   "end": 12.75,
+   "x": 0.2639,
+   "y": 0.6293,
+   "w": 0.4722,
+   "h": 0.0172,
+   "frames": 5,
+   "text": "최대 토크 킬로그램 힘 미터를 발휘하며",
+   "ocr": "최대 토크 길로그램 힘 미터를 발휘하며",
+   "readings": [
+    [
+     "최대 토크 길로그램 힘 미터를 발휘하며",
+     5
+    ],
+    [
+     "최대 토크 킬로그램 힘 미터를 발휘하며",
+     5
+    ],
+    [
+     "최대 도크 킬로그램 힘 미터를",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 12.75,
+   "end": 14.25,
+   "x": 0.3667,
+   "y": 0.6297,
+   "w": 0.2687,
+   "h": 0.0152,
+   "frames": 3,
+   "text": "제로백은 3.8초입니다",
+   "ocr": "제로백은 3.8초입니다",
+   "readings": [
+    [
+     "제로백은 3.8초입니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.25,
+   "end": 16.75,
+   "x": 0.284,
+   "y": 0.6297,
+   "w": 0.4319,
+   "h": 0.0152,
+   "frames": 5,
+   "text": "효율은 복합 연비 리터당 10KM이며",
+   "ocr": "효율은 복합 연비 리터당 IOKM이며",
+   "readings": [
+    [
+     "효율은 복합 연비 리터당 IOKM이며",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 16.75,
+   "end": 19.75,
+   "x": 0.2132,
+   "y": 0.6297,
+   "w": 0.5764,
+   "h": 0.0152,
+   "frames": 6,
+   "text": "1회 충전 시 순수 전기 주행거리는 60KM입니다",
+   "ocr": "1회 충전 시 순수 전기 주행거리는 60KM입니다",
+   "readings": [
+    [
+     "1회 충전 시 순수 전기 주행거리는 60KM입니다",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 17.25,
+   "end": 19.25,
+   "x": 0.3833,
+   "y": 0.525,
+   "w": 0.1931,
+   "h": 0.025,
+   "frames": 3,
+   "text": "1 'AM E1935E",
+   "ocr": "1 'AM E1935E",
+   "readings": [
+    [
+     "1 'AM E1935E",
+     1
+    ],
+    [
+     "1가4 E1935E",
+     1
+    ],
+    [
+     "47M 935E",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.25,
+   "end": 21.25,
+   "x": 0.1667,
+   "y": 0.5781,
+   "w": 0.6611,
+   "h": 0.0813,
+   "frames": 2,
+   "text": "찧진낸력하찜한결흐?",
+   "ocr": "찧진낸력하찜한결흐?",
+   "readings": [
+    [
+     "찧진낸력하찜한결흐?",
+     1
+    ],
+    [
+     "찧진낸*하쪨한결흐?",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.25,
+   "end": 21.25,
+   "x": 0.1792,
+   "y": 0.5852,
+   "w": 0.6389,
+   "h": 0.0445,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.25,
+   "end": 21.25,
+   "x": 0.1639,
+   "y": 0.5855,
+   "w": 0.6604,
+   "h": 0.0445,
+   "frames": 2,
+   "text": "자각*지태, 뉯아쬅하礬좌?",
+   "ocr": "자각*지태, 뉯아쬅하礬좌?",
+   "readings": [
+    [
+     "자각*지태, 뉯아쬅하礬좌?",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 21.25,
+   "end": 22.25,
+   "x": 0.1444,
+   "y": 0.4801,
+   "w": 0.5854,
+   "h": 0.0393,
+   "frames": 2,
+   "text": "단 3초, 시야 2배 확장",
+   "ocr": "단3초, 시야2배 확장",
+   "readings": [
+    [
+     "단3초, 시야2배 확장",
+     1
+    ],
+    [
+     "단-3최시야-2배 확장",
+     1
+    ],
+    [
+     "3초, 시야2배 확가",
+     1
+    ],
+    [
+     "단3최시야2배확장",
+     1
+    ],
+    [
+     "드卜,3초퉀시야.2배.확장",
+     1
+    ],
+    [
+     "단 3초「시야 2배 확장",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.25,
+   "end": 23.75,
+   "x": 0.0417,
+   "y": 0.3586,
+   "w": 0.8625,
+   "h": 0.0445,
+   "frames": 2,
+   "text": "액한 코이던 구결7가/`•| 모임,니~다!",
+   "ocr": "액한 코이던 구결7가/`•| 모임,니~다!",
+   "readings": [
+    [
+     "액한 코이던 구결7가/`•| 모임,니~다!",
+     1
+    ],
+    [
+     "간 코이던 구결7가/`•| 모임,니~다!",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 23.75,
+   "end": 25.75,
+   "x": 0.5708,
+   "y": 0.5953,
+   "w": 0.0972,
+   "h": 0.018,
+   "frames": 3,
+   "text": "옵틱글래스",
+   "ocr": "옵택글개스",
+   "readings": [
+    [
+     "옵택글개스",
+     1
+    ],
+    [
+     "옵틱글개스",
+     1
+    ],
+    [
+     "음택글래스",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 24.25,
+   "end": 25.75,
+   "x": 0.3285,
+   "y": 0.4477,
+   "w": 0.1139,
+   "h": 0.0105,
+   "frames": 2,
+   "text": "OPtic-Glass",
+   "ocr": "OPtic-Glass",
+   "readings": [
+    [
+     "OPtic-Glass",
+     1
+    ],
+    [
+     "OPtic-GlaSS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:42:20"
+}

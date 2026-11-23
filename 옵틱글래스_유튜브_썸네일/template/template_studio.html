@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>옵틱글래스 유튜브 썸네일 생성 스튜디오 (0002~0043 템플릿)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Noto+Sans+KR:wght@500;700;900&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0d1017;
+      --panel: #161b26;
+      --border: #283044;
+      --accent: #ffd400;
+      --cyan: #00e5ff;
+      --text: #f1f5f9;
+      --muted: #94a3b8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      display: grid;
+      grid-template-columns: 420px 1fr;
+      min-height: 100vh;
+    }
+    aside {
+      background: var(--panel);
+      border-right: 1px solid var(--border);
+      padding: 20px;
+      overflow-y: auto;
+      max-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+    h1 {
+      font-size: 18px;
+      font-weight: 900;
+      color: var(--accent);
+      letter-spacing: -0.3px;
+    }
+    .sub-desc {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 4px;
+      line-height: 1.4;
+    }
+    .section {
+      background: rgba(255,255,255,0.02);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .section-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: #cbd5e1;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .preset-pills {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 6px;
+    }
+    .pill-btn {
+      background: #1e2536;
+      border: 1px solid #334155;
+      color: #e2e8f0;
+      border-radius: 6px;
+      padding: 7px 8px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      text-align: left;
+      transition: all 0.15s;
+    }
+    .pill-btn:hover, .pill-btn.active {
+      background: rgba(255, 212, 0, 0.16);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    label {
+      font-size: 12px;
+      color: var(--muted);
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    input[type="text"], textarea, select {
+      background: #0f141d;
+      border: 1px solid #334155;
+      border-radius: 6px;
+      color: #fff;
+      padding: 8px 10px;
+      font-size: 13px;
+      font-family: inherit;
+    }
+    textarea { resize: vertical; min-height: 52px; }
+    .row-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+    .row-3 {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 8px;
+    }
+    input[type="color"] {
+      width: 100%;
+      height: 34px;
+      border: 1px solid #334155;
+      border-radius: 6px;
+      background: #0f141d;
+      cursor: pointer;
+    }
+    .file-drop {
+      border: 1px dashed #475569;
+      border-radius: 8px;
+      padding: 8px 10px;
+      font-size: 12px;
+      color: #cbd5e1;
+      cursor: pointer;
+      background: rgba(15, 20, 29, 0.6);
+    }
+    .file-drop input { display: none; }
+    .btn-primary {
+      background: var(--accent);
+      color: #0f172a;
+      border: none;
+      border-radius: 8px;
+      padding: 11px 14px;
+      font-weight: 900;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    .btn-secondary {
+      background: #1e293b;
+      color: #f8fafc;
+      border: 1px solid #475569;
+      border-radius: 8px;
+      padding: 9px 12px;
+      font-weight: 700;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    main {
+      padding: 24px 32px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+      overflow-y: auto;
+      max-height: 100vh;
+    }
+    .canvas-wrap {
+      width: 100%;
+      max-width: 1080px;
+      aspect-ratio: 16 / 9;
+      background: #000;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 20px 50px rgba(0,0,0,0.65);
+      border: 1px solid #334155;
+    }
+    canvas {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+    .prompt-panel {
+      width: 100%;
+      max-width: 1080px;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .prompt-box {
+      width: 100%;
+      min-height: 150px;
+      font-family: Consolas, monospace;
+      font-size: 12px;
+      line-height: 1.5;
+      background: #0b0e14;
+      color: #e2e8f0;
+      padding: 12px;
+      border-radius: 8px;
+      border: 1px solid #283044;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+  <aside>
+    <div>
+      <h1>OPTIC-GLASS 썸네일 스튜디오</h1>
+      <p class="sub-desc">0002_img ~ 0043_img 레퍼런스 표준 1280×720 썸네일 합성 & AI 프롬프트 생성기</p>
+    </div>
+
+    <div class="section">
+      <div class="section-title">1. 대표 레퍼런스 프리셋 (0002~0043)</div>
+      <div class="preset-pills" id="quickPresets">
+        <button class="pill-btn active" data-id="0031">#0031 아우디 Q3 (좌우표준)</button>
+        <button class="pill-btn" data-id="0034">#0034 기아 카니발 (콜아웃)</button>
+        <button class="pill-btn" data-id="0030">#0030 테슬라 모델Y (아이콘3)</button>
+        <button class="pill-btn" data-id="0029">#0029 벤츠 SL500 (상단1줄)</button>
+        <button class="pill-btn" data-id="0037">#0037 지프 랭글러 (사각카드)</button>
+        <button class="pill-btn" data-id="0028">#0028 사이버트럭 (하단풀바)</button>
+        <button class="pill-btn" data-id="0002">#0002 르노 세닉 (상하/시안)</button>
+        <button class="pill-btn" data-id="0043">#0043 테슬라 모델X (상하표준)</button>
+      </div>
+      <label>
+        레이아웃 구조
+        <select id="presetSelect">
+          <option value="split_horizontal">좌우 시공 전·후 비교형 (0027~0042)</option>
+          <option value="split_vertical">상하 시공 전·후 비교형 (0002, 0006~0020, 0043)</option>
+          <option value="hero_review">단독 차량 히어로 리뷰형 (0003~0005, 0033)</option>
+        </select>
+      </label>
+      <label>
+        세부 스타일 (Sub-Style)
+        <select id="subStyleSelect">
+          <option value="audi_q3_0031">0031 아우디 Q3 (상단필+하단슬로건바)</option>
+          <option value="carnival_0034">0034 기아 카니발 (상단탭+미러콜아웃)</option>
+          <option value="model_y_0030">0030 테슬라 모델 Y (하단캡션+좌하단아이콘3)</option>
+          <option value="benz_sl500_0029">0029 벤츠 SL 500 (상단와이드1줄+우하단아이콘3)</option>
+          <option value="wrangler_0037">0037 지프 랭글러 (우측사각아이콘카드3)</option>
+          <option value="cybertruck_0028">0028 사이버트럭 (하단전체바)</option>
+          <option value="model_x_0043">0043 테슬라 모델 X (상하비교+원형확대인셋)</option>
+          <option value="top_full_title_why">0006~0020 상하비교 (상단1줄+왜 필요할까?)</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="section">
+      <div class="section-title">2. 이미지 소스 업로드</div>
+      <label class="file-drop">
+        🚗 좌측 배경/차량 히어로 이미지 선택 (클릭/드롭)
+        <input type="file" id="bgFile" accept="image/*" />
+      </label>
+      <div class="row-2">
+        <label class="file-drop">
+          🪞 [시공 전] 미러 사진
+          <input type="file" id="beforeFile" accept="image/*" />
+        </label>
+        <label class="file-drop">
+          ✨ [시공 후] 광각 사진
+          <input type="file" id="afterFile" accept="image/*" />
+        </label>
+      </div>
+      <label style="flex-direction:row; align-items:center; gap:8px; margin-top:4px; color:#e2e8f0;">
+        <input type="checkbox" id="drawDashed" checked />
+        시공 후 카드에 노란 점선 윤곽선 & 확장 화살표 자동 표시
+      </label>
+    </div>
+
+    <div class="section">
+      <div class="section-title">3. 타이포그래피 & 배너 편집 (대형 타이틀 전용 · 자잘한 문구 배제)</div>
+      <label>1줄 타이틀 (차종명) <input type="text" id="line1" value="2025 아우디 Q3" /></label>
+      <label>2줄 메인 카피 <input type="text" id="line2" value="광각미러 차이!" /></label>
+      <div class="row-2">
+        <label>전 라벨 <input type="text" id="beforeLabel" value="시공 전" /></label>
+        <label>후 라벨 <input type="text" id="afterLabel" value="시공 후" /></label>
+      </div>
+      <input type="hidden" id="badgeText" value="" />
+      <input type="hidden" id="footerText" value="" />
+      <label style="flex-direction:row; align-items:center; gap:8px; margin-top:2px; color:#e2e8f0;">
+        <input type="checkbox" id="showLogo" checked />
+        공식 로고 (옵틱글래스 로고.png · 박스 없이 그림자만 적용) 표시
+      </label>
+      <div class="row-3">
+        <label>메인 강조색 <input type="color" id="accentColor" value="#ffd400" /></label>
+        <label>보조 강조색 <input type="color" id="secColor" value="#00e5ff" /></label>
+        <label>시공후 라벨색 <input type="color" id="afterHdrColor" value="#b81d13" /></label>
+      </div>
+    </div>
+
+    <div class="section">
+      <button class="btn-primary" id="downloadPngBtn">⬇ 1280×720 PNG 고화질 다운로드</button>
+      <button class="btn-secondary" id="downloadJpgBtn">⬇ 1280×720 JPG 다운로드</button>
+    </div>
+  </aside>
+
+  <main>
+    <div class="canvas-wrap">
+      <canvas id="thumbCanvas" width="1280" height="720"></canvas>
+    </div>
+
+    <div class="prompt-panel">
+      <div class="section-title">
+        <span>🤖 Gemini Nano Banana 2.1 / AI 이미지 생성용 프롬프트 (자동 동기화)</span>
+        <div style="display:flex; gap:8px;">
+          <button class="btn-secondary" id="copyAllPromptBtn">📋 통째 생성 프롬프트 복사</button>
+          <button class="btn-secondary" id="copyBgPromptBtn">📋 차량 배경 전용 프롬프트 복사</button>
+        </div>
+      </div>
+      <div class="prompt-box" id="promptOutput"></div>
+    </div>
+  </main>
+
+  <script>
+    const PRESET_DATA = {
+      "0031": {
+        preset: "split_horizontal", sub_style: "audi_q3_0031",
+        line1: "2025 아우디 Q3", line2: "광각미러 차이!",
+        beforeLabel: "시공 전", afterLabel: "시공 후", badgeText: "",
+        footerText: "",
+        accentColor: "#ffd400", secColor: "#00e5ff", afterHdrColor: "#b81d13",
+        sampleImg: "samples/generated_0031.jpg"
+      },
+      "0034": {
+        preset: "split_horizontal", sub_style: "carnival_0034",
+        line1: "기아 카니발", line2: "광각미러 차이!",
+        beforeLabel: "시공 전", afterLabel: "시공 후", badgeText: "",
+        footerText: "",
+        accentColor: "#ffd400", secColor: "#ffd400", afterHdrColor: "#ffd400",
+        sampleImg: "samples/generated_0034.jpg"
+      },
+      "0030": {
+        preset: "split_horizontal", sub_style: "model_y_0030",
+        line1: "테슬라 모델 Y", line2: "광각미러 차이!",
+        beforeLabel: "시공 전", afterLabel: "시공 후", badgeText: "",
+        footerText: "",
+        accentColor: "#ffd400", secColor: "#ffd400", afterHdrColor: "#ffd400",
+        sampleImg: "samples/generated_0030.jpg"
+      },
+      "0029": {
+        preset: "split_horizontal", sub_style: "benz_sl500_0029",
+        line1: "벤츠 SL 500", line2: "광각미러 차이!",
+        beforeLabel: "시공 전", afterLabel: "시공 후", badgeText: "",
+        footerText: "",
+        accentColor: "#ffd400", secColor: "#ffd400", afterHdrColor: "#ffd400",
+        sampleImg: "samples/generated_0029.jpg"
+      },
+      "0037": {
+        preset: "split_horizontal", sub_style: "wrangler_0037",
+        line1: "지프 랭글러 루비콘", line2: "광각미러 차이!",
+        beforeLabel: "설치 전", afterLabel: "설치 후", badgeText: "",
+        footerText: "",
+        accentColor: "#ffd400", secColor: "#ffd400", afterHdrColor: "#ffd400",
+        sampleImg: "samples/generated_0037.jpg"
+      },
+      "0028": {
+        preset: "split_horizontal", sub_style: "cybertruck_0028",
+        line1: "사이버트럭", line2: "광각미러 차이!",
+        beforeLabel: "시공 전", afterLabel: "시공 후", badgeText: "",
+        footerText: "",
+        accentColor: "#ffe600", secColor: "#ffe600", afterHdrColor: "#ffe600",
+        sampleImg: "samples/generated_0028.jpg"
+      },
+      "0002": {
+        preset: "split_vertical", sub_style: "model_x_0043",
+        line1: "르노 세닉 E-Tech", line2: "광각미러 차이!",
+        beforeLabel: "설치 전", afterLabel: "설치 후", badgeText: "",
+        footerText: "",
+        accentColor: "#00e5ff", secColor: "#ffd400", afterHdrColor: "#00e5ff",
+        sampleImg: "samples/generated_0002.jpg"
+      },
+      "0043": {
+        preset: "split_vertical", sub_style: "model_x_0043",
+        line1: "2026 테슬라 모델 X", line2: "광각미러 시야 차이!",
+        beforeLabel: "시공 전", afterLabel: "시공 후", badgeText: "",
+        footerText: "",
+        accentColor: "#ffe600", secColor: "#ffe600", afterHdrColor: "#ffe600",
+        sampleImg: "samples/generated_0043.jpg"
+      }
+    };
+
+    const canvas = document.getElementById("thumbCanvas");
+    const ctx = canvas.getContext("2d");
+    let bgImg = null, beforeImg = null, afterImg = null, refPreviewImg = null;
+    const officialLogoImg = new Image();
+    officialLogoImg.onload = () => renderCanvas();
+    officialLogoImg.src = "옵틱글래스 로고.png";
+
+    function loadFileImage(inputEl, cb) {
+      inputEl.addEventListener("change", (e) => {
+        const file = e.target.files[0];
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = (ev) => {
+          const img = new Image();
+          img.onload = () => { cb(img); renderCanvas(); };
+          img.src = ev.target.result;
+        };
+        reader.readAsDataURL(file);
+      });
+    }
+
+    loadFileImage(document.getElementById("bgFile"), (im) => { bgImg = im; refPreviewImg = null; });
+    loadFileImage(document.getElementById("beforeFile"), (im) => { beforeImg = im; refPreviewImg = null; });
+    loadFileImage(document.getElementById("afterFile"), (im) => { afterImg = im; refPreviewImg = null; });
+
+    function drawCoverImage(im, x, y, w, h, radius = 0) {
+      ctx.save();
+      if (radius > 0) {
+        ctx.beginPath();
+        ctx.roundRect(x, y, w, h, radius);
+        ctx.clip();
+      }
+      if (im) {
+        const scale = Math.max(w / im.width, h / im.height);
+        const nw = im.width * scale, nh = im.height * scale;
+        ctx.drawImage(im, x + (w - nw) / 2, y + (h - nh) / 2, nw, nh);
+      } else {
+        const grad = ctx.createLinearGradient(x, y, x + w, y + h);
+        grad.addColorStop(0, "#1a2234");
+        grad.addColorStop(1, "#0d111a");
+        ctx.fillStyle = grad;
+        ctx.fillRect(x, y, w, h);
+      }
+      ctx.restore();
+    }
+
+    function drawSlantedText(text, x, y, size, topCol, botCol, strokeWidth = 10) {
+      ctx.save();
+      ctx.translate(x, y);
+      ctx.transform(1, 0, -0.15, 1, 0, 0);
+      ctx.font = `900 ${size}px 'Black Han Sans', 'Noto Sans KR', sans-serif`;
+      ctx.lineJoin = "round";
+      ctx.shadowColor = "rgba(0,0,0,0.82)";
+      ctx.shadowBlur = 10;
+      ctx.shadowOffsetX = 4;
+      ctx.shadowOffsetY = 6;
+      ctx.lineWidth = strokeWidth;
+      ctx.strokeStyle = "#000000";
+      ctx.strokeText(text, 0, 0);
+
+      ctx.shadowColor = "transparent";
+      const grad = ctx.createLinearGradient(0, -size * 0.85, 0, 10);
+      grad.addColorStop(0, topCol);
+      grad.addColorStop(1, botCol);
+      ctx.fillStyle = grad;
+      ctx.fillText(text, 0, 0);
+      ctx.restore();
+    }
+
+    function drawOfficialLogo(x, y, targetH = 38) {
+      if (!officialLogoImg || !officialLogoImg.complete || officialLogoImg.naturalWidth === 0) return;
+      ctx.save();
+      const ratio = officialLogoImg.naturalWidth / officialLogoImg.naturalHeight;
+      const targetW = targetH * ratio;
+      ctx.shadowColor = "rgba(0,0,0,0.85)";
+      ctx.shadowBlur = 6;
+      ctx.shadowOffsetX = 2;
+      ctx.shadowOffsetY = 2;
+      ctx.drawImage(officialLogoImg, x, y, targetW, targetH);
+      ctx.restore();
+    }
+
+    function drawDashedMirrorContour(x, y, w, h, accent) {
+      ctx.save();
+      const mx0 = x + w * 0.12, my0 = y + h * 0.22;
+      const mx1 = x + w * 0.88, my1 = y + h * 0.84;
+      ctx.beginPath();
+      ctx.moveTo(mx0 + (mx1 - mx0) * 0.16, my0 + 8);
+      ctx.lineTo(mx1 - 24, my0);
+      ctx.quadraticCurveTo(mx1, my0, mx1, my0 + 26);
+      ctx.lineTo(mx1 - 6, my1 - 24);
+      ctx.quadraticCurveTo(mx1 - 18, my1, mx1 - 36, my1);
+      ctx.lineTo(mx0 + 28, my1 - 12);
+      ctx.quadraticCurveTo(mx0, my1 - 24, mx0, (my0 + my1) / 2);
+      ctx.closePath();
+
+      ctx.setLineDash([12, 7]);
+      ctx.lineWidth = 6;
+      ctx.strokeStyle = "#000";
+      ctx.stroke();
+      ctx.lineWidth = 3;
+      ctx.strokeStyle = accent;
+      ctx.stroke();
+      ctx.setLineDash([]);
+
+      // Draw 4-way outward expansion arrows (Left, Right, Up, Down) on the After mirror
+      const cx = (mx0 + mx1) / 2, cy = (my0 + my1) / 2;
+      function drawMiniArrow(ax, ay, dx, dy) {
+        ctx.save();
+        ctx.beginPath();
+        if (dx !== 0) {
+          ctx.moveTo(ax, ay - 7);
+          ctx.lineTo(ax + dx * 8, ay - 7);
+          ctx.lineTo(ax + dx * 8, ay - 14);
+          ctx.lineTo(ax + dx * 20, ay);
+          ctx.lineTo(ax + dx * 8, ay + 14);
+          ctx.lineTo(ax + dx * 8, ay + 7);
+          ctx.lineTo(ax, ay + 7);
+        } else {
+          ctx.moveTo(ax - 7, ay);
+          ctx.lineTo(ax - 7, ay + dy * 8);
+          ctx.lineTo(ax - 14, ay + dy * 8);
+          ctx.lineTo(ax, ay + dy * 20);
+          ctx.lineTo(ax + 14, ay + dy * 8);
+          ctx.lineTo(ax + 7, ay + dy * 8);
+          ctx.lineTo(ax + 7, ay);
+        }
+        ctx.closePath();
+        ctx.lineWidth = 3;
+        ctx.strokeStyle = "#000";
+        ctx.stroke();
+        ctx.fillStyle = accent;
+        ctx.fill();
+        ctx.restore();
+      }
+      drawMiniArrow(mx0 + 18, cy, -1, 0);
+      drawMiniArrow(mx1 - 18, cy, 1, 0);
+      drawMiniArrow(cx, my0 + 18, 0, -1);
+      drawMiniArrow(cx, my1 - 18, 0, 1);
+      ctx.restore();
+    }
+
+    function updatePrompts() {
+      const line1 = document.getElementById("line1").value;
+      const line2 = document.getElementById("line2").value;
+      const beforeLabel = document.getElementById("beforeLabel").value;
+      const afterLabel = document.getElementById("afterLabel").value;
+      const preset = document.getElementById("presetSelect").value;
+      const accent = document.getElementById("accentColor").value;
+
+      const allInOne = `유튜브 자동차 튜닝 전문 채널 '옵틱글래스(Optic-Glass)'의 고클릭률(CTR) 16:9 썸네일(1280x720)을 생성해 주세요.
+
+[레이아웃 프리셋: ${preset === "split_vertical" ? "우측 상하 시공 전·후 비교형 (차량 70% : 비교사진 30% 비율)" : "우측 좌우 시공 전·후 비교형 (차량 70% : 비교사진 30% 비율)"}]
+1. 좌측 히어로 차량 & 대형 헤드라인 영역 (화면 비중 약 70%):
+   - 상단 타이틀 1줄(차종명): "${line1}" (우측으로 살짝 기울어진 실버·화이트 메탈릭 볼드 고딕체 + 두꺼운 검정 외곽선)
+   - 상단 타이틀 2줄(메인 훅): "${line2}" (초대형 사이즈의 강렬한 ${accent} 옐로우/골드 슬랜트 고딕체 + 검정 테두리 및 네온 글로우)
+   - 히어로 차량 & 공식 로고: 좌측 70% 영역에 ${line1} 차량의 역동적인 3/4 전면 실사 화보를 시원하게 배치하여 우측 비교 사진에 가려지지 않게 할 것. 좌측 하단에는 단색 배경 박스 없이 공식 '옵틱글래스 로고.png'를 배치하고 은은한 그림자(Drop Shadow)만 적용할 것.
+2. 우측 비교 영역 (화면 우측 비중 약 30%):
+   - 첨부된 2장의 사이드미러 사진을 ${preset === "split_vertical" ? "위·아래(상하)" : "좌·우(나란히)"} 카드 프레임으로 배치
+   - [${beforeLabel}] 카드(다크 헤더) ➔ 노란색 화살표 ➔ [${afterLabel}] 카드(강조 헤더 + 발광 테두리)
+   - [${afterLabel}] 거울 테두리 안쪽에 노란색 점선(---) 윤곽선과 상하좌우 바깥쪽으로 뻗는 시야 확장 화살표(⬅ ➡ ⬆ ⬇) 효과를 반드시 표시할 것
+3. 디테일 타이포그래피 배제 (필수):
+   - "넓어진 시야 / 안전성 향상 / 선명한 시야", 하단 슬로건 박스, 원형 스탬프 등 작은 글씨는 일절 넣지 말고 대형 헤드라인과 전·후 라벨만 남길 것.`;
+
+      document.getElementById("promptOutput").textContent = allInOne;
+    }
+
+    function renderCanvas() {
+      ctx.clearRect(0, 0, 1280, 720);
+
+      // If no custom uploads are provided and a pre-rendered sample exists, show the pre-rendered sample or live canvas
+      if (!bgImg && !beforeImg && !afterImg && refPreviewImg && refPreviewImg.complete && refPreviewImg.naturalWidth > 0) {
+        ctx.drawImage(refPreviewImg, 0, 0, 1280, 720);
+        updatePrompts();
+        return;
+      }
+
+      const preset = document.getElementById("presetSelect").value;
+      const line1 = document.getElementById("line1").value;
+      const line2 = document.getElementById("line2").value;
+      const beforeLabel = document.getElementById("beforeLabel").value;
+      const afterLabel = document.getElementById("afterLabel").value;
+      const accent = document.getElementById("accentColor").value;
+      const afterHdr = document.getElementById("afterHdrColor").value;
+      const showDashed = document.getElementById("drawDashed").checked;
+      const showLogo = document.getElementById("showLogo").checked;
+
+      drawCoverImage(bgImg, 0, 0, 1280, 720);
+
+      // Headline: ONLY big font ({car name} + 광각미러 차이!) — no detailed typography or badges
+      drawSlantedText(line1, 36, 102, 68, "#ffffff", "#cbd5e1", 12);
+      drawSlantedText(line2, 34, 206, 90, "#fff799", accent, 14);
+
+      if (preset === "split_horizontal") {
+        // 70:30 ratio: keep left ~70% open for the background vehicle, compact comparison cards on right
+        const c1x = 710, c2x = 990, cy = 235, cw1 = 266, cw2 = 272, ch = 390;
+        drawCoverImage(beforeImg, c1x, cy, cw1, ch, 16);
+        drawCoverImage(afterImg, c2x, cy, cw2, ch, 16);
+        if (showDashed) drawDashedMirrorContour(c2x, cy, cw2, ch, accent);
+
+        ctx.save();
+        ctx.lineWidth = 3;
+        ctx.strokeStyle = "#e2e8f0";
+        ctx.beginPath(); ctx.roundRect(c1x, cy, cw1, ch, 16); ctx.stroke();
+        ctx.lineWidth = 4;
+        ctx.strokeStyle = accent;
+        ctx.beginPath(); ctx.roundRect(c2x, cy, cw2, ch, 16); ctx.stroke();
+
+        // Header pills
+        ctx.fillStyle = "#141820";
+        ctx.beginPath(); ctx.roundRect(c1x + cw1 / 2 - 72, cy - 18, 144, 46, 10); ctx.fill(); ctx.stroke();
+        ctx.fillStyle = afterHdr;
+        ctx.beginPath(); ctx.roundRect(c2x + cw2 / 2 - 83, cy - 24, 166, 52, 12); ctx.fill(); ctx.stroke();
+        ctx.restore();
+
+        drawSlantedText(beforeLabel, c1x + cw1 / 2 - 42, cy + 16, 26, "#fff", "#e2e8f0", 5);
+        drawSlantedText(afterLabel, c2x + cw2 / 2 - 48, cy + 12, 30, accent, accent, 6);
+      } else if (preset === "split_vertical") {
+        // 70:30 ratio: left ~70% (0..836) shows full background vehicle, right ~30% (836..1260) shows stacked cards
+        const cx = 836, cw = 424, ty = 28, by = 364, ch = 316;
+        drawCoverImage(beforeImg, cx, ty, cw, ch, 16);
+        drawCoverImage(afterImg, cx, by, cw, ch, 16);
+        if (showDashed) drawDashedMirrorContour(cx, by, cw, ch, accent);
+
+        ctx.save();
+        ctx.lineWidth = 3;
+        ctx.strokeStyle = "#e2e8f0";
+        ctx.beginPath(); ctx.roundRect(cx, ty, cw, ch, 16); ctx.stroke();
+        ctx.lineWidth = 4;
+        ctx.strokeStyle = accent;
+        ctx.beginPath(); ctx.roundRect(cx, by, cw, ch, 16); ctx.stroke();
+        ctx.restore();
+
+        drawSlantedText(beforeLabel, cx + 24, ty + 38, 28, "#fff", "#cbd5e1", 5);
+        drawSlantedText(afterLabel, cx + 24, by + 38, 28, accent, accent, 5);
+      }
+
+      if (showLogo) {
+        drawOfficialLogo(24, 660, 40);
+      }
+
+      updatePrompts();
+    }
+
+    function applyPresetId(id) {
+      const p = PRESET_DATA[id];
+      if (!p) return;
+      document.getElementById("presetSelect").value = p.preset;
+      document.getElementById("subStyleSelect").value = p.sub_style;
+      document.getElementById("line1").value = p.line1;
+      document.getElementById("line2").value = p.line2;
+      document.getElementById("beforeLabel").value = p.beforeLabel;
+      document.getElementById("afterLabel").value = p.afterLabel;
+      document.getElementById("badgeText").value = p.badgeText;
+      document.getElementById("footerText").value = p.footerText;
+      document.getElementById("accentColor").value = p.accentColor;
+      document.getElementById("secColor").value = p.secColor;
+      document.getElementById("afterHdrColor").value = p.afterHdrColor;
+
+      if (!bgImg && !beforeImg && !afterImg && p.sampleImg) {
+        const im = new Image();
+        im.onload = () => { refPreviewImg = im; renderCanvas(); };
+        im.onerror = () => { refPreviewImg = null; renderCanvas(); };
+        im.src = p.sampleImg;
+      } else {
+        renderCanvas();
+      }
+    }
+
+    document.querySelectorAll(".pill-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll(".pill-btn").forEach((b) => b.classList.remove("active"));
+        btn.classList.add("active");
+        applyPresetId(btn.dataset.id);
+      });
+    });
+
+    ["presetSelect","subStyleSelect","line1","line2","beforeLabel","afterLabel","badgeText","footerText","accentColor","secColor","afterHdrColor","drawDashed","showLogo"].forEach((id) => {
+      document.getElementById(id).addEventListener("input", () => {
+        refPreviewImg = null;
+        renderCanvas();
+      });
+    });
+
+    document.getElementById("downloadPngBtn").addEventListener("click", () => {
+      const a = document.createElement("a");
+      a.download = `opticglass_thumbnail_${Date.now()}.png`;
+      a.href = canvas.toDataURL("image/png");
+      a.click();
+    });
+
+    document.getElementById("downloadJpgBtn").addEventListener("click", () => {
+      const a = document.createElement("a");
+      a.download = `opticglass_thumbnail_${Date.now()}.jpg`;
+      a.href = canvas.toDataURL("image/jpeg", 0.95);
+      a.click();
+    });
+
+    document.getElementById("copyAllPromptBtn").addEventListener("click", () => {
+      navigator.clipboard.writeText(document.getElementById("promptOutput").textContent);
+    });
+
+    document.getElementById("copyBgPromptBtn").addEventListener("click", () => {
+      const l1 = document.getElementById("line1").value;
+      const bgPrompt = `Commercial automotive hero photography, 16:9 widescreen (1280x720), 8k resolution.\nSubject: ${l1} positioned prominently in the LEFT 70% of the frame (3/4 front-right view) with white license plate reading "Optic-Glass".\nComposition (70:30 Visual Balance): Frame the car across the left 65%~70% of the canvas so the vehicle is unobstructed, and leave the top-left sky and right 30% as dark bokeh negative space for Korean headline typography and compact before/after mirror comparison cards. No text or watermarks.`;
+      navigator.clipboard.writeText(bgPrompt);
+      document.getElementById("promptOutput").textContent = bgPrompt;
+    });
+
+    applyPresetId("0031");
+  </script>
+</body>
+</html>

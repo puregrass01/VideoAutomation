@@ -1,0 +1,3521 @@
+{
+ "id": "pE7Kw4875sg",
+ "tab": "videos",
+ "upload_date": "20260819",
+ "duration": 147.43,
+ "title": "2026 코나, 이렇게까지 달라졌다고?",
+ "url": "https://www.youtube.com/watch?v=pE7Kw4875sg",
+ "width": 1280,
+ "height": 720,
+ "format": "longform",
+ "aspect": "16:9",
+ "cuts": [
+  9.5,
+  9.9,
+  10.53,
+  16.57,
+  19.7,
+  20.57,
+  26.0,
+  31.97,
+  36.83,
+  41.83,
+  44.03,
+  48.6,
+  53.27,
+  57.73,
+  60.23,
+  64.9,
+  74.87,
+  82.1,
+  88.87,
+  95.27,
+  98.2,
+  99.6,
+  100.63,
+  101.73,
+  102.37,
+  104.33,
+  105.73,
+  106.4,
+  106.83,
+  107.73,
+  108.67,
+  109.5,
+  110.4,
+  111.67,
+  112.8,
+  114.63,
+  115.63,
+  116.3,
+  118.0,
+  121.17,
+  125.3,
+  127.3,
+  128.07,
+  128.77,
+  129.3,
+  129.93,
+  135.33,
+  137.43,
+  138.47,
+  139.83,
+  141.0,
+  142.57,
+  143.57,
+  145.13
+ ],
+ "ocr_readings": 2313,
+ "captions": [
+  {
+   "start": 0.75,
+   "end": 3.75,
+   "x": 0.7422,
+   "y": 0.7389,
+   "w": 0.0758,
+   "h": 0.0292,
+   "frames": 5,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     2
+    ],
+    [
+     "pure Grass",
+     1
+    ],
+    [
+     "Pure",
+     1
+    ],
+    [
+     "0;능 Pure Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.25,
+   "end": 2.75,
+   "x": 0.0305,
+   "y": 0.3694,
+   "w": 0.1965,
+   "h": 0.1014,
+   "frames": 2,
+   "text": "&f,rrwc",
+   "ocr": "&f,rrwc",
+   "readings": [
+    [
+     "&f,rrwc",
+     1
+    ],
+    [
+     "ffrrW&",
+     1
+    ],
+    [
+     "bfrrww",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 3.25,
+   "x": 0.0305,
+   "y": 0.3847,
+   "w": 0.1949,
+   "h": 0.0931,
+   "frames": 2,
+   "text": "&f7TIN&",
+   "ocr": "&f7TIN&",
+   "readings": [
+    [
+     "&f7TIN&",
+     1
+    ],
+    [
+     "&fTTIH&",
+     1
+    ],
+    [
+     "&fTTlN&",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 2.25,
+   "end": 3.25,
+   "x": 0.0295,
+   "y": 0.5035,
+   "w": 0.2135,
+   "h": 0.0931,
+   "frames": 2,
+   "text": "CUTW15",
+   "ocr": "CUTW15",
+   "readings": [
+    [
+     "CUTW15",
+     2
+    ],
+    [
+     "CUTTH15",
+     1
+    ],
+    [
+     "CUrrH15",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 3.75,
+   "end": 4.75,
+   "x": 0.2078,
+   "y": 0.4,
+   "w": 0.4125,
+   "h": 0.1333,
+   "frames": 2,
+   "text": "ABOUT TO",
+   "ocr": "ABOUT TO",
+   "readings": [
+    [
+     "ABOUT TO",
+     2
+    ],
+    [
+     "ABOUTTO",
+     1
+    ],
+    [
+     "ABOUT",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 8.75,
+   "end": 9.75,
+   "x": 0.1168,
+   "y": 0.675,
+   "w": 0.0949,
+   "h": 0.0542,
+   "frames": 2,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     1
+    ],
+    [
+     "Pu『e Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 10.25,
+   "end": 13.25,
+   "x": 0.2035,
+   "y": 0.9083,
+   "w": 0.5938,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "안녕하세요 옵틱글래스입니다 오늘 살펴볼 차량은",
+   "ocr": "안녕하세요 옵티글래스입니다 오늘 살펴볼 차량은",
+   "readings": [
+    [
+     "안녕하세요 옵티글래스입니다 오늘 살펴볼 차량은",
+     6
+    ],
+    [
+     "안녕하세요 옵티글래스입니다 오늘 살퍼몰 차량은",
+     5
+    ],
+    [
+     "안녕하세요 옵티글래스입니다 오늘 살퍼볼 차량은",
+     3
+    ],
+    [
+     "안녕하세요 옵티글래스입니다 오늘같퍼볼 차량은",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 10.75,
+   "end": 14.25,
+   "x": 0.2555,
+   "y": 0.474,
+   "w": 0.5645,
+   "h": 0.0962,
+   "frames": 7,
+   "text": "OPTICGLASS",
+   "ocr": "OPTICGLASS",
+   "readings": [
+    [
+     "OPTICGLASS",
+     6
+    ],
+    [
+     "OPTrCGLAS5",
+     1
+    ],
+    [
+     "OPTICGCASS",
+     1
+    ],
+    [
+     "OPhCGLASS",
+     1
+    ],
+    [
+     "OPTI$LASS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 12.75,
+   "end": 13.75,
+   "x": 0.2551,
+   "y": 0.4708,
+   "w": 0.1898,
+   "h": 0.1076,
+   "frames": 2,
+   "text": "OPTI",
+   "ocr": "OPTI",
+   "readings": [
+    [
+     "OPTI",
+     1
+    ],
+    [
+     "OPT",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 13.25,
+   "end": 15.25,
+   "x": 0.3187,
+   "y": 0.9083,
+   "w": 0.3637,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "효율성과 프리미엄한 안락함을",
+   "ocr": "효율성과 프리미엄한 안락함을",
+   "readings": [
+    [
+     "효율성과 프리미엄한 안락함을",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 15.25,
+   "end": 16.25,
+   "x": 0.4027,
+   "y": 0.901,
+   "w": 0.1941,
+   "h": 0.0632,
+   "frames": 2,
+   "text": "동시에 제공하는",
+   "ocr": "동시에 제공하는",
+   "readings": [
+    [
+     "동시에 제공하는",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 16.25,
+   "end": 20.25,
+   "x": 0.2355,
+   "y": 0.9076,
+   "w": 0.5305,
+   "h": 0.05,
+   "frames": 8,
+   "text": "소형 SUV 현대 26년식 디 올 뉴 코나입니다",
+   "ocr": "소형 SUV 현대 26년식 디 올 뉴 코나입니다",
+   "readings": [
+    [
+     "소형 SUV 현대 26년식 디 올 뉴 코나입니다",
+     8
+    ],
+    [
+     "소형 SUV 현대 26년식 디 올 뉴로나입니다",
+     2
+    ],
+    [
+     "소형 SUV 현대 26년식 디 올 뉴 코나입니다,1",
+     1
+    ],
+    [
+     "소형 SUV 현대 26년식 디 올 뉴 코나입니다그",
+     1
+    ],
+    [
+     "소형 SUV 현대 26년식 디 올 뉴)코나입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.25,
+   "end": 22.25,
+   "x": 0.373,
+   "y": 0.9083,
+   "w": 0.2562,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "첫 번째는 외관입니다",
+   "ocr": "첫 번째는 외관입니다",
+   "readings": [
+    [
+     "첫 번째는 외관입니다",
+     4
+    ],
+    [
+     "첫 번패는 외관입니다",
+     2
+    ],
+    [
+     "처 버패는 외관입니다",
+     1
+    ],
+    [
+     "첫 번째른외관입니다",
+     1
+    ],
+    [
+     "첫•번패는 외관입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.75,
+   "end": 22.25,
+   "x": 0.2219,
+   "y": 0.4278,
+   "w": 0.5625,
+   "h": 0.15,
+   "frames": 3,
+   "text": "PART 01. 외부",
+   "ocr": "PART 01. 회부",
+   "readings": [
+    [
+     "PART 01. 회부",
+     3
+    ],
+    [
+     "PART 0뛉. 회부",
+     1
+    ],
+    [
+     "PART 01. 의부",
+     1
+    ],
+    [
+     "PART 01. 만꾸=",
+     1
+    ],
+    [
+     "PART 01; 맨부및=",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.75,
+   "end": 22.75,
+   "x": 0.8687,
+   "y": 0.7517,
+   "w": 0.076,
+   "h": 0.0292,
+   "frames": 4,
+   "text": "pure GraSS",
+   "ocr": "pure GraSS",
+   "readings": [
+    [
+     "pure GraSS",
+     1
+    ],
+    [
+     "pure Grass",
+     1
+    ],
+    [
+     "Pure -8",
+     1
+    ],
+    [
+     "e GraSS",
+     1
+    ],
+    [
+     "Pure",
+     1
+    ],
+    [
+     "Ptre",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.25,
+   "end": 24.25,
+   "x": 0.3988,
+   "y": 0.9083,
+   "w": 0.202,
+   "h": 0.0549,
+   "frames": 4,
+   "text": "전장 4350MM",
+   "ocr": "전장 4350MM′",
+   "readings": [
+    [
+     "전장 4350MM′",
+     4
+    ],
+    [
+     "처장 4350M바",
+     2
+    ],
+    [
+     "전장 4350MM",
+     1
+    ],
+    [
+     "전장4350MM",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.75,
+   "end": 64.75,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1852,
+   "h": 0.0465,
+   "frames": 84,
+   "text": "PART 01. 외부",
+   "ocr": "PART 01. 의부",
+   "readings": [
+    [
+     "PART 01. 의부",
+     83
+    ],
+    [
+     "PART 01. 회부",
+     11
+    ],
+    [
+     "PART 01. 인부",
+     5
+    ],
+    [
+     "PART 01. 만부",
+     3
+    ],
+    [
+     "PARTOI.QJ부",
+     2
+    ],
+    [
+     "PART 01 .•의부",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 23.75,
+   "end": 24.75,
+   "x": 0.634,
+   "y": 0.7243,
+   "w": 0.082,
+   "h": 0.0368,
+   "frames": 2,
+   "text": "pure Grass",
+   "ocr": "pure Grass",
+   "readings": [
+    [
+     "pure Grass",
+     1
+    ],
+    [
+     "이%| pure Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 24.25,
+   "end": 29.25,
+   "x": 0.0406,
+   "y": 0.9069,
+   "w": 0.9203,
+   "h": 0.0514,
+   "frames": 10,
+   "text": "축거 2660MM의 다부진 체급을 자랑하는 볼륨감 있는 실루엣을 보여줍니다",
+   "ocr": "축거 2660MM의 다부진 체급을 자랑하는 몰름감 있는 실루엣을 보여줍니다",
+   "readings": [
+    [
+     "축거 2660MM의 다부진 체급을 자랑하는 몰름감 있는 실루엣을 보여줍니다",
+     10
+    ],
+    [
+     "축거 2660MM의 -다부진 체급을 자랑하는 몰름감 있는 실루엣을 보여줍니다누",
+     1
+    ],
+    [
+     "축거 2660MM의 다부진 체급을 자랑하는 몰름감 있는 실루엣을 보여줍니다그젙",
+     1
+    ],
+    [
+     "축거 2660MM의 다부진 체급을 자랑하는 몰름감4있는 실루엣을 보여줍니다",
+     1
+    ],
+    [
+     "축거 2660MM의 다부진 체급을 자랑하는1몰름감 있는 실루엣을 보여줍니다",
+     1
+    ],
+    [
+     "축거 2660MM의 다부진 체급을 자랑하는 볼름감 있는 실루엣을 보여줍니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 25.75,
+   "end": 30.25,
+   "x": 0.5945,
+   "y": 0.8167,
+   "w": 0.0914,
+   "h": 0.0292,
+   "frames": 9,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     9
+    ],
+    [
+     "Pure",
+     1
+    ],
+    [
+     "Pure G暠를",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 27.75,
+   "end": 28.75,
+   "x": 0.025,
+   "y": 0.2076,
+   "w": 0.0527,
+   "h": 0.025,
+   "frames": 2,
+   "text": "@NAVER",
+   "ocr": "@NAVER",
+   "readings": [
+    [
+     "@NAVER",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 29.25,
+   "end": 30.75,
+   "x": 0.3863,
+   "y": 0.9069,
+   "w": 0.2262,
+   "h": 0.05,
+   "frames": 3,
+   "text": "전면부는 끊김 없이",
+   "ocr": "전면부는 끊김 없이",
+   "readings": [
+    [
+     "전면부는 끊김 없이",
+     3
+    ],
+    [
+     "전면부는 끊김 `없이",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 30.25,
+   "end": 31.75,
+   "x": 0.2695,
+   "y": 0.8389,
+   "w": 0.1328,
+   "h": 0.0444,
+   "frames": 3,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     1
+    ],
+    [
+     "OJ쳥』 ure GrasS",
+     1
+    ],
+    [
+     "(??\\ re Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 30.75,
+   "end": 35.25,
+   "x": 0.1391,
+   "y": 0.9069,
+   "w": 0.7211,
+   "h": 0.05,
+   "frames": 9,
+   "text": "연결된 심리스 호라이즌 램프와 대담한 범퍼 디자인이 맞물려",
+   "ocr": "연결된 심리스 호라이즌 램프와 대담한 범퍼 디자인이 맞물려",
+   "readings": [
+    [
+     "연결된 심리스 호라이즌 램프와 대담한 범퍼 디자인이 맞물려",
+     8
+    ],
+    [
+     "연결된•심리스 호라이즌 램프와 대담한 범퍼 디자인이 맞물려",
+     2
+    ],
+    [
+     "연결된 심리스 호라이즌 램프와 대담한 범퍼!:g디자인이 맞물려",
+     1
+    ],
+    [
+     "첫연결된 심리스 호라이즌 램프와 대담한 범퍼 디자인이 맞물려",
+     1
+    ],
+    [
+     "연결된 심리스 호라이즌 램프와 대담한 범퍼 디자인이 '맞물려",
+     1
+    ],
+    [
+     "연결된 심리스 호라이즌 램프와 대담한 범퍼 디자인이 맞물라",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 32.25,
+   "end": 35.25,
+   "x": 0.1437,
+   "y": 0.7597,
+   "w": 0.0898,
+   "h": 0.0347,
+   "frames": 6,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     2
+    ],
+    [
+     "? Pure Grass",
+     1
+    ],
+    [
+     ") Pure Grass",
+     1
+    ],
+    [
+     "Grass",
+     1
+    ],
+    [
+     "“0 Pure Grass",
+     1
+    ],
+    [
+     "才 Pure Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 35.25,
+   "end": 41.75,
+   "x": 0.8246,
+   "y": 0.1472,
+   "w": 0.148,
+   "h": 0.0889,
+   "frames": 4,
+   "text": "PART 01. 외부",
+   "ocr": "PARTOI. 회튜",
+   "readings": [
+    [
+     "PARTOI. 회튜",
+     1
+    ],
+    [
+     "PARTOI",
+     1
+    ],
+    [
+     "PARTOI. 의수",
+     1
+    ],
+    [
+     "PARTO 의츻",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 35.25,
+   "end": 37.25,
+   "x": 0.293,
+   "y": 0.9083,
+   "w": 0.4168,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "미래지향적 시그니처를 완성합니다",
+   "ocr": "미래지향적 시그니처를 완성합니다",
+   "readings": [
+    [
+     "미래지향적 시그니처를 완성합니다",
+     4
+    ],
+    [
+     "꽃이래지한적 시그니치를 완성합니다",
+     1
+    ],
+    [
+     "마래지항적 시그니저를 완성합니다』 /",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 35.75,
+   "end": 36.75,
+   "x": 0.3754,
+   "y": 0.7319,
+   "w": 0.0391,
+   "h": 0.0312,
+   "frames": 2,
+   "text": "re Grass",
+   "ocr": "re Grass",
+   "readings": [
+    [
+     "re Grass",
+     1
+    ],
+    [
+     "Grass",
+     1
+    ],
+    [
+     "Grae",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 37.25,
+   "end": 40.75,
+   "x": 0.2535,
+   "y": 0.9083,
+   "w": 0.4914,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "측면부는 날카로운 캐릭터 라인과 18인치",
+   "ocr": "측면부는 날카로운 캐릭터 라인과 18인치",
+   "readings": [
+    [
+     "측면부는 날카로운 캐릭터 라인과 18인치",
+     7
+    ],
+    [
+     "측면부는 날카로운,캐릭터 라인과 18인치",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 39.25,
+   "end": 41.75,
+   "x": 0.0141,
+   "y": 0.8111,
+   "w": 0.1555,
+   "h": 0.0875,
+   "frames": 3,
+   "text": "Grass",
+   "ocr": "Grass",
+   "readings": [
+    [
+     "Grass",
+     2
+    ],
+    [
+     "Pure Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 40.75,
+   "end": 41.75,
+   "x": 0.3725,
+   "y": 0.9049,
+   "w": 0.2529,
+   "h": 0.0545,
+   "frames": 2,
+   "text": "알로이 휠이 어우러져",
+   "ocr": "알로이 휄이 어우러져",
+   "readings": [
+    [
+     "알로이 휄이 어우러져",
+     2
+    ],
+    [
+     "알로에 월이 어우러져",
+     1
+    ],
+    [
+     "앜로이 월이 어우러져",
+     1
+    ],
+    [
+     "알로이 훨이 어우러져",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 41.75,
+   "end": 43.75,
+   "x": 0.3191,
+   "y": 0.9083,
+   "w": 0.3637,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "역동적인 스탠스를 보여줍니다",
+   "ocr": "역동적인 스탠스를 보여줍니다",
+   "readings": [
+    [
+     "역동적인 스탠스를 보여줍니다",
+     4
+    ],
+    [
+     "역동적인 스탠스를 보여äLlcl)",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 44.25,
+   "end": 47.25,
+   "x": 0.7008,
+   "y": 0.6347,
+   "w": 0.0719,
+   "h": 0.0347,
+   "frames": 6,
+   "text": "pure Grass",
+   "ocr": "pure Grass",
+   "readings": [
+    [
+     "pure Grass",
+     3
+    ],
+    [
+     "0&쳥 Pure Grass",
+     1
+    ],
+    [
+     "나 pure Grass",
+     1
+    ],
+    [
+     "pure GraS",
+     1
+    ],
+    [
+     "0;Ⅸ pure Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 44.25,
+   "end": 46.25,
+   "x": 0.7951,
+   "y": 0.6503,
+   "w": 0.032,
+   "h": 0.0257,
+   "frames": 4,
+   "text": "pure",
+   "ocr": "pure",
+   "readings": [
+    [
+     "pure",
+     2
+    ],
+    [
+     "Pure",
+     1
+    ],
+    [
+     "pure G硜3",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 44.25,
+   "end": 48.25,
+   "x": 0.1234,
+   "y": 0.9062,
+   "w": 0.7527,
+   "h": 0.0545,
+   "frames": 8,
+   "text": "코나의 후면부는 미래지향적인 풀 와이드 LED 라이트바를 통해",
+   "ocr": "코나의 후면부는 미래지향적인 풀 와이드 LED 라이트바를 통해",
+   "readings": [
+    [
+     "코나의 후면부는 미래지향적인 풀 와이드 LED 라이트바를 통해",
+     8
+    ],
+    [
+     "! 코나의 후면부는 미래지향적인 풀 와이드LED 라이트바를 통해결",
+     1
+    ],
+    [
+     "코나의 후면부는 미래지향적인 풀 와이드 LED 라이트바를 통해 후",
+     1
+    ],
+    [
+     "코바의 후면부른1미래지향적인 풀 와이드 LED 라이트바를 통해",
+     1
+    ],
+    [
+     "로나의 후면툰는 피래지향적인 풀 와이드 LED 라이트바를 통해",
+     1
+    ],
+    [
+     "코나의 후면부는 미래지향적인플 와이드 LED 라이트바를 통해",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 47.25,
+   "end": 48.25,
+   "x": 0.5559,
+   "y": 0.6229,
+   "w": 0.0633,
+   "h": 0.0382,
+   "frames": 2,
+   "text": "pure Gtass",
+   "ocr": "pure Gtass",
+   "readings": [
+    [
+     "pure Gtass",
+     2
+    ],
+    [
+     "pureGrass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 48.25,
+   "end": 51.75,
+   "x": 0.5703,
+   "y": 0.6049,
+   "w": 0.0871,
+   "h": 0.0264,
+   "frames": 6,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     5
+    ],
+    [
+     "Grass",
+     1
+    ],
+    [
+     "Pure G壓6",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 48.25,
+   "end": 49.75,
+   "x": 0.3414,
+   "y": 0.9083,
+   "w": 0.3164,
+   "h": 0.0545,
+   "frames": 3,
+   "text": "강렬한 존재감을 드러내며",
+   "ocr": "강렬한 존재감을 드러내며",
+   "readings": [
+    [
+     "강렬한 존재감을 드러내며",
+     3
+    ],
+    [
+     "강렬한 존재감을 드러L",
+     1
+    ],
+    [
+     "강렬한존재감을드러내며",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 49.75,
+   "end": 53.25,
+   "x": 0.1699,
+   "y": 0.9076,
+   "w": 0.6617,
+   "h": 0.05,
+   "frames": 7,
+   "text": "히든 와이퍼가 적용된 통합형 리어 스포일러와 배기구를",
+   "ocr": "히든 와이퍼가 적용된 통합형 리어 스포일러와 배기구를",
+   "readings": [
+    [
+     "히든 와이퍼가 적용된 통합형 리어 스포일러와 배기구를",
+     7
+    ],
+    [
+     "// 히든 와이퍼가 적용된 통합형 리어 스포일러와 배기구를",
+     1
+    ],
+    [
+     "/ 히든 와이퍼가 적용된 통합형 리어 최호일러와빼기구를",
+     1
+    ],
+    [
+     "『쬐든 와이퍼가 적용된 통합형 리어 스포일러와 배기구를",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 51.25,
+   "end": 57.25,
+   "x": 0.3703,
+   "y": 0.6028,
+   "w": 0.0877,
+   "h": 0.0347,
+   "frames": 11,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     6
+    ],
+    [
+     "0긍경 Pure Grass",
+     1
+    ],
+    [
+     "넣경 Pure Grass",
+     1
+    ],
+    [
+     "A Pure Grass",
+     1
+    ],
+    [
+     "“, Pure Grass",
+     1
+    ],
+    [
+     "呂 Pure Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 53.25,
+   "end": 56.25,
+   "x": 0.227,
+   "y": 0.9083,
+   "w": 0.5449,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "완전히 숨긴 매끄러운 표면 디자인을 결합하여",
+   "ocr": "완전히 숨긴 매끄러운 표면 디자인을 결합하여",
+   "readings": [
+    [
+     "완전히 숨긴 매끄러운 표면 디자인을 결합하여",
+     6
+    ],
+    [
+     "한 완전히 숨긴 매끄러운 표면 디자인을 결합하여",
+     1
+    ],
+    [
+     "畺완전히 숨긴 매끄러운표면 디자인을 결합하여 7",
+     1
+    ],
+    [
+     "완전히 숨긴 매끄러운 표면工l자인을 결합하여",
+     1
+    ],
+    [
+     "우 謷;완전히 숨긴 매끄러운工면 디자인을 결합하여",
+     1
+    ],
+    [
+     "로”垂|\\i 숨구매끄러운 표면 디자인을 결합하예",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 56.25,
+   "end": 59.75,
+   "x": 0.1594,
+   "y": 0.9083,
+   "w": 0.6828,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "군더더기 없이 깔끔하고 심리스한 스타일을 완성했습니다",
+   "ocr": "군더더기 없이 깔끔하고 심리스한 스타일을 완성했습니다",
+   "readings": [
+    [
+     "군더더기 없이 깔끔하고 심리스한 스타일을 완성했습니다",
+     7
+    ],
+    [
+     "/ 군더더기 없이 깔끔하고 심리스한스타일을 완성했습니다",
+     1
+    ],
+    [
+     "군더더기껎이 깔끔하고 심리스한 스타일을 완성했습니다",
+     1
+    ],
+    [
+     "군더더기f없0[ 깔끔하고 심리스한 스타일을 완성했습니다i",
+     1
+    ],
+    [
+     "” 군더더기 없이 깔끔하고 심리스한 스타일을 완성했습니다",
+     1
+    ],
+    [
+     "군더더기 없이 깔끔하고심리스한 스타일을 완성했습니다髥",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 59.75,
+   "end": 64.75,
+   "x": 0.0324,
+   "y": 0.0326,
+   "w": 0.1777,
+   "h": 0.0319,
+   "frames": 10,
+   "text": "출처: @BrantfordKia",
+   "ocr": "출처: BrantfordKia",
+   "readings": [
+    [
+     "출처: BrantfordKia",
+     3
+    ],
+    [
+     "출처: å BrantfordKia",
+     2
+    ],
+    [
+     "출R:@BrantfordKia",
+     2
+    ],
+    [
+     "äN:(öBrantfordKia",
+     2
+    ],
+    [
+     "ä8:@BrantfordKia",
+     2
+    ],
+    [
+     "출8:tä)BrantfordKia",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 59.75,
+   "end": 61.75,
+   "x": 0.367,
+   "y": 0.9062,
+   "w": 0.266,
+   "h": 0.0542,
+   "frames": 4,
+   "text": "상위 트림에 적용되는",
+   "ocr": "상위 트림에 적용되는",
+   "readings": [
+    [
+     "상위 트림에 적용되는",
+     3
+    ],
+    [
+     "상위,트림에 적용되는",
+     1
+    ],
+    [
+     "상위 트림에적용되는",
+     1
+    ],
+    [
+     "二~:느로 상위 트림에 적용되는",
+     1
+    ],
+    [
+     "(쑈상쀊트릳엔*적용되는",
+     1
+    ],
+    [
+     "상우lå트림에*적용되는",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 61.75,
+   "end": 64.75,
+   "x": 0.3258,
+   "y": 0.9083,
+   "w": 0.352,
+   "h": 0.05,
+   "frames": 6,
+   "text": "대형 19인치 알로이 휠입니다",
+   "ocr": "대형 .19 인치 딸로 아 휄입 니다",
+   "readings": [
+    [
+     "대형 .19 인치 딸로 아 휄입 니다",
+     1
+    ],
+    [
+     "대형 19인치꽃알로이 휄입니다",
+     1
+    ],
+    [
+     "대형 19인치 알로이 훨입니다",
+     1
+    ],
+    [
+     "대형 19인치 알로이 휄입니다",
+     1
+    ],
+    [
+     "대형 19일치(알루이흴입니다",
+     1
+    ],
+    [
+     "대형 19인치팔로이 휄입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 64.75,
+   "end": 66.75,
+   "x": 0.2219,
+   "y": 0.4278,
+   "w": 0.5625,
+   "h": 0.1444,
+   "frames": 4,
+   "text": "PART 02. 내부",
+   "ocr": "PART 02. L}I부",
+   "readings": [
+    [
+     "PART 02. L}I부",
+     3
+    ],
+    [
+     "PART 02. Ⅵ부",
+     3
+    ],
+    [
+     "PART 02: LJI부",
+     1
+    ],
+    [
+     "PART02. LJI",
+     1
+    ],
+    [
+     "PART02W",
+     1
+    ],
+    [
+     "PART 02",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 64.75,
+   "end": 66.25,
+   "x": 0.3727,
+   "y": 0.9083,
+   "w": 0.2559,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "두 번째는 내부입니다",
+   "ocr": "두 번패는 내부입니다",
+   "readings": [
+    [
+     "두 번패는 내부입니다",
+     3
+    ],
+    [
+     "두 번째는 내부입니다",
+     3
+    ],
+    [
+     "두 번짜l는 내부입니다 1",
+     1
+    ],
+    [
+     "두 번짜l는 내부입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 66.25,
+   "end": 68.75,
+   "x": 0.3012,
+   "y": 0.9083,
+   "w": 0.3988,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "운전석에는 12.3인치 클러스터와",
+   "ocr": "운전석에는 12.3인치 클러스터와",
+   "readings": [
+    [
+     "운전석에는 12.3인치 클러스터와",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 66.75,
+   "end": 95.25,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1852,
+   "h": 0.0465,
+   "frames": 57,
+   "text": "PART 02. 내부",
+   "ocr": "PART 02. 내부",
+   "readings": [
+    [
+     "PART 02. 내부",
+     50
+    ],
+    [
+     "PART 02. Ⅵ부",
+     40
+    ],
+    [
+     "PART 02. L]부",
+     16
+    ],
+    [
+     "PART 02. LJI부",
+     13
+    ],
+    [
+     "PART 02. [惢부",
+     10
+    ],
+    [
+     "PART 02. LB부",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 68.75,
+   "end": 72.75,
+   "x": 0.0715,
+   "y": 0.9083,
+   "w": 0.8566,
+   "h": 0.0493,
+   "frames": 8,
+   "text": "12.3인치 내비게이션이 하나로 이어진 파노라믹 디스플레이가 탑재되어",
+   "ocr": "12.3인치 내비게이션이 하나로 이어진 파노라믹 디스플레이가 탑재되어",
+   "readings": [
+    [
+     "12.3인치 내비게이션이 하나로 이어진 파노라믹 디스플레이가 탑재되어",
+     8
+    ],
+    [
+     "12.3인치 내비게이션이 하나로이어진 파노라믹 디스플레이가 탑재되어",
+     1
+    ],
+    [
+     "12.3인치•내비게이션이 하나로 이어진 파노라믹 디스플레이가 탑재되어",
+     1
+    ],
+    [
+     "12.3인치 내비게이션이 하나로•이어진 파노라믹 디스플레이가 탑재되어",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 72.75,
+   "end": 74.75,
+   "x": 0.3133,
+   "y": 0.9083,
+   "w": 0.3746,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "뛰어난 편의성을 제공합니다",
+   "ocr": "뛰어난 내 편의성을 제공합니다",
+   "readings": [
+    [
+     "뛰어난 내 편의성을 제공합니다",
+     4
+    ],
+    [
+     "뛰어난 편의성을 제공합니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 74.75,
+   "end": 78.25,
+   "x": 0.1961,
+   "y": 0.9083,
+   "w": 0.6066,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "고급 인조가죽 시트와 친환경 내장 소재가 적용되어",
+   "ocr": "고급 인조가죽 시트와 친환경 내장 소재가 적용되어",
+   "readings": [
+    [
+     "고급 인조가죽 시트와 친환경 내장 소재가 적용되어",
+     7
+    ],
+    [
+     "2' 고급 인조가죽 시트와 친환경 내장 소재가 적용되어",
+     1
+    ],
+    [
+     "/ 고급 인조가죽 시트와:진환경 내장 소재가 적용되어",
+     1
+    ],
+    [
+     "고급 인조가죽, 시트와 친환경 내장 소재가 적용되어",
+     1
+    ],
+    [
+     "꼬급 인조가죽 시트와 친환경 내장 소재가 적용되어",
+     1
+    ],
+    [
+     "고급 인조가죽 시트와 친환경,내장 소재가 적용되에",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 78.25,
+   "end": 80.75,
+   "x": 0.2754,
+   "y": 0.9083,
+   "w": 0.4516,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "탑승객에게 쾌적한 질감을 전달합니다",
+   "ocr": "탑승객에게 쾌적한 질감을 전달합니다",
+   "readings": [
+    [
+     "탑승객에게 쾌적한 질감을 전달합니다",
+     5
+    ],
+    [
+     "것탑승객에게 쾌적한 질감을 전달합LI다",
+     1
+    ],
+    [
+     "탑승객에게혛쾌적한 질감을 전달합니다",
+     1
+    ],
+    [
+     "탑승객에게 쾌적한 질감을전달합LI다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 80.75,
+   "end": 84.25,
+   "x": 0.2102,
+   "y": 0.9083,
+   "w": 0.5797,
+   "h": 0.0549,
+   "frames": 7,
+   "text": "2열 공간은 동급 최고 수준의 거주성을 제공하며",
+   "ocr": "2열 공간은 동급 최고 수준의 거주성을 제공하며",
+   "readings": [
+    [
+     "2열 공간은 동급 최고 수준의 거주성을 제공하며",
+     7
+    ],
+    [
+     "2열 공간은1동급 최고 수준의 거주성을 제공하며",
+     1
+    ],
+    [
+     "2열 공간은등급 최고 수준의 거주성을 제공하며",
+     1
+    ],
+    [
+     "2열공간은 동급 최고 수준의 거주성을 제공하며",
+     1
+    ],
+    [
+     "2열 공간은동급 최고수준의 거주성을 제공하며",
+     1
+    ],
+    [
+     "盈결!.홍한'닡츓喜 최고 수준의 거주성을 제공하며",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 84.25,
+   "end": 86.75,
+   "x": 0.3297,
+   "y": 0.9083,
+   "w": 0.3398,
+   "h": 0.0497,
+   "frames": 5,
+   "text": "대용량 트렁크와 2열 폴딩 시",
+   "ocr": "대용량 트렁크와 2열 폴딩 시",
+   "readings": [
+    [
+     "대용량 트렁크와 2열 폴딩 시",
+     3
+    ],
+    [
+     "대용량 트렁크와 24열 폴딩 시",
+     1
+    ],
+    [
+     "대용량 트렁크와 2열 몰딩 시",
+     1
+    ],
+    [
+     "대용량 트렁크와 가열 몰딩 시",
+     1
+    ],
+    [
+     "대용량 트렁크와 시",
+     1
+    ],
+    [
+     "대용량 트렁크와 기적열lt|폴딭 시",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 86.75,
+   "end": 88.75,
+   "x": 0.3008,
+   "y": 0.9069,
+   "w": 0.3992,
+   "h": 0.0514,
+   "frames": 4,
+   "text": "뛰어난 적재 실용성을 보여줍니다",
+   "ocr": "뛰어난 적재 실용성을 보여줍니다",
+   "readings": [
+    [
+     "뛰어난 적재 실용성을 보여줍니다",
+     3
+    ],
+    [
+     "뛰어난 적재 실용성을존보여줍니다",
+     1
+    ],
+    [
+     "뛰어난 적재결용성을 보여줍니다",
+     1
+    ],
+    [
+     "뛰어난적재결용성을 보여줍니다",
+     1
+    ],
+    [
+     "r,;-뛰어난적재 실용성을 보여줍니다",
+     1
+    ],
+    [
+     "〉뛰어난'i적재 실용성을 보여줍니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 88.75,
+   "end": 95.25,
+   "x": 0.0035,
+   "y": 0.0326,
+   "w": 0.2641,
+   "h": 0.0326,
+   "frames": 13,
+   "text": "출처: @NothinButCarReviews",
+   "ocr": "출8:ONothinButCarReviews",
+   "readings": [
+    [
+     "출처: NothinButCarReviews",
+     4
+    ],
+    [
+     "출8:ONothinButCarReviews",
+     3
+    ],
+    [
+     "출처•. a NothinButCarReviews",
+     3
+    ],
+    [
+     "출N:@NothinButCarRevi",
+     3
+    ],
+    [
+     "출N:@NothinButCarReviews",
+     2
+    ],
+    [
+     "출처: a NothinButCarReviews",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 88.75,
+   "end": 91.75,
+   "x": 0.2324,
+   "y": 0.9076,
+   "w": 0.5344,
+   "h": 0.0556,
+   "frames": 6,
+   "text": "동급 최고 수준의 적재 공간과 가변형 플로어,",
+   "ocr": "동급 최고 수준의 적재 공간과 가변형 플로어′",
+   "readings": [
+    [
+     "동급 최고 수준의 적재 공간과 가변형 플로어′",
+     6
+    ],
+    [
+     "동급 최고 수준의 적재 공간과 가변형 플로어",
+     4
+    ],
+    [
+     "동급 최고 수준의 적재' 공간과 가변형 플로0겐4/",
+     1
+    ],
+    [
+     "동급 최고 수준의 적재 공간과 가변형 플로에",
+     1
+    ],
+    [
+     "동급 최고수준의 적재 공간과횸가변형들로어",
+     1
+    ],
+    [
+     "동횲최고4수준의 적재 공간과가변형“플로어",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 91.75,
+   "end": 95.25,
+   "x": 0.1594,
+   "y": 0.9083,
+   "w": 0.6828,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "핸즈프리 스마트 테일게이트를 갖춘 트렁크를 제공합니다",
+   "ocr": "핸즈프리 스마트 테일게이트를 갖춘 트렁크를 제공합니다",
+   "readings": [
+    [
+     "핸즈프리 스마트 테일게이트를 갖춘 트렁크를 제공합니다",
+     5
+    ],
+    [
+     "핸즈프리 스마트 테일게이트를 갖춘 트렁크를 제공합니다L",
+     1
+    ],
+    [
+     "핸즈프리 스마트 테일게이트를 갖춘 트렁크를!제공합니다",
+     1
+    ],
+    [
+     "핸즈프리스마트 테일게이트를 갖춘 트렁크를 제공합니다",
+     1
+    ],
+    [
+     "핸즈프리 스마트 테일게이트를갖춘 트렁크를 제공합니다",
+     1
+    ],
+    [
+     "핸즈프리 스마트 테일게이트를깢뿐트령크를 제공합니다둕",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 95.25,
+   "end": 132.25,
+   "x": 0.0441,
+   "y": 0.0326,
+   "w": 0.1434,
+   "h": 0.0347,
+   "frames": 74,
+   "text": "출처 : @hyundai",
+   "ocr": "출처 : @hyundai",
+   "readings": [
+    [
+     "출처 : @hyundai",
+     48
+    ],
+    [
+     "출처 : åhyundai",
+     25
+    ],
+    [
+     "출처 : ahyundai",
+     11
+    ],
+    [
+     "출처 : 'åhyundai",
+     10
+    ],
+    [
+     "출처 .• @hyundai",
+     8
+    ],
+    [
+     "@hyundai",
+     7
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 95.25,
+   "end": 97.25,
+   "x": 0.2219,
+   "y": 0.4278,
+   "w": 0.5625,
+   "h": 0.15,
+   "frames": 4,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     4
+    ],
+    [
+     "PART03. 성능",
+     2
+    ],
+    [
+     "PART03",
+     1
+    ],
+    [
+     "PART03. 성능]",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 95.25,
+   "end": 96.75,
+   "x": 0.3727,
+   "y": 0.9083,
+   "w": 0.2562,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "세 번째는 성능입니다",
+   "ocr": "세 번패는 성능입니다",
+   "readings": [
+    [
+     "세 번패는 성능입니다",
+     3
+    ],
+    [
+     "세 번째는 성능입니다",
+     3
+    ],
+    [
+     "세 번패는성능입니다-nes",
+     1
+    ],
+    [
+     "세\"번패는성능입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 95.25,
+   "end": 96.25,
+   "x": 0.1109,
+   "y": 0.9125,
+   "w": 0.2625,
+   "h": 0.0167,
+   "frames": 2,
+   "text": "de h70디a de detecciön durante menos 3 5및9나ndos. LOS tran",
+   "ocr": "de h70디a de detecciön durante menos 3 5및9나ndos. LOS tran",
+   "readings": [
+    [
+     "de h70디a de detecciön durante menos 3 5및9나ndos. LOS tran",
+     1
+    ],
+    [
+     "de la2이* de detecciön durante menos 3 segundos. Los tran",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 95.25,
+   "end": 96.75,
+   "x": 0.3156,
+   "y": 0.9306,
+   "w": 0.0555,
+   "h": 0.0167,
+   "frames": 3,
+   "text": "consufteelr",
+   "ocr": "consufteelr",
+   "readings": [
+    [
+     "consufteelr",
+     1
+    ],
+    [
+     "Consulte 이 「",
+     1
+    ],
+    [
+     "ßonsulte 이 「",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 96.75,
+   "end": 97.75,
+   "x": 0.0863,
+   "y": 0.8882,
+   "w": 0.2855,
+   "h": 0.0215,
+   "frames": 2,
+   "text": "Se muestra KONA , ~•竈) caracteristica.q nr•-:on• 뇨i구.:』?",
+   "ocr": "Se muestra KONA , ~•竈) caracteristica.q nr•-:on• 뇨i구.:』?",
+   "readings": [
+    [
+     "Se muestra KONA , ~•竈) caracteristica.q nr•-:on• 뇨i구.:』?",
+     1
+    ],
+    [
+     "el KONA , 20″ ~ caracterisfir*g nr•:on-•es",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 96.75,
+   "end": 101.75,
+   "x": 0.148,
+   "y": 0.9083,
+   "w": 0.7031,
+   "h": 0.0493,
+   "frames": 10,
+   "text": "구동계는 1.6가솔린 터보 엔진과 8단 자동 변속기가 맞물린",
+   "ocr": "구동계는 1.6가솔린 터보 엔진과 8단 자동 변속기가 맞물린",
+   "readings": [
+    [
+     "구동계는 1.6가솔린 터보 엔진과 8단 자동 변속기가 맞물린",
+     9
+    ],
+    [
+     "血*규동계는 1.6카솔린 터보 엔진과e8단*자동션속기가 맞물린",
+     2
+    ],
+    [
+     "구동계는 1.6가솔린 터보 엔진과 8단1자동 변속기가 맞물린",
+     1
+    ],
+    [
+     "구동계는 1.6카솔린 터보 엔진과 8단 자동 변속기가 맞물린",
+     1
+    ],
+    [
+     "구동계는 1.6가솔린 터보 엔진과 8단 자등변속기가 맞물린믈",
+     1
+    ],
+    [
+     "구동계는 1.6가솔린 터보 엔진과 8단자동 변속기가 맞물린",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 97.25,
+   "end": 114.75,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1852,
+   "h": 0.0465,
+   "frames": 35,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     35
+    ],
+    [
+     "! PART03.éä",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 97.75,
+   "end": 99.25,
+   "x": 0.075,
+   "y": 0.8944,
+   "w": 0.1219,
+   "h": 0.0153,
+   "frames": 3,
+   "text": "muestra el KONA",
+   "ocr": "muestra el KONA",
+   "readings": [
+    [
+     "muestra el KONA",
+     1
+    ],
+    [
+     "muestra el KONA | \"\"10",
+     1
+    ],
+    [
+     "muestra el KONA | M-A",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 101.75,
+   "end": 103.25,
+   "x": 0.3768,
+   "y": 0.9083,
+   "w": 0.2486,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "전륜구동 기반입니다",
+   "ocr": "전륜구동 기반입니다",
+   "readings": [
+    [
+     "전륜구동 기반입니다",
+     3
+    ],
+    [
+     "깅전륜구동기반입LI다",
+     1
+    ],
+    [
+     "쩐륜구동P기반입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 102.75,
+   "end": 104.75,
+   "x": 0.0629,
+   "y": 0.8944,
+   "w": 0.2723,
+   "h": 0.0167,
+   "frames": 4,
+   "text": "capacidad de zor” activa “1& disponib,e \"1 vehiculos",
+   "ocr": "capacidad de zor” activa “1& disponib,e \"1 vehiculos",
+   "readings": [
+    [
+     "capacidad de zor” activa “1& disponib,e \"1 vehiculos",
+     1
+    ],
+    [
+     "La capacidad de 1”” activa wifi estå disponible 미, vehiculoelectos KCI",
+     1
+    ],
+    [
+     "capacidad de ,0” activa wifi “14 disponible 미",
+     1
+    ],
+    [
+     "La capacidad de 1”” act,va wifi estå disponible 미, K",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 102.75,
+   "end": 105.25,
+   "x": 0.0664,
+   "y": 0.9111,
+   "w": 0.2859,
+   "h": 0.0181,
+   "frames": 5,
+   "text": "de Hyundai Motor America y un plan de datos activo de Veriz6n. La (삶자",
+   "ocr": "de Hyundai Motor America y un plan de datos activo de Veriz6n. La (삶자",
+   "readings": [
+    [
+     "de Hyundai Motor America y un plan de datos activo de Veriz6n. La (삶자",
+     1
+    ],
+    [
+     "de plan de datos activo de Verizory L c",
+     1
+    ],
+    [
+     "de Hyundai Motor America y un 이” de datos activo d",
+     1
+    ],
+    [
+     "de Hyundai Motor A″心 y un 이” de datos activo de VeruON La",
+     1
+    ],
+    [
+     "de Hyundai Motor A\",”罵• y un 하”, de datos activo de Veriton. La cobertu",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 103.25,
+   "end": 105.25,
+   "x": 0.3852,
+   "y": 0.9083,
+   "w": 0.2289,
+   "h": 0.0549,
+   "frames": 4,
+   "text": "최고출력 198마력,",
+   "ocr": "최고출력 198마력′",
+   "readings": [
+    [
+     "최고출력 198마력′",
+     4
+    ],
+    [
+     "vea-최고출력 198마력i",
+     1
+    ],
+    [
+     "뇨-최고출력 198마력i",
+     1
+    ],
+    [
+     "최고출력 198마력",
+     1
+    ],
+    [
+     "최고출력",
+     1
+    ],
+    [
+     "최고출력4㉧8마력′",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 104.25,
+   "end": 106.25,
+   "x": 0.7242,
+   "y": 0.8944,
+   "w": 0.2188,
+   "h": 0.0167,
+   "frames": 4,
+   "text": "IOS términos y condiciones de servicios conectados",
+   "ocr": "IOS términos y condiciones de servicios conectados",
+   "readings": [
+    [
+     "IOS términos y condiciones de servicios conectados",
+     1
+    ],
+    [
+     "os términos y condiciones de servicios conectados",
+     1
+    ],
+    [
+     "“ IOS términos Y condiciones de servicios conectados",
+     1
+    ],
+    [
+     "wifi ,”“”” • 쬐• 『• ••—ta de BIuelink activa suieta 콤 los términos y condiciones de servicios conectados",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 104.25,
+   "end": 106.25,
+   "x": 0.732,
+   "y": 0.9125,
+   "w": 0.2008,
+   "h": 0.0167,
+   "frames": 3,
+   "text": "tiVOS conectados a intemet 50b cuando sea seguro",
+   "ocr": "tiVOS conectados a intemet 50b cuando sea seguro",
+   "readings": [
+    [
+     "tiVOS conectados a intemet 50b cuando sea seguro",
+     1
+    ],
+    [
+     "ectados a internot SOIO cuandO seguro",
+     1
+    ],
+    [
+     "5 conectados • internet 50b cuando sea seguro",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 105.25,
+   "end": 106.25,
+   "x": 0.057,
+   "y": 0.8944,
+   "w": 0.0883,
+   "h": 0.0167,
+   "frames": 2,
+   "text": "La capacidad de zon",
+   "ocr": "La capacidad de zon",
+   "readings": [
+    [
+     "La capacidad de zon",
+     1
+    ],
+    [
+     "La capacidad de ,0”",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 105.25,
+   "end": 108.25,
+   "x": 0.3016,
+   "y": 0.9083,
+   "w": 0.398,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "최대토크 27.0토크이며 민첩하고",
+   "ocr": "최대토크 27.0토크이며 민첩하고",
+   "readings": [
+    [
+     "최대토크 27.0토크이며 민첩하고",
+     6
+    ],
+    [
+     "최대토크 23kO토크이며 민첩하고",
+     1
+    ],
+    [
+     "최대토크 27:0토크이며 민첩하고",
+     1
+    ],
+    [
+     "최대토크 27곃0토크이며 민첩하고",
+     1
+    ],
+    [
+     "최대토크 27.0토크이며꽨접하고",
+     1
+    ],
+    [
+     "최대토크 27.0토크이몌민접하고",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 105.25,
+   "end": 106.25,
+   "x": 0.1664,
+   "y": 0.9125,
+   "w": 0.132,
+   "h": 0.0167,
+   "frames": 2,
+   "text": "rica y un plan de datos activo de",
+   "ocr": "rica y un plan de datos activo de",
+   "readings": [
+    [
+     "rica y un plan de datos activo de",
+     1
+    ],
+    [
+     "ica y un plan de datos activo de",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 105.25,
+   "end": 106.25,
+   "x": 0.0664,
+   "y": 0.9125,
+   "w": 0.0711,
+   "h": 0.0167,
+   "frames": 2,
+   "text": "de Hyundai Mot",
+   "ocr": "de Hyundai Mot",
+   "readings": [
+    [
+     "de Hyundai Mot",
+     1
+    ],
+    [
+     "de Hyundai Mo℃",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 107.25,
+   "end": 108.25,
+   "x": 0.5973,
+   "y": 0.3424,
+   "w": 0.0941,
+   "h": 0.0535,
+   "frames": 2,
+   "text": "LATINO",
+   "ocr": "LATINO",
+   "readings": [
+    [
+     "LATINO",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 108.25,
+   "end": 110.25,
+   "x": 0.3016,
+   "y": 0.9076,
+   "w": 0.3984,
+   "h": 0.05,
+   "frames": 4,
+   "text": "안정적인 주행 성능을 발휘합니다",
+   "ocr": "안정적인 주행 성능을 발휘합니다",
+   "readings": [
+    [
+     "안정적인 주행 성능을 발휘합니다",
+     4
+    ],
+    [
+     "안정질잍 주행 성능을 발휘합니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 108.25,
+   "end": 110.25,
+   "x": 0.1703,
+   "y": 0.9125,
+   "w": 0.1273,
+   "h": 0.0174,
+   "frames": 4,
+   "text": "meteorolOgicas (lluvia intensa",
+   "ocr": "meteorolOgicas (lluvia intensa",
+   "readings": [
+    [
+     "meteorolOgicas (lluvia intensa",
+     2
+    ],
+    [
+     "meteor0109icas (lluvia intensa",
+     1
+    ],
+    [
+     "meteorolÖgicas (duvia intensa",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 108.75,
+   "end": 110.25,
+   "x": 0.0578,
+   "y": 0.8944,
+   "w": 0.2641,
+   "h": 0.0167,
+   "frames": 3,
+   "text": "factores que pueden atectar Su rendimiento. ES posible qup",
+   "ocr": "factores que pueden atectar Su rendimiento. ES posible qup",
+   "readings": [
+    [
+     "factores que pueden atectar Su rendimiento. ES posible qup",
+     1
+    ],
+    [
+     "factores 에』e pueden afectar su rendinuento. ES posible qup 시 -노",
+     1
+    ],
+    [
+     "factores que pueden afectar 되』 rendimiento. ES posible qup 이",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 108.75,
+   "end": 110.25,
+   "x": 0.7156,
+   "y": 0.8944,
+   "w": 0.2266,
+   "h": 0.0167,
+   "frames": 3,
+   "text": "eStAn MRiOS 0 cubiertos,osi condiciones",
+   "ocr": "eStAn MRiOS 0 cubiertos,osi condiciones",
+   "readings": [
+    [
+     "eStAn MRiOS 0 cubiertos,osi condiciones",
+     1
+    ],
+    [
+     "麟|1 danados. 0 cubiertos,osi condiciones",
+     1
+    ],
+    [
+     "서• egtac:—namt•nto estån daöados, sucios 0 cubiertOs, 0 § las condiciones",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 109.25,
+   "end": 110.25,
+   "x": 0.0625,
+   "y": 0.8778,
+   "w": 0.2562,
+   "h": 0.0167,
+   "frames": 2,
+   "text": "Las secuencias se han 꼬이1까dO. sistema de asistencia para",
+   "ocr": "Las secuencias se han 꼬이1까dO. sistema de asistencia para",
+   "readings": [
+    [
+     "Las secuencias se han 꼬이1까dO. sistema de asistencia para",
+     1
+    ],
+    [
+     "Las secuencias han 교0,1까dO. EI sistema de “회31ㆍr贔a para",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 109.25,
+   "end": 110.25,
+   "x": 0.8816,
+   "y": 0.8778,
+   "w": 0.0566,
+   "h": 0.0139,
+   "frames": 2,
+   "text": "existen varios",
+   "ocr": "existen varios",
+   "readings": [
+    [
+     "existen varios",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.25,
+   "end": 111.25,
+   "x": 0.877,
+   "y": 0.1347,
+   "w": 0.1184,
+   "h": 0.0542,
+   "frames": 2,
+   "text": "4: Fruteria",
+   "ocr": "4: Fruteria",
+   "readings": [
+    [
+     "4: Fruteria",
+     1
+    ],
+    [
+     "4 Fruteria",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.25,
+   "end": 111.25,
+   "x": 0.5551,
+   "y": 0.1736,
+   "w": 0.2414,
+   "h": 0.1097,
+   "frames": 2,
+   "text": "EL KIOSKITO",
+   "ocr": "EL KIOSKITO",
+   "readings": [
+    [
+     "EL KIOSKITO",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.25,
+   "end": 111.25,
+   "x": 0.848,
+   "y": 0.2653,
+   "w": 0.1176,
+   "h": 0.0417,
+   "frames": 2,
+   "text": "AGUAS FRESCAS",
+   "ocr": "AGUAS FRESCAS",
+   "readings": [
+    [
+     "AGUAS FRESCAS",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.25,
+   "end": 111.25,
+   "x": 0.7059,
+   "y": 0.3125,
+   "w": 0.0402,
+   "h": 0.0243,
+   "frames": 2,
+   "text": "JUGOS",
+   "ocr": "JUGOS",
+   "readings": [
+    [
+     "JUGOS",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.25,
+   "end": 111.25,
+   "x": 0.5555,
+   "y": 0.3444,
+   "w": 0.0492,
+   "h": 0.0236,
+   "frames": 2,
+   "text": "cAfEClTO",
+   "ocr": "cAfEClTO",
+   "readings": [
+    [
+     "cAfEClTO",
+     1
+    ],
+    [
+     "CAFECITO",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.25,
+   "end": 111.25,
+   "x": 0.4332,
+   "y": 0.3708,
+   "w": 0.0484,
+   "h": 0.0236,
+   "frames": 2,
+   "text": "pAN DULCE",
+   "ocr": "pAN DULCE",
+   "readings": [
+    [
+     "pAN DULCE",
+     1
+    ],
+    [
+     "pAN OULCE",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.25,
+   "end": 111.25,
+   "x": 0.0617,
+   "y": 0.8778,
+   "w": 0.8766,
+   "h": 0.0167,
+   "frames": 2,
+   "text": "Las secuencias se han ac예1까dO. EI sistema de asistencia para estacionamientointeligente remOtO(RSPA), 일 estå disponible,puede ayudar a estacionar 이 vehiculo de manera remota. sin em별噫0, existen varios",
+   "ocr": "Las secuencias se han ac예1까dO. EI sistema de asistencia para estacionamientointeligente remOtO(RSPA), 일 estå disponible,puede ayudar a estacionar 이 vehiculo de manera remota. sin em별噫0, existen varios",
+   "readings": [
+    [
+     "Las secuencias se han ac예1까dO. EI sistema de asistencia para estacionamientointeligente remOtO(RSPA), 일 estå disponible,puede ayudar a estacionar 이 vehiculo de manera remota. sin em별噫0, existen varios",
+     1
+    ],
+    [
+     "Las secuencias se han ac에13d0. EI sistema de asistencia para estacionamientointeligente remoto(RSPA), 일 estå disponible,puede ayudar a estacionar 이 vehiculo de manera ,이\"에a. sin em별呵0, existen varios",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.25,
+   "end": 115.25,
+   "x": 0.1066,
+   "y": 0.9083,
+   "w": 0.7883,
+   "h": 0.0493,
+   "frames": 10,
+   "text": "효율은 19인치 타이어 기준 복합 연비 11.2킬로미터를 기록합니다",
+   "ocr": "효율은 19인치 타이어 기준 복합 연비 11.2킬로미터를 기록합니다",
+   "readings": [
+    [
+     "효율은 19인치 타이어 기준 복합 연비 11.2킬로미터를 기록합니다",
+     10
+    ],
+    [
+     "효율은 19인치 타이어 기준 복합 연비 11.21킬로미터를 기록합니다",
+     2
+    ],
+    [
+     "효율은 19인치 타이어기준 복합 연비 11.2킬로미터를 기록합니다",
+     2
+    ],
+    [
+     "효율은 19인치퐈이어 기죈복합젼비 11.2킬로미터를 기록합니다",
+     2
+    ],
+    [
+     "효율은 19인치 타이어 기준 복합 연비 11.2길로미터를 기록합니다",
+     1
+    ],
+    [
+     "효율은19인치 타이어 기준 복합 연비 11,2킬로미터를 기록합니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 115.25,
+   "end": 116.75,
+   "x": 0.2219,
+   "y": 0.4306,
+   "w": 0.5563,
+   "h": 0.1444,
+   "frames": 3,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     3
+    ],
+    [
+     "PART-04. 가격",
+     1
+    ],
+    [
+     "PART04. 가격",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 115.25,
+   "end": 116.75,
+   "x": 0.3738,
+   "y": 0.9083,
+   "w": 0.2551,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "네 번째는 가격입니다",
+   "ocr": "네 번패는 가격입니다",
+   "readings": [
+    [
+     "네 번패는 가격입니다",
+     3
+    ],
+    [
+     "네 번째는 가격입니다",
+     3
+    ],
+    [
+     "7네 번패는 가격입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 116.75,
+   "end": 122.25,
+   "x": 0.1277,
+   "y": 0.9083,
+   "w": 0.7438,
+   "h": 0.0549,
+   "frames": 11,
+   "text": "가격은 가솔린 1.6터보 모델 기준으로 모던 트림이 2466만원,",
+   "ocr": "가격은 가솔린 1.6터보 모델 기준으로 모던 트림이 2466만원′",
+   "readings": [
+    [
+     "가격은 가솔린 1.6터보 모델 기준으로 모던 트림이 2466만원′",
+     10
+    ],
+    [
+     "가격은 가솔린 1.6터보 모델 기준으로 모던 트림이 2466만원",
+     8
+    ],
+    [
+     "가격은 가솔린 1.6터보모델 기준으로 모던 트림이 2466만원, )",
+     1
+    ],
+    [
+     "가격은 가솔린 1.6터보 모델 기준으로 모던 트림이 2466만원/",
+     1
+    ],
+    [
+     "가격은 가솔린 1.6터보꼬델 기준으로 모던 트림이 2466만원′",
+     1
+    ],
+    [
+     "가격은 가솔린 1.6터부무델 기준으로모던 트림이 2466만원′",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 117.25,
+   "end": 140.75,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1836,
+   "h": 0.0465,
+   "frames": 47,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     47
+    ],
+    [
+     "PART 04.DY4",
+     4
+    ],
+    [
+     "PART04. 가격",
+     1
+    ],
+    [
+     "PART 04.가측",
+     1
+    ],
+    [
+     "PART 04.가격",
+     1
+    ],
+    [
+     "PART 04.-)}4",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 122.25,
+   "end": 125.75,
+   "x": 0.1664,
+   "y": 0.9083,
+   "w": 0.6691,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "최상위 인스퍼레이션 트림이 3150만원부터 시작합니다",
+   "ocr": "최상위 인스퍼레이션 트림이 3150만원부터 시작합니다",
+   "readings": [
+    [
+     "최상위 인스퍼레이션 트림이 3150만원부터 시작합니다",
+     7
+    ],
+    [
+     "최상위 인스퍼레이션 트림이F3150만원부터 시작합니다",
+     1
+    ],
+    [
+     "[최상위 인스퍼레이션 트림이 3150만원부테시작합니다",
+     1
+    ],
+    [
+     "최상위 인스퍼레이션 트림이히50만원부터 시작합니다亏",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 123.25,
+   "end": 125.25,
+   "x": 0.3184,
+   "y": 0.4229,
+   "w": 0.3641,
+   "h": 0.0889,
+   "frames": 4,
+   "text": "㉨ HYUIIDRI",
+   "ocr": "㉨ HYUIIDRI",
+   "readings": [
+    [
+     "㉨ HYUIIDRI",
+     2
+    ],
+    [
+     "HYUIIDRI",
+     1
+    ],
+    [
+     "㉨ HYIJIIDRI",
+     1
+    ],
+    [
+     "㉨ HYLJIIDAI",
+     1
+    ],
+    [
+     "㉨ HYLJTIDAI",
+     1
+    ],
+    [
+     "㉨ HYLJ170RI",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 125.75,
+   "end": 128.75,
+   "x": 0.2504,
+   "y": 0.9083,
+   "w": 0.5008,
+   "h": 0.0497,
+   "frames": 6,
+   "text": "개별소비세 및 선택 옵션 적용 여부에 따라",
+   "ocr": "개별소비세 및 선택 옵션 적용 여부에 따라",
+   "readings": [
+    [
+     "개별소비세 및 선택 옵션 적용 여부에 따라",
+     6
+    ],
+    [
+     "개별소비세 및 선택 옵션 적용:여부에 따라",
+     1
+    ],
+    [
+     "개별소비세 및 선택 옵션h적용 여부에 따라",
+     1
+    ],
+    [
+     "개별소비세 및 선택 옵션 적용여부에 따라",
+     1
+    ],
+    [
+     "개별소비세 및 선택 옵션 적용뗜부에 따라",
+     1
+    ],
+    [
+     "개별소비세 및 선택 옵션 적용 여부에 따己F",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 128.75,
+   "end": 130.75,
+   "x": 0.3156,
+   "y": 0.9083,
+   "w": 0.3707,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "실구매가는 변동될 수 있습니다",
+   "ocr": "실구매가는 변동될 수 있습니다",
+   "readings": [
+    [
+     "실구매가는 변동될 수 있습니다",
+     3
+    ],
+    [
+     "실구매카는 변동될 수 있습니다",
+     2
+    ],
+    [
+     "실구매가는 변동될畺수 있습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 130.25,
+   "end": 131.25,
+   "x": 0.8258,
+   "y": 0.8167,
+   "w": 0.0465,
+   "h": 0.0285,
+   "frames": 2,
+   "text": "느뇨",
+   "ocr": "느뇨",
+   "readings": [
+    [
+     "느뇨",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 130.75,
+   "end": 132.25,
+   "x": 0.3594,
+   "y": 0.9083,
+   "w": 0.2809,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "지금까지 차급을 넘어선",
+   "ocr": "지금까지 자급을 넘어선",
+   "readings": [
+    [
+     "지금까지 자급을 넘어선",
+     3
+    ],
+    [
+     "지금까지 자급을성어선",
+     1
+    ],
+    [
+     "지금까차싸급을결어전V",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 132.25,
+   "end": 140.75,
+   "x": 0.0441,
+   "y": 0.0326,
+   "w": 0.1434,
+   "h": 0.0347,
+   "frames": 17,
+   "text": "출처 : @hyundai",
+   "ocr": "출처 : @hyundai",
+   "readings": [
+    [
+     "출처 : @hyundai",
+     10
+    ],
+    [
+     "출처: ahyundai",
+     5
+    ],
+    [
+     "출처 : •:@hyundai",
+     5
+    ],
+    [
+     "줄처 : åhyundai",
+     4
+    ],
+    [
+     "출처 : (öhyundai",
+     3
+    ],
+    [
+     "출처 : ahyundai",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 132.25,
+   "end": 135.75,
+   "x": 0.2145,
+   "y": 0.9083,
+   "w": 0.5723,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "소형 SUV 현대 디 올 뉴 코나를 살펴보았습니다",
+   "ocr": "소형 SUV 현대 디 올 뉴 코나를 살펴보았습니다",
+   "readings": [
+    [
+     "소형 SUV 현대 디 올 뉴 코나를 살펴보았습니다",
+     7
+    ],
+    [
+     "r:소형 SUV 현대 디 올 뉴 코나를살퍼보았습니다",
+     1
+    ],
+    [
+     "소형 SUV 현대 디 올 뉴 코나를 살퍼보았습니다",
+     1
+    ],
+    [
+     "쓰형 SUVÅ현대 디 올 뉴 코나를 살퍼보았습니특%",
+     1
+    ],
+    [
+     "쓰형 SUVÅ현대 디 올 퇴뇨나를 살퍼보았습니다€",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 135.75,
+   "end": 137.75,
+   "x": 0.3457,
+   "y": 0.9083,
+   "w": 0.3082,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "오늘 영상이 유익하셨다면",
+   "ocr": "오늘 영상이 유익하셨다면",
+   "readings": [
+    [
+     "오늘 영상이 유익하셨다면",
+     4
+    ],
+    [
+     "오늘•영상이유익하셨다면",
+     3
+    ],
+    [
+     "오늘영상이유익하셨다면",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 137.25,
+   "end": 138.25,
+   "x": 0.4492,
+   "y": 0.6021,
+   "w": 0.0906,
+   "h": 0.0479,
+   "frames": 2,
+   "text": "HMA931+",
+   "ocr": "HMA931+",
+   "readings": [
+    [
+     "HMA931+",
+     1
+    ],
+    [
+     "HMA9343",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 137.75,
+   "end": 138.75,
+   "x": 0.4125,
+   "y": 0.9083,
+   "w": 0.1742,
+   "h": 0.0549,
+   "frames": 2,
+   "text": "구독과 좋아요",
+   "ocr": "구독과 좋아요",
+   "readings": [
+    [
+     "구독과 좋아요",
+     2
+    ],
+    [
+     "구독과",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 138.75,
+   "end": 139.75,
+   "x": 0.0285,
+   "y": 0.15,
+   "w": 0.1168,
+   "h": 0.0535,
+   "frames": 2,
+   "text": "@hyundai",
+   "ocr": "unda",
+   "readings": [
+    [
+     "unda",
+     1
+    ],
+    [
+     "@h undai",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 138.75,
+   "end": 140.25,
+   "x": 0.3594,
+   "y": 0.9083,
+   "w": 0.2828,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "알림 설정 부탁드립니다",
+   "ocr": "알림 설정 부탁드립니다",
+   "readings": [
+    [
+     "알림 설정 부탁드립니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 141.25,
+   "end": 142.25,
+   "x": 0.1715,
+   "y": 0.7806,
+   "w": 0.6406,
+   "h": 0.1264,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ],
+    [
+     "사각치대, 0뽷하셨죠?",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 143.25,
+   "end": 144.75,
+   "x": 0.0375,
+   "y": 0.0611,
+   "w": 0.8438,
+   "h": 0.1333,
+   "frames": 5,
+   "text": "안 보이던 구석까지 보입니다.",
+   "ocr": "안 쳹㉧뗜 구식까지 모임니다。",
+   "readings": [
+    [
+     "안 쳹㉧뗜 구식까지 모임니다。",
+     1
+    ],
+    [
+     "안 칧@뗜 구식까지 모임니다。",
+     1
+    ],
+    [
+     "한모@뗜 구쇠가쪠 보위다다。",
+     1
+    ],
+    [
+     "한 보@뗜 관가쪠 모똅니다。",
+     1
+    ],
+    [
+     "보@뗜 구식까지 보위다나。",
+     1
+    ],
+    [
+     "(간 보이던&구식7가T*`하 보임,니촤",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 144.75,
+   "end": 145.75,
+   "x": 0.6033,
+   "y": 0.0899,
+   "w": 0.1092,
+   "h": 0.0427,
+   "frames": 2,
+   "text": "운전의 자신감이",
+   "ocr": "운전의 자신감이",
+   "readings": [
+    [
+     "운전의 자신감이",
+     1
+    ],
+    [
+     "운 전 의",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 144.75,
+   "end": 145.75,
+   "x": 0.3426,
+   "y": 0.3576,
+   "w": 0.0918,
+   "h": 0.0389,
+   "frames": 2,
+   "text": "Optic-GiasS",
+   "ocr": "Optic-GiasS",
+   "readings": [
+    [
+     "Optic-GiasS",
+     1
+    ],
+    [
+     "optic-G\\ass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 144.75,
+   "end": 145.75,
+   "x": 0.5596,
+   "y": 0.7417,
+   "w": 0.0936,
+   "h": 0.0479,
+   "frames": 2,
+   "text": "4디킨4스",
+   "ocr": "4디킨4스",
+   "readings": [
+    [
+     "4디킨4스",
+     1
+    ],
+    [
+     "44결1스",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 145.25,
+   "end": 146.75,
+   "x": 0.5555,
+   "y": 0.1441,
+   "w": 0.2041,
+   "h": 0.076,
+   "frames": 2,
+   "text": "남달라집니다!",
+   "ocr": "남달라집 니 다!",
+   "readings": [
+    [
+     "남달라집 니 다!",
+     1
+    ],
+    [
+     "남달라집니다!",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 145.75,
+   "end": 146.75,
+   "x": 0.6305,
+   "y": 0.1198,
+   "w": 0.1582,
+   "h": 0.0851,
+   "frames": 2,
+   "text": "운전의 자신감이",
+   "ocr": "운전의 자신감이",
+   "readings": [
+    [
+     "운전의 자신감이",
+     1
+    ],
+    [
+     "운전의자시람이",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:05:08"
+}

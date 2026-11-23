@@ -1,0 +1,397 @@
+{
+ "id": "6ExBa-PsLvc",
+ "tab": "shorts",
+ "upload_date": "20260819",
+ "duration": 16.97,
+ "title": "이게 우리가 알던 코나 맞아? 2026 코나가 이렇게 달라졌습니다",
+ "url": "https://www.youtube.com/watch?v=6ExBa-PsLvc",
+ "width": 720,
+ "height": 1280,
+ "format": "shortform",
+ "aspect": "9:16",
+ "cuts": [
+  10.67,
+  12.13,
+  13.13,
+  14.7
+ ],
+ "ocr_readings": 394,
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 16.75,
+   "x": 0.2049,
+   "y": 0.1172,
+   "w": 0.5903,
+   "h": 0.0477,
+   "frames": 34,
+   "text": "이게 우리가 알던",
+   "ocr": "이게 우리가 알던",
+   "readings": [
+    [
+     "이게 우리가 알던",
+     33
+    ],
+    [
+     "이겐 우리가 왑더",
+     1
+    ],
+    [
+     "이게 우",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.75,
+   "x": 0.8819,
+   "y": 0.5852,
+   "w": 0.075,
+   "h": 0.0086,
+   "frames": 3,
+   "text": "pure GrasS",
+   "ocr": "pure GrasS",
+   "readings": [
+    [
+     "pure GrasS",
+     1
+    ],
+    [
+     "pure",
+     1
+    ],
+    [
+     "Puro G,•ass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 16.75,
+   "x": 0.3563,
+   "y": 0.8141,
+   "w": 0.4847,
+   "h": 0.0449,
+   "frames": 34,
+   "text": "Optic-Glass",
+   "ocr": "Optic-Glass",
+   "readings": [
+    [
+     "Optic-Glass",
+     34
+    ],
+    [
+     "Optic-GIass",
+     30
+    ],
+    [
+     "OPtiC-Glass",
+     1
+    ],
+    [
+     "OPtiC-G1ass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 16.75,
+   "x": 0.141,
+   "y": 0.1746,
+   "w": 0.7201,
+   "h": 0.0477,
+   "frames": 33,
+   "text": "그 코나가 맞는건가?",
+   "ocr": "그 코나가 맞는건가?",
+   "readings": [
+    [
+     "그 코나가 맞는건가?",
+     32
+    ],
+    [
+     "그 코나가맞는건",
+     1
+    ],
+    [
+     "그코나가맞는건",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.25,
+   "end": 3.25,
+   "x": 0.0312,
+   "y": 0.4637,
+   "w": 0.1944,
+   "h": 0.0285,
+   "frames": 4,
+   "text": "&f7〃W&",
+   "ocr": "&f7〃W&",
+   "readings": [
+    [
+     "&f7〃W&",
+     2
+    ],
+    [
+     "&fTTlN6",
+     1
+    ],
+    [
+     "&fTTW&",
+     1
+    ],
+    [
+     "&fWIN&",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 2.75,
+   "x": 0.0146,
+   "y": 0.5008,
+   "w": 0.2285,
+   "h": 0.0297,
+   "frames": 2,
+   "text": "WTW15",
+   "ocr": "WTW15",
+   "readings": [
+    [
+     "WTW15",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 3.25,
+   "x": 0.0316,
+   "y": 0.5055,
+   "w": 0.2115,
+   "h": 0.0316,
+   "frames": 2,
+   "text": "OUTW/5i",
+   "ocr": "OUTW/5i",
+   "readings": [
+    [
+     "OUTW/5i",
+     1
+    ],
+    [
+     "curW/5",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 2.75,
+   "x": 0.7576,
+   "y": 0.5777,
+   "w": 0.0507,
+   "h": 0.0074,
+   "frames": 2,
+   "text": "pure 6n155",
+   "ocr": "pure 6n155",
+   "readings": [
+    [
+     "pure 6n155",
+     1
+    ],
+    [
+     "pure",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 3.75,
+   "end": 4.75,
+   "x": 0.2326,
+   "y": 0.4699,
+   "w": 0.4149,
+   "h": 0.0393,
+   "frames": 2,
+   "text": "ABOUT TO",
+   "ocr": "ABOUT TO",
+   "readings": [
+    [
+     "ABOUT TO",
+     2
+    ],
+    [
+     "ABOUTTO",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 5.75,
+   "end": 6.75,
+   "x": 0.8944,
+   "y": 0.5516,
+   "w": 0.075,
+   "h": 0.0098,
+   "frames": 2,
+   "text": "pure GrasS",
+   "ocr": "pure GrasS",
+   "readings": [
+    [
+     "pure GrasS",
+     1
+    ],
+    [
+     "pure Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 8.75,
+   "end": 10.25,
+   "x": 0.1472,
+   "y": 0.5844,
+   "w": 0.0833,
+   "h": 0.0102,
+   "frames": 3,
+   "text": "Pure Grass",
+   "ocr": "Pure Grass",
+   "readings": [
+    [
+     "Pure Grass",
+     2
+    ],
+    [
+     "Grass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 10.75,
+   "end": 11.75,
+   "x": 0.1792,
+   "y": 0.5855,
+   "w": 0.6389,
+   "h": 0.0445,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ],
+    [
+     "「사각*지맨, 아찔하솋좌7",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 12.75,
+   "end": 14.25,
+   "x": 0.0333,
+   "y": 0.3602,
+   "w": 0.5458,
+   "h": 0.0406,
+   "frames": 2,
+   "text": "안보였던 것까지",
+   "ocr": "안뻷㉧뗜 궈까꼐",
+   "readings": [
+    [
+     "안뻷㉧뗜 궈까꼐",
+     1
+    ],
+    [
+     "안보㉧뗜 궈까쪠",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.25,
+   "end": 16.25,
+   "x": 0.35,
+   "y": 0.4602,
+   "w": 0.0917,
+   "h": 0.0102,
+   "frames": 3,
+   "text": "Optic-GiasS",
+   "ocr": "Optic-GiasS",
+   "readings": [
+    [
+     "Optic-GiasS",
+     1
+    ],
+    [
+     "OPtic-Giass",
+     1
+    ],
+    [
+     "Optic-GlasS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.75,
+   "end": 16.25,
+   "x": 0.5743,
+   "y": 0.5813,
+   "w": 0.0958,
+   "h": 0.0176,
+   "frames": 2,
+   "text": "음택글개스",
+   "ocr": "음택글개스",
+   "readings": [
+    [
+     "음택글개스",
+     1
+    ],
+    [
+     "음트`글개스",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:41:24"
+}

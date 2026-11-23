@@ -1,0 +1,925 @@
+{
+ "id": "QbaX-no-9MY",
+ "tab": "shorts",
+ "upload_date": "20261018",
+ "duration": 40.0,
+ "title": "마이바흐 GLS 600, 과연 가격은 얼마일까?",
+ "url": "https://www.youtube.com/watch?v=QbaX-no-9MY",
+ "width": 720,
+ "height": 1280,
+ "format": "shortform",
+ "aspect": "9:16",
+ "cuts": [
+  33.7,
+  35.17,
+  36.17,
+  37.72
+ ],
+ "ocr_readings": 1278,
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 4.75,
+   "x": 0.0035,
+   "y": 0.3523,
+   "w": 0.2257,
+   "h": 0.0098,
+   "frames": 10,
+   "text": "출세 MercedesBen기nd",
+   "ocr": "출세 MercedesBen기nd",
+   "readings": [
+    [
+     "출세 MercedesBen기nd",
+     9
+    ],
+    [
+     "출서: MercedesBen기nd",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.75,
+   "x": 0.2208,
+   "y": 0.4762,
+   "w": 0.5563,
+   "h": 0.0494,
+   "frames": 4,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     3
+    ],
+    [
+     "PART I",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.25,
+   "x": 0.3743,
+   "y": 0.6297,
+   "w": 0.2549,
+   "h": 0.0152,
+   "frames": 3,
+   "text": "네 번째는 가격입니다",
+   "ocr": "네 번째는 가격입니다",
+   "readings": [
+    [
+     "네 번째는 가격입니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 39.75,
+   "x": 0.3563,
+   "y": 0.8141,
+   "w": 0.4847,
+   "h": 0.0449,
+   "frames": 80,
+   "text": "Optic-Glass",
+   "ocr": "Optic-Glass",
+   "readings": [
+    [
+     "Optic-Glass",
+     80
+    ],
+    [
+     "Optic-GIass",
+     78
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 39.75,
+   "x": 0.0854,
+   "y": 0.1172,
+   "w": 0.8354,
+   "h": 0.0477,
+   "frames": 79,
+   "text": "럭셔리의 기준이 다르다",
+   "ocr": "럭셔리의 기준이 다르다",
+   "readings": [
+    [
+     "럭셔리의 기준이 다르다",
+     78
+    ],
+    [
+     "럭셔리의 기준이 다르",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 39.75,
+   "x": 0.1757,
+   "y": 0.1746,
+   "w": 0.6542,
+   "h": 0.0477,
+   "frames": 79,
+   "text": "마이바흐의 존재감",
+   "ocr": "마이바흐의 존재감",
+   "readings": [
+    [
+     "마이바흐의 존재감",
+     78
+    ],
+    [
+     "마이바흐의 존",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.25,
+   "end": 4.25,
+   "x": 0.3007,
+   "y": 0.6297,
+   "w": 0.4007,
+   "h": 0.0152,
+   "frames": 6,
+   "text": "2023년식 기준 공식 시작 가격은",
+   "ocr": "2023년식 기준 공식 시작 가격은",
+   "readings": [
+    [
+     "2023년식 기준 공식 시작 가격은",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 33.25,
+   "x": 0.7896,
+   "y": 0.357,
+   "w": 0.1826,
+   "h": 0.0145,
+   "frames": 63,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     63
+    ],
+    [
+     "PART 04. 가리",
+     30
+    ],
+    [
+     "PART04. 가리",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 4.75,
+   "x": 0.0833,
+   "y": 0.5727,
+   "w": 0.3917,
+   "h": 0.0187,
+   "frames": 5,
+   "text": "ExcIusive Maybach Driving M0de",
+   "ocr": "ExcIusive Maybach Driving M0de",
+   "readings": [
+    [
+     "ExcIusive Maybach Driving M0de",
+     3
+    ],
+    [
+     "ExcIusive Maybach Drjving M0de",
+     1
+    ],
+    [
+     "sWöMåybaclvDriving M0de",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 4.75,
+   "end": 9.75,
+   "x": 0.0035,
+   "y": 0.3523,
+   "w": 0.2257,
+   "h": 0.0098,
+   "frames": 10,
+   "text": "풀 서: MercedesBen기nd",
+   "ocr": "풀 서: MercedesBen기nd",
+   "readings": [
+    [
+     "풀 서: MercedesBen기nd",
+     7
+    ],
+    [
+     "서: (결 MercedesBen기nd",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 4.75,
+   "end": 7.25,
+   "x": 0.2799,
+   "y": 0.6297,
+   "w": 0.4431,
+   "h": 0.0168,
+   "frames": 5,
+   "text": "2억 6,200만원으로 책정되었습니다",
+   "ocr": "2억 6,200만원으로 책정되었습니다",
+   "readings": [
+    [
+     "2억 6,200만원으로 책정되었습니다",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 7.25,
+   "end": 9.25,
+   "x": 0.2854,
+   "y": 0.6297,
+   "w": 0.4292,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "상위 트림인 마누팍투어 모델의 주력",
+   "ocr": "상위 트림인 마누팍투어 모텔의 주력",
+   "readings": [
+    [
+     "상위 트림인 마누팍투어 모텔의 주력",
+     4
+    ],
+    [
+     "상위 트림인 마누팍투어 모델의 주력",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 8.25,
+   "end": 9.75,
+   "x": 0.0819,
+   "y": 0.5727,
+   "w": 0.492,
+   "h": 0.0187,
+   "frames": 3,
+   "text": "V8 1)it111'l)0 engillf, with 48 VTechnolog",
+   "ocr": "V8 1)it111'l)0 engillf, with 48 VTechnolog",
+   "readings": [
+    [
+     "V8 1)it111'l)0 engillf, with 48 VTechnolog",
+     1
+    ],
+    [
+     "V8 biturbo engine with 48 VTech11010gy",
+     1
+    ],
+    [
+     "V8 biturbo engine with 48 VTechn010",
+     1
+    ],
+    [
+     "V8 biturbo engl •th48 VTechn010gy",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 9.25,
+   "end": 12.25,
+   "x": 0.3194,
+   "y": 0.6297,
+   "w": 0.3639,
+   "h": 0.0168,
+   "frames": 6,
+   "text": "가격은 2억 9,900만원입니다",
+   "ocr": "가격은 2억 9,900만원입니다",
+   "readings": [
+    [
+     "가격은 2억 9,900만원입니다",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 9.75,
+   "end": 14.75,
+   "x": 0.0042,
+   "y": 0.3523,
+   "w": 0.225,
+   "h": 0.0098,
+   "frames": 10,
+   "text": "뚤人繼 MercedesBen기nd",
+   "ocr": "뚤人繼 MercedesBen기nd",
+   "readings": [
+    [
+     "뚤人繼 MercedesBen기nd",
+     6
+    ],
+    [
+     "뚤人繼 MercedesBen기nci",
+     3
+    ],
+    [
+     "뚤人繼 MercedesBen기ncf",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 9.75,
+   "end": 10.75,
+   "x": 0.0826,
+   "y": 0.573,
+   "w": 0.4917,
+   "h": 0.0178,
+   "frames": 2,
+   "text": "V8 bittll'bo engine h,illl 48 V rre.clll)0102v",
+   "ocr": "V8 bittll'bo engine h,illl 48 V rre.clll)0102v",
+   "readings": [
+    [
+     "V8 bittll'bo engine h,illl 48 V rre.clll)0102v",
+     1
+    ],
+    [
+     "V8 bitlll'bo engine wi(ll 48 VTechnolog",
+     1
+    ],
+    [
+     "V8 biturbo engine wjth 48 VTechn010gy",
+     1
+    ],
+    [
+     "V8 biturbo enginewjth Tech11010gy",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 12.25,
+   "end": 14.75,
+   "x": 0.2819,
+   "y": 0.6293,
+   "w": 0.4368,
+   "h": 0.0156,
+   "frames": 5,
+   "text": "이는 취등록세 및 부대 비용이 제외된",
+   "ocr": "이는 취등록세 및 부대 비용이 제외완",
+   "readings": [
+    [
+     "이는 취등록세 및 부대 비용이 제외완",
+     5
+    ],
+    [
+     "이는 취등록세 및 부대 비용이 제외된",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 13.75,
+   "end": 14.75,
+   "x": 0.0865,
+   "y": 0.5738,
+   "w": 0.2795,
+   "h": 0.0137,
+   "frames": 2,
+   "text": "l.ll\\lll'\\ lII(livi(lIKllSpats",
+   "ocr": "l.ll\\lll'\\ lII(livi(lIKllSpats",
+   "readings": [
+    [
+     "l.ll\\lll'\\ lII(livi(lIKllSpats",
+     1
+    ],
+    [
+     "l.ll\\lll'\\ lll(li\\i(llldl `닉(`at",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.75,
+   "end": 19.75,
+   "x": 0.0035,
+   "y": 0.3523,
+   "w": 0.2257,
+   "h": 0.0098,
+   "frames": 10,
+   "text": "출세 MercedesBen기nd",
+   "ocr": "출세 MercedesBen기nd",
+   "readings": [
+    [
+     "출세 MercedesBen기nd",
+     6
+    ],
+    [
+     "출세 MercedesBenzInd",
+     4
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.75,
+   "end": 15.75,
+   "x": 0.0806,
+   "y": 0.5625,
+   "w": 0.2542,
+   "h": 0.018,
+   "frames": 2,
+   "text": "MBUkwi \"Hey Mer",
+   "ocr": "MBUkwi \"Hey Mer",
+   "readings": [
+    [
+     "MBUkwi \"Hey Mer",
+     1
+    ],
+    [
+     "MBUXwi \"Hey Mer",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.75,
+   "end": 15.75,
+   "x": 0.0806,
+   "y": 0.5828,
+   "w": 0.1944,
+   "h": 0.0156,
+   "frames": 2,
+   "text": "and Widesc",
+   "ocr": "and Widesc",
+   "readings": [
+    [
+     "and Widesc",
+     1
+    ],
+    [
+     "and Widesc éWCock",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.75,
+   "end": 16.75,
+   "x": 0.3118,
+   "y": 0.6297,
+   "w": 0.3785,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "순수 공식 차량 가격 기준입니다",
+   "ocr": "순수 공식 차량 가격 기준입니다",
+   "readings": [
+    [
+     "순수 공식 차량 가격 기준입니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 16.75,
+   "end": 20.25,
+   "x": 0.3035,
+   "y": 0.6293,
+   "w": 0.3931,
+   "h": 0.0156,
+   "frames": 7,
+   "text": "현재 2023년식 모델은 단종되어",
+   "ocr": "현재 2023년식 모델은 단종되어",
+   "readings": [
+    [
+     "현재 2023년식 모델은 단종되어",
+     7
+    ],
+    [
+     "현재 2023년식 모텔4은 단종되어",
+     6
+    ],
+    [
+     "현재 2023년식 모텔은 단종되어",
+     6
+    ],
+    [
+     "현재 2023년식 모일은 단종되어",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 17.75,
+   "end": 18.75,
+   "x": 0.0833,
+   "y": 0.5727,
+   "w": 0.3208,
+   "h": 0.0187,
+   "frames": 2,
+   "text": "Panoramic SIiding Sunr00f",
+   "ocr": "Panoramic SIiding Sunr00f",
+   "readings": [
+    [
+     "Panoramic SIiding Sunr00f",
+     1
+    ],
+    [
+     "Panoramic SIiding Sunroof",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 19.75,
+   "end": 24.75,
+   "x": 0.0035,
+   "y": 0.3523,
+   "w": 0.2257,
+   "h": 0.0098,
+   "frames": 10,
+   "text": "출처: MercedesBen기nci",
+   "ocr": "출처: MercedesBen기nci",
+   "readings": [
+    [
+     "출처: MercedesBen기nci",
+     10
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.25,
+   "end": 22.25,
+   "x": 0.2993,
+   "y": 0.6297,
+   "w": 0.4042,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "신차 인도 일정을 잡을 수 없습니다",
+   "ocr": "신자인도 일정을 잡을 수 없습니다",
+   "readings": [
+    [
+     "신자인도 일정을 잡을 수 없습니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.25,
+   "end": 24.75,
+   "x": 0.3111,
+   "y": 0.6297,
+   "w": 0.3799,
+   "h": 0.0152,
+   "frames": 5,
+   "text": "지금까지 럭셔리 SUV의 끝판왕",
+   "ocr": "지금까지 럭셔리 SUV의 끝판왕",
+   "readings": [
+    [
+     "지금까지 럭셔리 SUV의 끝판왕",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 24.25,
+   "end": 25.75,
+   "x": 0.075,
+   "y": 0.5727,
+   "w": 0.3181,
+   "h": 0.0187,
+   "frames": 3,
+   "text": "MaybachChrome PaCkäge",
+   "ocr": "MaybachChrome PaCkäge",
+   "readings": [
+    [
+     "MaybachChrome PaCkäge",
+     1
+    ],
+    [
+     "Maybach℃hrome Package",
+     1
+    ],
+    [
+     "Maybach℃hroméPackage",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 24.75,
+   "end": 28.25,
+   "x": 0.0035,
+   "y": 0.3523,
+   "w": 0.2257,
+   "h": 0.0098,
+   "frames": 7,
+   "text": "출•서: (1 MercedesBenzlncf",
+   "ocr": "출•서: (1 MercedesBenzlncf",
+   "readings": [
+    [
+     "출•서: (1 MercedesBenzlncf",
+     7
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 24.75,
+   "end": 27.25,
+   "x": 0.2868,
+   "y": 0.6297,
+   "w": 0.4292,
+   "h": 0.0152,
+   "frames": 5,
+   "text": "마이바흐 GLS600을 살펴봤습니다",
+   "ocr": "마이바흐 GLS600을 살퍼봤습니다",
+   "readings": [
+    [
+     "마이바흐 GLS600을 살퍼봤습니다",
+     5
+    ],
+    [
+     "마이바흐 GLS600을 살펴봤습니다",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 27.25,
+   "end": 29.25,
+   "x": 0.3465,
+   "y": 0.6297,
+   "w": 0.3069,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "구독과 좋아요 부탁드리며",
+   "ocr": "구독과 좋아요 부탁드리며",
+   "readings": [
+    [
+     "구독과 좋아요 부탁드리며",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 28.25,
+   "end": 29.75,
+   "x": 0.0035,
+   "y": 0.3523,
+   "w": 0.2257,
+   "h": 0.0098,
+   "frames": 3,
+   "text": "출•서: (1 MercedesBen기nd",
+   "ocr": "출•서: (1 MercedesBen기nd",
+   "readings": [
+    [
+     "출•서: (1 MercedesBen기nd",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 29.25,
+   "end": 30.75,
+   "x": 0.0833,
+   "y": 0.5727,
+   "w": 0.4833,
+   "h": 0.0187,
+   "frames": 3,
+   "text": "Maybach GriIIe with Mercedes-Benz Star",
+   "ocr": "Maybach GriIIe with Mercedes-Benz Star",
+   "readings": [
+    [
+     "Maybach GriIIe with Mercedes-Benz Star",
+     1
+    ],
+    [
+     "Maybach,GriIIe with Mercedes-Benz Star",
+     1
+    ],
+    [
+     "Maybach GriIIewithMe ed -Be Sar",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 29.25,
+   "end": 30.25,
+   "x": 0.4174,
+   "y": 0.6297,
+   "w": 0.1667,
+   "h": 0.0148,
+   "frames": 2,
+   "text": "알람 설정으로",
+   "ocr": "알람 설정으로",
+   "readings": [
+    [
+     "알람 설정으로",
+     2
+    ],
+    [
+     "알람 실정으로",
+     1
+    ],
+    [
+     "일卜람 실정으로",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 29.75,
+   "end": 33.25,
+   "x": 0.0042,
+   "y": 0.3523,
+   "w": 0.225,
+   "h": 0.0098,
+   "frames": 7,
+   "text": "물세 (감 MercedesBen기nd",
+   "ocr": "물세 (감 MercedesBen기nd",
+   "readings": [
+    [
+     "물세 (감 MercedesBen기nd",
+     7
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 30.25,
+   "end": 32.75,
+   "x": 0.2722,
+   "y": 0.6297,
+   "w": 0.4576,
+   "h": 0.0152,
+   "frames": 5,
+   "text": "다음 자동차 리뷰도 빠르게 만나보세요",
+   "ocr": "다음 자동사 리뷰도 빠르게 만나보세요",
+   "readings": [
+    [
+     "다음 자동사 리뷰도 빠르게 만나보세요",
+     5
+    ],
+    [
+     "다음 자동차 리뷰도 빠르게 만나보세요",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 33.75,
+   "end": 34.75,
+   "x": 0.1806,
+   "y": 0.584,
+   "w": 0.6389,
+   "h": 0.0457,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 37.25,
+   "end": 39.25,
+   "x": 0.3472,
+   "y": 0.4734,
+   "w": 0.0917,
+   "h": 0.0102,
+   "frames": 3,
+   "text": "Optic-G1aSS",
+   "ocr": "Optic-G1aSS",
+   "readings": [
+    [
+     "Optic-G1aSS",
+     1
+    ],
+    [
+     "OPtic-GlasS",
+     1
+    ],
+    [
+     "OPtic-GIass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 37.75,
+   "end": 39.25,
+   "x": 0.5625,
+   "y": 0.5859,
+   "w": 0.0944,
+   "h": 0.0164,
+   "frames": 3,
+   "text": "음택글해스",
+   "ocr": "음택글해스",
+   "readings": [
+    [
+     "음택글해스",
+     1
+    ],
+    [
+     "음택글개싀",
+     1
+    ],
+    [
+     "을택글개스",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:13:50"
+}

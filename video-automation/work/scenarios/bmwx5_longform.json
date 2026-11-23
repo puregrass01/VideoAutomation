@@ -1,0 +1,1495 @@
+{
+ "template": "polestar4_optic",
+ "car": {
+  "logo": "BMW Logo.png",
+  "compat_cards": "BMW/*_X5.jpg"
+ },
+ "scenes": [
+  {
+   "id": "s00",
+   "role": "exterior",
+   "name": "bmwx5_hero",
+   "src": "IMG_9078.MOV",
+   "in": 1.0,
+   "look": "title",
+   "start": 0.0,
+   "dur": 2.333
+  },
+  {
+   "id": "s01",
+   "role": "detail",
+   "name": "bmwx5_ext_side_profile",
+   "src": "IMG_9079.MOV",
+   "in": 0.5,
+   "look": "bright",
+   "start": 2.333,
+   "dur": 2.533
+  },
+  {
+   "id": "s02",
+   "role": "detail",
+   "name": "bmwx5_ext_rear_quarter",
+   "src": "IMG_9085.MOV",
+   "in": 0.5,
+   "look": "bright",
+   "start": 4.867,
+   "dur": 1.533,
+   "plates": [
+    [
+     0.0,
+     [
+      [
+       500,
+       484
+      ],
+      [
+       824,
+       502
+      ],
+      [
+       816,
+       588
+      ],
+      [
+       492,
+       568
+      ]
+     ]
+    ],
+    [
+     0.25,
+     [
+      [
+       512,
+       487
+      ],
+      [
+       842,
+       505
+      ],
+      [
+       834,
+       592
+      ],
+      [
+       504,
+       572
+      ]
+     ]
+    ],
+    [
+     0.5,
+     [
+      [
+       524,
+       490
+      ],
+      [
+       860,
+       508
+      ],
+      [
+       852,
+       595
+      ],
+      [
+       516,
+       575
+      ]
+     ]
+    ],
+    [
+     0.75,
+     [
+      [
+       534,
+       493
+      ],
+      [
+       876,
+       511
+      ],
+      [
+       868,
+       598
+      ],
+      [
+       526,
+       578
+      ]
+     ]
+    ],
+    [
+     1.0,
+     [
+      [
+       542,
+       495
+      ],
+      [
+       892,
+       514
+      ],
+      [
+       884,
+       602
+      ],
+      [
+       534,
+       582
+      ]
+     ]
+    ]
+   ],
+   "faces": [
+    [
+     [
+      0.0,
+      1790,
+      95,
+      95
+     ],
+     [
+      1.0,
+      1790,
+      95,
+      95
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "s03",
+   "role": "detail",
+   "name": "bmwx5_ext_headlight_grille",
+   "src": "IMG_9074.MOV",
+   "in": 1.5,
+   "look": "bright",
+   "start": 6.4,
+   "dur": 1.2
+  },
+  {
+   "id": "s04",
+   "role": "detail",
+   "name": "bmwx5_ext_wheel_m",
+   "src": "IMG_9081.MOV",
+   "in": 1.5,
+   "look": "bright",
+   "start": 7.6,
+   "dur": 1.7
+  },
+  {
+   "id": "s05",
+   "role": "detail",
+   "name": "bmwx5_ext_emblem_grille",
+   "src": "IMG_9076.MOV",
+   "in": 1.0,
+   "look": "bright",
+   "start": 9.3,
+   "dur": 1.133
+  },
+  {
+   "id": "s06",
+   "role": "detail",
+   "name": "bmwx5_ext_side_mirror",
+   "src": "IMG_9073.MOV",
+   "in": 0.2,
+   "look": "bright",
+   "start": 10.433,
+   "dur": 1.7,
+   "plates": [
+    [
+     0.0,
+     [
+      [
+       -110,
+       460
+      ],
+      [
+       -60,
+       460
+      ],
+      [
+       -60,
+       488
+      ],
+      [
+       -110,
+       488
+      ]
+     ]
+    ],
+    [
+     0.324,
+     [
+      [
+       -110,
+       460
+      ],
+      [
+       -60,
+       460
+      ],
+      [
+       -60,
+       488
+      ],
+      [
+       -110,
+       488
+      ]
+     ]
+    ],
+    [
+     0.372,
+     [
+      [
+       18,
+       460
+      ],
+      [
+       70,
+       460
+      ],
+      [
+       70,
+       488
+      ],
+      [
+       18,
+       488
+      ]
+     ]
+    ],
+    [
+     0.431,
+     [
+      [
+       42,
+       458
+      ],
+      [
+       102,
+       458
+      ],
+      [
+       102,
+       486
+      ],
+      [
+       42,
+       486
+      ]
+     ]
+    ],
+    [
+     0.49,
+     [
+      [
+       84,
+       455
+      ],
+      [
+       140,
+       455
+      ],
+      [
+       140,
+       482
+      ],
+      [
+       84,
+       482
+      ]
+     ]
+    ],
+    [
+     0.549,
+     [
+      [
+       126,
+       452
+      ],
+      [
+       180,
+       452
+      ],
+      [
+       180,
+       478
+      ],
+      [
+       126,
+       478
+      ]
+     ]
+    ],
+    [
+     0.608,
+     [
+      [
+       170,
+       447
+      ],
+      [
+       222,
+       447
+      ],
+      [
+       222,
+       474
+      ],
+      [
+       170,
+       474
+      ]
+     ]
+    ],
+    [
+     0.667,
+     [
+      [
+       216,
+       443
+      ],
+      [
+       266,
+       443
+      ],
+      [
+       266,
+       469
+      ],
+      [
+       216,
+       469
+      ]
+     ]
+    ],
+    [
+     0.725,
+     [
+      [
+       264,
+       439
+      ],
+      [
+       310,
+       439
+      ],
+      [
+       310,
+       466
+      ],
+      [
+       264,
+       466
+      ]
+     ]
+    ],
+    [
+     0.843,
+     [
+      [
+       368,
+       433
+      ],
+      [
+       412,
+       433
+      ],
+      [
+       412,
+       458
+      ],
+      [
+       368,
+       458
+      ]
+     ]
+    ],
+    [
+     0.961,
+     [
+      [
+       458,
+       429
+      ],
+      [
+       498,
+       429
+      ],
+      [
+       498,
+       454
+      ],
+      [
+       458,
+       454
+      ]
+     ]
+    ],
+    [
+     1.0,
+     [
+      [
+       480,
+       427
+      ],
+      [
+       520,
+       427
+      ],
+      [
+       520,
+       452
+      ],
+      [
+       480,
+       452
+      ]
+     ]
+    ]
+   ],
+   "note": "white Kia Carnival passing behind the showroom glass, plate visible 0.63-1.65 s (parked off-frame before)"
+  },
+  {
+   "id": "s07",
+   "role": "card",
+   "name": "reason_title_card",
+   "src": "IMG_9071.MOV",
+   "in": 1.0,
+   "look": "title",
+   "start": 12.133,
+   "dur": 3.433
+  },
+  {
+   "id": "s08",
+   "role": "before",
+   "name": "stock_narrow_fov",
+   "src": "IMG_9070.MOV",
+   "in": 2.5,
+   "look": "bright",
+   "start": 15.567,
+   "dur": 3.933,
+   "speed": 1.36
+  },
+  {
+   "id": "s09",
+   "role": "before",
+   "name": "blindspot_danger",
+   "src": "IMG_9072.MOV",
+   "in": 7.8,
+   "look": "bright",
+   "start": 19.5,
+   "dur": 4.7,
+   "speed": 1.34
+  },
+  {
+   "id": "s09b",
+   "role": "before",
+   "name": "stock_road_view_narrow",
+   "src": "IMG_9119.MOV",
+   "in": 0.35,
+   "look": "bright",
+   "speed": 1.5,
+   "crop": "crop=2304:1296:900:864",
+   "start": 24.2,
+   "dur": 5.7
+  },
+  {
+   "id": "s10b",
+   "role": "before",
+   "name": "install_press_glass",
+   "src": "IMG_9086.MOV",
+   "in": 2.45,
+   "look": "bright",
+   "start": 29.9,
+   "dur": 1.68,
+   "speed": 1.6
+  },
+  {
+   "id": "s11",
+   "role": "install",
+   "name": "opticglass_install",
+   "src": "IMG_9086.MOV",
+   "in": 3.5,
+   "look": "bright",
+   "start": 31.58,
+   "dur": 3.0,
+   "speed": 1.2
+  },
+  {
+   "id": "s11b",
+   "role": "install",
+   "name": "install_finish_mirror",
+   "src": "IMG_9086.MOV",
+   "in": 10.7,
+   "look": "bright",
+   "start": 34.58,
+   "dur": 3.0,
+   "speed": 2.0
+  },
+  {
+   "id": "s12",
+   "role": "after",
+   "name": "wide_fov_solution",
+   "src": "IMG_9105.MOV",
+   "in": 1.75,
+   "look": "bright",
+   "speed": 2.0,
+   "start": 37.58,
+   "dur": 4.333,
+   "arrows": [
+    [
+     589,
+     514,
+     -1.0,
+     0.0,
+     125
+    ],
+    [
+     1484,
+     514,
+     1.0,
+     0.0,
+     125
+    ],
+    [
+     1037,
+     193,
+     0.0,
+     -1.0,
+     125
+    ],
+    [
+     1037,
+     835,
+     0.0,
+     1.0,
+     125
+    ]
+   ]
+  },
+  {
+   "id": "s12b",
+   "role": "after",
+   "name": "optic_passenger_wide_view",
+   "src": "IMG_9102.MOV",
+   "in": 1.9,
+   "look": "bright",
+   "speed": 2.0,
+   "start": 41.913,
+   "dur": 5.6,
+   "arrows": [
+    [
+     495,
+     516,
+     -1.0,
+     0.0,
+     125
+    ],
+    [
+     1256,
+     516,
+     1.0,
+     0.0,
+     125
+    ],
+    [
+     876,
+     245,
+     0.0,
+     -1.0,
+     125
+    ],
+    [
+     876,
+     786,
+     0.0,
+     1.0,
+     125
+    ]
+   ]
+  },
+  {
+   "id": "s12c",
+   "role": "after",
+   "name": "optic_driver_wide_view",
+   "src": "IMG_9104.MOV",
+   "in": 1.5,
+   "look": "bright",
+   "speed": 2.0,
+   "start": 47.513,
+   "dur": 3.5,
+   "arrows": [
+    [
+     344,
+     509,
+     -1.0,
+     0.0,
+     125
+    ],
+    [
+     1571,
+     509,
+     1.0,
+     0.0,
+     125
+    ],
+    [
+     957,
+     100,
+     0.0,
+     -1.0,
+     125
+    ],
+    [
+     957,
+     935,
+     0.0,
+     1.0,
+     125
+    ]
+   ]
+  },
+  {
+   "id": "s12d",
+   "role": "after",
+   "name": "optic_road_wide_view",
+   "src": "IMG_9114.MOV",
+   "in": 5.0,
+   "look": "bright",
+   "speed": 2.0,
+   "crop": "crop=2160:1215:0:1880",
+   "start": 51.013,
+   "dur": 2.5,
+   "faces": [
+    [
+     [
+      0.0,
+      1180,
+      513,
+      44
+     ],
+     [
+      0.16,
+      1178,
+      517,
+      44
+     ],
+     [
+      0.32,
+      1177,
+      520,
+      44
+     ],
+     [
+      0.48,
+      1183,
+      523,
+      44
+     ],
+     [
+      0.64,
+      1184,
+      523,
+      44
+     ],
+     [
+      0.8,
+      1181,
+      525,
+      44
+     ],
+     [
+      0.96,
+      1177,
+      528,
+      44
+     ],
+     [
+      1.0,
+      1178,
+      529,
+      44
+     ]
+    ],
+    [
+     [
+      0.0,
+      599,
+      768,
+      44
+     ],
+     [
+      0.16,
+      618,
+      763,
+      44
+     ],
+     [
+      0.24,
+      624,
+      762,
+      44
+     ],
+     [
+      0.32,
+      637,
+      756,
+      44
+     ],
+     [
+      0.4,
+      645,
+      756,
+      44
+     ],
+     [
+      0.48,
+      652,
+      756,
+      44
+     ],
+     [
+      0.64,
+      656,
+      756,
+      44
+     ],
+     [
+      0.8,
+      651,
+      758,
+      44
+     ],
+     [
+      0.96,
+      641,
+      763,
+      44
+     ],
+     [
+      1.0,
+      641,
+      764,
+      44
+     ]
+    ]
+   ],
+   "note": "two small people reflected in the optic glass (standing pedestrian right, seated man left), template-tracked",
+   "arrows": [
+    [
+     255,
+     630,
+     -1.0,
+     0.0,
+     125
+    ],
+    [
+     1400,
+     630,
+     1.0,
+     0.0,
+     125
+    ],
+    [
+     828,
+     181,
+     0.0,
+     -1.0,
+     125
+    ],
+    [
+     828,
+     980,
+     0.0,
+     1.0,
+     125
+    ]
+   ]
+  },
+  {
+   "id": "s13",
+   "role": "compare_before",
+   "name": "before_single_color",
+   "src": "IMG_9110.MOV",
+   "in": 4.1,
+   "look": "bright",
+   "crop": "crop=2240:1260:1080:880",
+   "start": 53.513,
+   "dur": 1.4,
+   "speed": 1.273
+  },
+  {
+   "id": "s14",
+   "role": "compare_after",
+   "name": "after_single_color",
+   "src": "IMG_9110.MOV",
+   "in": 1.4,
+   "look": "bright",
+   "crop": "crop=2240:1260:1220:880",
+   "start": 54.913,
+   "dur": 1.333,
+   "arrows": [
+    [
+     300,
+     520,
+     -0.99,
+     0.08,
+     120
+    ],
+    [
+     1265,
+     520,
+     0.975,
+     0.22,
+     120
+    ],
+    [
+     1250,
+     140,
+     -0.07,
+     -1.0,
+     120
+    ],
+    [
+     980,
+     975,
+     -0.18,
+     0.98,
+     120
+    ]
+   ]
+  },
+  {
+   "id": "s15",
+   "role": "split",
+   "name": "split_bmwx5_left_5050",
+   "src": "IMG_9110.MOV",
+   "in": 4.0,
+   "split": {
+    "in_after": 1.3,
+    "crop_before": "setpts=1.50*PTS,crop=1920:2160:1220:0",
+    "crop_after": "crop=1920:2160:1380:0"
+   },
+   "start": 56.246,
+   "dur": 1.9,
+   "faces": [
+    [
+     [
+      0.0,
+      190,
+      140,
+      190
+     ],
+     [
+      0.5,
+      185,
+      145,
+      190
+     ],
+     [
+      1.0,
+      180,
+      150,
+      190
+     ]
+    ],
+    [
+     [
+      0.0,
+      1170,
+      110,
+      205
+     ],
+     [
+      0.5,
+      1165,
+      115,
+      205
+     ],
+     [
+      1.0,
+      1160,
+      120,
+      205
+     ]
+    ]
+   ],
+   "arrows": [
+    [
+     1090,
+     735,
+     -0.99,
+     0.08,
+     124
+    ],
+    [
+     1765,
+     735,
+     0.98,
+     0.16,
+     124
+    ],
+    [
+     1440,
+     520,
+     -0.1,
+     -0.99,
+     124
+    ],
+    [
+     1430,
+     965,
+     -0.15,
+     0.99,
+     124
+    ]
+   ]
+  },
+  {
+   "id": "s16",
+   "role": "split",
+   "name": "split_bmwx5_right_5050",
+   "src": "IMG_9119.MOV",
+   "in": 1.5,
+   "split": {
+    "in_after": 5.8,
+    "crop_before": "crop=1520:1710:1400:450",
+    "crop_after": "crop=1520:1710:1440:450"
+   },
+   "start": 58.146,
+   "dur": 1.867,
+   "faces": [
+    [
+     [
+      0.0,
+      815,
+      45,
+      140
+     ],
+     [
+      0.5,
+      815,
+      45,
+      140
+     ],
+     [
+      1.0,
+      815,
+      45,
+      140
+     ]
+    ],
+    [
+     [
+      0.0,
+      1835,
+      85,
+      175
+     ],
+     [
+      0.5,
+      1835,
+      85,
+      175
+     ],
+     [
+      1.0,
+      1835,
+      85,
+      175
+     ]
+    ]
+   ],
+   "arrows": [
+    [
+     1120,
+     725,
+     -0.98,
+     -0.15,
+     124
+    ],
+    [
+     1740,
+     745,
+     0.99,
+     0.1,
+     124
+    ],
+    [
+     1410,
+     485,
+     0.1,
+     -0.99,
+     124
+    ],
+    [
+     1425,
+     965,
+     0.12,
+     0.99,
+     124
+    ]
+   ]
+  },
+  {
+   "id": "s16c",
+   "role": "compare_before",
+   "name": "before_stock_bicycle_view",
+   "src": "IMG_9113.MOV",
+   "in": 5.3,
+   "look": "bright",
+   "speed": 1.6,
+   "crop": "crop=2160:1215:0:1830",
+   "start": 60.013,
+   "dur": 3.6
+  },
+  {
+   "id": "s16e",
+   "role": "compare_after",
+   "name": "after_optic_housing_same_take",
+   "src": "IMG_9113.MOV",
+   "in": 8.2,
+   "look": "bright",
+   "speed": 1.6,
+   "crop": "crop=2160:1215:0:1830",
+   "start": 63.613,
+   "dur": 2.233,
+   "arrows": [
+    [
+     430,
+     520,
+     -0.99,
+     -0.08,
+     124
+    ],
+    [
+     1570,
+     440,
+     0.97,
+     0.25,
+     124
+    ],
+    [
+     700,
+     190,
+     -0.2,
+     -0.98,
+     124
+    ],
+    [
+     450,
+     740,
+     -0.85,
+     0.53,
+     124
+    ]
+   ],
+   "note": "single 시공 후 shots after the 50:50 splits (bottom bezel sits under lt13b, so the 4th arrow is lower-left)"
+  },
+  {
+   "id": "s16d",
+   "role": "compare_after",
+   "name": "after_optic_wide_view",
+   "src": "IMG_9110.MOV",
+   "in": 5.95,
+   "look": "bright",
+   "speed": 1.6,
+   "crop": "crop=2240:1260:1220:900",
+   "start": 65.846,
+   "dur": 2.867,
+   "arrows": [
+    [
+     100,
+     560,
+     -0.99,
+     -0.05,
+     124
+    ],
+    [
+     1115,
+     470,
+     0.97,
+     0.22,
+     124
+    ],
+    [
+     600,
+     225,
+     -0.1,
+     -0.99,
+     124
+    ],
+    [
+     200,
+     900,
+     -0.7,
+     0.71,
+     124
+    ]
+   ]
+  },
+  {
+   "id": "s16w",
+   "role": "close",
+   "name": "warm_close_side_mirror",
+   "src": "IMG_9073.MOV",
+   "in": 1.75,
+   "look": "bright",
+   "speed": 2.0,
+   "start": 68.713,
+   "dur": 5.0
+  },
+  {
+   "id": "s17",
+   "role": "outro",
+   "name": "opticglass_outro",
+   "src": "outro",
+   "in": 0.0,
+   "look": "plain",
+   "start": 73.713,
+   "dur": 7.1
+  }
+ ],
+ "lines": [
+  {
+   "id": "lt01",
+   "start": 0.4,
+   "dur": 2.3,
+   "fc_pos": [
+    960,
+    585
+   ],
+   "size": 86,
+   "color": "#FFFFFF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "BMW X5"
+  },
+  {
+   "id": "lt01b",
+   "start": 0.4,
+   "dur": 2.3,
+   "fc_pos": [
+    960,
+    680
+   ],
+   "size": 52,
+   "color": "#FFFFFF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "옵틱글래스 광각미러 시공"
+  },
+  {
+   "id": "lt04a",
+   "start": 12.133,
+   "dur": 3.299,
+   "fc_pos": [
+    960,
+    420
+   ],
+   "size": 38,
+   "color": "#FFFFFF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "BY OPTICGLASS"
+  },
+  {
+   "id": "lt04b",
+   "start": 12.133,
+   "dur": 3.299,
+   "fc_pos": [
+    960,
+    535
+   ],
+   "size": 78,
+   "color": "#FFFFFF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "광각미러가 꼭 필요한 이유"
+  },
+  {
+   "id": "lt05a",
+   "start": 15.567,
+   "dur": 1.967,
+   "fc_pos": [
+    960,
+    974
+   ],
+   "size": 92,
+   "color": "#FFFFFF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "순정미러의 좁은 시야"
+  },
+  {
+   "id": "lt05b",
+   "start": 17.534,
+   "dur": 1.966,
+   "fc_pos": [
+    960,
+    974
+   ],
+   "size": 92,
+   "color": "#7EB8FF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "운행 시 차선 확인 어려움!"
+  },
+  {
+   "id": "lt06a",
+   "start": 20.067,
+   "dur": 4.133,
+   "fc_pos": [
+    643,
+    846
+   ],
+   "size": 56,
+   "color": "#FFFFFF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "초보운전자에게는 특히나 치명적인 좁은 시야!"
+  },
+  {
+   "id": "lt06b",
+   "start": 20.6,
+   "dur": 3.6,
+   "fc_pos": [
+    960,
+    982
+   ],
+   "size": 112,
+   "color": "#6CA6FF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "혼잡한 도로에서 사고 발생 확률 UP!"
+  },
+  {
+   "id": "lt07",
+   "start": 24.4,
+   "dur": 5.3,
+   "fc_pos": [
+    960,
+    974
+   ],
+   "size": 92,
+   "color": "#FFB8E6",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "운전고수도 무시할 수 없는 사각지대!"
+  },
+  {
+   "id": "lt08",
+   "start": 37.713,
+   "dur": 4.0,
+   "fc_pos": [
+    960,
+    974
+   ],
+   "size": 92,
+   "color": "#FFE63B",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "옵틱글래스 광각미러로 한방에 해결!"
+  },
+  {
+   "id": "lt09a",
+   "start": 42.213,
+   "dur": 11.4,
+   "fc_pos": [
+    636,
+    846
+   ],
+   "size": 56,
+   "color": "#FFFFFF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "사각지대 해소 가능한 넓은 시야,"
+  },
+  {
+   "id": "lt09b",
+   "start": 42.68,
+   "dur": 10.933,
+   "fc_pos": [
+    960,
+    982
+   ],
+   "size": 112,
+   "color": "#FFB44C",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "편리해진 차선/주차라인 확인"
+  },
+  {
+   "id": "lt10",
+   "start": 53.513,
+   "dur": 1.4,
+   "fc_pos": [
+    960,
+    115
+   ],
+   "size": 72,
+   "color": "#FFF6B0",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "시공 전"
+  },
+  {
+   "id": "lt11",
+   "start": 54.913,
+   "dur": 1.333,
+   "fc_pos": [
+    960,
+    115
+   ],
+   "size": 72,
+   "color": "#FFE650",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "시공 후"
+  },
+  {
+   "id": "lt12a",
+   "start": 56.246,
+   "dur": 3.767,
+   "fc_pos": [
+    480,
+    115
+   ],
+   "size": 72,
+   "color": "#FFF6B0",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "시공 전"
+  },
+  {
+   "id": "lt12b",
+   "start": 56.246,
+   "dur": 3.767,
+   "fc_pos": [
+    1440,
+    115
+   ],
+   "size": 72,
+   "color": "#FFE650",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "시공 후"
+  },
+  {
+   "id": "lt13a",
+   "start": 56.346,
+   "dur": 3.567,
+   "fc_pos": [
+    960,
+    880
+   ],
+   "size": 92,
+   "color": "#FFFFFF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "혼잡한 도로에서도 걱정 없이 안전한 운전"
+  },
+  {
+   "id": "lt10b",
+   "start": 60.013,
+   "dur": 3.6,
+   "fc_pos": [
+    960,
+    115
+   ],
+   "size": 72,
+   "color": "#FFF6B0",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "시공 전"
+  },
+  {
+   "id": "lt11b",
+   "start": 63.613,
+   "dur": 5.1,
+   "fc_pos": [
+    960,
+    115
+   ],
+   "size": 72,
+   "color": "#FFE650",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "시공 후"
+  },
+  {
+   "id": "lt13b",
+   "start": 63.713,
+   "dur": 4.9,
+   "fc_pos": [
+    960,
+    974
+   ],
+   "size": 92,
+   "color": "#7EB8FF",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "비가 오나 눈이 오나 쾌적한 시야 제공"
+  },
+  {
+   "id": "lt14",
+   "start": 68.913,
+   "dur": 4.6,
+   "fc_pos": [
+    960,
+    974
+   ],
+   "size": 92,
+   "color": "#FFE63B",
+   "stroke_w": 0.0,
+   "shadow": false,
+   "font": "Paperlogy",
+   "font_style": "7 Bold",
+   "text": "옵틱글래스로 교체하고 언제나 안전한 운행"
+  }
+ ]
+}

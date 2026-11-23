@@ -1,0 +1,158 @@
+{
+ "id": "IMzrTOpBvF0",
+ "tab": "shorts",
+ "upload_date": "20260909",
+ "duration": 18.2,
+ "title": "패밀리카 고민 끝? 2025 토요타 시에나를 직접 보면 생각이 달라집니다",
+ "url": "https://www.youtube.com/watch?v=IMzrTOpBvF0",
+ "width": 720,
+ "height": 1280,
+ "format": "shortform",
+ "aspect": "9:16",
+ "cuts": [
+  4.6,
+  6.03,
+  7.53,
+  11.9,
+  13.37,
+  14.37,
+  15.93
+ ],
+ "ocr_readings": 367,
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 17.75,
+   "x": 0.3563,
+   "y": 0.8141,
+   "w": 0.4847,
+   "h": 0.0449,
+   "frames": 36,
+   "text": "Optic-Glass",
+   "ocr": "Optic-Glass",
+   "readings": [
+    [
+     "Optic-Glass",
+     36
+    ],
+    [
+     "Optic-GIass",
+     33
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 17.75,
+   "x": 0.0722,
+   "y": 0.1172,
+   "w": 0.8528,
+   "h": 0.0477,
+   "frames": 35,
+   "text": "가족을 위한 완벽한 선택",
+   "ocr": "가족을 위한 완벽한 선택",
+   "readings": [
+    [
+     "가족을 위한 완벽한 선택",
+     35
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 17.75,
+   "x": 0.1118,
+   "y": 0.1746,
+   "w": 0.7799,
+   "h": 0.0477,
+   "frames": 35,
+   "text": "25년식 토요타 시에나",
+   "ocr": "25년식 토요타 시에나",
+   "readings": [
+    [
+     "25년식 토요타 시에나",
+     34
+    ],
+    [
+     "25년식 토요타",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 12.25,
+   "end": 13.25,
+   "x": 0.1792,
+   "y": 0.5852,
+   "w": 0.6389,
+   "h": 0.0449,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.75,
+   "end": 15.75,
+   "x": 0.0868,
+   "y": 0.3531,
+   "w": 0.8313,
+   "h": 0.0516,
+   "frames": 2,
+   "text": "한 코이던 구넣식가/`1 모납니과!",
+   "ocr": "한 코이던 구넣식가/`1 모납니과!",
+   "readings": [
+    [
+     "한 코이던 구넣식가/`1 모납니과!",
+     1
+    ],
+    [
+     "코이던 구넣식가/`1 모납니과!",
+     1
+    ]
+   ],
+   "caption": null,
+   "fixed_by": "ocr",
+   "agy_stray": "안 보이던 사각지대가 다 보입니다!"
+  },
+  {
+   "start": 15.75,
+   "end": 16.75,
+   "x": 0.3472,
+   "y": 0.4531,
+   "w": 0.0931,
+   "h": 0.0098,
+   "frames": 2,
+   "text": "OPtic-Glass",
+   "ocr": "OPtic-Glass",
+   "readings": [
+    [
+     "OPtic-Glass",
+     1
+    ],
+    [
+     "OPtic-Giass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:34:20"
+}

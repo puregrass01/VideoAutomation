@@ -1,0 +1,206 @@
+{
+  "spec_version": "0.1",
+  "meta": {
+    "template_name": "bmwx7_shorts",
+    "source_type": "gdrive_25_bmw_x7_optic_251212",
+    "duration_s": 12.0,
+    "notes": "2025 BMW X7 옵틱글래스 광각미러 9:16 숏폼 (4컷 핵심 비교형 + 시공 전/후 사이드미러 외곽선 화살표 왕복 애니메이션 + Noto Sans KR Bold 불투명 검정 배경 박스)."
+  },
+  "canvas": {
+    "w": 1080,
+    "h": 1920,
+    "fps": 30.0,
+    "aspect": "9:16"
+  },
+  "audio": {
+    "bgm_slot": "bgm_main",
+    "bpm": null,
+    "downbeats_s": [
+      0.0,
+      2.367,
+      5.767,
+      8.967
+    ],
+    "sections": [
+      {
+        "label": "full",
+        "start": 0.0,
+        "end": 12.0
+      }
+    ]
+  },
+  "styles": {
+    "ko_ffffff_y21": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 7.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.21
+      ]
+    },
+    "ko_ffff00_y21": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 7.5,
+      "color": "#FFFF00",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.21
+      ]
+    },
+    "ko_ffffff_y11": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 7.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.11
+      ]
+    }
+  },
+  "scenes": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "dur": 2.367,
+      "snap": "cut#1",
+      "slot": {
+        "id": "clip_01",
+        "kind": "video",
+        "path": "C:\\Users\\bssho\\Downloads\\paperclip-master\\video-automation\\work\\media\\bmwx7\\bmwx7_s01_stock_mirror.mp4",
+        "aspect": "9:16",
+        "min_src_dur": 2.367,
+        "subject_hint": "25 BMW X7 순정 사이드미러 (IMG_9846.MOV)",
+        "fit": "cover"
+      },
+      "texts": [
+        {
+          "text": "BMW X7 순정 미러\n좁은 시야 답답하셨죠?",
+          "style": "ko_ffffff_y21",
+          "t": [
+            0.0,
+            2.367
+          ]
+        }
+      ],
+      "needs_review": []
+    },
+    {
+      "id": "s02",
+      "start": 2.367,
+      "dur": 3.4,
+      "snap": "cut#2",
+      "slot": {
+        "id": "clip_02",
+        "kind": "video",
+        "path": "C:\\Users\\bssho\\Downloads\\paperclip-master\\video-automation\\work\\media\\bmwx7\\bmwx7_s02_install.mp4",
+        "aspect": "9:16",
+        "min_src_dur": 3.4,
+        "subject_hint": "25 BMW X7 마스킹 보호 및 광각미러 교체 시공 (IMG_9878.MOV)",
+        "fit": "cover"
+      },
+      "texts": [
+        {
+          "text": "순정 미러 탈거 후\n광각미러로 바로 교체!",
+          "style": "ko_ffff00_y21",
+          "t": [
+            0.0,
+            3.4
+          ]
+        }
+      ],
+      "needs_review": []
+    },
+    {
+      "id": "s03",
+      "start": 5.767,
+      "dur": 3.2,
+      "snap": "cut#3",
+      "slot": {
+        "id": "clip_03",
+        "kind": "video",
+        "path": "C:\\Users\\bssho\\Downloads\\paperclip-master\\video-automation\\work\\media\\bmwx7\\bmwx7_s03_compare.mp4",
+        "aspect": "9:16",
+        "min_src_dur": 3.2,
+        "subject_hint": "25 BMW X7 시공 전/후 상하 50:50 비교 + 외곽선 화살표 애니메이션 (IMG_9848.MOV vs IMG_9845.MOV)",
+        "fit": "cover"
+      },
+      "texts": [
+        {
+          "text": "순정 미러와 비교하면\n시야각 차이 확실하죠",
+          "style": "ko_ffffff_y11",
+          "t": [
+            0.0,
+            3.2
+          ]
+        }
+      ],
+      "needs_review": []
+    },
+    {
+      "id": "s04",
+      "start": 8.967,
+      "dur": 3.033,
+      "snap": "cut#4",
+      "slot": {
+        "id": "clip_04",
+        "kind": "video",
+        "path": "C:\\Users\\bssho\\Downloads\\paperclip-master\\video-automation\\work\\media\\bmwx7\\bmwx7_s04_result.mp4",
+        "aspect": "9:16",
+        "min_src_dur": 3.033,
+        "subject_hint": "25 BMW X7 옵틱글래스 광각미러 장착 완료 (IMG_9845.MOV)",
+        "fit": "cover"
+      },
+      "texts": [
+        {
+          "text": "장착 후 사각지대 없이\n운전이 훨씬 편해집니다",
+          "style": "ko_ffff00_y21",
+          "t": [
+            0.0,
+            3.033
+          ]
+        }
+      ],
+      "needs_review": []
+    }
+  ]
+}

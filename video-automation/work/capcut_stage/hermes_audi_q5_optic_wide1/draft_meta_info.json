@@ -1,0 +1,936 @@
+{
+  "cloud_draft_cover": false,
+  "cloud_draft_sync": false,
+  "cloud_package_completed_time": "2025-05-28T23:39:05+00:00",
+  "draft_cloud_capcut_purchase_info": "",
+  "draft_cloud_last_action_download": false,
+  "draft_cloud_package_type": "",
+  "draft_cloud_purchase_info": "",
+  "draft_cloud_template_id": "",
+  "draft_cloud_tutorial_info": "",
+  "draft_cloud_videocut_purchase_info": "",
+  "draft_cover": "draft_cover.jpg",
+  "draft_deeplink_url": "",
+  "draft_enterprise_info": {
+    "draft_enterprise_extra": "",
+    "draft_enterprise_id": "",
+    "draft_enterprise_name": "",
+    "enterprise_material": []
+  },
+  "draft_fold_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft/hermes_audi_q5_optic_wide1",
+  "draft_id": "FF49310C-BE7E-4187-9926-0FA2A559BB90",
+  "draft_is_ae_produce": false,
+  "draft_is_ai_packaging_used": false,
+  "draft_is_ai_shorts": false,
+  "draft_is_ai_translate": false,
+  "draft_is_article_video_draft": false,
+  "draft_is_cloud_temp_draft": false,
+  "draft_is_from_deeplink": "false",
+  "draft_is_invisible": false,
+  "draft_is_pippit_draft": false,
+  "draft_is_web_article_video": false,
+  "draft_materials": [
+    {
+      "type": 0,
+      "value": [
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 4666667,
+          "enter_from": 0,
+          "extra_info": "lf_w00_w00_car_detail.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w00_w00_car_detail.mp4",
+          "height": 1080,
+          "id": "42da046a-a24d-444a-be0f-394db56cfd9c",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4666667,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 3166666,
+          "enter_from": 0,
+          "extra_info": "lf_w01_w01_car_detail.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w01_w01_car_detail.mp4",
+          "height": 1080,
+          "id": "70adf9bc-8b49-4a69-b8fc-ede0468c34f6",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3166666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 2233334,
+          "enter_from": 0,
+          "extra_info": "lf_w02_w02_car_detail.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w02_w02_car_detail.mp4",
+          "height": 1080,
+          "id": "d3c29ff8-1089-4f46-a330-cec18e9ce64e",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 2233334,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 2500000,
+          "enter_from": 0,
+          "extra_info": "lf_w03_w03_car_exterior.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w03_w03_car_exterior.mp4",
+          "height": 1080,
+          "id": "0a45a88a-7ed0-4439-a0f7-e28751865580",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 2500000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 5633333,
+          "enter_from": 0,
+          "extra_info": "lf_w04_w04_car_exterior.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w04_w04_car_exterior.mp4",
+          "height": 1080,
+          "id": "3cff8686-c7ca-4e59-8a6d-b0f3c741cd47",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5633333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 4400000,
+          "enter_from": 0,
+          "extra_info": "lf_w05_w05_car_exterior.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w05_w05_car_exterior.mp4",
+          "height": 1080,
+          "id": "73e4b9b5-9a34-4dfb-9c04-380552832fd8",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4400000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w06_w06_mirror_before.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w06_w06_mirror_before.mp4",
+          "height": 1080,
+          "id": "d7893b26-a18b-4aeb-a5c5-e385e0013ddf",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w07_w07_mirror_before.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w07_w07_mirror_before.mp4",
+          "height": 1080,
+          "id": "0e3b197a-3c8e-4278-b1a0-a38d32e2a775",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w08_w08_mirror_after.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w08_w08_mirror_after.mp4",
+          "height": 1080,
+          "id": "10eb52a8-f25f-4ad2-9d98-7e3867b2b542",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 5000000,
+          "enter_from": 0,
+          "extra_info": "lf_w09_w09_mirror_after.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w09_w09_mirror_after.mp4",
+          "height": 1080,
+          "id": "1406d526-e8fd-459d-bf4f-514c5f5276de",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 4000000,
+          "enter_from": 0,
+          "extra_info": "lf_w10_w10_split.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w10_w10_split.mp4",
+          "height": 1080,
+          "id": "97c83e8d-69cc-4f9b-80c6-077e40828bb5",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 4000000,
+          "enter_from": 0,
+          "extra_info": "lf_w11_w11_split.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w11_w11_split.mp4",
+          "height": 1080,
+          "id": "0ba55295-f1ae-4ecf-8271-d26a457ff6a4",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "lf_w12_opticglass_outro.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_w12_opticglass_outro.mp4",
+          "height": 1080,
+          "id": "884159e4-a39b-46c9-866b-37e419b37ef2",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "lf_audi_logo_shadow.png",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/lf_audi_logo_shadow.png",
+          "height": 206,
+          "id": "f7965996-df8a-41fb-98cd-52793943240f",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": 10800000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 258
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 57733333,
+          "enter_from": 0,
+          "extra_info": "audi_q5_wide1_bgm_41s.mp3",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/audi_q5_wide1_bgm_41s.mp3",
+          "height": 0,
+          "id": "31c4c477-4c9f-4762-a076-d4ff46a45529",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588627,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "music",
+          "roughcut_time_range": {
+            "duration": 57733333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 0
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 90300000,
+          "enter_from": 0,
+          "extra_info": "20210609_140525.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/gdrive_raw/20210609_140525.mp4",
+          "height": 1080,
+          "id": "278a3f1a-a1aa-4df6-8768-c2fdb5ee695d",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 90300000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 16350000,
+          "enter_from": 0,
+          "extra_info": "20210609_141727.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/gdrive_raw/20210609_141727.mp4",
+          "height": 1080,
+          "id": "2cd6fb35-7c70-40d1-8d01-d92f1991a78c",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 16350000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 243650000,
+          "enter_from": 0,
+          "extra_info": "20210609_141939.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/gdrive_raw/20210609_141939.mp4",
+          "height": 1080,
+          "id": "3bd044a3-08ae-477e-9a74-6432feab915f",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 243650000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 50200000,
+          "enter_from": 0,
+          "extra_info": "20210609_142414.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/gdrive_raw/20210609_142414.mp4",
+          "height": 1080,
+          "id": "9da55987-77f3-444f-8c51-cf3cc0d9e78a",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 50200000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 62083333,
+          "enter_from": 0,
+          "extra_info": "20210609_142604.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/gdrive_raw/20210609_142604.mp4",
+          "height": 1080,
+          "id": "a8746a67-ad5d-4960-a765-ac84fc7a77c9",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 62083333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 57733333,
+          "enter_from": 0,
+          "extra_info": "audi_q5_wide1_phonk_41s.mp3",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/audi_q5_wide1_phonk_41s.mp3",
+          "height": 0,
+          "id": "98e67083-bfaf-48fa-93ff-301a79034b77",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "music",
+          "roughcut_time_range": {
+            "duration": 57733333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 0
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "로고_번호판.png",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/0.옵틱 광각/16 아우디 Q5 옵틱/로고_번호판.png",
+          "height": 200,
+          "id": "c57d382a-79f3-427d-b8dc-5022d60d288c",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "CMC 크래프트 PPF 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/CMC 크래프트 PPF 아웃트로.mp4",
+          "height": 2160,
+          "id": "899bdf9f-1f57-40bd-83c7-cff44461c79f",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "CMC 크래프트 썬팅 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/CMC 크래프트 썬팅 아웃트로.mp4",
+          "height": 2160,
+          "id": "2c1d1990-0282-4c1c-9ea3-58fc5c0f67e3",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "블랙미 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/블랙미 아웃트로.mp4",
+          "height": 2160,
+          "id": "8bfad4e6-1154-4f60-bc5f-58e9fa4c8d0a",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "블랙사운드 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/블랙사운드 아웃트로.mp4",
+          "height": 2160,
+          "id": "41909719-0f5e-4e75-84ac-52af95be7327",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "스타포쉬 LED엠블럼 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/스타포쉬 LED엠블럼 아웃트로.mp4",
+          "height": 2160,
+          "id": "df4f36f6-3cc5-4c2f-b0fa-cd248167d934",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "스타포쉬 전사스 아웃트로 .mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/스타포쉬 전사스 아웃트로 .mp4",
+          "height": 2160,
+          "id": "f8f6f91e-5c6f-409b-be26-8f242d46a1b6",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 광각미러 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 광각미러 아웃트로.mp4",
+          "height": 2160,
+          "id": "d6f95875-0e8d-4a89-bae0-9922ebde9093",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 오토사이드미러 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 오토사이드미러 아웃트로.mp4",
+          "height": 2160,
+          "id": "a444e9e3-7ac8-49b3-9bc6-ab88b34f308f",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 옵틱시스템 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 옵틱시스템 아웃트로.mp4",
+          "height": 2160,
+          "id": "433e8ac9-7ba8-45c5-afcf-f1a210944e76",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075427,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "퓨어그래스 코일매트 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/퓨어그래스 코일매트 아웃트로.mp4",
+          "height": 2160,
+          "id": "425ec631-60f6-493c-aed7-ed8e1293f32b",
+          "import_time": 1795075427,
+          "import_time_ms": 1795075427588804,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "value": []
+    },
+    {
+      "type": 2,
+      "value": []
+    },
+    {
+      "type": 3,
+      "value": []
+    },
+    {
+      "type": 6,
+      "value": []
+    },
+    {
+      "type": 7,
+      "value": []
+    },
+    {
+      "type": 8,
+      "value": []
+    }
+  ],
+  "draft_materials_copied_info": [],
+  "draft_name": "hermes_audi_q5_optic_wide1",
+  "draft_need_rename_folder": false,
+  "draft_new_version": "164.0.0",
+  "draft_removable_storage_device": "",
+  "draft_root_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft",
+  "draft_segment_extra_info": [
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "4515B779-EBAD-4613-AA57-9E41BE716BA6"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "4FAE31D9-28B6-4a3e-A5BB-321ECCCFCCE7"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "E7BCE574-FB7B-4365-BD56-C92050840F5F"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "F59FD670-0637-48bd-9E20-8D0467AD4785"
+    }
+  ],
+  "draft_timeline_materials_size_": 751667134,
+  "draft_type": "",
+  "draft_web_article_video_enter_from": "",
+  "pippit_avatar_url": "",
+  "pippit_extra_info": "",
+  "pippit_id": "",
+  "pippit_user_name": "",
+  "tm_draft_cloud_completed": "1748475545000",
+  "tm_draft_cloud_entry_id": -1,
+  "tm_draft_cloud_modified": 1748475231781864,
+  "tm_draft_cloud_parent_entry_id": -1,
+  "tm_draft_cloud_space_id": 7327545136085664770,
+  "tm_draft_cloud_user_id": -1,
+  "tm_draft_create": 1784618436715121,
+  "tm_draft_modified": 1784622296384116,
+  "tm_draft_removed": 0,
+  "tm_duration": 57733333
+}

@@ -1,0 +1,390 @@
+{
+  "cloud_draft_cover": false,
+  "cloud_draft_sync": false,
+  "cloud_package_completed_time": "2025-05-28T23:39:05+00:00",
+  "draft_cloud_capcut_purchase_info": "",
+  "draft_cloud_last_action_download": false,
+  "draft_cloud_package_type": "",
+  "draft_cloud_purchase_info": "",
+  "draft_cloud_template_id": "",
+  "draft_cloud_tutorial_info": "",
+  "draft_cloud_videocut_purchase_info": "",
+  "draft_cover": "draft_cover.jpg",
+  "draft_deeplink_url": "",
+  "draft_enterprise_info": {
+    "draft_enterprise_extra": "",
+    "draft_enterprise_id": "",
+    "draft_enterprise_name": "",
+    "enterprise_material": []
+  },
+  "draft_fold_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft/hermes_c40_optic_shorts",
+  "draft_id": "E1AFED18-2CC1-4C34-9DE2-660A15CBD0EE",
+  "draft_is_ae_produce": false,
+  "draft_is_ai_packaging_used": false,
+  "draft_is_ai_shorts": false,
+  "draft_is_ai_translate": false,
+  "draft_is_article_video_draft": false,
+  "draft_is_cloud_temp_draft": false,
+  "draft_is_from_deeplink": "false",
+  "draft_is_invisible": false,
+  "draft_is_pippit_draft": false,
+  "draft_is_web_article_video": false,
+  "draft_materials": [
+    {
+      "type": 0,
+      "value": [
+        {
+          "ai_group_type": "",
+          "create_time": 1795075596,
+          "duration": 73166666,
+          "enter_from": 0,
+          "extra_info": "shorts_source.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/shorts_source.mp4",
+          "height": 1080,
+          "id": "e4e9dd02-4e53-4c55-bca1-0101c5aa2948",
+          "import_time": 1795075596,
+          "import_time_ms": 1795075596841040,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 73166666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075596,
+          "duration": 73166666,
+          "enter_from": 0,
+          "extra_info": "shorts_source.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/shorts_source.mp4",
+          "height": 1080,
+          "id": "8628fa75-3558-403f-9f99-39a699bd842b",
+          "import_time": 1795075596,
+          "import_time_ms": 1795075596841040,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 73166666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075596,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 로고.png",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/video-automation/assets/logos/옵틱글래스 로고.png",
+          "height": 152,
+          "id": "128369b9-e939-4a00-b335-6282f8f288c5",
+          "import_time": 1795075596,
+          "import_time_ms": 1795075596841040,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": 10800000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 692
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075596,
+          "duration": 73166666,
+          "enter_from": 0,
+          "extra_info": "shorts_source.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/shorts_source.mp4",
+          "height": 1080,
+          "id": "10418d2e-ed00-46a4-83e7-624b2c00377a",
+          "import_time": 1795075596,
+          "import_time_ms": 1795075596841040,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 73166666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075596,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 로고.png",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/video-automation/assets/logos/옵틱글래스 로고.png",
+          "height": 152,
+          "id": "2db8dbcf-183b-4879-9871-93c63c46701d",
+          "import_time": 1795075596,
+          "import_time_ms": 1795075596841040,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": 10800000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 692
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075596,
+          "duration": 73166666,
+          "enter_from": 0,
+          "extra_info": "shorts_source.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/shorts_source.mp4",
+          "height": 1080,
+          "id": "9cb13eb8-3c52-4806-9907-ee67785bb67e",
+          "import_time": 1795075596,
+          "import_time_ms": 1795075596841040,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 73166666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075596,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 로고.png",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/video-automation/assets/logos/옵틱글래스 로고.png",
+          "height": 152,
+          "id": "c57b3e98-bd1b-4971-8717-9ddf514a17dd",
+          "import_time": 1795075596,
+          "import_time_ms": 1795075596841040,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": 10800000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 692
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075596,
+          "duration": 73166666,
+          "enter_from": 0,
+          "extra_info": "shorts_source.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/shorts_source.mp4",
+          "height": 1080,
+          "id": "cbc192c1-7f76-49bb-a90d-0e938fbed432",
+          "import_time": 1795075596,
+          "import_time_ms": 1795075596841040,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 73166666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075596,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 로고.png",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/video-automation/assets/logos/옵틱글래스 로고.png",
+          "height": 152,
+          "id": "a72d5fe7-676c-4b34-ab1b-25fc83ee4126",
+          "import_time": 1795075596,
+          "import_time_ms": 1795075596841040,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": 10800000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 692
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075596,
+          "duration": 73166666,
+          "enter_from": 0,
+          "extra_info": "shorts_source.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/바탕 화면/구글드라이브다운파일/media/c40/shorts_source.mp4",
+          "height": 1080,
+          "id": "6e00e1f8-c407-473c-a93c-e5c320a21408",
+          "import_time": 1795075596,
+          "import_time_ms": 1795075596841040,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 73166666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1795075596,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 로고.png",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/video-automation/assets/logos/옵틱글래스 로고.png",
+          "height": 152,
+          "id": "99302cef-f81d-4c61-87a4-a3c94fef37e4",
+          "import_time": 1795075596,
+          "import_time_ms": 1795075596841040,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": 10800000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 692
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "value": []
+    },
+    {
+      "type": 2,
+      "value": []
+    },
+    {
+      "type": 3,
+      "value": []
+    },
+    {
+      "type": 6,
+      "value": []
+    },
+    {
+      "type": 7,
+      "value": []
+    },
+    {
+      "type": 8,
+      "value": []
+    }
+  ],
+  "draft_materials_copied_info": [],
+  "draft_name": "hermes_c40_optic_shorts",
+  "draft_need_rename_folder": false,
+  "draft_new_version": "164.0.0",
+  "draft_removable_storage_device": "",
+  "draft_root_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft",
+  "draft_segment_extra_info": [
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "4515B779-EBAD-4613-AA57-9E41BE716BA6"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "4FAE31D9-28B6-4a3e-A5BB-321ECCCFCCE7"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "E7BCE574-FB7B-4365-BD56-C92050840F5F"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "F59FD670-0637-48bd-9E20-8D0467AD4785"
+    }
+  ],
+  "draft_timeline_materials_size_": 751667134,
+  "draft_type": "",
+  "draft_web_article_video_enter_from": "",
+  "pippit_avatar_url": "",
+  "pippit_extra_info": "",
+  "pippit_id": "",
+  "pippit_user_name": "",
+  "tm_draft_cloud_completed": "1748475545000",
+  "tm_draft_cloud_entry_id": -1,
+  "tm_draft_cloud_modified": 1748475231781864,
+  "tm_draft_cloud_parent_entry_id": -1,
+  "tm_draft_cloud_space_id": 7327545136085664770,
+  "tm_draft_cloud_user_id": -1,
+  "tm_draft_create": 1784618436715121,
+  "tm_draft_modified": 1784622296384116,
+  "tm_draft_removed": 0,
+  "tm_duration": 12600000
+}

@@ -1,0 +1,1038 @@
+{
+ "id": "3Q57nteLXoc",
+ "tab": "shorts",
+ "upload_date": "20260913",
+ "duration": 38.92,
+ "title": "결국 얼마인데? 25년형 토요타 시에나 가격까지 보면 살 만할까?",
+ "url": "https://www.youtube.com/watch?v=3Q57nteLXoc",
+ "width": 720,
+ "height": 1280,
+ "format": "shortform",
+ "aspect": "9:16",
+ "cuts": [
+  23.95,
+  32.08,
+  32.57,
+  34.03,
+  35.03,
+  36.58
+ ],
+ "ocr_readings": 1303,
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 24.75,
+   "x": 0.0347,
+   "y": 0.3523,
+   "w": 0.1632,
+   "h": 0.0109,
+   "frames": 49,
+   "text": "출처 : @toyotausa",
+   "ocr": "출처 : atoyotausa",
+   "readings": [
+    [
+     "출처 : atoyotausa",
+     18
+    ],
+    [
+     "출처 : (1 toyotausa",
+     11
+    ],
+    [
+     "출처 : toyotausa",
+     9
+    ],
+    [
+     "출처 : (1 toyotousa",
+     4
+    ],
+    [
+     "출처: atoyotausa",
+     2
+    ],
+    [
+     "출처 : (2 toyotausa",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.75,
+   "x": 0.2222,
+   "y": 0.4707,
+   "w": 0.4347,
+   "h": 0.0535,
+   "frames": 4,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     3
+    ],
+    [
+     "PART 04: 가격",
+     2
+    ],
+    [
+     "PART04. 가격",
+     1
+    ],
+    [
+     "PART 041",
+     1
+    ],
+    [
+     "PART 04",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 0.75,
+   "x": 0.0847,
+   "y": 0.5871,
+   "w": 0.4031,
+   "h": 0.0111,
+   "frames": 2,
+   "text": "245 NET COMBINF.D HOPSEDO :,VER",
+   "ocr": "245 NET COMBINF.D HOPSEDO :,VER",
+   "readings": [
+    [
+     "245 NET COMBINF.D HOPSEDO :,VER",
+     1
+    ],
+    [
+     "245 NET COMBINFD HORSF.DOV41tk",
+     1
+    ],
+    [
+     "245 NET COMBINED HORSEPOWT",
+     1
+    ],
+    [
+     "245 NET COMBINFD HORSF.DOM(_•\"Æ",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.25,
+   "x": 0.3743,
+   "y": 0.6293,
+   "w": 0.2549,
+   "h": 0.0152,
+   "frames": 3,
+   "text": "네 번째는 가격입니다",
+   "ocr": "네 번패는 가격입니다",
+   "readings": [
+    [
+     "네 번패는 가격입니다",
+     3
+    ],
+    [
+     "네 번째는 가격입니다",
+     1
+    ],
+    [
+     "네썬패는 가격입니다",
+     1
+    ],
+    [
+     "네 번패는가격입니다.才",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 38.75,
+   "x": 0.3563,
+   "y": 0.8141,
+   "w": 0.4847,
+   "h": 0.0449,
+   "frames": 78,
+   "text": "Optic-GIass",
+   "ocr": "Optic-GIass",
+   "readings": [
+    [
+     "Optic-GIass",
+     78
+    ],
+    [
+     "Optic-Glass",
+     78
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 38.75,
+   "x": 0.0472,
+   "y": 0.1172,
+   "w": 0.9097,
+   "h": 0.0477,
+   "frames": 77,
+   "text": "7천만 원 가성비 패밀리카",
+   "ocr": "7전만 원 가성비 패밀리카",
+   "readings": [
+    [
+     "7전만 원 가성비 패밀리카",
+     76
+    ],
+    [
+     "7천만 원 가성비 패밀리가",
+     76
+    ],
+    [
+     "7전만 원 가성비 패밀리가",
+     24
+    ],
+    [
+     "7전만원 가성비 패 일",
+     1
+    ],
+    [
+     "7전만원 가성비 패 민",
+     1
+    ],
+    [
+     "7전만원 기성비 패",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 38.75,
+   "x": 0.1118,
+   "y": 0.1746,
+   "w": 0.7778,
+   "h": 0.0477,
+   "frames": 77,
+   "text": "전국 전시장 즉시 출고",
+   "ocr": "전국 전시장 즉시 출고",
+   "readings": [
+    [
+     "전국 전시장 즉시 출고",
+     76
+    ],
+    [
+     "전국전시장",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.25,
+   "end": 4.25,
+   "x": 0.0847,
+   "y": 0.5867,
+   "w": 0.4313,
+   "h": 0.0117,
+   "frames": 6,
+   "text": "AVAILABLE ALL-WHEEL DRIVE (AWD)",
+   "ocr": "AVAILABLE ALL-WHEEL DRIVE (AWD)",
+   "readings": [
+    [
+     "AVAILABLE ALL-WHEEL DRIVE (AWD)",
+     3
+    ],
+    [
+     "AVAILABLE ALL-WHEEL DR)VE (AWD)",
+     1
+    ],
+    [
+     "AVAILABLE ALL-WHEEL DRIVE (AWDh",
+     1
+    ],
+    [
+     "AVAILABLE ALL-WHEEL DRtVE (AWD)",
+     1
+    ],
+    [
+     "AVAILABLE -WHEEebRlVE (AWD)",
+     1
+    ],
+    [
+     "AVAILABLE ALL-WHEFA. DRP•./F (AVAJD",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.25,
+   "end": 3.25,
+   "x": 0.3431,
+   "y": 0.6293,
+   "w": 0.316,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "한국 시장에는 이륜과 사륜",
+   "ocr": "한국 시장에는 이륜과 사륜",
+   "readings": [
+    [
+     "한국 시장에는 이륜과 사륜",
+     4
+    ],
+    [
+     "한국 시장에던이륜과 사륜",
+     1
+    ],
+    [
+     "한국 시장에는℃l륜과 사륜",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 4.75,
+   "x": 0.7889,
+   "y": 0.357,
+   "w": 0.1833,
+   "h": 0.0145,
+   "frames": 6,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     6
+    ],
+    [
+     "PART 04. 가리",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 3.25,
+   "end": 5.25,
+   "x": 0.3118,
+   "y": 0.6293,
+   "w": 0.3785,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "두 가지 트림으로 판매 중입니다",
+   "ocr": "두 가지 트림으로 판매 중입니다",
+   "readings": [
+    [
+     "두 가지 트림으로 판매 중입니다",
+     4
+    ],
+    [
+     "두 가지 트림으로 판OH 중입니다",
+     1
+    ],
+    [
+     "두 가지.트림으로 판매 중입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 4.75,
+   "end": 23.75,
+   "x": 0.7896,
+   "y": 0.357,
+   "w": 0.1826,
+   "h": 0.0145,
+   "frames": 38,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     38
+    ],
+    [
+     "PART 04. 가리",
+     34
+    ],
+    [
+     "PART 04. 가축",
+     28
+    ],
+    [
+     "PART04. 가리",
+     1
+    ],
+    [
+     "PART 04.가4",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 5.25,
+   "end": 9.25,
+   "x": 0.2465,
+   "y": 0.6293,
+   "w": 0.509,
+   "h": 0.0174,
+   "frames": 8,
+   "text": "공식 가격은 4륜 모델이 7,630만원입니다",
+   "ocr": "공식 가격은 4륜 모델이 7,630만원입니다",
+   "readings": [
+    [
+     "공식 가격은 4륜 모델이 7,630만원입니다",
+     8
+    ],
+    [
+     "공식 가격은 4륜 모텔이 7,630만원입니다",
+     5
+    ],
+    [
+     "공식 가격은 4륜 모텔이 7,630만원입니cr",
+     1
+    ],
+    [
+     "공식 가격은 4륜 모텔이 7i630만원입니다",
+     1
+    ],
+    [
+     "공식 가격은 4륜 모텔이 7,630만원입니다• •,•至\\월",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 5.75,
+   "end": 7.75,
+   "x": 0.1111,
+   "y": 0.3547,
+   "w": 0.075,
+   "h": 0.0086,
+   "frames": 3,
+   "text": "0Ⅴ0 auS",
+   "ocr": "0Ⅴ0 auS",
+   "readings": [
+    [
+     "0Ⅴ0 auS",
+     1
+    ],
+    [
+     "0Ⅴ0 usa",
+     1
+    ],
+    [
+     "0Ⅴ0 au",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 9.25,
+   "end": 12.25,
+   "x": 0.2354,
+   "y": 0.6293,
+   "w": 0.5319,
+   "h": 0.0176,
+   "frames": 6,
+   "text": "이륜 모델은 7,700만원으로 책정되었습니다",
+   "ocr": "이륜 모델은 7,700만원으로 책정되었습니다",
+   "readings": [
+    [
+     "이륜 모델은 7,700만원으로 책정되었습니다",
+     6
+    ],
+    [
+     "이륜 모텔은7,700만원으로 책정되었습니다",
+     4
+    ],
+    [
+     "이륜 모텔은 7,700만원으로 책정되었습니다",
+     2
+    ],
+    [
+     "이륜 모델은 7,700만원으로 색정되었습니다",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 9.75,
+   "end": 11.75,
+   "x": 0.0847,
+   "y": 0.5871,
+   "w": 0.4056,
+   "h": 0.0102,
+   "frames": 4,
+   "text": "AVAILABLE 1500W POWER OUTLET",
+   "ocr": "AVAILABLE 1500W POWER OUTLET",
+   "readings": [
+    [
+     "AVAILABLE 1500W POWER OUTLET",
+     4
+    ],
+    [
+     "AVAILAR!.F 1500W POWER OUTLET",
+     1
+    ],
+    [
+     "AVAIL 「 1500W POWER OUTLET",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 9.75,
+   "end": 11.75,
+   "x": 0.0833,
+   "y": 0.632,
+   "w": 0.075,
+   "h": 0.0055,
+   "frames": 3,
+   "text": "R•ted %| 1500",
+   "ocr": "R•ted %| 1500",
+   "readings": [
+    [
+     "R•ted %| 1500",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 12.25,
+   "end": 14.25,
+   "x": 0.3431,
+   "y": 0.6293,
+   "w": 0.3139,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "현재 전국 공식 전시장에서",
+   "ocr": "현재 전국 공식 전시장에서",
+   "readings": [
+    [
+     "현재 전국 공식 전시장에서",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.25,
+   "end": 16.25,
+   "x": 0.3167,
+   "y": 0.6293,
+   "w": 0.3694,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "바로 계약과 인도가 가능합니다",
+   "ocr": "바로 계약과 인도가 가능합니다",
+   "readings": [
+    [
+     "바로 계약과 인도가 가능합니다",
+     4
+    ],
+    [
+     "바로 계약과 인도가 가능합니다,0",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 15.75,
+   "end": 18.75,
+   "x": 0.0847,
+   "y": 0.5871,
+   "w": 0.3312,
+   "h": 0.0102,
+   "frames": 6,
+   "text": "AVAILABLE KICK-ACTIVATED",
+   "ocr": "AVAILABLE KICK-ACTIVATED",
+   "readings": [
+    [
+     "AVAILABLE KICK-ACTIVATED",
+     6
+    ],
+    [
+     "AVAILABLE KICI(-ACTIVATED",
+     2
+    ],
+    [
+     "AVAILABLE I(ICI(-ACTIVATED",
+     1
+    ],
+    [
+     "AVAILABLE I<ICI(-ACTIVATED",
+     1
+    ],
+    [
+     "AVAILABLE I<ICK-ACTIVATED",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 15.75,
+   "end": 17.75,
+   "x": 0.0847,
+   "y": 0.6027,
+   "w": 0.3458,
+   "h": 0.0102,
+   "frames": 4,
+   "text": "POWER SLIDING SIDE DOORS",
+   "ocr": "POWER SLIDING SIDE DOORS",
+   "readings": [
+    [
+     "POWER SLIDING SIDE DOORS",
+     3
+    ],
+    [
+     "POWER SLIDING SIDE D00R5",
+     2
+    ],
+    [
+     "POWER SLtD!NG S!DE DCOR,E",
+     1
+    ],
+    [
+     "POWER SLIDING SIDE DOCRS",
+     1
+    ],
+    [
+     "POWER SLJDING SIDE DOORS",
+     1
+    ],
+    [
+     "PC'.•.'EP SLl.2'NG S'DE DCOR",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 16.25,
+   "end": 19.25,
+   "x": 0.2389,
+   "y": 0.6293,
+   "w": 0.5215,
+   "h": 0.0152,
+   "frames": 6,
+   "text": "지금까지 아빠들의 현실적인 드림카 25년식",
+   "ocr": "지금까지 아빠들의 현실적인 드림카 25년식",
+   "readings": [
+    [
+     "지금까지 아빠들의 현실적인 드림카 25년식",
+     6
+    ],
+    [
+     "지금까지 아H바들의 현실적인 드림\\카 25년식",
+     3
+    ],
+    [
+     "지금까지 이바들의현실적인 드림카 25년식",
+     2
+    ],
+    [
+     "지금까지 이바들의현실적인 드림카25년식",
+     2
+    ],
+    [
+     "지금까지 아Y바들의 현실적인 드림\\카 25년식",
+     2
+    ],
+    [
+     "지금까지 아H바들의 현실적인 느림\\카 25년식",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 17.75,
+   "end": 18.75,
+   "x": 0.0847,
+   "y": 0.6027,
+   "w": 0.3458,
+   "h": 0.0102,
+   "frames": 2,
+   "text": "POWER SLIDING SIDE D00R5",
+   "ocr": "POWER SLIDING SIDE D00R5",
+   "readings": [
+    [
+     "POWER SLIDING SIDE D00R5",
+     2
+    ],
+    [
+     "POWER SLIDING SIDE DOORS",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 18.75,
+   "end": 20.75,
+   "x": 0.0851,
+   "y": 0.5871,
+   "w": 0.3899,
+   "h": 0.0102,
+   "frames": 4,
+   "text": "AVA.ILABLE HEATED FRONT SEATS",
+   "ocr": "AVA.ILABLE HEATED FRONT SEATS",
+   "readings": [
+    [
+     "AVA.ILABLE HEATED FRONT SEATS",
+     1
+    ],
+    [
+     "AVAILABLE HEATED FRONT SEATS",
+     1
+    ],
+    [
+     "AVAILABLE HEA EDFRO T SEATS",
+     1
+    ],
+    [
+     "VAILABLE HEATEDFRONT SEATS",
+     1
+    ],
+    [
+     "4코E HEATED FRONT SEATS",
+     1
+    ],
+    [
+     "41/3.l..4兮LE HEATED FRONT SEATS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 19.25,
+   "end": 21.25,
+   "x": 0.3194,
+   "y": 0.6293,
+   "w": 0.3632,
+   "h": 0.0154,
+   "frames": 4,
+   "text": "토요타 시에나를 살펴봤습니다",
+   "ocr": "토요타 시에나를 살퍼봤습니다",
+   "readings": [
+    [
+     "토요타 시에나를 살퍼봤습니다",
+     4
+    ],
+    [
+     "토요타 시에나를 살펴봤습니다",
+     4
+    ],
+    [
+     "도요타 시에나를 살펴봤습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 21.25,
+   "end": 24.75,
+   "x": 0.1924,
+   "y": 0.6293,
+   "w": 0.6167,
+   "h": 0.0156,
+   "frames": 7,
+   "text": "가족을 위한 다음 패밀리카로 시에나는 어떠신가요?",
+   "ocr": "가족을 위한 다음 패밀리카로 시에나는 어떠신가요?",
+   "readings": [
+    [
+     "가족을 위한 다음 패밀리카로 시에나는 어떠신가요?",
+     7
+    ],
+    [
+     "가족을 위한 다음 패일리카로 시에나는 어떠신가요?",
+     1
+    ],
+    [
+     "가족올 위한 다음 패밀리카로 시에나는 어떠신가요?",
+     1
+    ],
+    [
+     "가족올 위한 다음 패일리카로 시에나는 어떠신가요?",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 23.75,
+   "end": 32.25,
+   "x": 0.7896,
+   "y": 0.357,
+   "w": 0.1826,
+   "h": 0.0145,
+   "frames": 17,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     17
+    ],
+    [
+     "PART 04. 가축",
+     17
+    ],
+    [
+     "PART 04. 가리",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 24.75,
+   "end": 32.25,
+   "x": 0.0347,
+   "y": 0.3523,
+   "w": 0.1632,
+   "h": 0.0109,
+   "frames": 15,
+   "text": "출처 : @toyotausa",
+   "ocr": "출처: atoyotau.sa",
+   "readings": [
+    [
+     "출처: atoyotau.sa",
+     10
+    ],
+    [
+     "출처 : (1 toyotousa",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 24.75,
+   "end": 26.75,
+   "x": 0.3389,
+   "y": 0.6293,
+   "w": 0.3236,
+   "h": 0.0172,
+   "frames": 4,
+   "text": "구독과 좋아요, 알림 설정은",
+   "ocr": "구독과 좋아요, 알림 설정은",
+   "readings": [
+    [
+     "구독과 좋아요, 알림 설정은",
+     4
+    ],
+    [
+     "구독과 좋아요, 알림 실정은",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 26.75,
+   "end": 28.25,
+   "x": 0.4139,
+   "y": 0.6293,
+   "w": 0.1743,
+   "h": 0.0152,
+   "frames": 3,
+   "text": "큰 힘이 됩니다",
+   "ocr": "큰 힘이 됩니다",
+   "readings": [
+    [
+     "큰 힘이 됩니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 28.25,
+   "end": 30.75,
+   "x": 0.2313,
+   "y": 0.6293,
+   "w": 0.5389,
+   "h": 0.0156,
+   "frames": 5,
+   "text": "여러분의 의견을 댓글로 자유롭게 남겨주세요",
+   "ocr": "여러분의 의견을 댓글로 자유롭게 남겨주세요",
+   "readings": [
+    [
+     "여러분의 의견을 댓글로 자유롭게 남겨주세요",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 30.75,
+   "end": 32.25,
+   "x": 0.4347,
+   "y": 0.6293,
+   "w": 0.1326,
+   "h": 0.0152,
+   "frames": 3,
+   "text": "감사합니다",
+   "ocr": "감사합니다",
+   "readings": [
+    [
+     "감사합니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 32.75,
+   "end": 33.75,
+   "x": 0.1715,
+   "y": 0.5854,
+   "w": 0.6483,
+   "h": 0.0445,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ],
+    [
+     "4사춒각i지대, 아찔하셨:4?",
+     1
+    ],
+    [
+     "4사각*지대, `아찔하셨좌7",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 34.75,
+   "end": 35.75,
+   "x": 0.0417,
+   "y": 0.3594,
+   "w": 0.8639,
+   "h": 0.0437,
+   "frames": 2,
+   "text": "간 한이던 국적7가/`•| 모임,니과!느",
+   "ocr": "간 한이던 국적7가/`•| 모임,니과!느",
+   "readings": [
+    [
+     "간 한이던 국적7가/`•| 모임,니과!느",
+     1
+    ],
+    [
+     "간 한이던 국적7가/`•| 모임,니과!",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 36.25,
+   "end": 37.75,
+   "x": 0.6299,
+   "y": 0.3793,
+   "w": 0.1236,
+   "h": 0.0223,
+   "frames": 2,
+   "text": "운전의 자시) 이",
+   "ocr": "운전의 자시) 이",
+   "readings": [
+    [
+     "운전의 자시) 이",
+     1
+    ],
+    [
+     "운전의 자",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 36.25,
+   "end": 38.25,
+   "x": 0.3514,
+   "y": 0.4547,
+   "w": 0.0972,
+   "h": 0.0117,
+   "frames": 3,
+   "text": "Optic-GlaSS",
+   "ocr": "Optic-GlaSS",
+   "readings": [
+    [
+     "Optic-GlaSS",
+     2
+    ],
+    [
+     "1 OPtic-Glass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:32:05"
+}

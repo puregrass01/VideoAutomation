@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "옵틱글래스 유튜브 수집 코퍼스 및 대사 워크플로우 구조",
+    "locale": "ko",
+    "output": ".archify/architecture-youtube-copy-flow-20261113-160200/youtube-copy-flow.html",
+    "quality_profile": "showcase"
+  },
+  "components": [
+    {
+      "id": "yt_channel",
+      "type": "external",
+      "label": "@optic_glass 채널",
+      "sublabel": "최근 92일 · 118편",
+      "pos": [40, 185],
+      "size": [180, 68]
+    },
+    {
+      "id": "yt_stats",
+      "type": "database",
+      "label": "youtube_structure.json",
+      "sublabel": "컷·길이 통계 (미참조)",
+      "pos": [340, 40],
+      "size": [195, 64]
+    },
+    {
+      "id": "youtube_lines",
+      "type": "backend",
+      "label": "youtube_lines.py",
+      "sublabel": "OCR · agy 맞춤법 정제",
+      "tag": "제목 정규식만 분류",
+      "pos": [340, 185],
+      "size": [195, 68]
+    },
+    {
+      "id": "yt_corpus",
+      "type": "database",
+      "label": "youtube_lines.jsonl",
+      "sublabel": "2,611줄 · 숏츠 옵틱 0건",
+      "pos": [660, 185],
+      "size": [200, 68]
+    },
+    {
+      "id": "draft_copy",
+      "type": "backend",
+      "label": "draft_copy.py",
+      "sublabel": "agy 대사 변주 초안기",
+      "tag": "수동 CLI · 자동화 단절",
+      "pos": [660, 345],
+      "size": [200, 68]
+    },
+    {
+      "id": "pipeline_entry",
+      "type": "frontend",
+      "label": "GUI / gdrive_pipeline",
+      "sublabel": "롱폼·숏폼 자동 빌드",
+      "pos": [40, 505],
+      "size": [180, 68]
+    },
+    {
+      "id": "make_scenario",
+      "type": "backend",
+      "label": "make_scenario.py",
+      "sublabel": "{car} 치환만 수행",
+      "tag": "대사 고정 복제",
+      "pos": [340, 505],
+      "size": [195, 68]
+    },
+    {
+      "id": "skeleton",
+      "type": "database",
+      "label": "wide1/skeleton.json",
+      "sublabel": "57.7초 · 13씬 고정 대사",
+      "pos": [340, 650],
+      "size": [195, 66]
+    },
+    {
+      "id": "scenario_json",
+      "type": "database",
+      "label": "<slug>_longform.json",
+      "sublabel": "차종별 편집 시나리오",
+      "pos": [660, 505],
+      "size": [200, 68]
+    },
+    {
+      "id": "build_longform",
+      "type": "backend",
+      "label": "build_longform.py",
+      "sublabel": "16:9 CapCut 초안 생성",
+      "pos": [660, 650],
+      "size": [200, 68]
+    },
+    {
+      "id": "build_shorts",
+      "type": "backend",
+      "label": "build_shorts.py",
+      "sublabel": "9:16 숏폼 5종 · agy 훅",
+      "tag": "기본 예시 2개 폴백",
+      "pos": [985, 505],
+      "size": [200, 68]
+    }
+  ],
+  "boundaries": [
+    {
+      "kind": "region",
+      "label": "유튜브 대사 수집 코퍼스 (datasets/)",
+      "wraps": ["yt_stats", "youtube_lines", "yt_corpus"]
+    },
+    {
+      "kind": "region",
+      "label": "현재 자동 작업 워크플로우",
+      "wraps": ["pipeline_entry", "make_scenario", "skeleton", "scenario_json", "build_longform", "build_shorts"]
+    }
+  ],
+  "connections": [
+    {
+      "id": "yt-fetch",
+      "from": "yt_channel",
+      "to": "youtube_lines",
+      "label": "yt-dlp 수집"
+    },
+    {
+      "id": "yt-write-stats",
+      "from": "youtube_lines",
+      "to": "yt_stats",
+      "label": "컷·길이 집계"
+    },
+    {
+      "id": "yt-write-lines",
+      "from": "youtube_lines",
+      "to": "yt_corpus",
+      "label": "대사 저장"
+    },
+    {
+      "id": "corpus-to-draft-copy",
+      "from": "yt_corpus",
+      "to": "draft_copy",
+      "label": "롱폼 예시 조회"
+    },
+    {
+      "id": "manual-apply",
+      "from": "draft_copy",
+      "to": "scenario_json",
+      "label": "수동 --apply",
+      "variant": "dashed"
+    },
+    {
+      "id": "shorts-headlines-empty",
+      "from": "yt_corpus",
+      "to": "build_shorts",
+      "label": "0건 반환 (제목 필터)",
+      "variant": "dashed",
+      "fromSide": "right",
+      "toSide": "top"
+    },
+    {
+      "id": "entry-to-make",
+      "from": "pipeline_entry",
+      "to": "make_scenario",
+      "label": "자동 생성",
+      "variant": "emphasis"
+    },
+    {
+      "id": "skeleton-to-make",
+      "from": "skeleton",
+      "to": "make_scenario",
+      "label": "고정 문구 복사"
+    },
+    {
+      "id": "make-to-scenario",
+      "from": "make_scenario",
+      "to": "scenario_json",
+      "label": "동일 대사",
+      "variant": "emphasis"
+    },
+    {
+      "id": "scenario-to-longform",
+      "from": "scenario_json",
+      "to": "build_longform",
+      "label": "16:9 빌드",
+      "variant": "emphasis"
+    },
+    {
+      "id": "scenario-to-shorts",
+      "from": "scenario_json",
+      "to": "build_shorts",
+      "label": "롱폼 씬·구간",
+      "variant": "emphasis"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "수집된 유튜브 데이터 현황",
+      "items": [
+        "실행용 CapCut 시나리오 JSON은 없으며 OCR 자막·컷 코퍼스로 저장됨",
+        "datasets/youtube/*.json 118편 (롱폼 73편 · 숏폼 45편, agy 정제 완료)",
+        "youtube_lines.jsonl 2,611줄 + youtube_structure.json 통계 보관"
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "롱폼 대사 미다양화 원인",
+      "items": [
+        "make_scenario.py는 skeleton.json 고정 문구에서 {car}만 치환해 복제",
+        "youtube_lines.jsonl을 읽는 draft_copy.py는 GUI·파이프라인과 미연결",
+        "80초 기존 차종 8개와 57.7초 신규 차종 모두 본문 대사가 100% 동일"
+      ]
+    },
+    {
+      "dot": "rose",
+      "title": "숏폼 참조 누락 원인 (필터 버그)",
+      "items": [
+        "youtube_lines.py의 OPTIC_TITLE이 영상 제목만 검사하고 자막 본문은 제외",
+        "수집된 숏츠 45편 모두 제목에 미러 키워드가 없어 carinfo로 분류됨",
+        "shorts_headlines()가 빈 배열을 반환해 하드코딩 예시 2개로만 agy 호출"
+      ]
+    }
+  ]
+}

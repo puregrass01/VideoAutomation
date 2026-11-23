@@ -1,0 +1,849 @@
+{
+ "id": "6nv8Z3U3cao",
+ "tab": "shorts",
+ "upload_date": "20261003",
+ "duration": 38.28,
+ "title": "240마력 짜릿한 퍼포먼스! 제로백 6.1초의 시원한 가속감",
+ "url": "https://www.youtube.com/watch?v=6nv8Z3U3cao",
+ "width": 720,
+ "height": 1280,
+ "format": "shortform",
+ "aspect": "9:16",
+ "cuts": [
+  11.12,
+  13.55,
+  19.15,
+  25.28,
+  27.65,
+  31.05,
+  32.13,
+  33.6,
+  34.6,
+  36.15
+ ],
+ "ocr_readings": 1284,
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 1.25,
+   "x": 0.0063,
+   "y": 0.3523,
+   "w": 0.2208,
+   "h": 0.0098,
+   "frames": 3,
+   "text": "출세. (| serbasennua7803",
+   "ocr": "출세. (| serbasennua7803",
+   "readings": [
+    [
+     "출세. (| serbasennua7803",
+     2
+    ],
+    [
+     "품세. (| serbasennua7803",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.75,
+   "x": 0.2208,
+   "y": 0.4736,
+   "w": 0.4625,
+   "h": 0.0502,
+   "frames": 4,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03』 성능",
+   "readings": [
+    [
+     "PART 03』 성능",
+     3
+    ],
+    [
+     "PART 031",
+     1
+    ],
+    [
+     "PART 03",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.25,
+   "x": 0.3771,
+   "y": 0.6297,
+   "w": 0.2479,
+   "h": 0.0152,
+   "frames": 3,
+   "text": "세번째는 성능입니다",
+   "ocr": "세번째는 성능입니다",
+   "readings": [
+    [
+     "세번째는 성능입니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 38.25,
+   "x": 0.3563,
+   "y": 0.8141,
+   "w": 0.4847,
+   "h": 0.0449,
+   "frames": 77,
+   "text": "Optic-GIass",
+   "ocr": "Optic-GIass",
+   "readings": [
+    [
+     "Optic-GIass",
+     77
+    ],
+    [
+     "Optic-Glass",
+     77
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 38.25,
+   "x": 0.041,
+   "y": 0.1172,
+   "w": 0.9194,
+   "h": 0.0477,
+   "frames": 76,
+   "text": "240마력 짜릿한 퍼포먼스",
+   "ocr": "240마력 짜릿한 퍼포먼스",
+   "readings": [
+    [
+     "240마력 짜릿한 퍼포먼스",
+     75
+    ],
+    [
+     "240마력 짜릿한 퍼포먼 스",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 38.25,
+   "x": 0.0194,
+   "y": 0.1746,
+   "w": 0.9618,
+   "h": 0.0477,
+   "frames": 76,
+   "text": "제로백 6.1초의 시원한 가속",
+   "ocr": "제로백 6.1초의 시원한 가속",
+   "readings": [
+    [
+     "제로백 6.1초의 시원한 가속",
+     75
+    ],
+    [
+     "제로백 6.1초의",
+     1
+    ],
+    [
+     "제로백 6.1초의 人",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.25,
+   "end": 2.25,
+   "x": 0.0049,
+   "y": 0.3512,
+   "w": 0.2219,
+   "h": 0.0107,
+   "frames": 2,
+   "text": "출N:•aserbasemua7803",
+   "ocr": "출N:•aserbasemua7803",
+   "readings": [
+    [
+     "출N:•aserbasemua7803",
+     2
+    ],
+    [
+     "출大 : serbasemua 03",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.25,
+   "end": 3.75,
+   "x": 0.2951,
+   "y": 0.6297,
+   "w": 0.4111,
+   "h": 0.0152,
+   "frames": 5,
+   "text": "파워트레인은 2.0리터 트윈스크롤",
+   "ocr": "파워트레인은 2.0리터 트원스크를",
+   "readings": [
+    [
+     "파워트레인은 2.0리터 트원스크를",
+     5
+    ],
+    [
+     "파워트레인은 2.0리터 트윈스크롤",
+     5
+    ],
+    [
+     "파워트레인은 2.0리터 트원스크롤",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 31.75,
+   "x": 0.7889,
+   "y": 0.357,
+   "w": 0.1847,
+   "h": 0.0145,
+   "frames": 60,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     60
+    ],
+    [
+     "P4RT 0로.심능",
+     1
+    ],
+    [
+     "PART03. 성능",
+     1
+    ],
+    [
+     "1| PART 03. 성능",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 3.25,
+   "x": 0.4066,
+   "y": 0.4764,
+   "w": 0.1854,
+   "h": 0.008,
+   "frames": 3,
+   "text": "Cadillac Presents",
+   "ocr": "Cadillac Presents",
+   "readings": [
+    [
+     "Cadillac Presents",
+     1
+    ],
+    [
+     "CadilldC Presents",
+     1
+    ],
+    [
+     "Cadillac PresentE",
+     1
+    ],
+    [
+     "CadillacPresento",
+     1
+    ],
+    [
+     "Cadillac esent",
+     1
+    ],
+    [
+     "Cadillac",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 3.25,
+   "x": 0.2632,
+   "y": 0.4945,
+   "w": 0.4757,
+   "h": 0.0129,
+   "frames": 3,
+   "text": "THE V-SERIES BLACKWING",
+   "ocr": "THE V-SERIES BLACKWING",
+   "readings": [
+    [
+     "THE V-SERIES BLACKWING",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 2.25,
+   "end": 3.25,
+   "x": 0.0347,
+   "y": 0.3527,
+   "w": 0.192,
+   "h": 0.0092,
+   "frames": 2,
+   "text": "ser asemua7803",
+   "ocr": "ser asemua7803",
+   "readings": [
+    [
+     "ser asemua7803",
+     2
+    ],
+    [
+     "äN:•aserbasemua7803",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 2.25,
+   "end": 3.25,
+   "x": 0.3812,
+   "y": 0.516,
+   "w": 0.2382,
+   "h": 0.0129,
+   "frames": 2,
+   "text": "IN 위)( GEARS",
+   "ocr": "IN 위)( GEARS",
+   "readings": [
+    [
+     "IN 위)( GEARS",
+     2
+    ],
+    [
+     "IN SIX GEARS",
+     2
+    ],
+    [
+     "IN X GEARS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 3.25,
+   "end": 31.75,
+   "x": 0.0063,
+   "y": 0.3523,
+   "w": 0.2208,
+   "h": 0.0098,
+   "frames": 57,
+   "text": "출처: serbasemua7803",
+   "ocr": "출처: serbasemua7803",
+   "readings": [
+    [
+     "출처: serbasemua7803",
+     17
+    ],
+    [
+     "r semua",
+     6
+    ],
+    [
+     "출처: a serbasemua7803",
+     5
+    ],
+    [
+     "r asemua",
+     4
+    ],
+    [
+     "출처: aserbasemua7803",
+     3
+    ],
+    [
+     "줄 처: serbasemua7803",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 3.75,
+   "end": 5.75,
+   "x": 0.3,
+   "y": 0.6297,
+   "w": 0.4035,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "터보 가솔린 엔진을 품고 있습니다",
+   "ocr": "터보 가솔린 엔진을 품고 있습니다",
+   "readings": [
+    [
+     "터보 가솔린 엔진을 품고 있습니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 5.75,
+   "end": 8.25,
+   "x": 0.2951,
+   "y": 0.6297,
+   "w": 0.4097,
+   "h": 0.0152,
+   "frames": 5,
+   "text": "여기에 10단 자동 변속기가 맞물려",
+   "ocr": "여기에 10단 자동 변속기가 맞물려",
+   "readings": [
+    [
+     "여기에 10단 자동 변속기가 맞물려",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 8.25,
+   "end": 10.25,
+   "x": 0.3326,
+   "y": 0.6295,
+   "w": 0.3368,
+   "h": 0.0154,
+   "frames": 4,
+   "text": "후륜으로 동력을 전달합니다",
+   "ocr": "후륜으로 동력을 전달합니다",
+   "readings": [
+    [
+     "후륜으로 동력을 전달합니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 8.75,
+   "end": 9.75,
+   "x": 0.1785,
+   "y": 0.3527,
+   "w": 0.0493,
+   "h": 0.009,
+   "frames": 2,
+   "text": "7803",
+   "ocr": "7803",
+   "readings": [
+    [
+     "7803",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 10.25,
+   "end": 12.25,
+   "x": 0.366,
+   "y": 0.6297,
+   "w": 0.2674,
+   "h": 0.0168,
+   "frames": 4,
+   "text": "최고 출력은 240마력",
+   "ocr": "최고 출력은 240마력",
+   "readings": [
+    [
+     "최고 출력은 240마력",
+     4
+    ],
+    [
+     "최고 출력은 240마력′",
+     4
+    ],
+    [
+     "최고 출력은240마력",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 11.75,
+   "end": 12.75,
+   "x": 0.0889,
+   "y": 0.4594,
+   "w": 0.8222,
+   "h": 0.0906,
+   "frames": 2,
+   "text": "SECOND",
+   "ocr": "SECOND",
+   "readings": [
+    [
+     "SECOND",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 12.25,
+   "end": 16.25,
+   "x": 0.1951,
+   "y": 0.6293,
+   "w": 0.6118,
+   "h": 0.0156,
+   "frames": 8,
+   "text": "최대 토크는 35.7 킬로그램포스 미터를 발휘합니다",
+   "ocr": "최대 토크는 35.7 킬로그램포스 미터를 발휘합니다",
+   "readings": [
+    [
+     "최대 토크는 35.7 킬로그램포스 미터를 발휘합니다",
+     8
+    ],
+    [
+     "최대 토크는 35.7 길로그램포스 미터를 발휘합니다",
+     5
+    ],
+    [
+     "i최대 토크는 35.7 길로그램포스 미터를 발휘합니다",
+     1
+    ],
+    [
+     "로 최대 토크는35.기길로그램포스 미터를 발휘합니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 13.25,
+   "end": 14.25,
+   "x": 0.0847,
+   "y": 0.3539,
+   "w": 0.0986,
+   "h": 0.0078,
+   "frames": 2,
+   "text": "r semua7",
+   "ocr": "r semua7",
+   "readings": [
+    [
+     "r semua7",
+     1
+    ],
+    [
+     "r semua",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 16.25,
+   "end": 19.25,
+   "x": 0.2687,
+   "y": 0.6297,
+   "w": 0.4618,
+   "h": 0.0152,
+   "frames": 6,
+   "text": "제로백은 공식적으로 6.1초를 기록하며",
+   "ocr": "제로백은 공식적으로 6.1초를 기록하며",
+   "readings": [
+    [
+     "제로백은 공식적으로 6.1초를 기록하며",
+     6
+    ],
+    [
+     "제로백은 공식적으로 해초를 기록하며",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 19.25,
+   "end": 20.25,
+   "x": 0.1,
+   "y": 0.4531,
+   "w": 0.7833,
+   "h": 0.1062,
+   "frames": 2,
+   "text": "THIRD",
+   "ocr": "THIRD",
+   "readings": [
+    [
+     "THIRD",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 19.25,
+   "end": 21.25,
+   "x": 0.3333,
+   "y": 0.6293,
+   "w": 0.3361,
+   "h": 0.0156,
+   "frames": 4,
+   "text": "시원한 가속감을 선사합니다",
+   "ocr": "시원한 가속감을 선사합니다",
+   "readings": [
+    [
+     "시원한 가속감을 선사합니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 21.25,
+   "end": 22.75,
+   "x": 0.4035,
+   "y": 0.6297,
+   "w": 0.1924,
+   "h": 0.0148,
+   "frames": 3,
+   "text": "효율을 살펴보면",
+   "ocr": "효율을 살퍼보면",
+   "readings": [
+    [
+     "효율을 살퍼보면",
+     3
+    ],
+    [
+     "효율을 살펴보면",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.75,
+   "end": 26.25,
+   "x": 0.2465,
+   "y": 0.6293,
+   "w": 0.509,
+   "h": 0.0156,
+   "frames": 7,
+   "text": "복합연비는 리터당 10.2KM를 기록합니다",
+   "ocr": "복합연비는 리터당 10.2KM를 기록합니다",
+   "readings": [
+    [
+     "복합연비는 리터당 10.2KM를 기록합니다",
+     7
+    ],
+    [
+     "복합연비는괴터당 10.2KM를 기록합니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 26.25,
+   "end": 29.25,
+   "x": 0.2861,
+   "y": 0.6297,
+   "w": 0.4295,
+   "h": 0.0152,
+   "frames": 6,
+   "text": "도심에서는 8.7KM 고속도로에서는",
+   "ocr": "도심에서는 8.7KM 고속도로에서는",
+   "readings": [
+    [
+     "도심에서는 8.7KM 고속도로에서는",
+     6
+    ],
+    [
+     "도심에서는 8.기(M 고속도로에서는",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 27.25,
+   "end": 28.25,
+   "x": 0.0847,
+   "y": 0.3539,
+   "w": 0.0986,
+   "h": 0.0082,
+   "frames": 2,
+   "text": "r asemua7",
+   "ocr": "r asemua7",
+   "readings": [
+    [
+     "r asemua7",
+     1
+    ],
+    [
+     "r semua",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 29.25,
+   "end": 31.75,
+   "x": 0.316,
+   "y": 0.6293,
+   "w": 0.3701,
+   "h": 0.0156,
+   "frames": 5,
+   "text": "12.7KM를 주행할 수 있습니다",
+   "ocr": "12.7KM를 주행할 수 있습니다",
+   "readings": [
+    [
+     "12.7KM를 주행할 수 있습니다",
+     5
+    ],
+    [
+     "12.기(M를 주행할 수 있습니다",
+     3
+    ],
+    [
+     "12.7KM를 주행말 수 있습니다",
+     3
+    ],
+    [
+     "12.7KM를 주행한 수 있습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 32.25,
+   "end": 33.25,
+   "x": 0.176,
+   "y": 0.5852,
+   "w": 0.6427,
+   "h": 0.0453,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ],
+    [
+     "사각지대, `아찔하셨죠?",
+     1
+    ],
+    [
+     "뇨사각지대, 아찔하匯?",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 36.25,
+   "end": 37.75,
+   "x": 0.6292,
+   "y": 0.3793,
+   "w": 0.1597,
+   "h": 0.0266,
+   "frames": 3,
+   "text": "운전의 자신감이",
+   "ocr": "운전의 자신감이",
+   "readings": [
+    [
+     "운전의 자신감이",
+     2
+    ],
+    [
+     "운전의 자신람이",
+     1
+    ],
+    [
+     "운전의 자시람이",
+     1
+    ],
+    [
+     "운전으짜신람0",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 36.25,
+   "end": 37.75,
+   "x": 0.6403,
+   "y": 0.3941,
+   "w": 0.1361,
+   "h": 0.0234,
+   "frames": 3,
+   "text": "남달라집니다",
+   "ocr": "남답라집과다! 0",
+   "readings": [
+    [
+     "남답라집과다! 0",
+     1
+    ],
+    [
+     "남r롸젊니다",
+     1
+    ],
+    [
+     "남다라젊니다",
+     1
+    ],
+    [
+     "남달라집니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:23:05"
+}

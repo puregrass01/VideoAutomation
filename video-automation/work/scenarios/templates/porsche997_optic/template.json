@@ -1,0 +1,42 @@
+{
+  "draft": "42. 09 포르쉐 997.2 옵틱 [26.03.23]",
+  "timeline": "1D4243F2-179F-43c2-AC12-977981653637",
+  "transitions": true,
+  "canvas": [1920, 1080],
+  "tracks": {"main": 0, "outro": 8, "overlay": [1, 2, 3]},
+  "slots": [
+    {"start": 0.0, "dur": 2.333},
+    {"start": 2.333, "dur": 2.533},
+    {"start": 4.867, "dur": 1.533},
+    {"start": 6.4, "dur": 1.2},
+    {"start": 7.6, "dur": 1.7},
+    {"start": 9.3, "dur": 1.133},
+    {"start": 10.433, "dur": 1.7},
+    {"start": 12.133, "dur": 2.567},
+    {"start": 14.7, "dur": 3.6},
+    {"start": 18.3, "dur": 4.133},
+    {"start": 22.433, "dur": 3.8},
+    {"start": 26.233, "dur": 2.667},
+    {"start": 28.9, "dur": 3.533},
+    {"start": 32.433, "dur": 1.1},
+    {"start": 33.533, "dur": 1.333},
+    {"start": 34.867, "dur": 1.9},
+    {"start": 36.767, "dur": 1.867},
+    {"start": 38.633, "dur": 3.733}
+  ],
+  "text_slots": {
+    "lt01": {"start": 0.5, "dur": 1.833, "fc_pos": [960, 585], "size": 112, "color": "#FFFFFF", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "09 포르쉐 997.2"},
+    "lt05a": {"start": 14.7, "dur": 3.6, "fc_pos": [610, 798], "size": 63, "color": "#FFFFFF", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "순정미러의 좁은 시야,"},
+    "lt05b": {"start": 14.7, "dur": 3.6, "fc_pos": [1102, 949], "size": 76, "color": "#4E74AA", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "운행 시 차선 확인 어려움!"},
+    "lt06a": {"start": 18.867, "dur": 3.633, "fc_pos": [860, 806], "size": 56, "color": "#FFFFFF", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "초보운전자에게는 특히나 치명적인 좁은 시야!"},
+    "lt06b": {"start": 19.4, "dur": 3.1, "fc_pos": [1001, 946], "size": 73, "color": "#4E74AA", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "혼잡한 도로에서 사고 발생 확률 UP!!"},
+    "lt07": {"start": 23.0, "dur": 2.7, "fc_pos": [960, 912], "size": 75, "color": "#C14C9B", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "운전고수도 무시할 수 없는 사각지대!"},
+    "lt08": {"start": 26.233, "dur": 2.667, "fc_pos": [977, 929], "size": 74, "color": "#FFFFFF", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "옵틱글래스 광각미러로 한방에 해결!"},
+    "lt09a": {"start": 30.2, "dur": 2.233, "fc_pos": [742, 838], "size": 56, "color": "#FFFFFF", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "사각지대 해소 가능한 넓은 시야,"},
+    "lt09b": {"start": 30.667, "dur": 1.767, "fc_pos": [1045, 978], "size": 73, "color": "#F9A85C", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "편리해진 차선/주차라인 확인"},
+    "lt10": {"start": 33.1, "dur": 1.1, "fc_pos": [236, 150], "size": 60, "color": "#FFFFFF", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "시공 전"},
+    "lt11": {"start": 33.767, "dur": 1.1, "fc_pos": [236, 150], "size": 60, "color": "#FFFFFF", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "시공 후"},
+    "lt12a": {"start": 34.867, "dur": 1.833, "fc_pos": [236, 150], "size": 60, "color": "#FFFFFF", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "시공 전"},
+    "lt12b": {"start": 34.967, "dur": 1.8, "fc_pos": [1162, 156], "size": 60, "color": "#FFFFFF", "stroke_w": 0.0, "shadow": false, "font": "Paperlogy", "font_style": "7 Bold", "text": "시공 후"}
+  }
+}

@@ -1,0 +1,1260 @@
+{
+ "id": "yGnOyuilMAQ",
+ "tab": "shorts",
+ "upload_date": "20261004",
+ "duration": 47.67,
+ "title": "5천만 원대 갓성비 실구매가?! 독일차 대신 완벽한 선택",
+ "url": "https://www.youtube.com/watch?v=yGnOyuilMAQ",
+ "width": 720,
+ "height": 1280,
+ "format": "shortform",
+ "aspect": "9:16",
+ "cuts": [
+  3.15,
+  6.22,
+  9.35,
+  12.12,
+  12.72,
+  23.18,
+  26.72,
+  28.22,
+  30.75,
+  31.72,
+  35.18,
+  41.3,
+  42.77,
+  43.77,
+  45.32
+ ],
+ "ocr_readings": 1688,
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 22.75,
+   "x": 0.0056,
+   "y": 0.3523,
+   "w": 0.2208,
+   "h": 0.0098,
+   "frames": 44,
+   "text": "출처: @serbasemua7803",
+   "ocr": "출처: aserbasemua7803",
+   "readings": [
+    [
+     "출처: serbasemua7803",
+     17
+    ],
+    [
+     "출처: aserbasemua7803",
+     15
+    ],
+    [
+     "출大 : ser asemua7É03",
+     9
+    ],
+    [
+     "Ser asemua",
+     5
+    ],
+    [
+     "r semua",
+     4
+    ],
+    [
+     "출처: a serbasemua7803",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.75,
+   "x": 0.2219,
+   "y": 0.4781,
+   "w": 0.5556,
+   "h": 0.0453,
+   "frames": 4,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     3
+    ],
+    [
+     "PART 041",
+     1
+    ],
+    [
+     "PART 04",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.25,
+   "x": 0.3743,
+   "y": 0.6297,
+   "w": 0.2549,
+   "h": 0.0152,
+   "frames": 3,
+   "text": "네 번째는 가격입니다",
+   "ocr": "네 번째는 가격입니다",
+   "readings": [
+    [
+     "네 번째는 가격입니다",
+     3
+    ],
+    [
+     "네 번패는 가격입니다",
+     2
+    ],
+    [
+     "세 번패는 가격입니CE",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 47.25,
+   "x": 0.3563,
+   "y": 0.8141,
+   "w": 0.4847,
+   "h": 0.0449,
+   "frames": 95,
+   "text": "Optic-GIass",
+   "ocr": "Optic-GIass",
+   "readings": [
+    [
+     "Optic-GIass",
+     95
+    ],
+    [
+     "Optic-Glass",
+     95
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 47.25,
+   "x": 0.0181,
+   "y": 0.1172,
+   "w": 0.9681,
+   "h": 0.0477,
+   "frames": 94,
+   "text": "5천만원대 갓성비 실구매가",
+   "ocr": "5전만원대 갓성비 실구매가",
+   "readings": [
+    [
+     "5전만원대 갓성비 실구매가",
+     93
+    ],
+    [
+     "5천만원대 갓성비 실구매가",
+     93
+    ],
+    [
+     "5전만원대 갓성비 실구 매",
+     1
+    ],
+    [
+     "5천만원대 갓성비 실구",
+     1
+    ],
+    [
+     "5전만원대 갓성비 실구 [",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 47.25,
+   "x": 0.0715,
+   "y": 0.1746,
+   "w": 0.8535,
+   "h": 0.048,
+   "frames": 94,
+   "text": "독일차 대신 완벽한 선택",
+   "ocr": "독일차 대신 완벽한 선택",
+   "readings": [
+    [
+     "독일차 대신 완벽한 선택",
+     93
+    ],
+    [
+     "독일자 대신 완벽한 선택",
+     86
+    ],
+    [
+     "독일자 대신 완벽",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.25,
+   "end": 7.75,
+   "x": 0.0729,
+   "y": 0.6297,
+   "w": 0.8576,
+   "h": 0.0168,
+   "frames": 13,
+   "text": "2021년식 기준 CT4 스포츠 트림의 공식 가격은 5,921만원이었습니다",
+   "ocr": "2021년식 기준 CT4 스포츠 트림의 공식 가격은 5,921만원이었습니다",
+   "readings": [
+    [
+     "2021년식 기준 CT4 스포츠 트림의 공식 가격은 5,921만원이었습니다",
+     13
+    ],
+    [
+     "2021년식 기준 CT4 스포츠 트림의 공식 가격-은 5,921만원이었습니다",
+     4
+    ],
+    [
+     "2021년식 기준 CT4 •*摹츠 트림의 공식 가격은 5,921만원이었습니다",
+     2
+    ],
+    [
+     "2021년식 기준 CT4 스포츠 트림의 공식 가격은 5)921만원이었습니다",
+     1
+    ],
+    [
+     "2021년식 기준 CT4 스포츠 트림의 공식 가격은 5i921만원이었습니다",
+     1
+    ],
+    [
+     "2Q21년식끼준YC:T수쭈,트림의`공식 가격은 5,921만원이었습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 40.75,
+   "x": 0.7889,
+   "y": 0.357,
+   "w": 0.1833,
+   "h": 0.0145,
+   "frames": 78,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     78
+    ],
+    [
+     "PART 04. 가축",
+     37
+    ],
+    [
+     "PART 04. 가리",
+     23
+    ],
+    [
+     "PART 04. )十걱",
+     5
+    ],
+    [
+     "PART 04.가4",
+     2
+    ],
+    [
+     "FPART 04, 가리",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 3.75,
+   "end": 4.75,
+   "x": 0.1111,
+   "y": 0.45,
+   "w": 0.7667,
+   "h": 0.1125,
+   "frames": 2,
+   "text": "SI慕TH",
+   "ocr": "SI慕TH",
+   "readings": [
+    [
+     "SI慕TH",
+     2
+    ],
+    [
+     "SIXTH",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 7.75,
+   "end": 8.75,
+   "x": 0.0451,
+   "y": 0.3535,
+   "w": 0.1573,
+   "h": 0.0084,
+   "frames": 2,
+   "text": "r semua",
+   "ocr": "r semua",
+   "readings": [
+    [
+     "r semua",
+     2
+    ],
+    [
+     "æN:aserbasemua7803",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 7.75,
+   "end": 9.25,
+   "x": 0.2896,
+   "y": 0.6297,
+   "w": 0.4236,
+   "h": 0.0152,
+   "frames": 3,
+   "text": "기본 트림보다 고성능한 트림입니다",
+   "ocr": "기본 트림보다 고성능한 트림입니다",
+   "readings": [
+    [
+     "기본 트림보다 고성능한 트림입니다",
+     3
+    ],
+    [
+     "기본)트림보다 고성능한 트림입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 9.25,
+   "end": 11.75,
+   "x": 0.2847,
+   "y": 0.6297,
+   "w": 0.4326,
+   "h": 0.0152,
+   "frames": 5,
+   "text": "옵션이 대거 추가된 주력 모델입니다",
+   "ocr": "옵션이 대거 추가완 주력 모텔입니다",
+   "readings": [
+    [
+     "옵션이 대거 추가완 주력 모텔입니다",
+     5
+    ],
+    [
+     "옵션이 대거 추가된 주력 모델입니다",
+     5
+    ],
+    [
+     "옵션이 대거 추가된 주력 모텔입니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 11.75,
+   "end": 15.25,
+   "x": 0.2111,
+   "y": 0.6297,
+   "w": 0.5785,
+   "h": 0.0152,
+   "frames": 7,
+   "text": "당시 개별 소비세 인하와 공식 프로모션을 더하면",
+   "ocr": "당시 개별 소비세 인하와 공식 프로모션을 더하면",
+   "readings": [
+    [
+     "당시 개별 소비세 인하와 공식 프로모션을 더하면",
+     7
+    ],
+    [
+     "당시 개별 소비세읜하와 공식 프로모션을 더하면",
+     1
+    ],
+    [
+     "당시 개별 소비세 인하와 공식 프로모션을 더하면學",
+     1
+    ],
+    [
+     "당시 개별 소비세 인하와 공식 프로모션을 더하면}",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.75,
+   "end": 17.25,
+   "x": 0.1604,
+   "y": 0.4965,
+   "w": 0.2417,
+   "h": 0.0082,
+   "frames": 5,
+   "text": "CT4-V BLACKWINGTM",
+   "ocr": "CT4-V BLACKWINGTM",
+   "readings": [
+    [
+     "CT4-V BLACKWINGTM",
+     5
+    ],
+    [
+     "1 CT4-V BLACKWINGTM",
+     1
+    ],
+    [
+     "CT4-V BLACKWING'Y",
+     1
+    ],
+    [
+     "iT4-V BLACKWINGTM",
+     1
+    ],
+    [
+     "tT4-V BLACKWINGTM",
+     1
+    ],
+    [
+     "CT4-V BLACKWING",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.75,
+   "end": 17.25,
+   "x": 0.5868,
+   "y": 0.4965,
+   "w": 0.2424,
+   "h": 0.0086,
+   "frames": 5,
+   "text": "CTS:V BLACKWINGTM",
+   "ocr": "CTS:V BLACKWINGTM",
+   "readings": [
+    [
+     "CTS:V BLACKWINGTM",
+     2
+    ],
+    [
+     "CT5-V BLACKWING'V",
+     2
+    ],
+    [
+     "CT5-V BLACKWINGTV",
+     2
+    ],
+    [
+     "CTS-V BLACKWINGTM",
+     2
+    ],
+    [
+     "CT5-V BLACKWINGT",
+     1
+    ],
+    [
+     "CTh V8LACKWINGi",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 15.25,
+   "end": 17.75,
+   "x": 0.2931,
+   "y": 0.6293,
+   "w": 0.4167,
+   "h": 0.0156,
+   "frames": 5,
+   "text": "실구매가는 훨씬 합리적이었습니다",
+   "ocr": "실구매가는 훨씬 합리적이었습니다",
+   "readings": [
+    [
+     "실구매가는 훨씬 합리적이었습니다",
+     5
+    ],
+    [
+     "실구매가는 합리적이었습니다",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 17.25,
+   "end": 19.25,
+   "x": 0.2806,
+   "y": 0.4758,
+   "w": 0.4403,
+   "h": 0.0129,
+   "frames": 4,
+   "text": "#LONGLIVETHEMANUALS",
+   "ocr": "#LONGLIVETHEMANUALS",
+   "readings": [
+    [
+     "#LONGLIVETHEMANUALS",
+     4
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 17.75,
+   "end": 20.25,
+   "x": 0.3375,
+   "y": 0.6297,
+   "w": 0.3257,
+   "h": 0.0152,
+   "frames": 5,
+   "text": "대부분 5천만원 중반대에서",
+   "ocr": "대부분 5전만원 중반대에서",
+   "readings": [
+    [
+     "대부분 5전만원 중반대에서",
+     5
+    ],
+    [
+     "대부분 5천만원 중반대에서",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 19.75,
+   "end": 22.75,
+   "x": 0.3007,
+   "y": 0.5148,
+   "w": 0.4,
+   "h": 0.0082,
+   "frames": 6,
+   "text": "RESERVE YOURS AT CADILLAC.COM",
+   "ocr": "RESERVE YOURS AT CADILLAC.COM",
+   "readings": [
+    [
+     "RESERVE YOURS AT CADILLAC.COM",
+     6
+    ],
+    [
+     "RESERVE YOURS AT CAOILLAC.COM",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.25,
+   "end": 22.75,
+   "x": 0.2583,
+   "y": 0.6297,
+   "w": 0.4854,
+   "h": 0.0152,
+   "frames": 5,
+   "text": "세금 혜택까지 받아 구매가 가능했습니다",
+   "ocr": "세금 혜택까지 받아 구매가 가능했습니다",
+   "readings": [
+    [
+     "세금 혜택까지 받아 구매가 가능했습니다",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.75,
+   "end": 40.75,
+   "x": 0.0174,
+   "y": 0.3523,
+   "w": 0.1979,
+   "h": 0.0109,
+   "frames": 36,
+   "text": "출처: @MyersKingston",
+   "ocr": "출세. (1 MyersKlngston",
+   "readings": [
+    [
+     "출세. (1 MyersKlngston",
+     9
+    ],
+    [
+     "출처: (1 MyersKlngston",
+     7
+    ],
+    [
+     "출세. (4 MyersKlngston",
+     6
+    ],
+    [
+     "yers ngs on",
+     4
+    ],
+    [
+     "출세 (1 MyersK,ngston",
+     4
+    ],
+    [
+     "출세 (1 MyersKlngston",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.75,
+   "end": 25.25,
+   "x": 0.1625,
+   "y": 0.3547,
+   "w": 0.0528,
+   "h": 0.0086,
+   "frames": 5,
+   "text": "gs on",
+   "ocr": "gs on",
+   "readings": [
+    [
+     "gs on",
+     4
+    ],
+    [
+     "ngs on",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.75,
+   "end": 28.75,
+   "x": 0.8847,
+   "y": 0.607,
+   "w": 0.0625,
+   "h": 0.0086,
+   "frames": 11,
+   "text": "TAYLOR",
+   "ocr": "TAYLOR",
+   "readings": [
+    [
+     "TAYLOR",
+     9
+    ],
+    [
+     "TAYIOR",
+     1
+    ],
+    [
+     "TAYLCR",
+     1
+    ],
+    [
+     "AYLOR",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.75,
+   "end": 25.25,
+   "x": 0.8847,
+   "y": 0.618,
+   "w": 0.0819,
+   "h": 0.0086,
+   "frames": 5,
+   "text": "CADILLAC",
+   "ocr": "CADILLAC",
+   "readings": [
+    [
+     "CADILLAC",
+     5
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.75,
+   "end": 27.25,
+   "x": 0.1229,
+   "y": 0.6297,
+   "w": 0.7569,
+   "h": 0.0152,
+   "frames": 9,
+   "text": "CT4 스포츠는 뛰어난 하체 기본기를 갖춘 매력적인 세단입니다",
+   "ocr": "CT4 스포츠는 뛰어난 하체 기본기를 갖춘 매력적인 세단입니다",
+   "readings": [
+    [
+     "CT4 스포츠는 뛰어난 하체 기본기를 갖춘 매력적인 세단입니다",
+     9
+    ],
+    [
+     "CT4 스포츠는l뛰어난 하체 기본기를 갖춘 매력적인 세단입니다",
+     1
+    ],
+    [
+     "CT4 스포츠는 뛰어난 하체기본기를•갖춘 매력적인 세단입니다",
+     1
+    ],
+    [
+     "CTÄ 스포츠는 뛰어난 하체 기본기를 갖춘 매력적인 세단입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 26.25,
+   "end": 27.25,
+   "x": 0.1514,
+   "y": 0.3547,
+   "w": 0.0639,
+   "h": 0.0086,
+   "frames": 2,
+   "text": "ngs on",
+   "ocr": "ngs on",
+   "readings": [
+    [
+     "ngs on",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 26.75,
+   "end": 28.75,
+   "x": 0.8847,
+   "y": 0.6172,
+   "w": 0.0819,
+   "h": 0.0094,
+   "frames": 3,
+   "text": "CADILLAC",
+   "ocr": "CADILLAC",
+   "readings": [
+    [
+     "CADILLAC",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 27.25,
+   "end": 32.25,
+   "x": 0.1076,
+   "y": 0.6293,
+   "w": 0.7861,
+   "h": 0.0156,
+   "frames": 10,
+   "text": "여러분이라면 이 가격의 독일차 대신 캐딜락을 선택하시겠습니까?",
+   "ocr": "여러분이라면 이 가격의 독일자 대신 개일락을 선택하시겠습니까?",
+   "readings": [
+    [
+     "여러분이라면 이 가격의 독일자 대신 개일락을 선택하시겠습니까?",
+     9
+    ],
+    [
+     "여러분이라면 이 가격의 독일차 대신 캐딜락을 선택하시겠습니까?",
+     5
+    ],
+    [
+     "여러분이라면 이가격의 독일자 대신 캐딜락을 선택하시겠습니까?",
+     2
+    ],
+    [
+     "여러분이라면 이 가격의 독일차 대신 개일락을 선택하시겠습니까?",
+     2
+    ],
+    [
+     "여러분이라면 이 가격의 독일자 대신 캐딜락을 선택하시겠~츱니까?",
+     1
+    ],
+    [
+     "여러분이라면 이 가격의 독일자 대신 캐딜락을 선택하시겠츱니까?",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 29.75,
+   "end": 30.75,
+   "x": 0.0917,
+   "y": 0.3547,
+   "w": 0.1236,
+   "h": 0.0086,
+   "frames": 2,
+   "text": "yers on",
+   "ocr": "yers on",
+   "readings": [
+    [
+     "yers on",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 29.75,
+   "end": 30.75,
+   "x": 0.7875,
+   "y": 0.3563,
+   "w": 0.0583,
+   "h": 0.0148,
+   "frames": 2,
+   "text": "PAR",
+   "ocr": "PAR",
+   "readings": [
+    [
+     "PAR",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 29.75,
+   "end": 33.25,
+   "x": 0.8847,
+   "y": 0.607,
+   "w": 0.0625,
+   "h": 0.0086,
+   "frames": 6,
+   "text": "TAYLOR",
+   "ocr": "TAYLOR",
+   "readings": [
+    [
+     "TAYLOR",
+     6
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 29.75,
+   "end": 33.75,
+   "x": 0.8847,
+   "y": 0.618,
+   "w": 0.0819,
+   "h": 0.0086,
+   "frames": 7,
+   "text": "CADILLAC",
+   "ocr": "CADILLAC",
+   "readings": [
+    [
+     "CADILLAC",
+     7
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 32.75,
+   "end": 36.75,
+   "x": 0.1569,
+   "y": 0.6297,
+   "w": 0.6882,
+   "h": 0.0152,
+   "frames": 8,
+   "text": "여러분의 솔직한 구매 의사를 댓글로 자유롭게 남겨주세요",
+   "ocr": "여러분의 솔직한 구매 의사를 댓글로 자유롭게 남겨주세요",
+   "readings": [
+    [
+     "여러분의 솔직한 구매 의사를 댓글로 자유롭게 남겨주세요",
+     8
+    ],
+    [
+     "여러분의 솔직한 구매 의사를 댓글로짜유롭게 남겨주세요",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 34.75,
+   "end": 39.75,
+   "x": 0.8847,
+   "y": 0.607,
+   "w": 0.0625,
+   "h": 0.0086,
+   "frames": 10,
+   "text": "TAYLOR",
+   "ocr": "TAYLOR",
+   "readings": [
+    [
+     "TAYLOR",
+     10
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 34.75,
+   "end": 38.25,
+   "x": 0.8847,
+   "y": 0.618,
+   "w": 0.0819,
+   "h": 0.0086,
+   "frames": 7,
+   "text": "CAOILLAC",
+   "ocr": "CAOILLAC",
+   "readings": [
+    [
+     "CAOILLAC",
+     6
+    ],
+    [
+     "CAOILCAC",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 36.75,
+   "end": 37.75,
+   "x": 0.4174,
+   "y": 0.6297,
+   "w": 0.1667,
+   "h": 0.0152,
+   "frames": 2,
+   "text": "구독과 좋아요",
+   "ocr": "구독과 좋아요",
+   "readings": [
+    [
+     "구독과 좋아요",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 37.75,
+   "end": 39.25,
+   "x": 0.3431,
+   "y": 0.6297,
+   "w": 0.3153,
+   "h": 0.0152,
+   "frames": 3,
+   "text": "알람 설정까지 잊지 마시고",
+   "ocr": "알람 설정까지 잊지 마시고",
+   "readings": [
+    [
+     "알람 설정까지 잊지 마시고",
+     3
+    ],
+    [
+     "알람 실정까지 잊지 마시고",
+     2
+    ],
+    [
+     "일卜람 실정까지 잊지 마시고",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 38.25,
+   "end": 39.75,
+   "x": 0.8847,
+   "y": 0.618,
+   "w": 0.0819,
+   "h": 0.0086,
+   "frames": 3,
+   "text": "CADILLAC",
+   "ocr": "CADILLAC",
+   "readings": [
+    [
+     "CADILLAC",
+     2
+    ],
+    [
+     "CADI C",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 39.25,
+   "end": 40.25,
+   "x": 0.4174,
+   "y": 0.6297,
+   "w": 0.1667,
+   "h": 0.0152,
+   "frames": 2,
+   "text": "꾹 눌러주세요",
+   "ocr": "꾹 눌러주세요",
+   "readings": [
+    [
+     "꾹 눌러주세요",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 40.25,
+   "end": 41.25,
+   "x": 0.4347,
+   "y": 0.6293,
+   "w": 0.1326,
+   "h": 0.0156,
+   "frames": 2,
+   "text": "감사합니다",
+   "ocr": "감사합니다",
+   "readings": [
+    [
+     "감사합니다",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 41.25,
+   "end": 42.75,
+   "x": 0.1792,
+   "y": 0.5852,
+   "w": 0.6417,
+   "h": 0.0445,
+   "frames": 3,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     3
+    ],
+    [
+     "사각〉지대, 아찔하셨국?",
+     1
+    ],
+    [
+     "사각*지태, 아쮚하礬좌?",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 42.75,
+   "end": 43.75,
+   "x": 0.1444,
+   "y": 0.4797,
+   "w": 0.5847,
+   "h": 0.0398,
+   "frames": 2,
+   "text": "단 3초, 시야 2배 확장",
+   "ocr": "단43초, 시야22배 확장",
+   "readings": [
+    [
+     "단43초, 시야22배 확장",
+     1
+    ],
+    [
+     "단3초, 시야 2배 확장",
+     1
+    ],
+    [
+     "단,3초5시야42배.화장",
+     1
+    ],
+    [
+     "단 3좌시야 2배 확장",
+     1
+    ],
+    [
+     "단3초, 시야2배 확장",
+     1
+    ],
+    [
+     "단3최-시야-2배 확장",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 43.75,
+   "end": 44.75,
+   "x": 0.0868,
+   "y": 0.3578,
+   "w": 0.8069,
+   "h": 0.0453,
+   "frames": 2,
+   "text": "한 한이던 구닣식7가/`•| 모납니다",
+   "ocr": "한 한이던 구닣식7가/`•| 모납니다",
+   "readings": [
+    [
+     "한 한이던 구닣식7가/`•| 모납니다",
+     1
+    ],
+    [
+     "한이던 구닣식7가/`•| 모임나다!",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 45.25,
+   "end": 46.75,
+   "x": 0.3514,
+   "y": 0.4727,
+   "w": 0.0875,
+   "h": 0.0094,
+   "frames": 3,
+   "text": "0 Ptic-GlasS",
+   "ocr": "0 Ptic-GlasS",
+   "readings": [
+    [
+     "0 Ptic-GlasS",
+     1
+    ],
+    [
+     "Optic-Glass",
+     1
+    ],
+    [
+     "Optic•GlasS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 45.25,
+   "end": 46.75,
+   "x": 0.5681,
+   "y": 0.5914,
+   "w": 0.0903,
+   "h": 0.0164,
+   "frames": 3,
+   "text": "음택글개스",
+   "ocr": "음택글개스",
+   "readings": [
+    [
+     "음택글개스",
+     1
+    ],
+    [
+     "음틔글개스",
+     1
+    ],
+    [
+     "음탴글개스",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 45.75,
+   "end": 46.75,
+   "x": 0.6299,
+   "y": 0.3797,
+   "w": 0.1257,
+   "h": 0.023,
+   "frames": 2,
+   "text": "운전의 자신감이",
+   "ocr": "운전의 자신람이",
+   "readings": [
+    [
+     "운전의 자신람이",
+     1
+    ],
+    [
+     "운전의 자",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 45.75,
+   "end": 46.75,
+   "x": 0.641,
+   "y": 0.3945,
+   "w": 0.1097,
+   "h": 0.0215,
+   "frames": 2,
+   "text": "남달라집니다!",
+   "ocr": "남달라집니다!",
+   "readings": [
+    [
+     "남달라집니다!",
+     1
+    ],
+    [
+     "남달라집",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:22:30"
+}

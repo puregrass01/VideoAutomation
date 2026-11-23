@@ -1,0 +1,1149 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "color_space": 0,
+  "config": {
+    "adjust_max_index": 1,
+    "attachment_info": [],
+    "combination_max_index": 1,
+    "export_range": null,
+    "extract_audio_last_index": 1,
+    "lyrics_recognition_id": "",
+    "lyrics_sync": true,
+    "lyrics_taskinfo": [],
+    "maintrack_adsorb": true,
+    "material_save_mode": 0,
+    "multi_language_current": "none",
+    "multi_language_list": [],
+    "multi_language_main": "none",
+    "multi_language_mode": "none",
+    "original_sound_last_index": 1,
+    "record_audio_last_index": 1,
+    "sticker_max_index": 1,
+    "subtitle_keywords_config": null,
+    "subtitle_recognition_id": "",
+    "subtitle_sync": true,
+    "subtitle_taskinfo": [],
+    "system_font_list": [],
+    "use_float_render": false,
+    "video_mute": false,
+    "zoom_info_params": null
+  },
+  "cover": null,
+  "create_time": 0,
+  "duration": 12000000,
+  "extra_info": null,
+  "fps": 30,
+  "free_render_index_mode_on": false,
+  "group_container": null,
+  "id": "05AB3465-B509-408C-93E3-F1E5D1DBD671",
+  "is_drop_frame_timecode": false,
+  "keyframe_graph_list": [],
+  "keyframes": {
+    "adjusts": [],
+    "audios": [],
+    "effects": [],
+    "filters": [],
+    "handwrites": [],
+    "stickers": [],
+    "texts": [],
+    "videos": []
+  },
+  "last_modified_platform": {
+    "os": "windows",
+    "os_version": "10.0.26200",
+    "app_id": 359289,
+    "app_version": "9.1.0",
+    "app_source": "cc",
+    "device_id": "0ceb70587bc0a5fca2040c17573b3114",
+    "hard_disk_id": "99facffe2c7a4b4491ae89b01dd8f78b",
+    "mac_address": "a57625c728a8933f287d080aae43f262"
+  },
+  "lyrics_effects": [],
+  "materials": {
+    "ai_translates": [],
+    "audio_balances": [],
+    "audio_effects": [],
+    "audio_fades": [],
+    "audio_track_indexes": [],
+    "audios": [
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 3,
+        "copyright_limit_type": "none",
+        "duration": 12024000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "2ec6ef38cadd4ad4803d7c39351111ac",
+        "local_material_id": "2ec6ef38cadd4ad4803d7c39351111ac",
+        "music_id": "2ec6ef38cadd4ad4803d7c39351111ac",
+        "name": "bmwx7_shorts_bgm_12s.mp3",
+        "path": "C:\\Users\\bssho\\Downloads\\paperclip-master\\구글드라이브다운파일\\media\\bmwx7\\bmwx7_shorts_bgm_12s.mp3",
+        "source_platform": 0,
+        "type": "extract_music",
+        "wave_points": []
+      }
+    ],
+    "beats": [],
+    "canvases": [],
+    "chromas": [],
+    "common_mask": [],
+    "color_curves": [],
+    "digital_humans": [],
+    "drafts": [],
+    "effects": [],
+    "flowers": [],
+    "green_screens": [],
+    "handwrites": [],
+    "hsl": [],
+    "images": [],
+    "log_color_wheels": [],
+    "loudnesses": [],
+    "manual_deformations": [],
+    "masks": [],
+    "material_animations": [
+      {
+        "id": "c628060211ca4c3d88f2996cce260548",
+        "type": "sticker_animation",
+        "multi_language_current": "none",
+        "animations": [
+          {
+            "anim_adjust_params": null,
+            "platform": "all",
+            "panel": "video",
+            "material_type": "video",
+            "name": "渐显",
+            "id": "6798320778182922760",
+            "type": "in",
+            "resource_id": "6798320778182922760",
+            "start": 0,
+            "duration": 500000
+          }
+        ]
+      },
+      {
+        "id": "985a526ac3c14b6e8b5fff897a08b1d2",
+        "type": "sticker_animation",
+        "multi_language_current": "none",
+        "animations": [
+          {
+            "anim_adjust_params": null,
+            "platform": "all",
+            "panel": "",
+            "material_type": "sticker",
+            "name": "星光闪闪",
+            "id": "7309782178110378498",
+            "type": "in",
+            "resource_id": "7309782178110378498",
+            "start": 0,
+            "duration": 400000
+          },
+          {
+            "anim_adjust_params": null,
+            "platform": "all",
+            "panel": "",
+            "material_type": "sticker",
+            "name": "渐隐",
+            "id": "6724919382104871427",
+            "type": "out",
+            "resource_id": "6724919382104871427",
+            "start": 2067000,
+            "duration": 300000
+          }
+        ]
+      },
+      {
+        "id": "07501c19960b46afabf0eebadc2f9451",
+        "type": "sticker_animation",
+        "multi_language_current": "none",
+        "animations": [
+          {
+            "anim_adjust_params": null,
+            "platform": "all",
+            "panel": "",
+            "material_type": "sticker",
+            "name": "向右滑动",
+            "id": "6724920136056181256",
+            "type": "in",
+            "resource_id": "6724920136056181256",
+            "start": 0,
+            "duration": 400000
+          },
+          {
+            "anim_adjust_params": null,
+            "platform": "all",
+            "panel": "",
+            "material_type": "sticker",
+            "name": "渐隐",
+            "id": "6724919382104871427",
+            "type": "out",
+            "resource_id": "6724919382104871427",
+            "start": 3100000,
+            "duration": 300000
+          }
+        ]
+      },
+      {
+        "id": "0b6553b713234e8fa9491c068aa8703f",
+        "type": "sticker_animation",
+        "multi_language_current": "none",
+        "animations": [
+          {
+            "anim_adjust_params": null,
+            "platform": "all",
+            "panel": "",
+            "material_type": "sticker",
+            "name": "向上滑动",
+            "id": "6763470111253729803",
+            "type": "in",
+            "resource_id": "6763470111253729803",
+            "start": 0,
+            "duration": 400000
+          },
+          {
+            "anim_adjust_params": null,
+            "platform": "all",
+            "panel": "",
+            "material_type": "sticker",
+            "name": "渐隐",
+            "id": "6724919382104871427",
+            "type": "out",
+            "resource_id": "6724919382104871427",
+            "start": 2900000,
+            "duration": 300000
+          }
+        ]
+      },
+      {
+        "id": "37e95189f09e4825b1ec126e740caa3f",
+        "type": "sticker_animation",
+        "multi_language_current": "none",
+        "animations": [
+          {
+            "anim_adjust_params": null,
+            "platform": "all",
+            "panel": "",
+            "material_type": "sticker",
+            "name": "渐显",
+            "id": "6724916044072227332",
+            "type": "in",
+            "resource_id": "6724916044072227332",
+            "start": 0,
+            "duration": 400000
+          },
+          {
+            "anim_adjust_params": null,
+            "platform": "all",
+            "panel": "",
+            "material_type": "sticker",
+            "name": "渐隐",
+            "id": "6724919382104871427",
+            "type": "out",
+            "resource_id": "6724919382104871427",
+            "start": 2733000,
+            "duration": 300000
+          }
+        ]
+      }
+    ],
+    "material_colors": [],
+    "multi_language_refs": [],
+    "placeholders": [],
+    "plugin_effects": [],
+    "primary_color_wheels": [],
+    "realtime_denoises": [],
+    "shapes": [],
+    "smart_crops": [],
+    "smart_relights": [],
+    "sound_channel_mappings": [],
+    "speeds": [
+      {
+        "curve_speed": null,
+        "id": "875936d904784a9da439cc29297868ab",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "7ca73f65e1264a5aa3fe4535f62a0a12",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "006b9c1e8faa46a39e65ecf20272484d",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "bbd98408926047f0bf0511b66cd2ca84",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "269ab86b1ab042b789c03bbf79fb7540",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      }
+    ],
+    "stickers": [],
+    "tail_leaders": [],
+    "text_templates": [],
+    "texts": [
+      {
+        "id": "2fd8a9f333f944ae832efb7e54bea5c8",
+        "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [1.0, 1.0, 1.0]}}}, \"range\": [0, 25], \"size\": 12.0, \"bold\": true, \"italic\": false, \"underline\": false, \"strokes\": [], \"font\": {\"id\": \"7189852363404874242\", \"path\": \"C:/Users/bssho/AppData/Local/Microsoft/Windows/Fonts/NotoSansKR-Bold-Static.ttf\"}}], \"text\": \"BMW X7 순정 미러\\n좁은 시야 답답하셨죠?\"}",
+        "typesetting": 0,
+        "alignment": 1,
+        "letter_spacing": 0.0,
+        "line_spacing": 0.02,
+        "line_feed": 1,
+        "line_max_width": 0.82,
+        "force_apply_line_max_width": false,
+        "check_flag": 23,
+        "type": "text",
+        "global_alpha": 1.0,
+        "background_style": 1,
+        "background_color": "#000000",
+        "background_alpha": 1.0,
+        "background_round_radius": 0.14,
+        "background_height": 0.18,
+        "background_width": 0.18,
+        "background_horizontal_offset": 0.0,
+        "background_vertical_offset": 0.0,
+        "fonts": [
+          {
+            "id": "E148A173-22D3-4DA0-9FAD-E51AC9A93A30",
+            "resource_id": "7189852363404874242",
+            "third_resource_id": "",
+            "category_id": "",
+            "category_name": "",
+            "source_platform": 1,
+            "path": "C:/Users/bssho/AppData/Local/Microsoft/Windows/Fonts/NotoSansKR-Bold-Static.ttf",
+            "effect_id": "",
+            "title": "Noto Sans KR Bold",
+            "team_id": "",
+            "file_uri": "",
+            "request_id": ""
+          }
+        ]
+      },
+      {
+        "id": "df8101360a034948b30269bbe9f7f4d3",
+        "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [1.0, 1.0, 0.0]}}}, \"range\": [0, 23], \"size\": 12.0, \"bold\": true, \"italic\": false, \"underline\": false, \"strokes\": [], \"font\": {\"id\": \"7189852363404874242\", \"path\": \"C:/Users/bssho/AppData/Local/Microsoft/Windows/Fonts/NotoSansKR-Bold-Static.ttf\"}}], \"text\": \"순정 미러 탈거 후\\n광각미러로 바로 교체!\"}",
+        "typesetting": 0,
+        "alignment": 1,
+        "letter_spacing": 0.0,
+        "line_spacing": 0.02,
+        "line_feed": 1,
+        "line_max_width": 0.82,
+        "force_apply_line_max_width": false,
+        "check_flag": 23,
+        "type": "text",
+        "global_alpha": 1.0,
+        "background_style": 1,
+        "background_color": "#000000",
+        "background_alpha": 1.0,
+        "background_round_radius": 0.14,
+        "background_height": 0.18,
+        "background_width": 0.18,
+        "background_horizontal_offset": 0.0,
+        "background_vertical_offset": 0.0,
+        "fonts": [
+          {
+            "id": "C3588796-B883-4B1A-B4F0-CDAC18C90A8D",
+            "resource_id": "7189852363404874242",
+            "third_resource_id": "",
+            "category_id": "",
+            "category_name": "",
+            "source_platform": 1,
+            "path": "C:/Users/bssho/AppData/Local/Microsoft/Windows/Fonts/NotoSansKR-Bold-Static.ttf",
+            "effect_id": "",
+            "title": "Noto Sans KR Bold",
+            "team_id": "",
+            "file_uri": "",
+            "request_id": ""
+          }
+        ]
+      },
+      {
+        "id": "737b165a5f414f5f8b89eae3917be12c",
+        "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [1.0, 1.0, 1.0]}}}, \"range\": [0, 23], \"size\": 12.0, \"bold\": true, \"italic\": false, \"underline\": false, \"strokes\": [], \"font\": {\"id\": \"7189852363404874242\", \"path\": \"C:/Users/bssho/AppData/Local/Microsoft/Windows/Fonts/NotoSansKR-Bold-Static.ttf\"}}], \"text\": \"순정 미러와 비교하면\\n시야각 차이 확실하죠\"}",
+        "typesetting": 0,
+        "alignment": 1,
+        "letter_spacing": 0.0,
+        "line_spacing": 0.02,
+        "line_feed": 1,
+        "line_max_width": 0.82,
+        "force_apply_line_max_width": false,
+        "check_flag": 23,
+        "type": "text",
+        "global_alpha": 1.0,
+        "background_style": 1,
+        "background_color": "#000000",
+        "background_alpha": 1.0,
+        "background_round_radius": 0.14,
+        "background_height": 0.18,
+        "background_width": 0.18,
+        "background_horizontal_offset": 0.0,
+        "background_vertical_offset": 0.0,
+        "fonts": [
+          {
+            "id": "96318C97-AE83-4FF2-8D35-F5FAB9E95520",
+            "resource_id": "7189852363404874242",
+            "third_resource_id": "",
+            "category_id": "",
+            "category_name": "",
+            "source_platform": 1,
+            "path": "C:/Users/bssho/AppData/Local/Microsoft/Windows/Fonts/NotoSansKR-Bold-Static.ttf",
+            "effect_id": "",
+            "title": "Noto Sans KR Bold",
+            "team_id": "",
+            "file_uri": "",
+            "request_id": ""
+          }
+        ]
+      },
+      {
+        "id": "78dd909bc5a5444cb96562a76ad48689",
+        "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [1.0, 1.0, 0.0]}}}, \"range\": [0, 25], \"size\": 12.0, \"bold\": true, \"italic\": false, \"underline\": false, \"strokes\": [], \"font\": {\"id\": \"7189852363404874242\", \"path\": \"C:/Users/bssho/AppData/Local/Microsoft/Windows/Fonts/NotoSansKR-Bold-Static.ttf\"}}], \"text\": \"장착 후 사각지대 없이\\n운전이 훨씬 편해집니다\"}",
+        "typesetting": 0,
+        "alignment": 1,
+        "letter_spacing": 0.0,
+        "line_spacing": 0.02,
+        "line_feed": 1,
+        "line_max_width": 0.82,
+        "force_apply_line_max_width": false,
+        "check_flag": 23,
+        "type": "text",
+        "global_alpha": 1.0,
+        "background_style": 1,
+        "background_color": "#000000",
+        "background_alpha": 1.0,
+        "background_round_radius": 0.14,
+        "background_height": 0.18,
+        "background_width": 0.18,
+        "background_horizontal_offset": 0.0,
+        "background_vertical_offset": 0.0,
+        "fonts": [
+          {
+            "id": "F42E50F5-9A25-4576-BFFF-2128D4C7D94F",
+            "resource_id": "7189852363404874242",
+            "third_resource_id": "",
+            "category_id": "",
+            "category_name": "",
+            "source_platform": 1,
+            "path": "C:/Users/bssho/AppData/Local/Microsoft/Windows/Fonts/NotoSansKR-Bold-Static.ttf",
+            "effect_id": "",
+            "title": "Noto Sans KR Bold",
+            "team_id": "",
+            "file_uri": "",
+            "request_id": ""
+          }
+        ]
+      }
+    ],
+    "time_marks": [],
+    "transitions": [
+      {
+        "category_id": "",
+        "category_name": "",
+        "duration": 400000,
+        "effect_id": "6726711499676455435",
+        "id": "d8daadd6b5334fc19b769dd51f6e9c9b",
+        "is_overlap": true,
+        "name": "左移",
+        "platform": "all",
+        "resource_id": "6726711499676455435",
+        "type": "transition"
+      }
+    ],
+    "video_effects": [],
+    "video_trackings": [],
+    "videos": [
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 2367000,
+        "height": 1920,
+        "id": "1491635c51964f0aa0c15128d3312ba1",
+        "local_material_id": "c8d2b8c9-30c1-4b6f-9c9d-4ce16c4eba49",
+        "material_id": "1491635c51964f0aa0c15128d3312ba1",
+        "material_name": "bmwx7_s01_stock_mirror.mp4",
+        "media_path": "",
+        "path": "C:\\Users\\bssho\\Downloads\\paperclip-master\\구글드라이브다운파일\\media\\bmwx7\\bmwx7_s01_stock_mirror.mp4",
+        "type": "video",
+        "width": 1080
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 3400000,
+        "height": 1920,
+        "id": "2ebace7e9bad4bc3b753133d901decd9",
+        "local_material_id": "79cdcdfc-7e61-4700-9b15-2d9f516cf2b5",
+        "material_id": "2ebace7e9bad4bc3b753133d901decd9",
+        "material_name": "bmwx7_s02_install.mp4",
+        "media_path": "",
+        "path": "C:\\Users\\bssho\\Downloads\\paperclip-master\\구글드라이브다운파일\\media\\bmwx7\\bmwx7_s02_install.mp4",
+        "type": "video",
+        "width": 1080
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 3200000,
+        "height": 1920,
+        "id": "c282df201f704d009c7a9417133dd736",
+        "local_material_id": "1e8361b4-239d-4ddb-ad85-178c42157ebf",
+        "material_id": "c282df201f704d009c7a9417133dd736",
+        "material_name": "bmwx7_s03_compare.mp4",
+        "media_path": "",
+        "path": "C:\\Users\\bssho\\Downloads\\paperclip-master\\구글드라이브다운파일\\media\\bmwx7\\bmwx7_s03_compare.mp4",
+        "type": "video",
+        "width": 1080
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 3034000,
+        "height": 1920,
+        "id": "8707665138024dc892967c77524284ed",
+        "local_material_id": "71fde248-11eb-4f10-9dde-c97a65b9b33b",
+        "material_id": "8707665138024dc892967c77524284ed",
+        "material_name": "bmwx7_s04_result.mp4",
+        "media_path": "",
+        "path": "C:\\Users\\bssho\\Downloads\\paperclip-master\\구글드라이브다운파일\\media\\bmwx7\\bmwx7_s04_result.mp4",
+        "type": "video",
+        "width": 1080
+      }
+    ],
+    "vocal_beautifys": [],
+    "vocal_separations": []
+  },
+  "mutable_config": null,
+  "name": "",
+  "new_version": "179.0.0",
+  "path": "",
+  "platform": {
+    "os": "windows",
+    "os_version": "10.0.26200",
+    "app_id": 359289,
+    "app_version": "9.1.0",
+    "app_source": "cc",
+    "device_id": "0ceb70587bc0a5fca2040c17573b3114",
+    "hard_disk_id": "99facffe2c7a4b4491ae89b01dd8f78b",
+    "mac_address": "a57625c728a8933f287d080aae43f262"
+  },
+  "relationships": [],
+  "render_index_track_mode_on": false,
+  "retouch_cover": null,
+  "source": "default",
+  "static_cover_image_path": "",
+  "time_marks": null,
+  "tracks": [
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "5cb73a52d6174f0cb9446a406741f223",
+      "is_default_name": false,
+      "name": "v_main",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "e3a54b9d05784ff8939c98521c5289c7",
+          "material_id": "1491635c51964f0aa0c15128d3312ba1",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2367000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 2367000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "875936d904784a9da439cc29297868ab",
+            "c628060211ca4c3d88f2996cce260548",
+            "d8daadd6b5334fc19b769dd51f6e9c9b"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "9b96838cfe4449bb9a60d54e18981c62",
+          "material_id": "2ebace7e9bad4bc3b753133d901decd9",
+          "target_timerange": {
+            "start": 2367000,
+            "duration": 3400000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 3400000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "7ca73f65e1264a5aa3fe4535f62a0a12"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "b791ae6b885f467f9574a368f26ac919",
+          "material_id": "c282df201f704d009c7a9417133dd736",
+          "target_timerange": {
+            "start": 5767000,
+            "duration": 3200000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 3200000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "006b9c1e8faa46a39e65ecf20272484d"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "49d88f51f60b422697bb8261346b7d05",
+          "material_id": "8707665138024dc892967c77524284ed",
+          "target_timerange": {
+            "start": 8967000,
+            "duration": 3033000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 3033000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "bbd98408926047f0bf0511b66cd2ca84"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        }
+      ],
+      "type": "video"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "14779ce69ddd4ffeae5a682daf22e9cd",
+      "is_default_name": false,
+      "name": "a_main",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "6750c2daf6ea4b61b3dcfced0335f9ef",
+          "material_id": "2ec6ef38cadd4ad4803d7c39351111ac",
+          "target_timerange": {
+            "start": 0,
+            "duration": 12000000
+          },
+          "common_keyframes": [
+            {
+              "id": "23b8f60992b8474eba04041ad1da1059",
+              "keyframe_list": [
+                {
+                  "curveType": "Line",
+                  "graphID": "",
+                  "left_control": {
+                    "x": 0.0,
+                    "y": 0.0
+                  },
+                  "right_control": {
+                    "x": 0.0,
+                    "y": 0.0
+                  },
+                  "id": "c6df4baac18847d4a7db54dd421785f2",
+                  "time_offset": 0,
+                  "values": [
+                    0.85
+                  ]
+                }
+              ],
+              "material_id": "",
+              "property_type": "KFTypeVolume"
+            }
+          ],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 12000000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "269ab86b1ab042b789c03bbf79fb7540"
+          ],
+          "is_tone_modify": false,
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "12c5818051014750bcf524c7945a6852",
+      "is_default_name": false,
+      "name": "e_main",
+      "segments": [],
+      "type": "effect"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "4de4d60cff77447daa3981c2de3d08ec",
+      "is_default_name": false,
+      "name": "t_main",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "33a7697e2fe04f99aa4b455a916cb717",
+          "material_id": "2fd8a9f333f944ae832efb7e54bea5c8",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2367000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": null,
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "e1c97642c9364e78808e203b09f10535",
+            "985a526ac3c14b6e8b5fff897a08b1d2"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.58
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "render_index": 15000
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "9fd12386862d4433a44c7f6ee96ca289",
+          "material_id": "df8101360a034948b30269bbe9f7f4d3",
+          "target_timerange": {
+            "start": 2367000,
+            "duration": 3400000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": null,
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "e1f2b7b4be214d1c80d480a9d7e61440",
+            "07501c19960b46afabf0eebadc2f9451"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.58
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "render_index": 15000
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "430384c3ad0c4e94a708b58a15bd11af",
+          "material_id": "737b165a5f414f5f8b89eae3917be12c",
+          "target_timerange": {
+            "start": 5767000,
+            "duration": 3200000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": null,
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "77fd79a56af944d99864c66510bb1295",
+            "0b6553b713234e8fa9491c068aa8703f"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.78
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "render_index": 15000
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "fc2bfe465ee64a80832c7ea8325830e8",
+          "material_id": "78dd909bc5a5444cb96562a76ad48689",
+          "target_timerange": {
+            "start": 8967000,
+            "duration": 3033000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": null,
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "3eec7f7ec9cd4019a0fe93db2ac66be0",
+            "37e95189f09e4825b1ec126e740caa3f"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.58
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "render_index": 15000
+        }
+      ],
+      "type": "text"
+    }
+  ],
+  "update_time": 0,
+  "version": 360000
+}

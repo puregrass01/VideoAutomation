@@ -1,0 +1,4368 @@
+{
+ "id": "jzbu_aVWgYM",
+ "tab": "videos",
+ "upload_date": "20261013",
+ "duration": 172.27,
+ "title": "벤츠가 작정하고 만든 SUV… 마이바흐 GLS 600은 뭐가 다를까?",
+ "url": "https://www.youtube.com/watch?v=jzbu_aVWgYM",
+ "width": 1280,
+ "height": 720,
+ "format": "longform",
+ "aspect": "16:9",
+ "cuts": [
+  0.23,
+  3.73,
+  4.37,
+  4.97,
+  5.63,
+  6.27,
+  6.9,
+  7.53,
+  8.13,
+  8.7,
+  10.65,
+  13.02,
+  14.98,
+  18.32,
+  24.85,
+  31.25,
+  34.05,
+  36.68,
+  42.88,
+  49.18,
+  55.32,
+  58.85,
+  61.52,
+  68.18,
+  72.85,
+  78.02,
+  85.92,
+  91.95,
+  101.18,
+  141.78,
+  144.92,
+  147.12,
+  148.45,
+  154.82,
+  156.45,
+  161.72,
+  165.97,
+  167.43,
+  168.43,
+  169.98
+ ],
+ "ocr_readings": 2803,
+ "captions": [
+  {
+   "start": 8.75,
+   "end": 11.75,
+   "x": 0.2035,
+   "y": 0.9083,
+   "w": 0.5945,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "안녕하세요 자동차 전문 리뷰어 옵틱글래스입니다",
+   "ocr": "안녕하세요 자동차 전문 리뷰어 옵틱글래스입니다",
+   "readings": [
+    [
+     "안녕하세요 자동차 전문 리뷰어 옵틱글래스입니다",
+     6
+    ],
+    [
+     "안녕하세요 자동차 전문쾨뷰어 옵틱글래스입니다i",
+     1
+    ],
+    [
+     "안녕하세요 자동차전문 리뷰어 옵틱글래스입니다",
+     1
+    ],
+    [
+     "안녕하세의자동大h천문 리뷰어f옵틱글래스입니다",
+     1
+    ],
+    [
+     "안녕하•세요 자동차 전문 리뷰어 옵틱글래스입니다",
+     1
+    ],
+    [
+     "안녕하세요 자동차僉전문 리뷰어 옵틱글래스입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 11.75,
+   "end": 13.25,
+   "x": 0.3863,
+   "y": 0.9083,
+   "w": 0.2281,
+   "h": 0.0486,
+   "frames": 3,
+   "text": "오늘 만나볼 차량은",
+   "ocr": "오늘 만나몰 차량은",
+   "readings": [
+    [
+     "오늘 만나몰 차량은",
+     3
+    ],
+    [
+     "오늘 만나볼 차량은",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 12.75,
+   "end": 13.75,
+   "x": 0.3705,
+   "y": 0.5247,
+   "w": 0.1393,
+   "h": 0.033,
+   "frames": 2,
+   "text": "lllllllllll",
+   "ocr": "lllllllllll",
+   "readings": [
+    [
+     "lllllllllll",
+     1
+    ],
+    [
+     "lllllll!",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 13.25,
+   "end": 14.75,
+   "x": 0.382,
+   "y": 0.9073,
+   "w": 0.2355,
+   "h": 0.0507,
+   "frames": 3,
+   "text": "럭셔리 SUV의 정점",
+   "ocr": "럭셔리 SUV의 정점",
+   "readings": [
+    [
+     "럭셔리 SUV의 정점",
+     3
+    ],
+    [
+     "럭셔리 SUv의 정점",
+     1
+    ],
+    [
+     "二력셔리 SUV의 정점",
+     1
+    ],
+    [
+     "럭셔리 SUV의 `정점",
+     1
+    ],
+    [
+     "럭셔리 SUⅴ의정점",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.75,
+   "end": 16.25,
+   "x": 0.3896,
+   "y": 0.9059,
+   "w": 0.2328,
+   "h": 0.0552,
+   "frames": 3,
+   "text": "벤츠 마이바흐 GLS",
+   "ocr": "벤츠 마이바흐 GLS",
+   "readings": [
+    [
+     "벤츠 마이바흐 GLS",
+     3
+    ],
+    [
+     "마이바흐 GLS",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 16.25,
+   "end": 18.25,
+   "x": 0.368,
+   "y": 0.9083,
+   "w": 0.266,
+   "h": 0.0486,
+   "frames": 4,
+   "text": "600 4MATIC입니다",
+   "ocr": "600 4MATlC입니다",
+   "readings": [
+    [
+     "600 4MATlC입니다",
+     4
+    ],
+    [
+     "600 4MAⅥC입니다",
+     4
+    ],
+    [
+     "600 4MATIC?L1ch",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 17.25,
+   "end": 18.25,
+   "x": 0.2713,
+   "y": 0.45,
+   "w": 0.4607,
+   "h": 0.1028,
+   "frames": 2,
+   "text": "OPTIC GLASS",
+   "ocr": "OPTIC GLASS",
+   "readings": [
+    [
+     "OPTIC GLASS",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 18.25,
+   "end": 20.25,
+   "x": 0.2219,
+   "y": 0.4278,
+   "w": 0.5656,
+   "h": 0.15,
+   "frames": 4,
+   "text": "PART 01. 외관",
+   "ocr": "PART 01. 회관",
+   "readings": [
+    [
+     "PART 01. 회관",
+     2
+    ],
+    [
+     "PART 01. 의관",
+     2
+    ],
+    [
+     "PART 0쭴. 회관",
+     1
+    ],
+    [
+     ")PART 04:의관",
+     1
+    ],
+    [
+     "4 PARTOI.I",
+     1
+    ],
+    [
+     "PART 01. I",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 18.25,
+   "end": 19.75,
+   "x": 0.373,
+   "y": 0.9083,
+   "w": 0.2559,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "첫 번째는 외관입니다",
+   "ocr": "첫 번째는 외관입니다",
+   "readings": [
+    [
+     "첫 번째는 외관입니다",
+     3
+    ],
+    [
+     "첫 번패는 외관입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 19.75,
+   "end": 23.25,
+   "x": 0.1164,
+   "y": 0.9,
+   "w": 0.7312,
+   "h": 0.0611,
+   "frames": 7,
+   "text": "전면부부터 마이바흐만의 압도적인 존재감이 느껴집니다",
+   "ocr": "전면부부터 마이바흐만의 압도적인 존재감이 느껴집니다",
+   "readings": [
+    [
+     "전면부부터 마이바흐만의 압도적인 존재감이 느껴집니다",
+     6
+    ],
+    [
+     "전면부부터 마이바흐만의 압도적인 존재감이 느껴집니다 수수",
+     1
+    ],
+    [
+     "전면부부터 마이바흐만의 압도적인 존재감이 느껴집니다가력",
+     1
+    ],
+    [
+     "l전면부부터 마이바흐만의 압도적인 존재감이 느껴집니다",
+     1
+    ],
+    [
+     "전면부부터 마이바흐만의 압도적인 존재감이 느껴집니다가",
+     1
+    ],
+    [
+     "전면분부터 마이바흐만의 압도적인 존재감이 느껴집니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.25,
+   "end": 72.75,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1863,
+   "h": 0.0465,
+   "frames": 105,
+   "text": "PART 01. 외관",
+   "ocr": "PART 01. 의관",
+   "readings": [
+    [
+     "PART 01. 의관",
+     102
+    ],
+    [
+     "PART 01. 회관",
+     36
+    ],
+    [
+     "PART 01. 민관",
+     15
+    ],
+    [
+     "ART 01. 의관",
+     4
+    ],
+    [
+     "PART 01",
+     4
+    ],
+    [
+     "PART 01. 의란",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.75,
+   "end": 23.75,
+   "x": 0.8531,
+   "y": 0.7347,
+   "w": 0.0262,
+   "h": 0.0271,
+   "frames": 2,
+   "text": "61555",
+   "ocr": "61555",
+   "readings": [
+    [
+     "61555",
+     1
+    ],
+    [
+     "9555",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 23.25,
+   "end": 26.25,
+   "x": 0.298,
+   "y": 0.9083,
+   "w": 0.4047,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "가장 먼저 시선을 사로잡는 부분은",
+   "ocr": "가장 먼저 시선을 사로잡는 부분은",
+   "readings": [
+    [
+     "가장 먼저 시선을 사로잡는 부분은",
+     6
+    ],
+    [
+     "가장 먼저 시선을 사로잡는 부분은구",
+     1
+    ],
+    [
+     "가장편저 시선을 사로잡는 부분은",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 24.75,
+   "end": 27.75,
+   "x": 0.4594,
+   "y": 0.8146,
+   "w": 0.0969,
+   "h": 0.0292,
+   "frames": 6,
+   "text": "Optic-Glass",
+   "ocr": "Optic-Glass",
+   "readings": [
+    [
+     "Optic-Glass",
+     3
+    ],
+    [
+     "Optic-Gla",
+     2
+    ],
+    [
+     "QOptic-Glass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 26.25,
+   "end": 29.75,
+   "x": 0.1602,
+   "y": 0.9083,
+   "w": 0.682,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "마이바흐를 상징하는 세로형 크롬 라디에이터 그릴입니다",
+   "ocr": "마이바흐를 상징하는 세로형 크롬 라디에이터 그릴입니다",
+   "readings": [
+    [
+     "마이바흐를 상징하는 세로형 크롬 라디에이터 그릴입니다",
+     7
+    ],
+    [
+     "장이바흐를 상징하는 세로형 크롬 라디에이터 그릴입니다",
+     2
+    ],
+    [
+     "a마이바흐를 상징하는 세로형 크롬 라디에이터 그릴입니다",
+     1
+    ],
+    [
+     "땊이바호를 상징하는 세로형 크롬 라디에이터 그릴입니다",
+     1
+    ],
+    [
+     "/ .巴卜이바호를 상징하는 세로형 크롬 라디에이터 그릴입니다",
+     1
+    ],
+    [
+     "/ 乫卜이바호를 상징하는 세로형 크롬 라디에이터구릴입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 27.75,
+   "end": 30.75,
+   "x": 0.4391,
+   "y": 0.8181,
+   "w": 0.0988,
+   "h": 0.0299,
+   "frames": 6,
+   "text": "Optic-Glass",
+   "ocr": "Optic-Glass",
+   "readings": [
+    [
+     "Optic-Glass",
+     4
+    ],
+    [
+     "Optic-GIass",
+     1
+    ],
+    [
+     "OptiC-Glass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 29.75,
+   "end": 31.75,
+   "x": 0.298,
+   "y": 0.9083,
+   "w": 0.4027,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "크고 웅장한 차체와 조화를 이루며",
+   "ocr": "크고 웅장한 차체와 조화를 이루며",
+   "readings": [
+    [
+     "크고 웅장한 차체와 조화를 이루며",
+     4
+    ],
+    [
+     "크고 웅장한 자체와 조화를 이루며",
+     2
+    ],
+    [
+     "크고 웅장한 차제와 조화를 이루며",
+     1
+    ],
+    [
+     "크고 웅장한 차체와조화를 이루며",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 31.75,
+   "end": 33.75,
+   "x": 0.3703,
+   "y": 0.9083,
+   "w": 0.2586,
+   "h": 0.0486,
+   "frames": 4,
+   "text": "일반 GLS와는 확실히",
+   "ocr": "일반 GLS와는 확실히",
+   "readings": [
+    [
+     "일반 GLS와는 확실히",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 33.75,
+   "end": 35.75,
+   "x": 0.2758,
+   "y": 0.9083,
+   "w": 0.4512,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "다른 고급스러운 분위기를 보여줍니다",
+   "ocr": "다른 고급스러운 분위기를 보여줍니다",
+   "readings": [
+    [
+     "다른 고급스러운 분위기를 보여줍니다",
+     4
+    ],
+    [
+     "출다른 고급스러운 분위기를 보여줍니다",
+     1
+    ],
+    [
+     "다른. 고급스러운울분위기를 보여줍니다",
+     1
+    ],
+    [
+     "다른돈고급스러운 분위기를 보여줍니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 35.75,
+   "end": 37.75,
+   "x": 0.325,
+   "y": 0.9069,
+   "w": 0.3508,
+   "h": 0.05,
+   "frames": 4,
+   "text": "특히 보닛 위에 자리 잡은",
+   "ocr": "특히 보닛 위에 자리 잡은 3목",
+   "readings": [
+    [
+     "특히 보닛 위에 자리 잡은 3목",
+     4
+    ],
+    [
+     "특히 보닛 위에)자리 잡은 3목",
+     1
+    ],
+    [
+     "특히 보닛 위에 자리 잡은출목",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 37.75,
+   "end": 40.75,
+   "x": 0.1672,
+   "y": 0.7556,
+   "w": 0.0688,
+   "h": 0.0458,
+   "frames": 5,
+   "text": "Opttc-Glass",
+   "ocr": "Opttc-Glass",
+   "readings": [
+    [
+     "Opttc-Glass",
+     2
+    ],
+    [
+     "Optic-Glass",
+     1
+    ],
+    [
+     "Opttc-GIass",
+     1
+    ],
+    [
+     "Opuc-Glass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 37.75,
+   "end": 41.25,
+   "x": 0.2242,
+   "y": 0.9083,
+   "w": 0.5523,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "삼각별 엠블럼은 마이바흐 GLS600의 품격을",
+   "ocr": "삼각별 엠블럼은 마이바흐 GLS600의 품격을",
+   "readings": [
+    [
+     "삼각별 엠블럼은 마이바흐 GLS600의 품격을",
+     7
+    ],
+    [
+     "삼각별 엠블럼은 마이바흐 GL9600의 품격을",
+     1
+    ],
+    [
+     "삼각별 엠블럼은 마이바호GLS600의 품격을",
+     1
+    ],
+    [
+     "삼각별 엠블럼은 마이바흐 GLS600의 품격을 )한`력툱",
+     1
+    ],
+    [
+     "삼각별 엠블럼은 마이바흐 GLS`600의 품격을",
+     1
+    ],
+    [
+     "삼각별 엠블럼은 마이바흐 GL§600의 품격을",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 41.25,
+   "end": 42.75,
+   "x": 0.3863,
+   "y": 0.9069,
+   "w": 0.2289,
+   "h": 0.05,
+   "frames": 3,
+   "text": "한층 더 높여줍니다",
+   "ocr": "한층 더 높여줍니다",
+   "readings": [
+    [
+     "한층 더 높여줍니다",
+     3
+    ],
+    [
+     "한층 더 높여춥니수",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 42.75,
+   "end": 45.25,
+   "x": 0.2746,
+   "y": 0.9083,
+   "w": 0.4516,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "후면부 역시 마이바흐만의 고급스럽고",
+   "ocr": "후면부 역시 마이바흐만의 고급스럽고",
+   "readings": [
+    [
+     "후면부 역시 마이바흐만의 고급스럽고",
+     5
+    ],
+    [
+     "후면부 역시 마이바흐만의교급스럽고",
+     3
+    ],
+    [
+     "훓후면부 역시 마이바흐만의 고급스럽고",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 45.25,
+   "end": 47.25,
+   "x": 0.2883,
+   "y": 0.9083,
+   "w": 0.425,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "웅장한 분위기가 그대로 이어집니다",
+   "ocr": "웅장한 분위기가 그대로 이어집니다",
+   "readings": [
+    [
+     "웅장한 분위기가 그대로 이어집니다",
+     4
+    ],
+    [
+     "튀기가 그대로 이어집니다",
+     3
+    ],
+    [
+     "웅장한 분위기가 그대로-이어집니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 45.25,
+   "end": 47.25,
+   "x": 0.2906,
+   "y": 0.9083,
+   "w": 0.1285,
+   "h": 0.0382,
+   "frames": 3,
+   "text": "0 자하 부0",
+   "ocr": "0 자하 부0",
+   "readings": [
+    [
+     "0 자하 부0",
+     2
+    ],
+    [
+     "°자하 부0",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 47.25,
+   "end": 48.25,
+   "x": 0.8063,
+   "y": 0.091,
+   "w": 0.1871,
+   "h": 0.0708,
+   "frames": 2,
+   "text": "PART 01. 외관",
+   "ocr": "PART 01. 의관",
+   "readings": [
+    [
+     "PART 01. 의관",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 47.25,
+   "end": 48.75,
+   "x": 0.3992,
+   "y": 0.9069,
+   "w": 0.2008,
+   "h": 0.05,
+   "frames": 3,
+   "text": "양쪽에 자리 잡은",
+   "ocr": "양쪽에 자리 잡은",
+   "readings": [
+    [
+     "양쪽에 자리 잡은",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 48.75,
+   "end": 54.75,
+   "x": 0.4766,
+   "y": 0.5069,
+   "w": 0.0926,
+   "h": 0.0292,
+   "frames": 12,
+   "text": "Optic-Glass",
+   "ocr": "Optic-Glass",
+   "readings": [
+    [
+     "Optic-Glass",
+     6
+    ],
+    [
+     "Optic-GIass",
+     5
+    ],
+    [
+     "(경 Optic-Glass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 48.75,
+   "end": 52.75,
+   "x": 0.1688,
+   "y": 0.9083,
+   "w": 0.6625,
+   "h": 0.0493,
+   "frames": 8,
+   "text": "LED 리어램프는 넓은 차체를 더욱 안정감있게 보여주며",
+   "ocr": "LED 리어램프는 넓은 차체를 더욱 안정감있게 보여주며",
+   "readings": [
+    [
+     "LED 리어램프는 넓은 차체를 더욱 안정감있게 보여주며",
+     7
+    ],
+    [
+     "LED 리어램프는 넓은 자체를 더욱 안정감있게 보여주며",
+     5
+    ],
+    [
+     "/ LED 리어램프는 넓은 차체를 더욱 안정감있게 보여주며",
+     1
+    ],
+    [
+     "LED 리어램프는 넓은 차체를 더욱 안정감있게 보여주며)",
+     1
+    ],
+    [
+     "LED 리어램프는 넓은 자체를 더욱 안정감있게보여주며",
+     1
+    ],
+    [
+     "LED 리어램프는 넓은 차체를 더욱 안정감있게|보여주며",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 52.75,
+   "end": 55.25,
+   "x": 0.2844,
+   "y": 0.9083,
+   "w": 0.4301,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "좌우를 연결하는 크롬 장식이 더해져",
+   "ocr": "좌우를 연결하는 크롬 장식이 더해져",
+   "readings": [
+    [
+     "좌우를 연결하는 크롬 장식이 더해져",
+     5
+    ],
+    [
+     "좌우를 연결하는 크롬 장식이 더해제",
+     1
+    ],
+    [
+     "좌우를 연결하는크롬 장식이 더해져",
+     1
+    ],
+    [
+     "좌우를편결하는 크롬 장식이 더해져",
+     1
+    ],
+    [
+     "좌우를 연결하는현롬 장식이 더해져",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 55.25,
+   "end": 56.75,
+   "x": 0.6055,
+   "y": 0.0708,
+   "w": 0.1078,
+   "h": 0.0194,
+   "frames": 3,
+   "text": "KCC I SUPREME",
+   "ocr": "KCC I SUPREME",
+   "readings": [
+    [
+     "KCC I SUPREME",
+     1
+    ],
+    [
+     "KCC SUPREME",
+     1
+    ],
+    [
+     "KCC | SUV",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 55.25,
+   "end": 56.75,
+   "x": 0.6766,
+   "y": 0.5708,
+   "w": 0.2586,
+   "h": 0.0819,
+   "frames": 3,
+   "text": "Optic-GIass",
+   "ocr": "Optic-GIass",
+   "readings": [
+    [
+     "Optic-GIass",
+     2
+    ],
+    [
+     "Optic-Glas",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 55.25,
+   "end": 56.75,
+   "x": 0.3187,
+   "y": 0.9069,
+   "w": 0.3641,
+   "h": 0.05,
+   "frames": 3,
+   "text": "고급스러운 인상을 완성합니다",
+   "ocr": "고급스러운 인상을 완성합니다",
+   "readings": [
+    [
+     "고급스러운 인상을 완성합니다",
+     3
+    ],
+    [
+     "고급스러운 인상을완성합니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 56.75,
+   "end": 58.75,
+   "x": 0.2258,
+   "y": 0.1063,
+   "w": 0.1133,
+   "h": 0.0229,
+   "frames": 4,
+   "text": "KCC I SUPREME",
+   "ocr": "KCC I SUPREME",
+   "readings": [
+    [
+     "KCC I SUPREME",
+     3
+    ],
+    [
+     "KCC | SUPREME",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 56.75,
+   "end": 58.75,
+   "x": 0.2965,
+   "y": 0.6021,
+   "w": 0.259,
+   "h": 0.0861,
+   "frames": 4,
+   "text": "Optic-GIass",
+   "ocr": "Optic-GIass",
+   "readings": [
+    [
+     "Optic-GIass",
+     3
+    ],
+    [
+     "Optic-Glass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 56.75,
+   "end": 58.25,
+   "x": 0.3434,
+   "y": 0.9083,
+   "w": 0.3152,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "범퍼 하단에도 크롬 소재를",
+   "ocr": "범퍼 하단에도 크롬 소재를",
+   "readings": [
+    [
+     "범퍼 하단에도 크롬 소재를",
+     3
+    ],
+    [
+     "범페하단에도크롬소재를",
+     1
+    ],
+    [
+     "범페厹하단에도힅롬소재를",
+     1
+    ],
+    [
+     "범퍼”하단에도크롬소재를",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 57.75,
+   "end": 58.75,
+   "x": 0.2186,
+   "y": 0.617,
+   "w": 0.1414,
+   "h": 0.0854,
+   "frames": 2,
+   "text": "optir",
+   "ocr": "optir",
+   "readings": [
+    [
+     "optir",
+     1
+    ],
+    [
+     "Optic",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 58.25,
+   "end": 59.75,
+   "x": 0.3902,
+   "y": 0.9069,
+   "w": 0.2195,
+   "h": 0.05,
+   "frames": 3,
+   "text": "적극적으로 사용해",
+   "ocr": "적극적으로 사용해",
+   "readings": [
+    [
+     "적극적으로 사용해",
+     3
+    ],
+    [
+     "수적극적으로 사용해",
+     1
+    ],
+    [
+     "적극적으로 사특해",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 59.25,
+   "end": 60.25,
+   "x": 0.1762,
+   "y": 0.2299,
+   "w": 0.2777,
+   "h": 0.0778,
+   "frames": 2,
+   "text": "GCS600",
+   "ocr": "GCS600",
+   "readings": [
+    [
+     "GCS600",
+     1
+    ],
+    [
+     "t>CS300",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 59.75,
+   "end": 60.75,
+   "x": 0.7336,
+   "y": 0.0319,
+   "w": 0.2109,
+   "h": 0.0688,
+   "frames": 2,
+   "text": "44 PARTOI.QJE",
+   "ocr": "44 PARTOI.QJE",
+   "readings": [
+    [
+     "44 PARTOI.QJE",
+     1
+    ],
+    [
+     "PARTOI",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 59.75,
+   "end": 62.25,
+   "x": 0.2891,
+   "y": 0.9083,
+   "w": 0.4219,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "마이바흐 특유의 화려함을 살렸으며",
+   "ocr": "마이바흐 특유의 화려함을 살렸으며",
+   "readings": [
+    [
+     "마이바흐 특유의 화려함을 살렸으며",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 61.75,
+   "end": 63.75,
+   "x": 0.2781,
+   "y": 0.4292,
+   "w": 0.0758,
+   "h": 0.0431,
+   "frames": 3,
+   "text": "(서. Opt1c-G1ass",
+   "ocr": "(서. Opt1c-G1ass",
+   "readings": [
+    [
+     "(서. Opt1c-G1ass",
+     1
+    ],
+    [
+     "(증 OPtic-G1ass",
+     1
+    ],
+    [
+     "(좋 OPtt-Glass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 62.25,
+   "end": 64.25,
+   "x": 0.3152,
+   "y": 0.9083,
+   "w": 0.3688,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "듀얼 머플러 디자인까지 더해져",
+   "ocr": "듀얼 머플러 디자인까지 더해져",
+   "readings": [
+    [
+     "듀얼 머플러 디자인까지 더해져",
+     4
+    ],
+    [
+     "=얼 머플러 디자인까지 더해져",
+     4
+    ],
+    [
+     "듀얼 L머플러 디자인까지 더해져",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 63.75,
+   "end": 65.75,
+   "x": 0.2738,
+   "y": 0.4285,
+   "w": 0.0754,
+   "h": 0.0431,
+   "frames": 4,
+   "text": "(증 OPtic-G1ass",
+   "ocr": "(증 OPtic-G1ass",
+   "readings": [
+    [
+     "(증 OPtic-G1ass",
+     1
+    ],
+    [
+     "(증 Optic-G1ass",
+     1
+    ],
+    [
+     "1 Coptic-Glass",
+     1
+    ],
+    [
+     "COPtic-G1ass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 64.25,
+   "end": 67.75,
+   "x": 0.209,
+   "y": 0.9083,
+   "w": 0.584,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "대형 럭셔리 SUV다운 묵직한 느낌을 보여줍니다",
+   "ocr": "대형 럭셔리 SUV다운 묵직한 느낌을 보여줍니다",
+   "readings": [
+    [
+     "대형 럭셔리 SUV다운 묵직한 느낌을 보여줍니다",
+     7
+    ],
+    [
+     "회(대형 럭셔리성UV다운 묵직한 느낌을 보여줍니다",
+     1
+    ],
+    [
+     "1대형 럭셔리 SUV다운 묵직한 느낌을t보여줍니다",
+     1
+    ],
+    [
+     "자형 럭셔리 SUV다운 묵직한 느낌을 보여줍니다",
+     1
+    ],
+    [
+     "프H형 련싀릐성UV다운 묵직한 느낌을 보여줍니다",
+     1
+    ],
+    [
+     "대형 럭셔리)SUV다운 묵직한 느낌을 보여줍니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 66.75,
+   "end": 67.75,
+   "x": 0.1363,
+   "y": 0.4444,
+   "w": 0.0977,
+   "h": 0.041,
+   "frames": 2,
+   "text": "COPtiC-Glass",
+   "ocr": "COPtiC-Glass",
+   "readings": [
+    [
+     "COPtiC-Glass",
+     1
+    ],
+    [
+     "Opt1c-Glass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 67.75,
+   "end": 70.25,
+   "x": 0.3342,
+   "y": 0.9021,
+   "w": 0.327,
+   "h": 0.0618,
+   "frames": 5,
+   "text": "23인치 마이바흐 전용 멀티",
+   "ocr": "23인치 마이바흐 전용 멀티",
+   "readings": [
+    [
+     "23인치 마이바흐 전용 멀티",
+     5
+    ],
+    [
+     "23인치 마이바흐 전용 멀티귷",
+     1
+    ],
+    [
+     "23인치 하이바흐 전용)f얼티",
+     1
+    ],
+    [
+     "?3인大/ 마이바흐 전용 멀티",
+     1
+    ],
+    [
+     "<`것 23인치 마이바흐 전용 멀티",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 68.75,
+   "end": 69.75,
+   "x": 0.8215,
+   "y": 0.1368,
+   "w": 0.1508,
+   "h": 0.0868,
+   "frames": 2,
+   "text": "PARTOI 의고",
+   "ocr": "PARTOI 의고",
+   "readings": [
+    [
+     "PARTOI 의고",
+     1
+    ],
+    [
+     "PARTOI",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 70.25,
+   "end": 72.25,
+   "x": 0.2844,
+   "y": 0.9083,
+   "w": 0.4328,
+   "h": 0.05,
+   "frames": 4,
+   "text": "스포크 단조 휠이 적용되어 있습니다",
+   "ocr": "스포크 단조 휄이 적용되어 있습니다",
+   "readings": [
+    [
+     "스포크 단조 휄이 적용되어 있습니다",
+     3
+    ],
+    [
+     "/ 스포크 단조 휠이 절용되어 있습니다",
+     1
+    ],
+    [
+     "스포크 단조 휠bl치용되어 있습니다",
+     1
+    ],
+    [
+     "스포크 단조 휄이,적용되어 있습니다",
+     1
+    ],
+    [
+     "스포크 단주혙이 적용되어 있습니다",
+     1
+    ],
+    [
+     "스포크 단조흴이 적용되어 있습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 72.75,
+   "end": 74.75,
+   "x": 0.2219,
+   "y": 0.4278,
+   "w": 0.5625,
+   "h": 0.1444,
+   "frames": 4,
+   "text": "PART 02. 내부",
+   "ocr": "PART 02. LB부",
+   "readings": [
+    [
+     "PART 02. LB부",
+     3
+    ],
+    [
+     "PART 02. LJI부",
+     2
+    ],
+    [
+     "PART 02. Ⅵ부",
+     2
+    ],
+    [
+     "PART 02",
+     1
+    ],
+    [
+     "P4RT 02. Ⅵ부",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 72.75,
+   "end": 74.25,
+   "x": 0.3631,
+   "y": 0.901,
+   "w": 0.2738,
+   "h": 0.0635,
+   "frames": 3,
+   "text": "두번째는 내부입니다",
+   "ocr": "한 두번째는 내부입니다",
+   "readings": [
+    [
+     "한 두번째는 내부입니다",
+     1
+    ],
+    [
+     "0 두번째는 내부입니다",
+     1
+    ],
+    [
+     "O 두번째는 내부입니다",
+     1
+    ],
+    [
+     "두번째는 내부입니다",
+     1
+    ],
+    [
+     "두번째는 내뷔입니다",
+     1
+    ],
+    [
+     "두번째는 내북입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 73.25,
+   "end": 74.25,
+   "x": 0.2656,
+   "y": 0.1049,
+   "w": 0.1238,
+   "h": 0.0611,
+   "frames": 2,
+   "text": "Optic-GIass",
+   "ocr": "Optic-GIass",
+   "readings": [
+    [
+     "Optic-GIass",
+     1
+    ],
+    [
+     "Optic-Glass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 74.25,
+   "end": 75.25,
+   "x": 0.4035,
+   "y": 0.9083,
+   "w": 0.193,
+   "h": 0.0493,
+   "frames": 2,
+   "text": "실내로 들어오면",
+   "ocr": "실내로 들어오면",
+   "readings": [
+    [
+     "실내로 들어오면",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 74.75,
+   "end": 100.75,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1852,
+   "h": 0.0465,
+   "frames": 52,
+   "text": "PART 02. 내부",
+   "ocr": "PART 02. 내부",
+   "readings": [
+    [
+     "PART 02. 내부",
+     46
+    ],
+    [
+     "PART 02. Ⅵ부",
+     29
+    ],
+    [
+     "PART 02. LJI부",
+     15
+    ],
+    [
+     "PART 02. LB부",
+     8
+    ],
+    [
+     "PART 02. L]부",
+     4
+    ],
+    [
+     "PART 02. l]부",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 75.25,
+   "end": 78.25,
+   "x": 0.2668,
+   "y": 0.9069,
+   "w": 0.466,
+   "h": 0.0507,
+   "frames": 6,
+   "text": "마이바흐가 왜 최고급 럭셔리 SUV인지",
+   "ocr": "마이바흐가 왜 최고급 럭셔리 SUV인지",
+   "readings": [
+    [
+     "마이바흐가 왜 최고급 럭셔리 SUV인지",
+     4
+    ],
+    [
+     "마이바흐가 왜 최고급 럭셔리 SUV2!i지",
+     1
+    ],
+    [
+     "마이바흐가 왜 최고급 럭셔리 SIJV인지",
+     1
+    ],
+    [
+     "마이바흐가 왜I'최고급 럭셔리 SUV인지",
+     1
+    ],
+    [
+     "마이바흐가 왜 최고급 럭셔리 SUV인,지",
+     1
+    ],
+    [
+     "마이바흐가 왜 최고급 럭셔리 SUV인지ㆍ",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 78.25,
+   "end": 79.75,
+   "x": 0.3416,
+   "y": 0.9069,
+   "w": 0.3178,
+   "h": 0.0507,
+   "frames": 3,
+   "text": "확실하게 느낄 수 있습니다",
+   "ocr": "확실하게 느낄 수 있습니다",
+   "readings": [
+    [
+     "확실하게 느낄 수 있습니다",
+     3
+    ],
+    [
+     "확실하게 나길 수 있습니다",
+     1
+    ],
+    [
+     "확실하게느낄 수 있습니다",
+     1
+    ],
+    [
+     "확실하게들낄수~있습니다",
+     1
+    ],
+    [
+     "聿하게 나길 수 일습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 79.75,
+   "end": 83.25,
+   "x": 0.2422,
+   "y": 0.9069,
+   "w": 0.5152,
+   "h": 0.05,
+   "frames": 7,
+   "text": "마이바흐 GLS600의 진가는 2열 공간에서",
+   "ocr": "마이바흐 GLS600의 진가는 2열 공간에서",
+   "readings": [
+    [
+     "마이바흐 GLS600의 진가는 2열 공간에서",
+     7
+    ],
+    [
+     "마이바흐 GLS600의 진가는 2열(공간에서",
+     1
+    ],
+    [
+     "마이바흐 GLS600의 진가님2열ti공간에서",
+     1
+    ],
+    [
+     "마이바흐 GLS600의 진가는 2열콩간에서",
+     1
+    ],
+    [
+     "마이바흐 GLS600의 진가는2열 공간에서",
+     1
+    ],
+    [
+     "마이바흐 GLS600의 진가는2열공간에서",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 83.25,
+   "end": 85.25,
+   "x": 0.3469,
+   "y": 0.9083,
+   "w": 0.309,
+   "h": 0.0486,
+   "frames": 4,
+   "text": "더욱 확실하게 느껴집니다",
+   "ocr": "더욱 확실하게 느껴집니다",
+   "readings": [
+    [
+     "더욱 확실하게 느껴집니다",
+     4
+    ],
+    [
+     "더욱 확실하게 느껴집니다 :寸",
+     1
+    ],
+    [
+     "더욱,학실하게 느껴집*니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 85.25,
+   "end": 87.25,
+   "x": 0.2996,
+   "y": 0.9083,
+   "w": 0.402,
+   "h": 0.05,
+   "frames": 4,
+   "text": "넉넉한 공간과 독립형 시트를 통해",
+   "ocr": "넉넉한 공간과 독립형 시트를 통해",
+   "readings": [
+    [
+     "넉넉한 공간과 독립형 시트를 통해",
+     3
+    ],
+    [
+     "넉넉한 공간과독립형 시트를 통해",
+     1
+    ],
+    [
+     "넉넉한 공간과됵립형 시트를 통해",
+     1
+    ],
+    [
+     "넉넉한긍간4과*독립형씌트를 통해",
+     1
+    ],
+    [
+     "넉넉한 공간과:』독립형;,시트를 통해",
+     1
+    ],
+    [
+     "넉덕한爨공간과』독랍형 시트다홍해",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 87.25,
+   "end": 89.25,
+   "x": 0.316,
+   "y": 0.9083,
+   "w": 0.3699,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "마치 최고급 비즈니스 클래스를",
+   "ocr": "마치 최고급 비즈니스 클래스를",
+   "readings": [
+    [
+     "마치 최고급 비즈니스 클래스를",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 89.25,
+   "end": 91.75,
+   "x": 0.3055,
+   "y": 0.9083,
+   "w": 0.3906,
+   "h": 0.05,
+   "frames": 5,
+   "text": "연상시키는 편안함을 제공합니다",
+   "ocr": "연상시키는 편안함을 제공합니다",
+   "readings": [
+    [
+     "연상시키는 편안함을 제공합니다",
+     5
+    ],
+    [
+     "협연상시키는 편안함을 제공합니다",
+     1
+    ],
+    [
+     "연상센키는 편안.함을 제공합니타",
+     1
+    ],
+    [
+     "연상시키는쪈한함을 제공합니타",
+     1
+    ],
+    [
+     "연상시키는 편안함을몇제",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 91.75,
+   "end": 94.75,
+   "x": 0.8127,
+   "y": 0.1191,
+   "w": 0.1855,
+   "h": 0.0861,
+   "frames": 5,
+   "text": "PART 02. 내부",
+   "ocr": "PART 02.11부",
+   "readings": [
+    [
+     "PART 02.11부",
+     2
+    ],
+    [
+     "PART 02",
+     1
+    ],
+    [
+     "누 PART02.1』뉴",
+     1
+    ],
+    [
+     "—PART02.114",
+     1
+    ],
+    [
+     "PART 02. 叨부",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 91.75,
+   "end": 94.25,
+   "x": 0.3445,
+   "y": 0.909,
+   "w": 0.3117,
+   "h": 0.0604,
+   "frames": 5,
+   "text": "트렁크 용량은 약 520L로",
+   "ocr": "트렁크 용량은 약 520L로",
+   "readings": [
+    [
+     "트렁크 용량은 약 520L로",
+     4
+    ],
+    [
+     "트렁크 용량은 약 520L토",
+     1
+    ],
+    [
+     "트렁크 용량은은 520L로",
+     1
+    ],
+    [
+     "트렁크 용량은 약520L로",
+     1
+    ],
+    [
+     "가 520L로",
+     1
+    ],
+    [
+     "520L로",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 93.75,
+   "end": 95.25,
+   "x": 0.8252,
+   "y": 0.1583,
+   "w": 0.1492,
+   "h": 0.0958,
+   "frames": 2,
+   "text": "P4R702 111",
+   "ocr": "P4R702 111",
+   "readings": [
+    [
+     "P4R702 111",
+     1
+    ],
+    [
+     "션R702",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 94.25,
+   "end": 95.75,
+   "x": 0.3984,
+   "y": 0.9069,
+   "w": 0.2059,
+   "h": 0.05,
+   "frames": 3,
+   "text": "럭셔리 SUV답게",
+   "ocr": "럭셔리 SIJV답게",
+   "readings": [
+    [
+     "럭셔리 SIJV답게",
+     2
+    ],
+    [
+     "럭셔리 SUV-답게",
+     1
+    ],
+    [
+     "럭셔리 SUV답게",
+     1
+    ],
+    [
+     "『럭셔리 SIJV답게",
+     1
+    ],
+    [
+     "럭셔리 SUV답게“",
+     1
+    ],
+    [
+     "럭셔리죨Uⅴ답게",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 95.75,
+   "end": 98.25,
+   "x": 0.3051,
+   "y": 0.9069,
+   "w": 0.3781,
+   "h": 0.0549,
+   "frames": 5,
+   "text": "일상생활은 물론 여행용 짐까지",
+   "ocr": "일상생활은 물론 여행용 짐까지",
+   "readings": [
+    [
+     "일상생활은 물론 여행용 짐까지",
+     4
+    ],
+    [
+     "일상,생활은 물론 여행용 짐까지",
+     1
+    ],
+    [
+     "일상생활된물론 여행용 짐까지",
+     1
+    ],
+    [
+     "꽃상씐활틴물론 여행용 짐까지",
+     1
+    ],
+    [
+     "일상생활은물론 여행용 짐까지",
+     1
+    ],
+    [
+     "일상생활은물된여행용Æ7Jl지",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 98.25,
+   "end": 101.25,
+   "x": 0.2012,
+   "y": 0.9062,
+   "w": 0.5828,
+   "h": 0.0538,
+   "frames": 6,
+   "text": "여유롭게 적재할 수 있는 공간을 갖추고 있습니다",
+   "ocr": "여유롭게 적재할 수 있는 공간을 갖추고 있습니다",
+   "readings": [
+    [
+     "여유롭게 적재할 수 있는 공간을 갖추고 있습니다",
+     5
+    ],
+    [
+     "여유롭게 적재할 수 있는 공간을(갖추고 있습니다",
+     1
+    ],
+    [
+     "여유롭게적재할 수 있는-공간을-갖추고 있습니다",
+     1
+    ],
+    [
+     "져유롭게 적재할 수 있는공간을 갖추고 있습니다",
+     1
+    ],
+    [
+     "여유롭게 적재할 수 있는공간을 갖추고 있습니다",
+     1
+    ],
+    [
+     "여유롭게 적재할수 있는 공간을 갖추고 있습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 100.75,
+   "end": 128.25,
+   "x": 0.0031,
+   "y": 0.0326,
+   "w": 0.2254,
+   "h": 0.0319,
+   "frames": 55,
+   "text": "출처 : @MercedesBenzInd",
+   "ocr": "출大 :@MercedesBen기n",
+   "readings": [
+    [
+     "출大 :@MercedesBen기n",
+     35
+    ],
+    [
+     "출처: a MercedesBen기nd",
+     18
+    ],
+    [
+     "ä8:IåIMercedesBen기nd",
+     12
+    ],
+    [
+     "출大 ;@MercedesBen기n",
+     12
+    ],
+    [
+     "출처: a MercedesBenzInd",
+     10
+    ],
+    [
+     "ä8:IåIMercedesBenzInd",
+     10
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 100.75,
+   "end": 102.75,
+   "x": 0.2711,
+   "y": 0.8389,
+   "w": 0.4578,
+   "h": 0.0167,
+   "frames": 4,
+   "text": "[,뇨1교n饔r : Visuals are forrepresentation 혜ly. Equipment. coloursand fitments may \"[ be part ofstandard specificati01K",
+   "ocr": "[,뇨1교n饔r : Visuals are forrepresentation 혜ly. Equipment. coloursand fitments may \"[ be part ofstandard specificati01K",
+   "readings": [
+    [
+     "[,뇨1교n饔r : Visuals are forrepresentation 혜ly. Equipment. coloursand fitments may \"[ be part ofstandard specificati01K",
+     2
+    ],
+    [
+     "Disclaimer : Visuals are forrepresentatiogpurposes 혜ly. Equipment. 廛(k*후` coloursand fitments may \"[ be part ,4 s[훼d韲1 specificati01K",
+     1
+    ],
+    [
+     "Di«laimer : `『ⅳ|* are forrepresentation only• EquipmenL 廛(ka죠 colours fitments may 1,0[ be standard specifications",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 101.25,
+   "end": 103.25,
+   "x": 0.2219,
+   "y": 0.4285,
+   "w": 0.5625,
+   "h": 0.1444,
+   "frames": 4,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 101.25,
+   "end": 102.75,
+   "x": 0.3766,
+   "y": 0.9083,
+   "w": 0.2484,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "세번째는 성능입니다",
+   "ocr": "세번째는 성능입니다",
+   "readings": [
+    [
+     "세번째는 성능입니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 102.75,
+   "end": 104.25,
+   "x": 0.2711,
+   "y": 0.8389,
+   "w": 0.4578,
+   "h": 0.0153,
+   "frames": 3,
+   "text": "Disdaimer : 혜ly. EquipmenL 별ka후` colours andfitments may be part ofstandard *cifications",
+   "ocr": "Disdaimer : 혜ly. EquipmenL 별ka후` colours andfitments may be part ofstandard *cifications",
+   "readings": [
+    [
+     "Disdaimer : 혜ly. EquipmenL 별ka후` colours andfitments may be part ofstandard *cifications",
+     1
+    ],
+    [
+     "Diqlaimer : `『ⅳ|* are forrepresentation 예』Y•• Equipment, 廛(ka죠 colours fitments may \"[ be part standard specificati01K",
+     1
+    ],
+    [
+     "Di«laimer : `『ⅳ|* are forrepresentation 예』Y•• Equipment, 廛(ka죠 colours fitments may \"[ be part of standard specificati01K",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 102.75,
+   "end": 105.25,
+   "x": 0.3555,
+   "y": 0.9083,
+   "w": 0.2883,
+   "h": 0.0486,
+   "frames": 5,
+   "text": "구동계는 4.0L V8 트윈",
+   "ocr": "구동계는 4.OL ⅴ8 트윈",
+   "readings": [
+    [
+     "구동계는 4.OL ⅴ8 트윈",
+     5
+    ],
+    [
+     "구동계는 4.OL V8 트윈",
+     4
+    ],
+    [
+     "구동계는 4.OL V8 트원",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 103.25,
+   "end": 131.75,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1848,
+   "h": 0.0465,
+   "frames": 57,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     57
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 104.25,
+   "end": 106.25,
+   "x": 0.0773,
+   "y": 0.7361,
+   "w": 0.5687,
+   "h": 0.0549,
+   "frames": 4,
+   "text": "MULTIBEAM LED 1싷계111 ULTRA RANGE high beam",
+   "ocr": "MULTIBEAM LED 1싷계111 ULTRA RANGE high beam",
+   "readings": [
+    [
+     "MULTIBEAM LED 1싷계111 ULTRA RANGE high beam",
+     1
+    ],
+    [
+     "EAM LED with UtTRA RANGEhighbeam",
+     1
+    ],
+    [
+     "MULTIBEAM LED wäthUILTRA RANGE high beall)",
+     1
+    ],
+    [
+     "MULTIBEAM LED 1싷舡h ULTRA RANGE high beam",
+     1
+    ],
+    [
+     "LTIBEAM LEDÄQithIJLTRARANGE",
+     1
+    ],
+    [
+     "」 IBEAM IuED \\Vith IJLTRA RANGE high bealll",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 105.25,
+   "end": 107.25,
+   "x": 0.3027,
+   "y": 0.9083,
+   "w": 0.3973,
+   "h": 0.0486,
+   "frames": 4,
+   "text": "터보 가솔린 엔진을 탑재했습니다",
+   "ocr": "터보 가솔린 엔진을 탑재했습니다",
+   "readings": [
+    [
+     "터보 가솔린 엔진을 탑재했습니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 105.75,
+   "end": 106.75,
+   "x": 0.2707,
+   "y": 0.8389,
+   "w": 0.4582,
+   "h": 0.0153,
+   "frames": 2,
+   "text": "Di에구n』『 : Visuals lorrepresentationpurposes 0啣. Equipment. colours andfitments may \"[ be part ofstandard qpcifications",
+   "ocr": "Di에구n』『 : Visuals lorrepresentationpurposes 0啣. Equipment. colours andfitments may \"[ be part ofstandard qpcifications",
+   "readings": [
+    [
+     "Di에구n』『 : Visuals lorrepresentationpurposes 0啣. Equipment. colours andfitments may \"[ be part ofstandard qpcifications",
+     1
+    ],
+    [
+     "Disdaimer : `『ⅳ|* are lorrepresentation 혜ly•• Equipment, 廛(ka心 (0뇨』rs fitments may be part ofstandard SIpcificatiorK",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 106.75,
+   "end": 108.25,
+   "x": 0.1,
+   "y": 0.7639,
+   "w": 0.3359,
+   "h": 0.0569,
+   "frames": 3,
+   "text": "exclusive Maybach allhfrw leels",
+   "ocr": "exclusive Maybach allhfrw leels",
+   "readings": [
+    [
+     "exclusive Maybach allhfrw leels",
+     1
+    ],
+    [
+     "usive MavI)ach al(ovwheels",
+     1
+    ],
+    [
+     "uslve Maybach wheels",
+     1
+    ],
+    [
+     "XC Maybachal W elS 」 -,4",
+     1
+    ],
+    [
+     "usiVåMaybacha)loV",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 107.25,
+   "end": 108.25,
+   "x": 0.2383,
+   "y": 0.6979,
+   "w": 0.1074,
+   "h": 0.05,
+   "frames": 2,
+   "text": "(58. ms)",
+   "ocr": "(58. ms)",
+   "readings": [
+    [
+     "(58. ms)",
+     1
+    ],
+    [
+     "1 (58.4",
+     1
+    ],
+    [
+     "58.4 s",
+     1
+    ],
+    [
+     "58.4(羽IS)",
+     1
+    ],
+    [
+     "1 (58.] (羽IS)",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 107.25,
+   "end": 108.25,
+   "x": 0.6258,
+   "y": 0.8389,
+   "w": 0.1031,
+   "h": 0.0153,
+   "frames": 2,
+   "text": "be standard SI*Cifications",
+   "ocr": "be standard SI*Cifications",
+   "readings": [
+    [
+     "be standard SI*Cifications",
+     1
+    ],
+    [
+     "part 0f 51” dard SI*cificati01LS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 107.25,
+   "end": 110.25,
+   "x": 0.2535,
+   "y": 0.9083,
+   "w": 0.4922,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "여기에 48V 마일드 하이브리드 시스템이",
+   "ocr": "여기에 48V 마일드 하이브리드 시스템이",
+   "readings": [
+    [
+     "여기에 48V 마일드 하이브리드 시스템이",
+     6
+    ],
+    [
+     "여기에 48ⅴ 마일드 하이브리드 시스템이",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 108.25,
+   "end": 109.75,
+   "x": 0.3336,
+   "y": 0.5188,
+   "w": 0.0539,
+   "h": 0.0181,
+   "frames": 2,
+   "text": "S•수!h1572",
+   "ocr": "S•수!h1572",
+   "readings": [
+    [
+     "S•수!h1572",
+     1
+    ],
+    [
+     "S•선H1672",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 108.25,
+   "end": 110.25,
+   "x": 0.2711,
+   "y": 0.8389,
+   "w": 0.4578,
+   "h": 0.0153,
+   "frames": 4,
+   "text": "Disdaimer : `『ⅳ|* are forrepmsentation purJKßes only• Equipment. 廛(ka靂` (0贔|魯 fitments may |” ofstandard SI*cificatiorK",
+   "ocr": "Disdaimer : `『ⅳ|* are forrepmsentation purJKßes only• Equipment. 廛(ka靂` (0贔|魯 fitments may |” ofstandard SI*cificatiorK",
+   "readings": [
+    [
+     "Disdaimer : `『ⅳ|* are forrepmsentation purJKßes only• Equipment. 廛(ka靂` (0贔|魯 fitments may |” ofstandard SI*cificatiorK",
+     2
+    ],
+    [
+     "Disdaimer : Visualsare forrepresentationpun•es 예ly.. Equipment, 廛(ka寧` fitmentsmay be part ofstandard specificati01K",
+     1
+    ],
+    [
+     "Disdaimer : `『ⅳ|* are forrepmsentation purJKßes only• Equipment. 廛(ka靂` (0贔|魯 fitments may |” 爨|| ,4 standard SI*cificatiorK",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 108.75,
+   "end": 110.25,
+   "x": 0.0822,
+   "y": 0.7358,
+   "w": 0.2902,
+   "h": 0.0556,
+   "frames": 3,
+   "text": "Adaptive LED TaiI Lights",
+   "ocr": "Adaptive LED TaiI Lights",
+   "readings": [
+    [
+     "Adaptive LED TaiI Lights",
+     3
+    ],
+    [
+     "l\\(lal)tive LF:D TaiI Lights",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 108.75,
+   "end": 110.25,
+   "x": 0.0902,
+   "y": 0.7368,
+   "w": 0.282,
+   "h": 0.0535,
+   "frames": 3,
+   "text": "(lapti\\eLII)I'aiILiqllts",
+   "ocr": "(lapti\\eLII)I'aiILiqllts",
+   "readings": [
+    [
+     "(lapti\\eLII)I'aiILiqllts",
+     1
+    ],
+    [
+     "(lapti\\el,ll)'l'aill』iqllts",
+     1
+    ],
+    [
+     "(lapti\\el,lil)l'aill』ights",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.25,
+   "end": 112.75,
+   "x": 0.2844,
+   "y": 0.6583,
+   "w": 0.0727,
+   "h": 0.0319,
+   "frames": 5,
+   "text": "S卍H1672",
+   "ocr": "S卍H1672",
+   "readings": [
+    [
+     "S卍H1672",
+     2
+    ],
+    [
+     "S쬐네672",
+     1
+    ],
+    [
+     "S•HH1672",
+     1
+    ],
+    [
+     "S螴1672",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.75,
+   "end": 112.75,
+   "x": 0.2891,
+   "y": 0.8389,
+   "w": 0.2887,
+   "h": 0.0153,
+   "frames": 4,
+   "text": "Disdaimer : Visuals are forrepresentation purposes 예ly.. EquipmenL 廛(ka후` colours fitments",
+   "ocr": "Disdaimer : Visuals are forrepresentation purposes 예ly.. EquipmenL 廛(ka후` colours fitments",
+   "readings": [
+    [
+     "Disdaimer : Visuals are forrepresentation purposes 예ly.. EquipmenL 廛(ka후` colours fitments",
+     1
+    ],
+    [
+     "Visuals are forrepresentation purposes 예ly.. EquipmenL 廛(ka후` coburs and",
+     1
+    ],
+    [
+     "Disdaimer : Visuals are forrepresentation purposes 0啣. EquipmenL 廛(ka후` fitments may not",
+     1
+    ],
+    [
+     "are representation purposes 0啣. EquipmenL 廛(ka후` coburs and",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.75,
+   "end": 112.75,
+   "x": 0.3187,
+   "y": 0.9083,
+   "w": 0.3641,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "주행의 부드러움을 더해줍니다",
+   "ocr": "주행의 부드러움을 더해줍니다",
+   "readings": [
+    [
+     "주행의 부드러움을 더해줍니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 112.75,
+   "end": 115.75,
+   "x": 0.2965,
+   "y": 0.9083,
+   "w": 0.4082,
+   "h": 0.0486,
+   "frames": 6,
+   "text": "공식 수치상 최고 출력 557마력과",
+   "ocr": "공식 수치상 최고 출력 557마력과",
+   "readings": [
+    [
+     "공식 수치상 최고 출력 557마력과",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 113.25,
+   "end": 116.25,
+   "x": 0.0813,
+   "y": 0.6958,
+   "w": 0.3102,
+   "h": 0.0569,
+   "frames": 6,
+   "text": "64 C()lorAnol)ient luiglltillg",
+   "ocr": "64 C()lorAnol)ient luiglltillg",
+   "readings": [
+    [
+     "64 C()lorAnol)ient luiglltillg",
+     1
+    ],
+    [
+     "64 CoIor Ambient Li힌1텰113",
+     1
+    ],
+    [
+     "64 COIorAmbient Lighting",
+     1
+    ],
+    [
+     "64 COIor Ambient Lightin",
+     1
+    ],
+    [
+     "64 COIor Ambient Lighti",
+     1
+    ],
+    [
+     "bient Lighting",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 113.25,
+   "end": 116.25,
+   "x": 0.082,
+   "y": 0.7646,
+   "w": 0.2633,
+   "h": 0.0497,
+   "frames": 6,
+   "text": "and AIRBALANCE Package",
+   "ocr": "and AIRBALANCE Package",
+   "readings": [
+    [
+     "and AIRBALANCE Package",
+     4
+    ],
+    [
+     "and AIRBALANCE l)a(kage",
+     1
+    ],
+    [
+     "and AIRBALANCE Pa(kage",
+     1
+    ],
+    [
+     "and AIRBALANCEPackage",
+     1
+    ],
+    [
+     "and MRBALANCE Packaee",
+     1
+    ],
+    [
+     "CE Package",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 114.25,
+   "end": 115.75,
+   "x": 0.5938,
+   "y": 0.8389,
+   "w": 0.1352,
+   "h": 0.0153,
+   "frames": 3,
+   "text": "may not part ofstandard SIRCifications",
+   "ocr": "may not part ofstandard SIRCifications",
+   "readings": [
+    [
+     "may not part ofstandard SIRCifications",
+     1
+    ],
+    [
+     "may be part ofstandard SIRCifications",
+     1
+    ],
+    [
+     "not part of standard qpcifications",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 114.75,
+   "end": 116.25,
+   "x": 0.0824,
+   "y": 0.6986,
+   "w": 0.3105,
+   "h": 0.0535,
+   "frames": 3,
+   "text": "64 Lighting",
+   "ocr": "64 Lighting",
+   "readings": [
+    [
+     "64 Lighting",
+     2
+    ],
+    [
+     "64 COI()I' Lighting",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 115.75,
+   "end": 119.75,
+   "x": 0.2859,
+   "y": 0.9083,
+   "w": 0.4301,
+   "h": 0.0556,
+   "frames": 8,
+   "text": "최대 토크 74.4kgf·m를 발휘합니다",
+   "ocr": "최대 토크 74.4kgfm를 발휘합니다",
+   "readings": [
+    [
+     "최대 토크 74.4kgfm를 발휘합니다",
+     8
+    ],
+    [
+     "최대 토크 74,4kgfm를 발휘합니다",
+     8
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 116.75,
+   "end": 117.75,
+   "x": 0.3367,
+   "y": 0.8389,
+   "w": 0.2547,
+   "h": 0.0153,
+   "frames": 2,
+   "text": "representation purposes 예ly. EquipmenL fitments not",
+   "ocr": "representation purposes 예ly. EquipmenL fitments not",
+   "readings": [
+    [
+     "representation purposes 예ly. EquipmenL fitments not",
+     1
+    ],
+    [
+     "훼* are forrepresentation 파. Equipment. and",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 117.25,
+   "end": 118.25,
+   "x": 0.0836,
+   "y": 0.7354,
+   "w": 0.3004,
+   "h": 0.0562,
+   "frames": 2,
+   "text": "UJnique Maybach lnsignia",
+   "ocr": "UJnique Maybach lnsignia",
+   "readings": [
+    [
+     "UJnique Maybach lnsignia",
+     1
+    ],
+    [
+     "Unique Maybach lnsignia",
+     1
+    ],
+    [
+     "Unique Mayba h lnsignia",
+     1
+    ],
+    [
+     "Unique Maybach nsignia",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 117.25,
+   "end": 118.25,
+   "x": 0.1314,
+   "y": 0.7365,
+   "w": 0.1496,
+   "h": 0.0486,
+   "frames": 2,
+   "text": "Mavbach",
+   "ocr": "Mavbach",
+   "readings": [
+    [
+     "Mavbach",
+     1
+    ],
+    [
+     "['11ⅸllle Mavbach",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 119.25,
+   "end": 120.75,
+   "x": 0.0818,
+   "y": 0.6969,
+   "w": 0.3969,
+   "h": 0.0569,
+   "frames": 3,
+   "text": "MlIIticont0111' Seats with Massage,n",
+   "ocr": "MlIIticont0111' Seats with Massage,n",
+   "readings": [
+    [
+     "MlIIticont0111' Seats with Massage,n",
+     1
+    ],
+    [
+     "MllItic,ont0111' Seats with Massage",
+     1
+    ],
+    [
+     "MlIIticont0111' Seats with Massage",
+     1
+    ],
+    [
+     "Multicontour Seats with Massa e",
+     1
+    ],
+    [
+     "MuIticontour Seatswith assage",
+     1
+    ],
+    [
+     "MuIticontour SeatswithMas ge",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 119.25,
+   "end": 120.25,
+   "x": 0.0836,
+   "y": 0.699,
+   "w": 0.3945,
+   "h": 0.05,
+   "frames": 2,
+   "text": "Nllllti(Å)IIt()lIrSoatqvith Nlassagee",
+   "ocr": "Nllllti(Å)IIt()lIrSoatqvith Nlassagee",
+   "readings": [
+    [
+     "Nllllti(Å)IIt()lIrSoatqvith Nlassagee",
+     1
+    ],
+    [
+     "Nllllti('()IIt()IIrSeat•vitl) \\lassage",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 119.25,
+   "end": 120.75,
+   "x": 0.0816,
+   "y": 0.7635,
+   "w": 0.2885,
+   "h": 0.0569,
+   "frames": 3,
+   "text": "CIimatization & Memory",
+   "ocr": "CIimatization & Memory",
+   "readings": [
+    [
+     "CIimatization & Memory",
+     3
+    ],
+    [
+     "Climatization & Melll()l'v",
+     1
+    ],
+    [
+     "Climatization & MelT101'uv",
+     1
+    ],
+    [
+     "C!imatization & MelT101'Y",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 119.75,
+   "end": 123.25,
+   "x": 0.2711,
+   "y": 0.8389,
+   "w": 0.4578,
+   "h": 0.0153,
+   "frames": 7,
+   "text": "ⅳ|고& are forrepresentation 기劃. Equipment. cobursand fitments may not part Of standard SJRCifications",
+   "ocr": "ⅳ|고& are forrepresentation 기劃. Equipment. cobursand fitments may not part Of standard SJRCifications",
+   "readings": [
+    [
+     "ⅳ|고& are forrepresentation 기劃. Equipment. cobursand fitments may not part Of standard SJRCifications",
+     1
+    ],
+    [
+     "purmses 이니y•• EquipmenL packages, (0贔|魯 fitments may \"| be part 0f standard specificati01K",
+     1
+    ],
+    [
+     "Disdaimer : `『ⅳ|* are torrepresentation purmses 예ly• Equipment, •馝 may \"[ be part ofstandard specificatiorK",
+     1
+    ],
+    [
+     "[,1靈nwr : `1되|교& are forrepresentation 예ly• EquipmenL (0贔|魯』記 fitments may \"| part ofstandard specificati01K",
+     1
+    ],
+    [
+     "이“l교n饔『 : `『ⅳ|* are forrepresentation 기|ly•• EquipmenL colours and fitments may \"| be part ofstandard specificati01K",
+     1
+    ],
+    [
+     "Disdaimer : `『ⅳ|* are forrepresentation purposes 기|ly•• EquipmenL 廛(ka心 (0贔|魯 and fitments may \"| be part ofstandard specificati01K",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 119.75,
+   "end": 122.25,
+   "x": 0.3152,
+   "y": 0.9083,
+   "w": 0.3684,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "거대한 차체에도 정지 상태에서",
+   "ocr": "거대한 차체에도 정지 상태에서",
+   "readings": [
+    [
+     "거대한 차체에도 정지 상태에서",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 121.25,
+   "end": 123.25,
+   "x": 0.0813,
+   "y": 0.7306,
+   "w": 0.4352,
+   "h": 0.0583,
+   "frames": 4,
+   "text": "Automatic Maybach Running Boards",
+   "ocr": "Automatic Maybach Running Boards",
+   "readings": [
+    [
+     "Automatic Maybach Running Boards",
+     3
+    ],
+    [
+     "utomatic Maybach Running Boards",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 121.25,
+   "end": 123.25,
+   "x": 0.0836,
+   "y": 0.7333,
+   "w": 0.4297,
+   "h": 0.0524,
+   "frames": 4,
+   "text": "AIlt()lfl'dtic Mavbach RIllllling B0'dl'(ls",
+   "ocr": "AIlt()lfl'dtic Mavbach RIllllling B0'dl'(ls",
+   "readings": [
+    [
+     "AIlt()lfl'dtic Mavbach RIllllling B0'dl'(ls",
+     1
+    ],
+    [
+     "AIIt()Inatic MavI)ach RIIIIIIing B()tII'(ls",
+     1
+    ],
+    [
+     "lll()lllati( lklllllling Boards",
+     1
+    ],
+    [
+     "llt()lllat-ic \\llavl)tl('h Rlllllling Boal'(ls",
+     1
+    ],
+    [
+     "lll()lllati( R니11ⅲll(긬 Boards",
+     1
+    ],
+    [
+     "/\\llt()lnatic MavI)ach R[ⅢIIⅱ1픽 BO걦l'(l돈",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 122.25,
+   "end": 125.75,
+   "x": 0.2316,
+   "y": 0.9083,
+   "w": 0.5383,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "시속 100KM까지 단 4.9초 만에 도달합니다",
+   "ocr": "시속 100KM까지 단 4.9초 만에 도달합니다",
+   "readings": [
+    [
+     "시속 100KM까지 단 4.9초 만에 도달합니다",
+     7
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 124.75,
+   "end": 125.75,
+   "x": 0.2711,
+   "y": 0.8389,
+   "w": 0.182,
+   "h": 0.0153,
+   "frames": 2,
+   "text": "Disdaimer : Visuals are forrepmsentation 파",
+   "ocr": "Disdaimer : Visuals are forrepmsentation 파",
+   "readings": [
+    [
+     "Disdaimer : Visuals are forrepmsentation 파",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 124.75,
+   "end": 125.75,
+   "x": 0.4938,
+   "y": 0.8389,
+   "w": 0.2352,
+   "h": 0.0153,
+   "frames": 2,
+   "text": "vnckages, cobursand fitments may not part Of standard SIRCificatiOIts",
+   "ocr": "vnckages, cobursand fitments may not part Of standard SIRCificatiOIts",
+   "readings": [
+    [
+     "vnckages, cobursand fitments may not part Of standard SIRCificatiOIts",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 125.75,
+   "end": 126.75,
+   "x": 0.2711,
+   "y": 0.8389,
+   "w": 0.4578,
+   "h": 0.016,
+   "frames": 2,
+   "text": "Disdaimer : `『ⅳ|* are forrepmsentation purposes 파• Eq傘제t, colours and fitments may \"[ part ofstandard specificati01K",
+   "ocr": "Disdaimer : `『ⅳ|* are forrepmsentation purposes 파• Eq傘제t, colours and fitments may \"[ part ofstandard specificati01K",
+   "readings": [
+    [
+     "Disdaimer : `『ⅳ|* are forrepmsentation purposes 파• Eq傘제t, colours and fitments may \"[ part ofstandard specificati01K",
+     1
+    ],
+    [
+     "Disdaimer : `『ⅳ|* are forrepmsentation 파• cobursand fitments may \"[ part ofstandard specificati01K",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 125.75,
+   "end": 128.25,
+   "x": 0.3078,
+   "y": 0.9083,
+   "w": 0.3852,
+   "h": 0.0486,
+   "frames": 5,
+   "text": "한국 출시 사양 기준 복합 연비는",
+   "ocr": "한국 출시 사양 기준 복합 연비는",
+   "readings": [
+    [
+     "한국 출시 사양 기준 복합 연비는",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 126.75,
+   "end": 129.25,
+   "x": 0.2711,
+   "y": 0.8389,
+   "w": 0.4195,
+   "h": 0.0153,
+   "frames": 4,
+   "text": "Disdaimer : `『ⅳ|* are forrepmsentation purposes only• EquipmenL coburs and fitments may \"[ be part ofstandard specificati01K",
+   "ocr": "Disdaimer : `『ⅳ|* are forrepmsentation purposes only• EquipmenL coburs and fitments may \"[ be part ofstandard specificati01K",
+   "readings": [
+    [
+     "Disdaimer : `『ⅳ|* are forrepmsentation purposes only• EquipmenL coburs and fitments may \"[ be part ofstandard specificati01K",
+     2
+    ],
+    [
+     "Disdaimer : Visuals are forrepresentation purposes 예ly. EquipmenL coloursand ~ part",
+     1
+    ],
+    [
+     "Disdaimer : Visuals are forrepresentation purposes 예ly•• Equipment. 廛(ka心 coloursand fitments may \"[ part of",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 127.75,
+   "end": 129.25,
+   "x": 0.0818,
+   "y": 0.6969,
+   "w": 0.2615,
+   "h": 0.0458,
+   "frames": 3,
+   "text": "Mercedes Me Connect",
+   "ocr": "Mercedes Me Connect",
+   "readings": [
+    [
+     "Mercedes Me Connect",
+     3
+    ],
+    [
+     "rvlercedes rvle Connect",
+     1
+    ],
+    [
+     "Mercedes rvle Connect",
+     1
+    ],
+    [
+     "lercedes Me Connect",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 127.75,
+   "end": 129.25,
+   "x": 0.0797,
+   "y": 0.7625,
+   "w": 0.3063,
+   "h": 0.0583,
+   "frames": 3,
+   "text": "with Remote Engine Start",
+   "ocr": "with Remote Engine Start",
+   "readings": [
+    [
+     "with Remote Engine Start",
+     3
+    ],
+    [
+     "ith Ⅰ:』ngiIIeStart",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 127.75,
+   "end": 129.25,
+   "x": 0.0813,
+   "y": 0.7646,
+   "w": 0.3039,
+   "h": 0.0535,
+   "frames": 3,
+   "text": "lVith Remote EngillC St'dl't",
+   "ocr": "lVith Remote EngillC St'dl't",
+   "readings": [
+    [
+     "lVith Remote EngillC St'dl't",
+     2
+    ],
+    [
+     "lVith R01110te EngiI\"l() St'dl't",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 128.25,
+   "end": 129.75,
+   "x": 0.0027,
+   "y": 0.0326,
+   "w": 0.2254,
+   "h": 0.0319,
+   "frames": 3,
+   "text": "출처: (1 MercedesBen기nci",
+   "ocr": "출처: (1 MercedesBen기nci",
+   "readings": [
+    [
+     "출처: (1 MercedesBen기nci",
+     3
+    ],
+    [
+     "ä8:IåIMercedesBen기nd",
+     3
+    ],
+    [
+     "출8.•@MercedesBen기n",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 128.25,
+   "end": 132.25,
+   "x": 0.2555,
+   "y": 0.9083,
+   "w": 0.4922,
+   "h": 0.0493,
+   "frames": 8,
+   "text": "리터당 6.1KM로 공식 인증을 받았습니다",
+   "ocr": "리터당 6.IKM로 공식 인증을 받았습니다",
+   "readings": [
+    [
+     "리터당 6.IKM로 공식 인증을 받았습니다",
+     8
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 129.75,
+   "end": 136.75,
+   "x": 0.0027,
+   "y": 0.0326,
+   "w": 0.2254,
+   "h": 0.0319,
+   "frames": 14,
+   "text": "ä8:IåIMercedesBen기nd",
+   "ocr": "ä8:IåIMercedesBen기nd",
+   "readings": [
+    [
+     "ä8:IåIMercedesBen기nd",
+     14
+    ],
+    [
+     "출처: cz Me r d esBen기nci",
+     8
+    ],
+    [
+     "출大 :@MercedesBenzln",
+     6
+    ],
+    [
+     "출大 :@MercedesBen기n",
+     4
+    ],
+    [
+     "출大 ;@MercedesBenzln",
+     4
+    ],
+    [
+     "출처: (! MercedesBenzInd",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 130.75,
+   "end": 131.75,
+   "x": 0.3027,
+   "y": 0.8389,
+   "w": 0.4262,
+   "h": 0.0174,
+   "frames": 2,
+   "text": "e靄r『甲및e기|t|삐p력- 과. Equipment, 廛(ka후` C0누』『s and fitments may not be part ofstandard Wificatioms",
+   "ocr": "e靄r『甲및e기|t|삐p력- 과. Equipment, 廛(ka후` C0누』『s and fitments may not be part ofstandard Wificatioms",
+   "readings": [
+    [
+     "e靄r『甲및e기|t|삐p력- 과. Equipment, 廛(ka후` C0누』『s and fitments may not be part ofstandard Wificatioms",
+     1
+    ],
+    [
+     "Disdaimer : `1되|* are 과. Equipment, 『0贔|魯 fitments may 1尠t be part specifications",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 131.75,
+   "end": 133.75,
+   "x": 0.2711,
+   "y": 0.8389,
+   "w": 0.4578,
+   "h": 0.0153,
+   "frames": 3,
+   "text": "only. E귀巾l”따 colours and fitments may not prtdstandardSFCificati,tn",
+   "ocr": "only. E귀巾l”따 colours and fitments may not prtdstandardSFCificati,tn",
+   "readings": [
+    [
+     "only. E귀巾l”따 colours and fitments may not prtdstandardSFCificati,tn",
+     1
+    ],
+    [
+     "[,1“*믈m麟 : Visualsare 예ly. Equipment, fitmentsmay not be part ofstandard specifications",
+     1
+    ],
+    [
+     "[,1“*믈n•『 : Visualsare 예ly. Equipment, 廛(ka후` and fitmentsmay not be part ofstandard specifications",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 132.25,
+   "end": 134.25,
+   "x": 0.2219,
+   "y": 0.4306,
+   "w": 0.5563,
+   "h": 0.1444,
+   "frames": 4,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 132.25,
+   "end": 133.75,
+   "x": 0.3738,
+   "y": 0.9083,
+   "w": 0.2551,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "네 번째는 가격입니다",
+   "ocr": "네 번짜l는 가격입니다",
+   "readings": [
+    [
+     "네 번짜l는 가격입니다",
+     3
+    ],
+    [
+     "네 번째는 가격입니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 133.75,
+   "end": 136.75,
+   "x": 0.3,
+   "y": 0.9083,
+   "w": 0.4016,
+   "h": 0.0486,
+   "frames": 6,
+   "text": "2023년식 기준 공식 시작 가격은",
+   "ocr": "2023년식 기준 공식 시작 가격은",
+   "readings": [
+    [
+     "2023년식 기준 공식 시작 가격은",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 134.25,
+   "end": 165.75,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1832,
+   "h": 0.0465,
+   "frames": 63,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     63
+    ],
+    [
+     "PART 04. 가리",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 134.25,
+   "end": 137.25,
+   "x": 0.0828,
+   "y": 0.7306,
+   "w": 0.3922,
+   "h": 0.0576,
+   "frames": 5,
+   "text": "ExcIusive Maybach Driving M0de",
+   "ocr": "ExcIusive Maybach Driving M0de",
+   "readings": [
+    [
+     "ExcIusive Maybach Driving M0de",
+     3
+    ],
+    [
+     "Exclusive Mavbach Drävihg lMode",
+     1
+    ],
+    [
+     "ExcIusive Maybach l)r十ölg M0de",
+     1
+    ],
+    [
+     "usiVesMaYIjacIiDrMügMpdé0de",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 136.75,
+   "end": 144.75,
+   "x": 0.0027,
+   "y": 0.0326,
+   "w": 0.2254,
+   "h": 0.0319,
+   "frames": 16,
+   "text": "ä8:,åMercedesBen기nd",
+   "ocr": "ä8:,åMercedesBen기nd",
+   "readings": [
+    [
+     "ä8:,åMercedesBen기nd",
+     10
+    ],
+    [
+     "출처: a MercedesBen기nd",
+     8
+    ],
+    [
+     "출大 ;@MercedesBenzIn",
+     7
+    ],
+    [
+     "ä8:IåIMercedesBen기nd",
+     6
+    ],
+    [
+     "출大 ;@MercedesBen기n",
+     6
+    ],
+    [
+     "출처: (! Met℃edesBenzInd",
+     3
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 136.75,
+   "end": 137.75,
+   "x": 0.5258,
+   "y": 0.8389,
+   "w": 0.0375,
+   "h": 0.0139,
+   "frames": 2,
+   "text": "(ok\"|3테d",
+   "ocr": "(ok\"|3테d",
+   "readings": [
+    [
+     "(ok\"|3테d",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 136.75,
+   "end": 139.75,
+   "x": 0.2793,
+   "y": 0.9083,
+   "w": 0.4437,
+   "h": 0.0549,
+   "frames": 6,
+   "text": "2억 6,200만원으로 책정되었습니다",
+   "ocr": "2억 6,200만원으로 책정되었습니다",
+   "readings": [
+    [
+     "2억 6,200만원으로 책정되었습니다",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 139.75,
+   "end": 141.75,
+   "x": 0.2844,
+   "y": 0.9083,
+   "w": 0.4301,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "상위 트림인 마누팍투어 모델의 주력",
+   "ocr": "상위 트림인 마누팍투어 모델의 주력",
+   "readings": [
+    [
+     "상위 트림인 마누팍투어 모델의 주력",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 140.25,
+   "end": 143.75,
+   "x": 0.082,
+   "y": 0.7319,
+   "w": 0.4859,
+   "h": 0.0563,
+   "frames": 7,
+   "text": "V8 biturbo engine with 48 VTechn010gy",
+   "ocr": "V8 biturbo engine with 48 VTechn010gy",
+   "readings": [
+    [
+     "V8 biturbo engine with 48 VTechn010gy",
+     2
+    ],
+    [
+     "Ⅴ8 biturbo engine with 48 VTechn010gy",
+     2
+    ],
+    [
+     "V8 bitlll'bo engine with 48 VTec,h11()l()R",
+     1
+    ],
+    [
+     "V8 biturbo engine with 48 VTech11010gy",
+     1
+    ],
+    [
+     "turb0 engine with 48 VTech11010gv",
+     1
+    ],
+    [
+     "turb0 engine with 48 VTechn010gy",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 141.75,
+   "end": 144.25,
+   "x": 0.3187,
+   "y": 0.9083,
+   "w": 0.3641,
+   "h": 0.0549,
+   "frames": 5,
+   "text": "가격은 2억 9,900만원입니다",
+   "ocr": "가격은 2억 9,900만원입니다",
+   "readings": [
+    [
+     "가격은 2억 9,900만원입니다",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 144.25,
+   "end": 146.75,
+   "x": 0.2816,
+   "y": 0.9083,
+   "w": 0.4371,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "이는 취등록세 및 부대 비용이 제외된",
+   "ocr": "이는 취등록세 및 부대 비용이 제외된",
+   "readings": [
+    [
+     "이는 취등록세 및 부대 비용이 제외된",
+     5
+    ],
+    [
+     "이는 취등록세 및 부대 비용이 제오면",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 144.75,
+   "end": 160.25,
+   "x": 0.0031,
+   "y": 0.0326,
+   "w": 0.2254,
+   "h": 0.0319,
+   "frames": 31,
+   "text": "출처: (1 MercedesBen기nd",
+   "ocr": "출처: (1 MercedesBen기nd",
+   "readings": [
+    [
+     "출처: (1 MercedesBen기nd",
+     15
+    ],
+    [
+     "ä8:IåIMercedesBen기nd",
+     15
+    ],
+    [
+     "출처 MercedesBen기nd",
+     10
+    ],
+    [
+     "출처: a Me『-cedesBen기nd",
+     10
+    ],
+    [
+     "출大 :@MercedesBen기n",
+     10
+    ],
+    [
+     "출大 •@MercedesBen기n",
+     10
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 145.75,
+   "end": 146.75,
+   "x": 0.0838,
+   "y": 0.7316,
+   "w": 0.2818,
+   "h": 0.0549,
+   "frames": 2,
+   "text": "Luxury lndividual Seats",
+   "ocr": "Luxury lndividual Seats",
+   "readings": [
+    [
+     "Luxury lndividual Seats",
+     2
+    ],
+    [
+     "LIIXIII'Y lnclividllal Seats",
+     1
+    ],
+    [
+     "LIIXIII'V lndividllal Seats",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 145.75,
+   "end": 146.75,
+   "x": 0.0857,
+   "y": 0.7326,
+   "w": 0.2799,
+   "h": 0.0437,
+   "frames": 2,
+   "text": "L,II.\\IIP\\ lll(li\\'i(lll[ll S(hltS",
+   "ocr": "L,II.\\IIP\\ lll(li\\'i(lll[ll S(hltS",
+   "readings": [
+    [
+     "L,II.\\IIP\\ lll(li\\'i(lll[ll S(hltS",
+     1
+    ],
+    [
+     "LII\\IIP\\ lll(li\\'i(lll[ll S(hltS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 146.75,
+   "end": 149.25,
+   "x": 0.3117,
+   "y": 0.9083,
+   "w": 0.3781,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "순수 공식 차량 가격 기준입니다",
+   "ocr": "순수 공식 차량 가격 기준입니다",
+   "readings": [
+    [
+     "순수 공식 차량 가격 기준입니다",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 147.25,
+   "end": 148.25,
+   "x": 0.082,
+   "y": 0.6969,
+   "w": 0.3301,
+   "h": 0.0514,
+   "frames": 2,
+   "text": "MBUXwi \"HeyMerc . s",
+   "ocr": "MBUXwi \"HeyMerc . s",
+   "readings": [
+    [
+     "MBUXwi \"HeyMerc . s",
+     1
+    ],
+    [
+     "HeyMerc s",
+     1
+    ],
+    [
+     "IVIBUX with \"Hev Mercedes”",
+     1
+    ],
+    [
+     "MBUX with \"Hev Mercedes”",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 147.25,
+   "end": 148.25,
+   "x": 0.0816,
+   "y": 0.7635,
+   "w": 0.2848,
+   "h": 0.0559,
+   "frames": 2,
+   "text": "and Wi(Iescree11 COCkpit",
+   "ocr": "and Wi(Iescree11 COCkpit",
+   "readings": [
+    [
+     "and Wi(Iescree11 COCkpit",
+     1
+    ],
+    [
+     "and Wi(Iescl℃en Cockpit",
+     1
+    ],
+    [
+     "andWidesc 하1℃ockpit",
+     1
+    ],
+    [
+     "andWidesc éifCockp",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 147.25,
+   "end": 148.25,
+   "x": 0.407,
+   "y": 0.8389,
+   "w": 0.3219,
+   "h": 0.0153,
+   "frames": 2,
+   "text": "purposes only. Equipment. 廛kage` andfitments may notbe part ofstandard specificati01K",
+   "ocr": "purposes only. Equipment. 廛kage` andfitments may notbe part ofstandard specificati01K",
+   "readings": [
+    [
+     "purposes only. Equipment. 廛kage` andfitments may notbe part ofstandard specificati01K",
+     1
+    ],
+    [
+     "purposes only. Equipment. 廛ka구` andfitments may notbe part ofstandard specificati01K",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 149.25,
+   "end": 152.25,
+   "x": 0.3027,
+   "y": 0.9083,
+   "w": 0.3934,
+   "h": 0.0486,
+   "frames": 6,
+   "text": "현재 2023년식 모델은 단종되어",
+   "ocr": "현재 2023년식 모델은 단종되어",
+   "readings": [
+    [
+     "현재 2023년식 모델은 단종되어",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 149.75,
+   "end": 151.25,
+   "x": 0.0836,
+   "y": 0.7316,
+   "w": 0.3201,
+   "h": 0.0559,
+   "frames": 3,
+   "text": "PanoralTli( Sli(ling Su111100f",
+   "ocr": "PanoralTli( Sli(ling Su111100f",
+   "readings": [
+    [
+     "PanoralTli( Sli(ling Su111100f",
+     1
+    ],
+    [
+     "Panorami( Sli(ling Slllll'00f",
+     1
+    ],
+    [
+     "Panoramic Sliding Sunroof",
+     1
+    ],
+    [
+     "Panoramic Sliding Sunr00f",
+     1
+    ],
+    [
+     "Panoramic SIiding Sunroof",
+     1
+    ],
+    [
+     "PanoraIl)i( Sli(lillg",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 150.25,
+   "end": 151.25,
+   "x": 0.357,
+   "y": 0.8389,
+   "w": 0.3484,
+   "h": 0.0194,
+   "frames": 2,
+   "text": "purposes 0훼y. EquiænL 廛ka후` cobursand fitments not part ofstandard",
+   "ocr": "purposes 0훼y. EquiænL 廛ka후` cobursand fitments not part ofstandard",
+   "readings": [
+    [
+     "purposes 0훼y. EquiænL 廛ka후` cobursand fitments not part ofstandard",
+     1
+    ],
+    [
+     "ⅳ네`』re forrqnsentation 0훼y. EquipmenL and fitments may not be part ofstandard *d讎띨",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 152.25,
+   "end": 154.75,
+   "x": 0.2984,
+   "y": 0.9083,
+   "w": 0.4051,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "신차 인도 일정을 잡을 수 없습니다",
+   "ocr": "신차인도 일정을 잡을 수 없습니다",
+   "readings": [
+    [
+     "신차인도 일정을 잡을 수 없습니다",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 154.75,
+   "end": 155.75,
+   "x": 0.2711,
+   "y": 0.8389,
+   "w": 0.4109,
+   "h": 0.016,
+   "frames": 2,
+   "text": "Disdaimer : Visuals are 0바. Equiptrpnt, not be partofstandard",
+   "ocr": "Disdaimer : Visuals are 0바. Equiptrpnt, not be partofstandard",
+   "readings": [
+    [
+     "Disdaimer : Visuals are 0바. Equiptrpnt, not be partofstandard",
+     1
+    ],
+    [
+     "Disdaimer : `『ⅳ|* 기니y. Equipment, (0\\|魯 be ;nrtofstandard",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 154.75,
+   "end": 156.75,
+   "x": 0.3105,
+   "y": 0.9083,
+   "w": 0.3809,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "지금까지 럭셔리 SUV의 끝판왕",
+   "ocr": "지금까지 럭셔리 SUV의 끝판왕",
+   "readings": [
+    [
+     "지금까지 럭셔리 SUV의 끝판왕",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 156.25,
+   "end": 157.75,
+   "x": 0.2648,
+   "y": 0.6347,
+   "w": 0.0543,
+   "h": 0.0208,
+   "frames": 2,
+   "text": "SYY1672",
+   "ocr": "SYY1672",
+   "readings": [
+    [
+     "SYY1672",
+     1
+    ],
+    [
+     "SY녜672",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 156.75,
+   "end": 158.25,
+   "x": 0.0789,
+   "y": 0.7316,
+   "w": 0.3141,
+   "h": 0.0559,
+   "frames": 3,
+   "text": "MavI)ach C,hl'()111e Package",
+   "ocr": "MavI)ach C,hl'()111e Package",
+   "readings": [
+    [
+     "MavI)ach C,hl'()111e Package",
+     1
+    ],
+    [
+     "Mavbach Package",
+     1
+    ],
+    [
+     "MavI)ach Chl℃llle Package",
+     1
+    ],
+    [
+     "N1aybach Chrome Pæckage",
+     1
+    ],
+    [
+     "Maybach℃hrome Package",
+     1
+    ],
+    [
+     "Mayb ach℃hrome?atkage",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 156.75,
+   "end": 158.25,
+   "x": 0.0855,
+   "y": 0.7333,
+   "w": 0.3074,
+   "h": 0.0479,
+   "frames": 3,
+   "text": "I\\Iil\\ba(llCllF()lllel)ål(kage",
+   "ocr": "I\\Iil\\ba(llCllF()lllel)ål(kage",
+   "readings": [
+    [
+     "I\\Iil\\ba(llCllF()lllel)ål(kage",
+     1
+    ],
+    [
+     "!\\la\\bach(lll()lllel)acl\\'ålk)()",
+     1
+    ],
+    [
+     "i\\la\\ba(l)(lll()lnel)[l(k•age",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 156.75,
+   "end": 159.75,
+   "x": 0.2859,
+   "y": 0.9083,
+   "w": 0.4305,
+   "h": 0.0486,
+   "frames": 6,
+   "text": "마이바흐 GLS600을 살펴봤습니다",
+   "ocr": "마이바흐 GLS600을 살퍼봤습니다",
+   "readings": [
+    [
+     "마이바흐 GLS600을 살퍼봤습니다",
+     6
+    ],
+    [
+     "마이바흐 GLS600을 살펴봤습니다",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 159.75,
+   "end": 161.25,
+   "x": 0.3457,
+   "y": 0.9083,
+   "w": 0.3074,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "구독과 좋아요 부탁드리며",
+   "ocr": "구독과 좋아요 부탁드리며",
+   "readings": [
+    [
+     "구독과 좋아요 부탁드리며",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 160.25,
+   "end": 165.75,
+   "x": 0.0027,
+   "y": 0.0326,
+   "w": 0.2254,
+   "h": 0.0319,
+   "frames": 11,
+   "text": "출8:IåMercedesBen기nd",
+   "ocr": "출8:IåMercedesBen기nd",
+   "readings": [
+    [
+     "출8:IåMercedesBen기nd",
+     7
+    ],
+    [
+     "출大 ;@MercedesBen기n",
+     7
+    ],
+    [
+     "출처: (1 MercedesBen기nci",
+     6
+    ],
+    [
+     "출처: (1 MercedesBen기nd",
+     3
+    ],
+    [
+     "출처: (! Met℃edesBen기nd",
+     2
+    ],
+    [
+     "출8•.IåMercedesBen기nd",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 161.25,
+   "end": 162.25,
+   "x": 0.4172,
+   "y": 0.9083,
+   "w": 0.1668,
+   "h": 0.0486,
+   "frames": 2,
+   "text": "알람 설정으로",
+   "ocr": "알람 설정으로",
+   "readings": [
+    [
+     "알람 설정으로",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 161.75,
+   "end": 162.75,
+   "x": 0.0838,
+   "y": 0.7316,
+   "w": 0.4826,
+   "h": 0.0503,
+   "frames": 2,
+   "text": "lVlavbacll Grille vvith Merce(les-Benz star",
+   "ocr": "lVlavbacll Grille vvith Merce(les-Benz star",
+   "readings": [
+    [
+     "lVlavbacll Grille vvith Merce(les-Benz star",
+     1
+    ],
+    [
+     "Maybach GriIIe with Mercedes-Benz Star",
+     1
+    ],
+    [
+     "Maylfruh Grille withMercedes-Benz Star",
+     1
+    ],
+    [
+     "l\\IavbachGrille\\\\'ith [3이l'/ Star",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 162.25,
+   "end": 165.25,
+   "x": 0.2719,
+   "y": 0.9083,
+   "w": 0.4582,
+   "h": 0.0486,
+   "frames": 6,
+   "text": "다음 자동차 리뷰도 빠르게 만나보세요",
+   "ocr": "다음 자동차 리뷰도 빠르게 만나보세요",
+   "readings": [
+    [
+     "다음 자동차 리뷰도 빠르게 만나보세요",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 166.25,
+   "end": 167.25,
+   "x": 0.1633,
+   "y": 0.7799,
+   "w": 0.6479,
+   "h": 0.126,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ],
+    [
+     "『사각지대, 아찔하셨죠?",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 168.25,
+   "end": 169.75,
+   "x": 0.0375,
+   "y": 0.0611,
+   "w": 0.8625,
+   "h": 0.1306,
+   "frames": 7,
+   "text": "안 보이던 구석까지 보입니다.",
+   "ocr": "한보@1편 자까지 모입니나。",
+   "readings": [
+    [
+     "한보@1편 자까지 모입니나。",
+     2
+    ],
+    [
+     "한보@뗜 구세까지 보위니다。",
+     1
+    ],
+    [
+     "안 보@뗜 관까지 보입니다。",
+     1
+    ],
+    [
+     "안 보아던&구식까八•l 보임,니촤",
+     1
+    ],
+    [
+     "안 보아던k포결까兀`•1 보임,니촤",
+     1
+    ],
+    [
+     "한보이던 모입니다。",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 170.25,
+   "end": 171.25,
+   "x": 0.3609,
+   "y": 0.4236,
+   "w": 0.0852,
+   "h": 0.0292,
+   "frames": 2,
+   "text": "optic-GlaSS",
+   "ocr": "optic-GlaSS",
+   "readings": [
+    [
+     "optic-GlaSS",
+     1
+    ],
+    [
+     "OPtic-GlaSS",
+     1
+    ],
+    [
+     "Opttc-Gia•s",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T15:19:42"
+}

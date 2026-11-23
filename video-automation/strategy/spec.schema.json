@@ -1,0 +1,456 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nousresearch.com/schemas/video-automation-spec-v0.1.json",
+  "title": "Neutral Video Editing Spec v0.1",
+  "description": "렌더러 중립 영상 편집 명세 (CapCut pyCapCut 초안 컴파일용)",
+  "type": "object",
+  "required": [
+    "spec_version",
+    "canvas",
+    "styles",
+    "scenes"
+  ],
+  "properties": {
+    "spec_version": {
+      "type": "string",
+      "const": "0.1"
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "template_name": {
+          "type": "string"
+        },
+        "source_type": {
+          "type": "string",
+          "enum": [
+            "local_draft",
+            "team_space_draft",
+            "store_template",
+            "markdown_brief"
+          ]
+        },
+        "duration_s": {
+          "type": "number",
+          "minimum": 0
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "canvas": {
+      "type": "object",
+      "required": [
+        "w",
+        "h",
+        "fps"
+      ],
+      "properties": {
+        "w": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "h": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "fps": {
+          "type": "number",
+          "minimum": 1
+        },
+        "aspect": {
+          "type": "string"
+        }
+      }
+    },
+    "audio": {
+      "type": "object",
+      "properties": {
+        "bgm_slot": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "bpm": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "downbeats_s": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          }
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "label",
+              "start",
+              "end"
+            ],
+            "properties": {
+              "label": {
+                "type": "string"
+              },
+              "start": {
+                "type": "number"
+              },
+              "end": {
+                "type": "number"
+              }
+            }
+          }
+        }
+      }
+    },
+    "styles": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": [
+          "font",
+          "size_pct",
+          "color",
+          "anchor"
+        ],
+        "properties": {
+          "font": {
+            "type": "string",
+            "default": "Noto Sans KR"
+          },
+          "weight": {
+            "type": "integer",
+            "default": 700
+          },
+          "capcut_font": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "properties": {
+              "resource_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "enum_name": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          },
+          "size_pct": {
+            "type": "number"
+          },
+          "color": {
+            "type": "string",
+            "pattern": "^#[0-9A-Fa-f]{6}$"
+          },
+          "stroke": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "properties": {
+              "color": {
+                "type": "string"
+              },
+              "w": {
+                "type": "number"
+              }
+            }
+          },
+          "background": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "properties": {
+              "enabled": {
+                "type": "boolean"
+              },
+              "color": {
+                "type": "string"
+              },
+              "alpha": {
+                "type": "number"
+              },
+              "radius": {
+                "type": "number"
+              }
+            }
+          },
+          "latin_font": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "anchor": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 2,
+            "maxItems": 2
+          }
+        }
+      }
+    },
+    "scenes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "start",
+          "dur",
+          "slot",
+          "texts",
+          "confidence",
+          "needs_review"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "start": {
+            "type": "number",
+            "minimum": 0
+          },
+          "dur": {
+            "type": "number",
+            "minimum": 0
+          },
+          "snap": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "slot": {
+            "type": "object",
+            "required": [
+              "id",
+              "kind",
+              "aspect",
+              "min_src_dur",
+              "fit"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "kind": {
+                "type": "string",
+                "enum": [
+                  "video",
+                  "photo",
+                  "gif"
+                ]
+              },
+              "aspect": {
+                "type": "string"
+              },
+              "min_src_dur": {
+                "type": "number"
+              },
+              "subject_hint": {
+                "type": "string"
+              },
+              "fit": {
+                "type": "string",
+                "enum": [
+                  "cover",
+                  "contain",
+                  "fill"
+                ]
+              }
+            }
+          },
+          "motion": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "properties": {
+              "type": {
+                "type": "string"
+              },
+              "from": {
+                "type": "number"
+              },
+              "to": {
+                "type": "number"
+              },
+              "ease": {
+                "type": "string"
+              },
+              "capcut": {
+                "type": [
+                  "object",
+                  "null"
+                ]
+              }
+            }
+          },
+          "texts": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "text",
+                "style",
+                "t"
+              ],
+              "properties": {
+                "text": {
+                  "type": "string"
+                },
+                "style": {
+                  "type": "string"
+                },
+                "t": {
+                  "type": "array",
+                  "items": {
+                    "type": "number"
+                  },
+                  "minItems": 2,
+                  "maxItems": 2
+                },
+                "in": {
+                  "type": [
+                    "object",
+                    "null"
+                  ]
+                },
+                "out": {
+                  "type": [
+                    "object",
+                    "null"
+                  ]
+                },
+                "loop": {
+                  "type": [
+                    "object",
+                    "null"
+                  ]
+                },
+                "capcut_text_effect": {
+                  "type": [
+                    "object",
+                    "null"
+                  ]
+                }
+              }
+            }
+          },
+          "transition_out": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "properties": {
+              "class": {
+                "type": "string"
+              },
+              "dur": {
+                "type": "number"
+              },
+              "capcut": {
+                "type": [
+                  "object",
+                  "null"
+                ]
+              },
+              "fallback": {
+                "type": "string"
+              }
+            }
+          },
+          "effects": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "class": {
+                  "type": "string"
+                },
+                "at": {
+                  "type": "number"
+                },
+                "dur": {
+                  "type": "number"
+                },
+                "capcut": {
+                  "type": [
+                    "object",
+                    "null"
+                  ]
+                }
+              }
+            }
+          },
+          "audio_cue": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "properties": {
+              "sfx": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "tts_text": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "at": {
+                "type": "number"
+              },
+              "dur": {
+                "type": "number"
+              },
+              "duck_db": {
+                "type": "number"
+              }
+            }
+          },
+          "confidence": {
+            "type": "object",
+            "properties": {
+              "timing": {
+                "type": "number"
+              },
+              "transition": {
+                "type": "number"
+              },
+              "text_style": {
+                "type": "number"
+              }
+            }
+          },
+          "needs_review": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,893 @@
+{
+  "spec_version": "0.1",
+  "meta": {
+    "template_name": "polestar4_reels",
+    "source_type": "local_draft",
+    "duration_s": 23.967,
+    "notes": "폰트는 Noto Sans KR 규칙(10장)을 적용하고, pyCapCut 미매칭·VIP 에셋은 needs_review로 분리함."
+  },
+  "canvas": {
+    "w": 1080,
+    "h": 1920,
+    "fps": 30.0,
+    "aspect": "9:16"
+  },
+  "audio": {
+    "bgm_slot": "bgm_main",
+    "bpm": null,
+    "downbeats_s": [
+      0.0,
+      2.367,
+      5.767,
+      8.967,
+      11.867,
+      13.267,
+      17.767,
+      21.4
+    ],
+    "sections": [
+      {
+        "label": "full",
+        "start": 0.0,
+        "end": 23.967
+      }
+    ]
+  },
+  "styles": {
+    "default_ko": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 7.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s01_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 11.18,
+      "color": "#000000",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s02_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 9.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s02_2": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 9.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s03_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.0,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s03_2": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.0,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s04_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 8.5,
+      "color": "#FFCCF5",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s06_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 10.0,
+      "color": "#000000",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s06_2": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 10.0,
+      "color": "#000000",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s06_3": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 10.0,
+      "color": "#000000",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s07_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.0,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s08_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 9.5,
+      "color": "#FFCCF5",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    }
+  },
+  "scenes": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "dur": 2.367,
+      "snap": "cut#1",
+      "slot": {
+        "id": "clip_01",
+        "kind": "video",
+        "aspect": "9:16",
+        "min_src_dur": 2.367,
+        "subject_hint": "폴스타 차량사진",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "폴스타 4 타다 \n결국 포기했어요!!",
+          "style": "style_s01_1",
+          "t": [
+            0.0,
+            2.367
+          ],
+          "in": {
+            "class": "불꽃 샷",
+            "dur": 0.5,
+            "capcut": {
+              "resource_id": "7644520680947518721",
+              "name": "불꽃 샷",
+              "unmatched": true
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "ART MATERIAL EN Fire Textured Modern",
+            "resource_id": "7600147348035095861",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": null,
+      "effects": [
+        {
+          "class": "불",
+          "at": 0.0,
+          "dur": 2.367,
+          "capcut": {
+            "enum": "VideoSceneEffectType.火光",
+            "resource_id": "7399470231229336838",
+            "is_vip": false,
+            "title": "火光"
+          }
+        }
+      ],
+      "audio_cue": {
+        "sfx": null,
+        "tts_text": "폴스타 4 타다 결...",
+        "at": 0.0,
+        "dur": 2.367,
+        "duck_db": -6.0
+      },
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_anim:불꽃 샷(7644520680947518721)",
+        "text_effect:ART MATERIAL EN Fire Textured Modern(7600147348035095861)"
+      ]
+    },
+    {
+      "id": "s02",
+      "start": 2.367,
+      "dur": 3.4,
+      "snap": "cut#2",
+      "slot": {
+        "id": "clip_02",
+        "kind": "video",
+        "aspect": "9:16",
+        "min_src_dur": 3.4,
+        "subject_hint": "사이드미러가_좀더_어둡게_보였으면_좋겠어",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "폴스타4 타면서\n야간에 디밍 때문에",
+          "style": "style_s02_1",
+          "t": [
+            0.0,
+            2.166
+          ],
+          "in": null,
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "ART EN MATERIAL M9 - Mist Background",
+            "resource_id": "7550531525666770229",
+            "capcut": null
+          }
+        },
+        {
+          "text": "사이드미러가 너무\n어두운 거임!",
+          "style": "style_s02_2",
+          "t": [
+            2.166,
+            3.4
+          ],
+          "in": null,
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "ART EN MATERIAL M9 - Mist Background",
+            "resource_id": "7550531525666770229",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": null,
+      "effects": [
+        {
+          "class": "진동",
+          "at": 2.133,
+          "dur": 1.267,
+          "capcut": {
+            "resource_id": "7592136660012338450",
+            "name": "진동",
+            "unmatched": true
+          }
+        }
+      ],
+      "audio_cue": {
+        "sfx": null,
+        "tts_text": "아니 솔직히…폴스타...",
+        "at": 0.0,
+        "dur": 3.367,
+        "duck_db": -6.0
+      },
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_effect:ART EN MATERIAL M9 - Mist Background(7550531525666770229)",
+        "track_effect:진동(7592136660012338450)"
+      ]
+    },
+    {
+      "id": "s03",
+      "start": 5.767,
+      "dur": 3.2,
+      "snap": "cut#3",
+      "slot": {
+        "id": "clip_03",
+        "kind": "photo",
+        "aspect": "9:16",
+        "min_src_dur": 3.2,
+        "subject_hint": "박명수",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "",
+          "style": "style_s03_1",
+          "t": [
+            0.0,
+            0.933
+          ],
+          "in": null,
+          "out": null,
+          "loop": {
+            "class": "loop",
+            "dur": 0.533,
+            "capcut": {
+              "resource_id": "7070036604429013535",
+              "name": "",
+              "unmatched": true
+            }
+          },
+          "capcut_text_effect": {
+            "name": "",
+            "resource_id": "7343218921056506369",
+            "capcut": null
+          }
+        },
+        {
+          "text": "",
+          "style": "style_s03_2",
+          "t": [
+            0.933,
+            2.8
+          ],
+          "in": null,
+          "out": null,
+          "loop": {
+            "class": "loop",
+            "dur": 0.533,
+            "capcut": {
+              "resource_id": "7070036604429013535",
+              "name": "",
+              "unmatched": true
+            }
+          },
+          "capcut_text_effect": {
+            "name": "",
+            "resource_id": "7343218921056506369",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": {
+        "class": "핑크 현기증",
+        "dur": 0.8,
+        "capcut": {
+          "resource_id": "7632347371308895509",
+          "name": "핑크 현기증",
+          "unmatched": true
+        },
+        "fallback": "dissolve"
+      },
+      "effects": [],
+      "audio_cue": {
+        "sfx": null,
+        "tts_text": "이러다가 이번 생과...",
+        "at": 0.0,
+        "dur": 3.267,
+        "duck_db": -6.0
+      },
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.5,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_anim:(7070036604429013535)",
+        "text_effect:(7343218921056506369)",
+        "transition_out:핑크 현기증(7632347371308895509)"
+      ]
+    },
+    {
+      "id": "s04",
+      "start": 8.967,
+      "dur": 4.3,
+      "snap": "cut#4",
+      "slot": {
+        "id": "clip_04",
+        "kind": "video",
+        "aspect": "9:16",
+        "min_src_dur": 4.3,
+        "subject_hint": "교체2",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "결국 순정미러와 이별하고\n 광각미러로 교체했어요!",
+          "style": "style_s04_1",
+          "t": [
+            0.0,
+            2.8
+          ],
+          "in": {
+            "class": "밀어서 입력",
+            "dur": 0.5,
+            "capcut": {
+              "resource_id": "7545191887708179729",
+              "name": "밀어서 입력",
+              "unmatched": true
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "ART EN PIXEL M1",
+            "resource_id": "7592435475852496136",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": {
+        "class": "세우기",
+        "dur": 0.467,
+        "capcut": {
+          "enum": "TransitionType.推近",
+          "resource_id": "6724226861666144779",
+          "is_vip": false,
+          "title": "推近"
+        },
+        "fallback": "dissolve"
+      },
+      "effects": [],
+      "audio_cue": {
+        "sfx": "dragon-studio-wow-423653.mp3",
+        "tts_text": null,
+        "at": 0.033,
+        "dur": 1.9,
+        "duck_db": -6.0
+      },
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_anim:밀어서 입력(7545191887708179729)",
+        "text_effect:ART EN PIXEL M1(7592435475852496136)"
+      ]
+    },
+    {
+      "id": "s05",
+      "start": 11.867,
+      "dur": 1.5,
+      "snap": "cut#5",
+      "slot": {
+        "id": "clip_05",
+        "kind": "gif",
+        "aspect": "9:16",
+        "min_src_dur": 1.5,
+        "subject_hint": "GIF",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": {
+        "sfx": "안녕히계세요여러분.mp3",
+        "tts_text": null,
+        "at": 0.166,
+        "dur": 1.467,
+        "duck_db": -6.0
+      },
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s06",
+      "start": 13.267,
+      "dur": 4.5,
+      "snap": "cut#6",
+      "slot": {
+        "id": "clip_06",
+        "kind": "video",
+        "aspect": "9:16",
+        "min_src_dur": 4.5,
+        "subject_hint": "미러2",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "야간에도 미러가 어둡게 \n죽지 않고",
+          "style": "style_s06_1",
+          "t": [
+            0.0,
+            1.566
+          ],
+          "in": {
+            "class": "사막 골드",
+            "dur": 0.5,
+            "capcut": {
+              "resource_id": "7622944746629123341",
+              "name": "사막 골드",
+              "unmatched": true
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "ART EN MATERIAL M9 GREY MIST ",
+            "resource_id": "7550945655078866229",
+            "capcut": null
+          }
+        },
+        {
+          "text": "시야가 더 넓게 \n확보되니까",
+          "style": "style_s06_2",
+          "t": [
+            1.6,
+            3.033
+          ],
+          "in": {
+            "class": "사막 골드",
+            "dur": 0.5,
+            "capcut": {
+              "resource_id": "7622944746629123341",
+              "name": "사막 골드",
+              "unmatched": true
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "ART EN MATERIAL M9 GREY MIST ",
+            "resource_id": "7550945655078866229",
+            "capcut": null
+          }
+        },
+        {
+          "text": "운전할 때 훨씬\n 안심되더라",
+          "style": "style_s06_3",
+          "t": [
+            3.066,
+            4.5
+          ],
+          "in": {
+            "class": "사막 골드",
+            "dur": 0.5,
+            "capcut": {
+              "resource_id": "7622944746629123341",
+              "name": "사막 골드",
+              "unmatched": true
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "ART EN MATERIAL M9 GREY MIST ",
+            "resource_id": "7550945655078866229",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": {
+        "class": "몽환적인 버블",
+        "dur": 0.533,
+        "capcut": {
+          "enum": "TransitionType.Dreamy_Bubbles",
+          "resource_id": "7330894968266953217",
+          "is_vip": true,
+          "title": "Dreamy Bubbles"
+        },
+        "fallback": "dissolve"
+      },
+      "effects": [],
+      "audio_cue": {
+        "sfx": null,
+        "tts_text": "야간에도 미러가 어...",
+        "at": 0.0,
+        "dur": 4.533,
+        "duck_db": -6.0
+      },
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_anim:사막 골드(7622944746629123341)",
+        "text_effect:ART EN MATERIAL M9 GREY MIST (7550945655078866229)",
+        "transition_out:몽환적인 버블(7330894968266953217)"
+      ]
+    },
+    {
+      "id": "s07",
+      "start": 17.767,
+      "dur": 3.633,
+      "snap": "cut#7",
+      "slot": {
+        "id": "clip_07",
+        "kind": "photo",
+        "aspect": "9:16",
+        "min_src_dur": 3.633,
+        "subject_hint": "비교샷",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "",
+          "style": "style_s07_1",
+          "t": [
+            0.0,
+            3.266
+          ],
+          "in": {
+            "class": "in",
+            "dur": 1.967,
+            "capcut": {
+              "enum": "TextIntro.星光闪闪",
+              "resource_id": "7309782178110378498",
+              "is_vip": true,
+              "title": "星光闪闪"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "yellow",
+            "resource_id": "7593420202113600775",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": {
+        "class": "피치 하트",
+        "dur": 0.6,
+        "capcut": {
+          "resource_id": "7597447112141507858",
+          "name": "피치 하트",
+          "unmatched": true
+        },
+        "fallback": "dissolve"
+      },
+      "effects": [],
+      "audio_cue": {
+        "sfx": "freesound_community-success-1-6297.mp3",
+        "tts_text": null,
+        "at": 0.0,
+        "dur": 3.367,
+        "duck_db": -6.0
+      },
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.5,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_anim:(7309782178110378498)",
+        "text_effect:yellow(7593420202113600775)",
+        "transition_out:피치 하트(7597447112141507858)"
+      ]
+    },
+    {
+      "id": "s08",
+      "start": 21.4,
+      "dur": 2.533,
+      "snap": "cut#8",
+      "slot": {
+        "id": "clip_08",
+        "kind": "photo",
+        "aspect": "9:16",
+        "min_src_dur": 2.533,
+        "subject_hint": "행복극상",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "다들 광각미러로 바꾸고\n광명 찾으세요!",
+          "style": "style_s08_1",
+          "t": [
+            0.0,
+            2.533
+          ],
+          "in": {
+            "class": "밀어서 입력",
+            "dur": 0.5,
+            "capcut": {
+              "resource_id": "7545191887708179729",
+              "name": "밀어서 입력",
+              "unmatched": true
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "ART EN PIXEL M1",
+            "resource_id": "7592435475852496136",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": {
+        "sfx": null,
+        "tts_text": "다들 광각미러로 바...",
+        "at": 0.0,
+        "dur": 2.567,
+        "duck_db": -6.0
+      },
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_anim:밀어서 입력(7545191887708179729)",
+        "text_effect:ART EN PIXEL M1(7592435475852496136)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2795 @@
+{
+ "id": "18Lo-8hLL5g",
+ "tab": "videos",
+ "upload_date": "20260922",
+ "duration": 151.9,
+ "title": "이게 진짜 풀사이즈 SUV… 포드 익스페디션 플래티넘",
+ "url": "https://www.youtube.com/watch?v=18Lo-8hLL5g",
+ "width": 1280,
+ "height": 720,
+ "format": "longform",
+ "aspect": "16:9",
+ "cuts": [
+  3.07,
+  5.67,
+  8.67,
+  11.5,
+  14.7,
+  16.47,
+  18.33,
+  20.13,
+  21.1,
+  22.47,
+  27.83,
+  33.13,
+  35.63,
+  37.57,
+  42.97,
+  47.57,
+  52.53,
+  54.67,
+  57.0,
+  59.37,
+  63.9,
+  66.97,
+  70.77,
+  74.63,
+  78.13,
+  85.73,
+  86.3,
+  87.07,
+  88.67,
+  89.73,
+  91.07,
+  92.1,
+  92.67,
+  93.33,
+  94.4,
+  95.23,
+  95.77,
+  96.37,
+  98.23,
+  99.13,
+  99.87,
+  101.4,
+  102.03,
+  103.2,
+  104.47,
+  105.97,
+  107.33,
+  107.87,
+  108.3,
+  112.77,
+  113.37,
+  113.83,
+  114.7,
+  115.57,
+  116.4,
+  117.03,
+  117.7,
+  118.33,
+  119.5,
+  120.3,
+  120.7,
+  121.67,
+  122.63,
+  123.47,
+  124.8,
+  126.03,
+  126.67,
+  127.5,
+  128.77,
+  129.3,
+  129.97,
+  130.57,
+  131.07,
+  135.23,
+  136.4,
+  137.7,
+  139.23,
+  140.73,
+  143.03,
+  144.67,
+  145.6,
+  147.05,
+  148.05,
+  149.63,
+  151.53
+ ],
+ "ocr_readings": 2217,
+ "captions": [
+  {
+   "start": 0.25,
+   "end": 1.25,
+   "x": 0.2836,
+   "y": 0.5556,
+   "w": 0.0617,
+   "h": 0.025,
+   "frames": 2,
+   "text": "OPtic-Glass",
+   "ocr": "OPtic-Glass",
+   "readings": [
+    [
+     "OPtic-Glass",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 8.75,
+   "end": 10.25,
+   "x": 0.6316,
+   "y": 0.8778,
+   "w": 0.3609,
+   "h": 0.1083,
+   "frames": 2,
+   "text": "ODtic-Glass",
+   "ocr": "ODtic-Glass",
+   "readings": [
+    [
+     "ODtic-Glass",
+     1
+    ],
+    [
+     "ODtic",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 13.25,
+   "end": 16.75,
+   "x": 0.2039,
+   "y": 0.9083,
+   "w": 0.5941,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "안녕하세요 자동차 전문 리뷰어 옵틱글래스입니다",
+   "ocr": "안녕하세요 자동차 전문 리뷰어 옵틱글래스입니다",
+   "readings": [
+    [
+     "안녕하세요 자동차 전문 리뷰어 옵틱글래스입니다",
+     7
+    ],
+    [
+     "안녕하세요 자동차 전문 리뷰어 -옵틱글래스입 니다",
+     1
+    ],
+    [
+     "안녕하세요,자동차 전문 리뷰어 옵틱글래스입니다",
+     1
+    ],
+    [
+     "안녕하세요 자동사 전문 리뷰어 옵틱글래스입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 16.75,
+   "end": 19.25,
+   "x": 0.3102,
+   "y": 0.9076,
+   "w": 0.3812,
+   "h": 0.0497,
+   "frames": 5,
+   "text": "오늘은 풀사이즈 SUV의 대명사",
+   "ocr": "오늘은 풀사이즈 SUV의 대명사",
+   "readings": [
+    [
+     "오늘은 풀사이즈 SUV의 대명사",
+     5
+    ],
+    [
+     "오늘은 풀사이즈 SIJV의 대명사",
+     1
+    ],
+    [
+     "오늘은 풀사이죠SIJV의` 대명사",
+     1
+    ],
+    [
+     "오늘은 쭐사이즈SIJⅤ의때명'사",
+     1
+    ],
+    [
+     "오늘은 쭐사이즈弋SUV의때형)자",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 19.25,
+   "end": 22.25,
+   "x": 0.2781,
+   "y": 0.9083,
+   "w": 0.4453,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "포드 익스페디션을 리뷰해보겠습니다",
+   "ocr": "포드 익스페디션을 리뷰해보겠습니다",
+   "readings": [
+    [
+     "포드 익스페디션을 리뷰해보겠습니다",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 21.25,
+   "end": 22.25,
+   "x": 0.2426,
+   "y": 0.4403,
+   "w": 0.5086,
+   "h": 0.1076,
+   "frames": 2,
+   "text": "OPTIC GLASS",
+   "ocr": "OPTIC GLASS",
+   "readings": [
+    [
+     "OPTIC GLASS",
+     1
+    ],
+    [
+     "OPTIC GLACS",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.25,
+   "end": 24.25,
+   "x": 0.2219,
+   "y": 0.4278,
+   "w": 0.5656,
+   "h": 0.15,
+   "frames": 4,
+   "text": "PART 01. 외관",
+   "ocr": "PART 01. 회관",
+   "readings": [
+    [
+     "PART 01. 회관",
+     3
+    ],
+    [
+     "PART 01. 의관",
+     3
+    ],
+    [
+     "PARTOI:QJE",
+     1
+    ],
+    [
+     "PART 011",
+     1
+    ],
+    [
+     "PAR 01k",
+     1
+    ],
+    [
+     "PARTOI “의관",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 22.25,
+   "end": 23.75,
+   "x": 0.373,
+   "y": 0.9083,
+   "w": 0.2559,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "첫 번째는 외관입니다",
+   "ocr": "첫 번,재는 외관입니다",
+   "readings": [
+    [
+     "첫 번,재는 외관입니다",
+     3
+    ],
+    [
+     "첫 번째는 외관입니다",
+     3
+    ],
+    [
+     "첫 번째는1외관입니다",
+     1
+    ],
+    [
+     "첫 번째른 외관입니다",
+     1
+    ],
+    [
+     "첫 번째는외관입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 23.75,
+   "end": 27.25,
+   "x": 0.193,
+   "y": 0.9083,
+   "w": 0.616,
+   "h": 0.05,
+   "frames": 7,
+   "text": "가장 먼저 거대한 크롬 그릴이 시선을 사로잡습니다",
+   "ocr": "가장 먼저 거대한 크롬 그릴 이 시선을 사로잡습니다",
+   "readings": [
+    [
+     "가장 먼저 거대한 크롬 그릴 이 시선을 사로잡습니다",
+     7
+    ],
+    [
+     "가장 먼저 거대한 크롬 그릴이 시선을 사로잡습니다",
+     1
+    ],
+    [
+     "가장 먼저 거대한코롬 그릴 이 시선을 사로잡습니다",
+     1
+    ],
+    [
+     "가장 먼저 거대한 크롬 그릴이-시선을 사로잡습니다",
+     1
+    ],
+    [
+     "가장 먼저 거대한크테그릴-이 시선을 사로잡습니다",
+     1
+    ],
+    [
+     "가장 먼저 거대한크다그릴-이 시선을 사로잡습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 24.75,
+   "end": 63.75,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1863,
+   "h": 0.0465,
+   "frames": 80,
+   "text": "PART 01. 외관",
+   "ocr": "PART 01. 의관",
+   "readings": [
+    [
+     "PART 01. 의관",
+     77
+    ],
+    [
+     "PART 01. 회관",
+     13
+    ],
+    [
+     "PART 01. 민관",
+     4
+    ],
+    [
+     "PART 01",
+     3
+    ],
+    [
+     "PART 04. 회관",
+     2
+    ],
+    [
+     "PART 이. 회관",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 27.25,
+   "end": 30.75,
+   "x": 0.2059,
+   "y": 0.9076,
+   "w": 0.5898,
+   "h": 0.05,
+   "frames": 7,
+   "text": "전면부에는 큼직한 C자형 헤드램프가 자리합니다",
+   "ocr": "전면부에는 큼직한 c자형 헤드램프가 자리합니다",
+   "readings": [
+    [
+     "전면부에는 큼직한 c자형 헤드램프가 자리합니다",
+     6
+    ],
+    [
+     "전면부에는 큼직한 C자형 헤드램프카 자리합니다",
+     1
+    ],
+    [
+     "전면부에는 큼직한 c자형 해드램프가 자리합니다",
+     1
+    ],
+    [
+     "전면부에는 큼직한 C자형 해드램프가 자리합니다",
+     1
+    ],
+    [
+     "전면부에는 큼직한 C자형 헤드램프가 자리합니다",
+     1
+    ],
+    [
+     "전면부에는 큼직한c자형 헤드램프가 자리합니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 30.75,
+   "end": 32.75,
+   "x": 0.332,
+   "y": 0.9083,
+   "w": 0.3367,
+   "h": 0.0486,
+   "frames": 4,
+   "text": "그릴과 자연스럽게 이어지는",
+   "ocr": "그릴과 자연스럽게 이어지는",
+   "readings": [
+    [
+     "그릴과 자연스럽게 이어지는",
+     4
+    ],
+    [
+     "딘릴과 자연스럽게 이어지는",
+     1
+    ],
+    [
+     "그릴과(자연스럽게℃l어지는",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 32.75,
+   "end": 34.75,
+   "x": 0.3137,
+   "y": 0.9031,
+   "w": 0.3588,
+   "h": 0.0611,
+   "frames": 4,
+   "text": "C자형 헤드램프가 특징입니다",
+   "ocr": "c자형 헤드램프가 특징입니다",
+   "readings": [
+    [
+     "c자형 헤드램프가 특징입니다",
+     4
+    ],
+    [
+     "C자항 해!드램프가 특장입니다",
+     1
+    ],
+    [
+     "c자형 헤드램흐가 특징입니다",
+     1
+    ],
+    [
+     "C자형 베드램프2h특장입니다",
+     1
+    ],
+    [
+     "C자형 해트램프가 특징입니다",
+     1
+    ],
+    [
+     "c자현 베드램프가 특장입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 33.25,
+   "end": 34.25,
+   "x": 0.825,
+   "y": 0.1479,
+   "w": 0.1465,
+   "h": 0.091,
+   "frames": 2,
+   "text": "PART 01. 외관",
+   "ocr": "PARTOI. 회깐",
+   "readings": [
+    [
+     "PARTOI. 회깐",
+     1
+    ],
+    [
+     "PARTOI",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 34.75,
+   "end": 36.75,
+   "x": 0.316,
+   "y": 0.9083,
+   "w": 0.3703,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "이 큼직한 헤드램프 시그니처가",
+   "ocr": "이 큼직한 헤드램프 시그니처가",
+   "readings": [
+    [
+     "이 큼직한 헤드램프 시그니처가",
+     2
+    ],
+    [
+     "이 큼직한 해드램프i시그니처가",
+     1
+    ],
+    [
+     "이 큼직한 해드램프 시그니처가",
+     1
+    ],
+    [
+     "이 큼직한 해드램프써그니처가",
+     1
+    ],
+    [
+     "이름직한 해드램프 시그니치가",
+     1
+    ],
+    [
+     "이 큼직한 하l드램프-시그니大넣가",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 36.75,
+   "end": 38.75,
+   "x": 0.3469,
+   "y": 0.9083,
+   "w": 0.309,
+   "h": 0.0486,
+   "frames": 4,
+   "text": "당당한 인상을 완성합니다",
+   "ocr": "당당한 인상을 완성합니다",
+   "readings": [
+    [
+     "당당한 인상을 완성합니다",
+     4
+    ],
+    [
+     "다당한 인상을 완성합니다",
+     1
+    ],
+    [
+     "당당한 인상을",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 38.25,
+   "end": 41.25,
+   "x": 0.1281,
+   "y": 0.1597,
+   "w": 0.1539,
+   "h": 0.059,
+   "frames": 6,
+   "text": "쇼 Optic-GIass",
+   "ocr": "쇼 Optic-GIass",
+   "readings": [
+    [
+     "쇼 Optic-GIass",
+     3
+    ],
+    [
+     "쇼 Optic-Glass",
+     2
+    ],
+    [
+     "OPtic-GIass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 38.75,
+   "end": 41.25,
+   "x": 0.2965,
+   "y": 0.9069,
+   "w": 0.407,
+   "h": 0.0507,
+   "frames": 5,
+   "text": "풀사이즈 SUV에 걸맞은 웅장하고",
+   "ocr": "풀사이즈 SUV에 걸맞은 웅장하고",
+   "readings": [
+    [
+     "풀사이즈 SUV에 걸맞은 웅장하고",
+     5
+    ],
+    [
+     "쭐사이즈 SUV에 걸맞은 웅장하고",
+     3
+    ],
+    [
+     "쭐사이즈 SUV에 걸맞은 웅장하고 '~!",
+     1
+    ],
+    [
+     "쭐사이즈 SUV에 걸맞은 웅장하고 4",
+     1
+    ],
+    [
+     "후;-풀사이즈 SUV에 걸맞은",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 39.75,
+   "end": 40.75,
+   "x": 0.5785,
+   "y": 0.8653,
+   "w": 0.2172,
+   "h": 0.0806,
+   "frames": 2,
+   "text": "웅장하고 는",
+   "ocr": "웅장하고 는",
+   "readings": [
+    [
+     "웅장하고 는",
+     1
+    ],
+    [
+     "거ø+으 웅장하고",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 41.25,
+   "end": 42.75,
+   "x": 0.168,
+   "y": 0.1417,
+   "w": 0.1031,
+   "h": 0.0556,
+   "frames": 3,
+   "text": "쇼 Optic-GIass",
+   "ocr": "쇼 Optic-GIass",
+   "readings": [
+    [
+     "쇼 Optic-GIass",
+     1
+    ],
+    [
+     "OPtic-Glass",
+     1
+    ],
+    [
+     "Optic-G\\ass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 41.25,
+   "end": 42.25,
+   "x": 0.3631,
+   "y": 0.9083,
+   "w": 0.2758,
+   "h": 0.0493,
+   "frames": 2,
+   "text": "압도적인 전면부입니다",
+   "ocr": "압도적인 전면부입니다",
+   "readings": [
+    [
+     "압도적인 전면부입니다",
+     2
+    ],
+    [
+     "압도적인 전면부입니다i",
+     1
+    ],
+    [
+     "입도적인 전면부입니t별」:曰D빈-또",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 42.25,
+   "end": 45.75,
+   "x": 0.2277,
+   "y": 0.9083,
+   "w": 0.5469,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "테일 램프 그래픽은 아주 심플하고 단정합니다",
+   "ocr": "테일 램프 그래픽은 아주 심플하고 단정합니다",
+   "readings": [
+    [
+     "테일 램프 그래픽은 아주 심플하고 단정합니다",
+     7
+    ],
+    [
+     "테일 램프 그래픽은 아주 심플하고 단정합니드t",
+     1
+    ],
+    [
+     "테일 램프 그래픽은아주 심플하고 단정합니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 43.25,
+   "end": 44.75,
+   "x": 0.6477,
+   "y": 0.5521,
+   "w": 0.0758,
+   "h": 0.0361,
+   "frames": 2,
+   "text": "C.opuc-Glass",
+   "ocr": "C.opuc-Glass",
+   "readings": [
+    [
+     "C.opuc-Glass",
+     1
+    ],
+    [
+     "aopuc-Glass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 45.75,
+   "end": 49.25,
+   "x": 0.1824,
+   "y": 0.9069,
+   "w": 0.6363,
+   "h": 0.0507,
+   "frames": 7,
+   "text": "두터운 크롬 장식이 테일 게이트를 길게 가로지릅니다",
+   "ocr": "두터운 크롬 장식이 테일 게이트를 길게 가로지릅니다",
+   "readings": [
+    [
+     "두터운 크롬 장식이 테일 게이트를 길게 가로지릅니다",
+     7
+    ],
+    [
+     "두터운 크롬 장식이죄l일께이트를 길게 가로지릅니다",
+     1
+    ],
+    [
+     "두터운 크롬 장식이푀l일께이트를 길게 가로지릅니다",
+     1
+    ],
+    [
+     "두터운 크롬 장식에테일 게이트를 길게 가로지릅니다",
+     1
+    ],
+    [
+     "두터운 크름 장식이 테일 게이트로 기",
+     1
+    ],
+    [
+     "豫두터운 크롬 장식이 테일 게이트를 길게 가로지릅니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 48.25,
+   "end": 51.75,
+   "x": 0.4695,
+   "y": 0.5813,
+   "w": 0.0852,
+   "h": 0.0292,
+   "frames": 7,
+   "text": "Optic-Glass",
+   "ocr": "Optic-Glass",
+   "readings": [
+    [
+     "Optic-Glass",
+     4
+    ],
+    [
+     "Optic-GIass",
+     2
+    ],
+    [
+     "(경 Optic-Glass",
+     1
+    ],
+    [
+     "Optic-Gtass",
+     1
+    ],
+    [
+     "ㆍ Optic-GIess",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 49.25,
+   "end": 52.25,
+   "x": 0.2008,
+   "y": 0.9083,
+   "w": 0.6008,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "이 크롬바가 차체를 시각적으로 넓어보이게 합니다",
+   "ocr": "이 크롬바가 차체를 시각적으로 넓어보이게 합니다",
+   "readings": [
+    [
+     "이 크롬바가 차체를 시각적으로 넓어보이게 합니다",
+     6
+    ],
+    [
+     "이 크롬바가 자체를 시각적으로 넓어보이게 합니다",
+     4
+    ],
+    [
+     "(이 크롬바가 차체를 시각적으로 넓어보이게 합니다",
+     1
+    ],
+    [
+     "이 크롬바가 차체를 시각적으로 넓어보이게 합니다•t",
+     1
+    ],
+    [
+     "{i이 크롬바가 차체를 시각적으로 넓어보이게 합니다",
+     1
+    ],
+    [
+     "$l이 크롬바가 차체를 시각적으로 넓어보이게 합니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 52.25,
+   "end": 53.75,
+   "x": 0.359,
+   "y": 0.9076,
+   "w": 0.2805,
+   "h": 0.0517,
+   "frames": 3,
+   "text": "중앙에 새겨진 레터링이",
+   "ocr": "중앙에 새겨진 레터링이",
+   "readings": [
+    [
+     "중앙에 새겨진 레터링이",
+     3
+    ],
+    [
+     "중앙에 새-최진 레터링이",
+     1
+    ],
+    [
+     "중앙에 새겨진곷il터링이",
+     1
+    ],
+    [
+     "중앙에 새겨진뗜링이",
+     1
+    ],
+    [
+     "중앙에 새겨진`하I터링이",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 53.75,
+   "end": 56.25,
+   "x": 0.2922,
+   "y": 0.9083,
+   "w": 0.4176,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "익스페디션의 정체성을 강조합니다",
+   "ocr": "익스페디션의 정체성을 강조합니다",
+   "readings": [
+    [
+     "익스페디션의 정체성을 강조합니다",
+     5
+    ],
+    [
+     "익스페디션의 정체성을 강조합리다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 56.25,
+   "end": 59.25,
+   "x": 0.2266,
+   "y": 0.9076,
+   "w": 0.548,
+   "h": 0.05,
+   "frames": 6,
+   "text": "하단 범퍼 마감은 무척 깔끔하고 실용적입니다",
+   "ocr": "하단 범퍼 마감은 무적 깔끔하고 실용적입니다",
+   "readings": [
+    [
+     "하단 범퍼 마감은 무적 깔끔하고 실용적입니다",
+     6
+    ],
+    [
+     "하단험퍼 마감은 무적 깔끔하고 실용적입니다+",
+     1
+    ],
+    [
+     "하단 범페 마감은 무적 깔끔하고 실용적입니다",
+     1
+    ],
+    [
+     "하단 범퍼 마감은무적 깔끔하고 실용적입니다",
+     1
+    ],
+    [
+     "하단험퍼 마감은 무적 깔끔하고 실용적입니다",
+     1
+    ],
+    [
+     "하단험퍼 마감은 무적 깔끔하고 실용적입_니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 59.25,
+   "end": 61.75,
+   "x": 0.3049,
+   "y": 0.9076,
+   "w": 0.391,
+   "h": 0.0497,
+   "frames": 5,
+   "text": "웅장하면서도 안정감이 돋보이는",
+   "ocr": "웅장하면서도 안정감이 돋보이는",
+   "readings": [
+    [
+     "웅장하면서도 안정감이 돋보이는",
+     5
+    ],
+    [
+     "결 % 웅장하면서도 안정감이 돋보이는",
+     1
+    ],
+    [
+     "舜 웅장하면서도 안정감이 돋보이는",
+     1
+    ],
+    [
+     "금하면서도 안정감이 돋보이는奢",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 59.75,
+   "end": 62.75,
+   "x": 0.2922,
+   "y": 0.5569,
+   "w": 0.0531,
+   "h": 0.025,
+   "frames": 5,
+   "text": "Optic-G1ass",
+   "ocr": "Optic-G1ass",
+   "readings": [
+    [
+     "Optic-G1ass",
+     2
+    ],
+    [
+     "Optic-Glass",
+     2
+    ],
+    [
+     "(국』 Optic-Glass",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 61.75,
+   "end": 63.75,
+   "x": 0.3418,
+   "y": 0.9083,
+   "w": 0.3195,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "대형 SUV의 후면부입니다",
+   "ocr": "대형 SUV의 후면부입니다",
+   "readings": [
+    [
+     "대형 SUV의 후면부입니다",
+     4
+    ],
+    [
+     "대형 suv의 후면부입니주니:-|뇨뇨나--』로",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 63.75,
+   "end": 65.75,
+   "x": 0.2219,
+   "y": 0.4153,
+   "w": 0.4641,
+   "h": 0.1604,
+   "frames": 4,
+   "text": "PART 02. 내부",
+   "ocr": "PART 02! LJI부",
+   "readings": [
+    [
+     "PART 02. Ⅵ부",
+     3
+    ],
+    [
+     "PART 02! LJI부",
+     1
+    ],
+    [
+     "PART 02. LJI부",
+     1
+    ],
+    [
+     "PART 021",
+     1
+    ],
+    [
+     "PART 02",
+     1
+    ],
+    [
+     "PART 02. LB부",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 63.75,
+   "end": 65.75,
+   "x": 0.3727,
+   "y": 0.9076,
+   "w": 0.2562,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "두 번째는 내부입니다",
+   "ocr": "두 번째는 내부입니다",
+   "readings": [
+    [
+     "두 번째는 내부입니다",
+     4
+    ],
+    [
+     "4두번패는 내부입니다 1",
+     1
+    ],
+    [
+     "두:번패는 내부입니다",
+     1
+    ],
+    [
+     "두 번패는 내부입니다",
+     1
+    ],
+    [
+     "두 번째는쇄부입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 65.75,
+   "end": 85.25,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1852,
+   "h": 0.0465,
+   "frames": 39,
+   "text": "PART 02. 내부",
+   "ocr": "PART 02. 내부",
+   "readings": [
+    [
+     "PART 02. 내부",
+     38
+    ],
+    [
+     "PART 02. Ⅵ부",
+     24
+    ],
+    [
+     "PART 02. LJI부",
+     14
+    ],
+    [
+     "PART 02. LB부",
+     13
+    ],
+    [
+     "PART 02. L]부",
+     6
+    ],
+    [
+     "PART 02. IJI부",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 65.75,
+   "end": 68.25,
+   "x": 0.3191,
+   "y": 0.9069,
+   "w": 0.3637,
+   "h": 0.05,
+   "frames": 5,
+   "text": "인터페이스는 꽤 직관적입니다",
+   "ocr": "인터페이스는 노새 직관적입니다",
+   "readings": [
+    [
+     "인터페이스는 노새 직관적입니다",
+     3
+    ],
+    [
+     "인터페이스는 직관적입니다",
+     3
+    ],
+    [
+     "인터페이스는 ~1괘 직관적입니다",
+     1
+    ],
+    [
+     "hl인터페이스는 봬직관적입니다",
+     1
+    ],
+    [
+     "인터페이스는 뫼1 직관적입니다",
+     1
+    ],
+    [
+     "춨인터페이스는 직관적입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 68.25,
+   "end": 71.75,
+   "x": 0.2008,
+   "y": 0.9069,
+   "w": 0.6016,
+   "h": 0.05,
+   "frames": 7,
+   "text": "내장재는 가죽과 우드 트림을 적절히 사용했습니다",
+   "ocr": "내장재는 가죽과 우드 트림을 적절히 사용했습니다",
+   "readings": [
+    [
+     "내장재는 가죽과 우드 트림을 적절히 사용했습니다",
+     7
+    ],
+    [
+     "내장재는 가죽과 우드 트림을 적절히 사용했습lj%l다-/",
+     1
+    ],
+    [
+     "은 내장재는 가죽과 우드 트림을 적절히 사용했습니다",
+     1
+    ],
+    [
+     "내장재는 가죽과 우드 트림을 적절히 사용했습니다 /",
+     1
+    ],
+    [
+     "내장재는 가죽과 우드 트림을볓적절히 사용했습니다",
+     1
+    ],
+    [
+     "내장재는 가죽과우드 트림을/적절히 사용했습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 71.75,
+   "end": 74.75,
+   "x": 0.2271,
+   "y": 0.9083,
+   "w": 0.5475,
+   "h": 0.05,
+   "frames": 6,
+   "text": "착좌감이 뛰어난 가죽 시트가 쾌적함을 줍니다",
+   "ocr": "작좌감이 뛰어난 가죽 시트가 쾌적함을 줍니다",
+   "readings": [
+    [
+     "작좌감이 뛰어난 가죽 시트가 쾌적함을 줍니다",
+     5
+    ],
+    [
+     "작좌감이 뛰어난 가죽 시트가 코H적함을 줍니다",
+     2
+    ],
+    [
+     "작좌감이 뛰어난 간수 시트가 쾌적함을 줍니다",
+     1
+    ],
+    [
+     "작좌f감이 뛰어난)가죽 시트가 쾌적함을즙니다",
+     1
+    ],
+    [
+     "착좌감이 뛰어난 가죽 시트가 쾌적함을 줍니다",
+     1
+    ],
+    [
+     "작좌감이 뛰어난가죽 시트가 쾌적함을 줍니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 74.75,
+   "end": 78.25,
+   "x": 0.2414,
+   "y": 0.9083,
+   "w": 0.5195,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "2열 공간감은 성인이 타도 매우 넉넉합니다",
+   "ocr": "2 열 공간감은 성인이 타도 매우 넉넉합니다",
+   "readings": [
+    [
+     "2 열 공간감은 성인이 타도 매우 넉넉합니다",
+     7
+    ],
+    [
+     "2 열 공간감은 성인이 타도 매우-넉넉합니다",
+     1
+    ],
+    [
+     "2 열 공간감은 성인이퐈도 매우 넉넉합니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 78.25,
+   "end": 81.75,
+   "x": 0.2543,
+   "y": 0.9083,
+   "w": 0.4938,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "트렁크 기본 적재 용량은 546리터입니다",
+   "ocr": "트렁크 기본 적재 용량은 546리터입니다",
+   "readings": [
+    [
+     "트렁크 기본 적재 용량은 546리터입니다",
+     7
+    ],
+    [
+     "트렁크 기본 적재 용량은 546리터입니다1",
+     2
+    ],
+    [
+     "트렁크&e기본 적재 용량은 546리터입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 81.75,
+   "end": 85.75,
+   "x": 0.2285,
+   "y": 0.9083,
+   "w": 0.5449,
+   "h": 0.0493,
+   "frames": 8,
+   "text": "시트 폴딩 시 최대 2962리터까지 확장됩니다",
+   "ocr": "시트 폴딩 시 최대 2962리터까지 확장됩니다",
+   "readings": [
+    [
+     "시트 폴딩 시 최대 2962리터까지 확장됩니다",
+     7
+    ],
+    [
+     "시트 폴딩 시 최대 2962리터까지확장됩니다들",
+     1
+    ],
+    [
+     "시트±폴딩 시k최대 2962리터까지 확장됩니다",
+     1
+    ],
+    [
+     "시트 폴딩 시 최대 2962리터까제`확장됩니다",
+     1
+    ],
+    [
+     "시트 폴딩 시豸l대 2962리터까지•확장됩니다긎",
+     1
+    ],
+    [
+     "시트 폴딩 시 최대 h962리터까지 확장됩니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 85.25,
+   "end": 110.25,
+   "x": 0.0621,
+   "y": 0.0326,
+   "w": 0.1074,
+   "h": 0.0319,
+   "frames": 50,
+   "text": "출처 : @ford",
+   "ocr": "출처 : @ford",
+   "readings": [
+    [
+     "출처 : @ford",
+     30
+    ],
+    [
+     "출처 : aford",
+     17
+    ],
+    [
+     "출처: aford",
+     16
+    ],
+    [
+     "출처: åford",
+     11
+    ],
+    [
+     "출처 : (åford",
+     3
+    ],
+    [
+     "Oford",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 85.75,
+   "end": 87.75,
+   "x": 0.2219,
+   "y": 0.4285,
+   "w": 0.5625,
+   "h": 0.1458,
+   "frames": 4,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     4
+    ],
+    [
+     "PART 03.심능",
+     1
+    ],
+    [
+     "PART 03?성능",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 85.75,
+   "end": 87.25,
+   "x": 0.3766,
+   "y": 0.9083,
+   "w": 0.2484,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "세 번째는 성능입니다",
+   "ocr": "세번째는 성능입니다",
+   "readings": [
+    [
+     "세번째는 성능입니다",
+     3
+    ],
+    [
+     "세번째는성능입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 87.25,
+   "end": 89.25,
+   "x": 0.2094,
+   "y": 0.8681,
+   "w": 0.5848,
+   "h": 0.0181,
+   "frames": 4,
+   "text": "Optional equipment, extra-cost coloroptions, and available Ford Accessories throughout.Cargoandload capaclty limited and",
+   "ocr": "Optional equipment, extra-cost coloroptions, and available Ford Accessories throughout.Cargoandload capaclty limited and",
+   "readings": [
+    [
+     "Optional equipment, extra-cost coloroptions, and available Ford Accessories throughout.Cargoandload capaclty limited and",
+     1
+    ],
+    [
+     "OptionaI equipment, extra-cost color 0미i이,s, and available FOrd Accessories shown throughout. Cargo and load capacity linuted we•ght and",
+     1
+    ],
+    [
+     "0 0”l equipment, extra-costcoloroptions, and available FOrd Access«ieSShown throughout. Cargoandload capacity limitedby weightand",
+     1
+    ],
+    [
+     "Optional equipment, (죄” - Ford Accessories shown throughautßngn•nd |혜ii,0”aö",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 87.25,
+   "end": 91.75,
+   "x": 0.1977,
+   "y": 0.8847,
+   "w": 0.6094,
+   "h": 0.0181,
+   "frames": 7,
+   "text": "weight distribution. Always consult the Owner's Ma nual before off•road driving know yourterrain 기년 trail diffvculty, and use appropriate safety gean",
+   "ocr": "weight distribution. Always consult the Owner's Ma nual before off•road driving know yourterrain 기년 trail diffvculty, and use appropriate safety gean",
+   "readings": [
+    [
+     "weight distribution. Always consult the Owner's Ma nual before off•road driving know yourterrain 기년 trail diffvculty, and use appropriate safety gean",
+     1
+    ],
+    [
+     "weight distribution. Alwavs consult the Owner's iaanual before 0厖r예d driving know vourterrain and trail difficulty, 기ld use appropriate safety gear",
+     1
+    ],
+    [
+     "weight distribution. Always consult the Owner's Manual before off•road driving know yourterrain and trail difficulty, and appropnate safety gear",
+     1
+    ],
+    [
+     "distribution. Always consult the Owner's Ma nual before off•road driving know your terrain 기년 trail difficulty, and appropnate safety gear",
+     1
+    ],
+    [
+     "weight distribution. Always consult the Owner's Ma nual before 0테•r圊d driving, know vour terrain 기년 trail difficulty, and use appropriate safety gear",
+     1
+    ],
+    [
+     "distribut,on. Always consult the Owner's Ma\"\"희 befoæofff-road driv\"g. k110`v your terrain a nd trail dffa•.ury, and “교",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 87.25,
+   "end": 89.25,
+   "x": 0.3684,
+   "y": 0.9083,
+   "w": 0.2637,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "구동계는 3.5리터 V6",
+   "ocr": "구동계는 3.5리터 ⅴ6",
+   "readings": [
+    [
+     "구동계는 3.5리터 ⅴ6",
+     4
+    ],
+    [
+     "구동계는 3.5리터 V6",
+     3
+    ],
+    [
+     "구동계는 3.5리터V6 /",
+     1
+    ],
+    [
+     "구동계는 3.5리터ⅴ6",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 87.75,
+   "end": 112.75,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1848,
+   "h": 0.0465,
+   "frames": 50,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     50
+    ],
+    [
+     "PART",
+     1
+    ],
+    [
+     "PART.P3..,éä",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 89.25,
+   "end": 91.25,
+   "x": 0.3187,
+   "y": 0.9083,
+   "w": 0.3641,
+   "h": 0.049,
+   "frames": 4,
+   "text": "에코부스트 가솔린 엔진입니다",
+   "ocr": "에코부스트 가솔린 엔진입니다",
+   "readings": [
+    [
+     "에코부스트 가솔린 엔진입니다",
+     4
+    ],
+    [
+     "에코부스트가솔리엔진입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 90.75,
+   "end": 92.25,
+   "x": 0.2102,
+   "y": 0.8681,
+   "w": 0.5844,
+   "h": 0.0181,
+   "frames": 3,
+   "text": "Optional equipment, extra-cost color options, and available Ford Accessories shown throughout. Cargo and load capacity limited weight and",
+   "ocr": "Optional equipment, extra-cost color options, and available Ford Accessories shown throughout. Cargo and load capacity limited weight and",
+   "readings": [
+    [
+     "Optional equipment, extra-cost color options, and available Ford Accessories shown throughout. Cargo and load capacity limited weight and",
+     1
+    ],
+    [
+     "Optional equipment, extra-cost color options and available Ford Accessories shown throughout. Cargo and load capacity limited weight and",
+     1
+    ],
+    [
+     "Oøtönal equipment. extra-cost ce& u\"wailable Ford Accessories sh",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 91.25,
+   "end": 93.75,
+   "x": 0.2539,
+   "y": 0.9083,
+   "w": 0.4941,
+   "h": 0.0493,
+   "frames": 5,
+   "text": "여기에 10단 자동 변속기를 맞물렸습니다",
+   "ocr": "여기에 10단 자동 변속기를 맞물렸습니다",
+   "readings": [
+    [
+     "여기에 10단 자동 변속기를 맞물렸습니다",
+     5
+    ],
+    [
+     "여기에 10단자동 변속기를 맞물렸습Lc",
+     1
+    ],
+    [
+     "″여기에 10단 자동 변속기를 맞물렸습니다”",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 93.75,
+   "end": 96.75,
+   "x": 0.2852,
+   "y": 0.9083,
+   "w": 0.4316,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "최고 출력은 405마력을 발휘합니다",
+   "ocr": "최고 출력은 405마력을 발휘합니다",
+   "readings": [
+    [
+     "최고 출력은 405마력을 발휘합니다",
+     6
+    ],
+    [
+     "최고 출력은 40.5마력을 발휘합니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 96.75,
+   "end": 99.75,
+   "x": 0.3211,
+   "y": 0.9083,
+   "w": 0.3598,
+   "h": 0.0556,
+   "frames": 6,
+   "text": "최대 토크는 66.0kgm입니다",
+   "ocr": "최대 토크는 66.Okgm입니다",
+   "readings": [
+    [
+     "최대 토크는 66.Okgm입니다",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 99.75,
+   "end": 102.75,
+   "x": 0.2402,
+   "y": 0.9083,
+   "w": 0.5207,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "제로백 수치 아쉽게도 공식 발표가 없습니다",
+   "ocr": "제로백 수치 아쉽게도 공식 발표가 없습니다",
+   "readings": [
+    [
+     "제로백 수치 아쉽게도 공식 발표가 없습니다",
+     6
+    ],
+    [
+     "촉제로백 수치 아쉽게도 공식 발표가 없습니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 102.75,
+   "end": 104.75,
+   "x": 0.3152,
+   "y": 0.9083,
+   "w": 0.3703,
+   "h": 0.0486,
+   "frames": 4,
+   "text": "육중한 차체를 여유롭게 이끄는",
+   "ocr": "육중한 차체를 여유롭게 이끄는",
+   "readings": [
+    [
+     "육중한 차체를 여유롭게 이끄는",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 104.75,
+   "end": 105.75,
+   "x": 0.3902,
+   "y": 0.9083,
+   "w": 0.2215,
+   "h": 0.049,
+   "frames": 2,
+   "text": "강력한 성능입니다",
+   "ocr": "강력한 성능입니다",
+   "readings": [
+    [
+     "강력한 성능입니다",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 105.75,
+   "end": 109.25,
+   "x": 0.2488,
+   "y": 0.9083,
+   "w": 0.5035,
+   "h": 0.0493,
+   "frames": 7,
+   "text": "효율 측면에서는 복합연비 7.4kmL입니다",
+   "ocr": "효율 측면에서는 복합연비 7.4kmL입니다",
+   "readings": [
+    [
+     "효율 측면에서는 복합연비 7.4kmL입니다",
+     7
+    ],
+    [
+     "효율 측면에서는복합연비 7.4kmL입니다",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 109.25,
+   "end": 111.25,
+   "x": 0.1,
+   "y": 0.4056,
+   "w": 0.4168,
+   "h": 0.1833,
+   "frames": 4,
+   "text": "READY",
+   "ocr": "READY",
+   "readings": [
+    [
+     "READY",
+     2
+    ],
+    [
+     "READY SET",
+     1
+    ],
+    [
+     "READVSET",
+     1
+    ],
+    [
+     "READYSET",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 109.25,
+   "end": 110.25,
+   "x": 0.5145,
+   "y": 0.8799,
+   "w": 0.1398,
+   "h": 0.0583,
+   "frames": 2,
+   "text": "르7+아하면",
+   "ocr": "르7+아하면",
+   "readings": [
+    [
+     "르7+아하면",
+     1
+    ],
+    [
+     "로 7+아6\\면",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 109.25,
+   "end": 110.75,
+   "x": 0.3734,
+   "y": 0.9083,
+   "w": 0.2531,
+   "h": 0.0486,
+   "frames": 3,
+   "text": "대형 차체를 감안하면",
+   "ocr": "대형 차체를 감안하면",
+   "readings": [
+    [
+     "대형 차체를 감안하면",
+     3
+    ],
+    [
+     "대형 자체를 감안하면",
+     2
+    ],
+    [
+     "대형싸체를깜안하면수",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.25,
+   "end": 117.25,
+   "x": 0.0621,
+   "y": 0.0326,
+   "w": 0.107,
+   "h": 0.0312,
+   "frames": 14,
+   "text": "출처 : @ford",
+   "ocr": "출처 : @ford",
+   "readings": [
+    [
+     "출처 : @ford",
+     9
+    ],
+    [
+     "출처 : aford",
+     8
+    ],
+    [
+     "@ford",
+     6
+    ],
+    [
+     "출처 : (öford",
+     5
+    ],
+    [
+     "출처: aford",
+     2
+    ],
+    [
+     "aford",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 110.75,
+   "end": 112.75,
+   "x": 0.3555,
+   "y": 0.9083,
+   "w": 0.2898,
+   "h": 0.0486,
+   "frames": 4,
+   "text": "수긍할 수 있는 수치네요",
+   "ocr": "수긍할 수 있는 수치네요",
+   "readings": [
+    [
+     "수긍할 수 있는 수치네요",
+     4
+    ],
+    [
+     "수긍말 수있는수치 네요",
+     1
+    ],
+    [
+     "수긍할 수있는수치 네요",
+     1
+    ],
+    [
+     "수긍할 수있는}수치 네요",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 111.25,
+   "end": 112.25,
+   "x": 0.1016,
+   "y": 0.3667,
+   "w": 0.7906,
+   "h": 0.2278,
+   "frames": 2,
+   "text": "READY SETGt",
+   "ocr": "READY SETGt",
+   "readings": [
+    [
+     "READY SETGt",
+     1
+    ],
+    [
+     "READY SETGd",
+     1
+    ],
+    [
+     "READVSETGd",
+     1
+    ],
+    [
+     "READV SET,Ä",
+     1
+    ],
+    [
+     "READVSETÄ",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 112.75,
+   "end": 114.75,
+   "x": 0.2219,
+   "y": 0.4278,
+   "w": 0.5563,
+   "h": 0.15,
+   "frames": 4,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     4
+    ],
+    [
+     "PART 04. )十최",
+     1
+    ],
+    [
+     "=PART d4. 가격",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 112.75,
+   "end": 115.25,
+   "x": 0.2828,
+   "y": 0.8681,
+   "w": 0.5242,
+   "h": 0.0181,
+   "frames": 3,
+   "text": "extra-cost color options and available Ford Accessories shown throughout. Cargo and |0馝 capacity limited by weight and weigh",
+   "ocr": "extra-cost color options and available Ford Accessories shown throughout. Cargo and |0馝 capacity limited by weight and weigh",
+   "readings": [
+    [
+     "extra-cost color options and available Ford Accessories shown throughout. Cargo and |0馝 capacity limited by weight and weigh",
+     1
+    ],
+    [
+     "costcolor opttons. ædavailable Ford Accessoriesshown throughout• rgoandload pacity limited byweightand",
+     1
+    ],
+    [
+     "Optional equipment, extra-cost color options, and available Ford Accessories shown throughout. Cargo and |0馝 capac•ty limited by weight and weight",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 112.75,
+   "end": 113.75,
+   "x": 0.3738,
+   "y": 0.9083,
+   "w": 0.2551,
+   "h": 0.049,
+   "frames": 2,
+   "text": "네 번째는 가격입니다",
+   "ocr": "네 번째는 가격입니다",
+   "readings": [
+    [
+     "네 번째는 가격입니다",
+     2
+    ],
+    [
+     "네 번째는기격입니다』",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 113.75,
+   "end": 115.25,
+   "x": 0.3996,
+   "y": 0.9083,
+   "w": 0.2016,
+   "h": 0.0486,
+   "frames": 3,
+   "text": "국내 출시 사양은",
+   "ocr": "국내 출시 사양은",
+   "readings": [
+    [
+     "국내 출시 사양은",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 114.75,
+   "end": 145.25,
+   "x": 0.7887,
+   "y": 0.0472,
+   "w": 0.1836,
+   "h": 0.0465,
+   "frames": 61,
+   "text": "PART 04. 가격",
+   "ocr": "PART 04. 가격",
+   "readings": [
+    [
+     "PART 04. 가격",
+     61
+    ],
+    [
+     "PART 04. 가리",
+     9
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 114.75,
+   "end": 117.25,
+   "x": 0.5742,
+   "y": 0.8861,
+   "w": 0.2164,
+   "h": 0.0167,
+   "frames": 5,
+   "text": "know yourterrain 기년 trail difficulty, and use appropriate safety gear",
+   "ocr": "know yourterrain 기년 trail difficulty, and use appropriate safety gear",
+   "readings": [
+    [
+     "know yourterrain 기년 trail difficulty, and use appropriate safety gear",
+     1
+    ],
+    [
+     "in trail difficulty, 기년 use gppropriate safety gea%",
+     1
+    ],
+    [
+     "and use appropriate safety gear",
+     1
+    ],
+    [
+     "and use appropnate safety gear",
+     1
+    ],
+    [
+     "before off•road driving know yOur terrain and trail difficulty, 기년 use appropriate",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 115.25,
+   "end": 117.25,
+   "x": 0.1953,
+   "y": 0.8681,
+   "w": 0.2523,
+   "h": 0.0181,
+   "frames": 4,
+   "text": "Optional equipment, extra-cost color options, and available Ford Acc",
+   "ocr": "Optional equipment, extra-cost color options, and available Ford Acc",
+   "readings": [
+    [
+     "Optional equipment, extra-cost color options, and available Ford Acc",
+     1
+    ],
+    [
+     "OptiOnal equipment, extra-cost COlOr options, and avai",
+     1
+    ],
+    [
+     "OptiOnal equipment, extra-cost COlOr options, and ava",
+     1
+    ],
+    [
+     "Optionaléåü nt, extra-costcoloro s,and available Ford Accessoriesshown throughout. Cargo and load capacity limitedbywei",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 115.25,
+   "end": 116.75,
+   "x": 0.657,
+   "y": 0.8681,
+   "w": 0.1539,
+   "h": 0.0181,
+   "frames": 3,
+   "text": "s own throughout. Cargo and load capac•ty limited byweight and wevght",
+   "ocr": "s own throughout. Cargo and load capac•ty limited byweight and wevght",
+   "readings": [
+    [
+     "s own throughout. Cargo and load capac•ty limited byweight and wevght",
+     1
+    ],
+    [
+     "capac•ty limited by weight and weight",
+     1
+    ],
+    [
+     "capac•ty limited by weight and wevght",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 115.25,
+   "end": 116.25,
+   "x": 0.4961,
+   "y": 0.8681,
+   "w": 0.0781,
+   "h": 0.0167,
+   "frames": 2,
+   "text": "ries shown through",
+   "ocr": "ries shown through",
+   "readings": [
+    [
+     "ries shown through",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 115.25,
+   "end": 117.25,
+   "x": 0.2125,
+   "y": 0.8861,
+   "w": 0.2012,
+   "h": 0.0167,
+   "frames": 4,
+   "text": "distribution. Always consult the Owner's Man ual b",
+   "ocr": "distribution. Always consult the Owner's Man ual b",
+   "readings": [
+    [
+     "distribution. Always consult the Owner's Man ual b",
+     1
+    ],
+    [
+     "distribution. Always consult the Owner's Man ual",
+     1
+    ],
+    [
+     "distribution. Always consult the Owner's Man ual befOre off•road",
+     1
+    ],
+    [
+     "distribut' Al•vvaYS consult the",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 115.25,
+   "end": 117.25,
+   "x": 0.3187,
+   "y": 0.9083,
+   "w": 0.3641,
+   "h": 0.0497,
+   "frames": 4,
+   "text": "최고급 트림인 플래티넘입니다",
+   "ocr": "최고급 트림인 플래티넘입니다",
+   "readings": [
+    [
+     "최고급 트림인 플래티넘입니다",
+     4
+    ],
+    [
+     "최고급 투림인夕래티넘입니다",
+     2
+    ],
+    [
+     "최고급 트림인,플래티넘입니다",
+     1
+    ],
+    [
+     "최고급 트림인•플래티넘입니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 117.25,
+   "end": 145.25,
+   "x": 0.0621,
+   "y": 0.0326,
+   "w": 0.1074,
+   "h": 0.0319,
+   "frames": 56,
+   "text": "출처 : @ford",
+   "ocr": "출처 : @ford",
+   "readings": [
+    [
+     "출처 : @ford",
+     32
+    ],
+    [
+     "출처: aford",
+     31
+    ],
+    [
+     "aford",
+     5
+    ],
+    [
+     "출처 : aford",
+     5
+    ],
+    [
+     "출처 : å:ford",
+     4
+    ],
+    [
+     "출처 : åford",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 117.25,
+   "end": 120.75,
+   "x": 0.2441,
+   "y": 0.9083,
+   "w": 0.5133,
+   "h": 0.0549,
+   "frames": 7,
+   "text": "시작 가격은 공식적으로 8,240만원입니다",
+   "ocr": "시작 가격은 공식적으로 8,240만원입니다",
+   "readings": [
+    [
+     "시작 가격은 공식적으로 8,240만원입니다",
+     7
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 120.75,
+   "end": 123.75,
+   "x": 0.2316,
+   "y": 0.9083,
+   "w": 0.5395,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "당시 개별소비세 인하분이 반영된 금액입니다",
+   "ocr": "당시 개별소비세 인하분이 반영된 금액입니다",
+   "readings": [
+    [
+     "당시 개별소비세 인하분이 반영된 금액입니다",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 123.75,
+   "end": 125.75,
+   "x": 0.3422,
+   "y": 0.9083,
+   "w": 0.3172,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "수입 대형 가솔린 모델이라",
+   "ocr": "수입 대형 가솔린 모델이라",
+   "readings": [
+    [
+     "수입 대형 가솔린 모델이라",
+     4
+    ],
+    [
+     "수입 대형가솔린 모델이라",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 125.75,
+   "end": 127.75,
+   "x": 0.316,
+   "y": 0.9083,
+   "w": 0.3703,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "친환경 보조금 혜택은 없습니다",
+   "ocr": "친환경 보조금 혜택은 없습니다",
+   "readings": [
+    [
+     "친환경 보조금 혜택은 없습니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 127.75,
+   "end": 129.25,
+   "x": 0.3906,
+   "y": 0.9083,
+   "w": 0.2203,
+   "h": 0.0493,
+   "frames": 3,
+   "text": "따라서 실구매가는",
+   "ocr": "따라서 실구매가는",
+   "readings": [
+    [
+     "따라서 실구매가는",
+     3
+    ],
+    [
+     "따라서씰구매가는",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 129.25,
+   "end": 130.25,
+   "x": 0.3461,
+   "y": 0.9083,
+   "w": 0.3078,
+   "h": 0.049,
+   "frames": 2,
+   "text": "취등록세를 더해",
+   "ocr": "취구매가는 등록세를 더해",
+   "readings": [
+    [
+     "취구매가는 등록세를 더해",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 130.25,
+   "end": 132.25,
+   "x": 0.3742,
+   "y": 0.9083,
+   "w": 0.2535,
+   "h": 0.0549,
+   "frames": 4,
+   "text": "8,700만원 선입니다",
+   "ocr": "8,700만원 선입니다",
+   "readings": [
+    [
+     "8,700만원 선입니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 131.75,
+   "end": 133.75,
+   "x": 0.1,
+   "y": 0.4056,
+   "w": 0.5156,
+   "h": 0.1833,
+   "frames": 4,
+   "text": "READY",
+   "ocr": "READY",
+   "readings": [
+    [
+     "READY",
+     2
+    ],
+    [
+     "READY SET",
+     1
+    ],
+    [
+     "READY SEL",
+     1
+    ],
+    [
+     "READYSET",
+     1
+    ],
+    [
+     "READY 뾰1",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 132.25,
+   "end": 135.25,
+   "x": 0.2098,
+   "y": 0.9083,
+   "w": 0.582,
+   "h": 0.0493,
+   "frames": 6,
+   "text": "현재는 중고차 시장을 통해 만나보실 수 있습니다",
+   "ocr": "현재는 중고차 시장을 통해 만나보실 수 있습니다",
+   "readings": [
+    [
+     "현재는 중고차 시장을 통해 만나보실 수 있습니다",
+     6
+    ],
+    [
+     "현재는 중고차 시장을흥해 만나보실 수 있습니r-E",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 133.75,
+   "end": 134.75,
+   "x": 0.1,
+   "y": 0.4056,
+   "w": 0.7719,
+   "h": 0.1889,
+   "frames": 2,
+   "text": "READY SETGd",
+   "ocr": "READY SETGd",
+   "readings": [
+    [
+     "READY SETGd",
+     1
+    ],
+    [
+     "READYSETcGd",
+     1
+    ],
+    [
+     "READYSETGd",
+     1
+    ],
+    [
+     "EADY SET",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 135.25,
+   "end": 139.25,
+   "x": 0.2004,
+   "y": 0.9083,
+   "w": 0.6,
+   "h": 0.0493,
+   "frames": 8,
+   "text": "여러분은 이 거대한 SUV를 어떻게 생각하시나요?",
+   "ocr": "여러분은 이 거대한 SUV를 어떻게 생각하시나요?",
+   "readings": [
+    [
+     "여러분은 이 거대한 SUV를 어떻게 생각하시나요?",
+     8
+    ],
+    [
+     "여러분은 이 거대한 SIJV를 어떻게 생각하시나요?",
+     6
+    ],
+    [
+     "여러분은℃l 거대한 SUV를 어떻게 생각하시나요?",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 139.25,
+   "end": 140.75,
+   "x": 0.3469,
+   "y": 0.9083,
+   "w": 0.3082,
+   "h": 0.0497,
+   "frames": 3,
+   "text": "댓글로 의견을 남겨주세요",
+   "ocr": "댓글로 의견을 남겨주세요",
+   "readings": [
+    [
+     "댓글로 의견을 남겨주세요",
+     3
+    ],
+    [
+     "댓글로 의견을 남겨준세요",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 140.75,
+   "end": 142.75,
+   "x": 0.3187,
+   "y": 0.9083,
+   "w": 0.3641,
+   "h": 0.0493,
+   "frames": 4,
+   "text": "구독과 좋아요를 부탁드립니다",
+   "ocr": "구독과 좋아요를 부탁드립 니다",
+   "readings": [
+    [
+     "구독과 좋아요를 부탁드립 니다",
+     4
+    ],
+    [
+     "구독과 좋아요를 부탁드립니다",
+     4
+    ],
+    [
+     "구독과 좋아요를 부탁도립 니다",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 142.75,
+   "end": 144.75,
+   "x": 0.3559,
+   "y": 0.9083,
+   "w": 0.2895,
+   "h": 0.0486,
+   "frames": 4,
+   "text": "알림 설정도 잊지 마세요",
+   "ocr": "알림 설정도 잊지 마세요",
+   "readings": [
+    [
+     "알림 설정도 잊지 마세요",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 145.75,
+   "end": 146.75,
+   "x": 0.1736,
+   "y": 0.7781,
+   "w": 0.64,
+   "h": 0.1288,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ],
+    [
+     "사각지대; 아찔하셨죠?",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 147.75,
+   "end": 149.25,
+   "x": 0.025,
+   "y": 0.05,
+   "w": 0.8562,
+   "h": 0.1444,
+   "frames": 3,
+   "text": "안 보이던 구석까지 보입니다.",
+   "ocr": "한보이면 구세까지 보위니나。",
+   "readings": [
+    [
+     "한보이면 구세까지 보위니나。",
+     1
+    ],
+    [
+     "한보이면 구세까지 보위니다。",
+     1
+    ],
+    [
+     "한 모@1믿 구세까지 보위니다é",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 147.75,
+   "end": 149.25,
+   "x": 0.0375,
+   "y": 0.0556,
+   "w": 0.8438,
+   "h": 0.1333,
+   "frames": 3,
+   "text": "안 보이던 광각이 보입니다.",
+   "ocr": "안모이던 관가제 모입니다。",
+   "readings": [
+    [
+     "안모이던 관가제 모입니다。",
+     1
+    ],
+    [
+     "한보이던 관가쪠 보입니다。",
+     1
+    ],
+    [
+     "한보이던 관가쪠 모입니다。",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 149.25,
+   "end": 150.25,
+   "x": 0.3516,
+   "y": 0.3444,
+   "w": 0.0922,
+   "h": 0.0306,
+   "frames": 2,
+   "text": "Optic-Gtass",
+   "ocr": "Optic-Gtass",
+   "readings": [
+    [
+     "Optic-Gtass",
+     1
+    ],
+    [
+     "OPtic-GIass",
+     1
+    ],
+    [
+     "OPtic-Ol•ss",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 149.75,
+   "end": 150.75,
+   "x": 0.5506,
+   "y": 0.7698,
+   "w": 0.0898,
+   "h": 0.0462,
+   "frames": 2,
+   "text": "4터글4스",
+   "ocr": "4터글4스",
+   "readings": [
+    [
+     "4터글4스",
+     1
+    ],
+    [
+     "4하4飇스",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T15:29:24"
+}

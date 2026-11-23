@@ -1,0 +1,15 @@
+# per-car agy edit sessions (scenario copies and conversation ids, made by agy_edit.py)
+video-automation/work/agy_sessions/
+# the pipeline's videos and images (Drive downloads, clips, stills, thumbnails, check frames): kept out of git
+# (portable_paths.DATA_DIR); the release zip ships its light part
+/구글드라이브다운파일/
+
+# teamwork scratch (plans, handoffs): per-run metadata, never committed
+.agents/teamwork/
+
+# generated: Python bytecode, graphify code graph, temporary scenario/stage backups
+__pycache__/
+graphify-out/
+video-automation/work/capcut_stage/_replaced/
+video-automation/work/scenarios/_backup/
+video-automation/work/scenarios/*.draft.json

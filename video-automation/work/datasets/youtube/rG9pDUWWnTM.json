@@ -1,0 +1,981 @@
+{
+ "id": "rG9pDUWWnTM",
+ "tab": "shorts",
+ "upload_date": "20261017",
+ "duration": 37.15,
+ "title": "럭셔리만 생각했다면 오산. 마이바흐 GLS 600 성능",
+ "url": "https://www.youtube.com/watch?v=rG9pDUWWnTM",
+ "width": 720,
+ "height": 1280,
+ "format": "shortform",
+ "aspect": "9:16",
+ "cuts": [
+  31.0,
+  32.47,
+  33.47,
+  35.03
+ ],
+ "ocr_readings": 1263,
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 9.75,
+   "x": 0.0038,
+   "y": 0.3523,
+   "w": 0.2253,
+   "h": 0.0098,
+   "frames": 20,
+   "text": "풀 서: MercedesBen기nd",
+   "ocr": "풀 서: MercedesBen기nd",
+   "readings": [
+    [
+     "풀 서: MercedesBen기nd",
+     20
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.75,
+   "x": 0.2208,
+   "y": 0.474,
+   "w": 0.4625,
+   "h": 0.0498,
+   "frames": 4,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     3
+    ],
+    [
+     "PART 031",
+     1
+    ],
+    [
+     "PART 03",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 1.25,
+   "x": 0.3771,
+   "y": 0.6297,
+   "w": 0.2479,
+   "h": 0.0152,
+   "frames": 3,
+   "text": "세번째는 성능입니다",
+   "ocr": "세번패는 성능입니다",
+   "readings": [
+    [
+     "세번패는 성능입니다",
+     3
+    ],
+    [
+     "세번째는 성능입니다",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.0,
+   "end": 36.75,
+   "x": 0.3563,
+   "y": 0.8141,
+   "w": 0.4847,
+   "h": 0.0449,
+   "frames": 74,
+   "text": "Optic-GIass",
+   "ocr": "Optic-GIass",
+   "readings": [
+    [
+     "Optic-GIass",
+     74
+    ],
+    [
+     "Optic-Glass",
+     74
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 36.75,
+   "x": 0.0715,
+   "y": 0.1172,
+   "w": 0.8583,
+   "h": 0.0477,
+   "frames": 73,
+   "text": "도로 위의 퍼스트 클래스",
+   "ocr": "도로 위의 퍼스트 클래스",
+   "readings": [
+    [
+     "도로 위의 퍼스트 클래스",
+     73
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 0.25,
+   "end": 36.75,
+   "x": 0.1569,
+   "y": 0.1746,
+   "w": 0.6896,
+   "h": 0.0477,
+   "frames": 73,
+   "text": "마이바흐 GLS 600",
+   "ocr": "마이바흐 GLS 600",
+   "readings": [
+    [
+     "마이바흐 GLS 600",
+     72
+    ],
+    [
+     "마이바호GLs",
+     1
+    ],
+    [
+     "마이바흐GLs",
+     1
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.25,
+   "end": 4.25,
+   "x": 0.3563,
+   "y": 0.6297,
+   "w": 0.2875,
+   "h": 0.0148,
+   "frames": 6,
+   "text": "구동계는 4.0L V8 트윈",
+   "ocr": "구동계는 4.OL V8 트원",
+   "readings": [
+    [
+     "구동계는 4.OL V8 트원",
+     6
+    ],
+    [
+     "구동계는 4.OL V8 트윈",
+     6
+    ],
+    [
+     "구동계는 4.OL ⅴ8 트윈",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 1.75,
+   "end": 30.75,
+   "x": 0.7896,
+   "y": 0.357,
+   "w": 0.184,
+   "h": 0.0145,
+   "frames": 58,
+   "text": "PART 03. 성능",
+   "ocr": "PART 03. 성능",
+   "readings": [
+    [
+     "PART 03. 성능",
+     58
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 2.75,
+   "end": 4.25,
+   "x": 0.1264,
+   "y": 0.4766,
+   "w": 0.0809,
+   "h": 0.0371,
+   "frames": 3,
+   "text": "771",
+   "ocr": "771",
+   "readings": [
+    [
+     "771",
+     2
+    ],
+    [
+     "171",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 3.25,
+   "end": 4.25,
+   "x": 0.2188,
+   "y": 0.5754,
+   "w": 0.0583,
+   "h": 0.0129,
+   "frames": 2,
+   "text": "lil",
+   "ocr": "lil",
+   "readings": [
+    [
+     "lil",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 3.75,
+   "end": 5.25,
+   "x": 0.3236,
+   "y": 0.5742,
+   "w": 0.2986,
+   "h": 0.018,
+   "frames": 2,
+   "text": "D ULTRARANGEhighI)",
+   "ocr": "D ULTRARANGEhighI)",
+   "readings": [
+    [
+     "D ULTRARANGEhighI)",
+     1
+    ],
+    [
+     "LTRA RANGE high be",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 4.25,
+   "end": 6.25,
+   "x": 0.3035,
+   "y": 0.6297,
+   "w": 0.3965,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "터보 가솔린 엔진을 탑재했습니다",
+   "ocr": "터보 가솔린 엔진을 탑재했습니다",
+   "readings": [
+    [
+     "터보 가솔린 엔진을 탑재했습니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 5.75,
+   "end": 6.75,
+   "x": 0.0854,
+   "y": 0.5629,
+   "w": 0.0868,
+   "h": 0.0178,
+   "frames": 2,
+   "text": "U toT",
+   "ocr": "U toT",
+   "readings": [
+    [
+     "U toT",
+     1
+    ],
+    [
+     "Upto%",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 5.75,
+   "end": 6.75,
+   "x": 0.0944,
+   "y": 0.5836,
+   "w": 0.3125,
+   "h": 0.018,
+   "frames": 2,
+   "text": "exclusive Maybach 젒IO",
+   "ocr": "exclusive Maybach 젒IO",
+   "readings": [
+    [
+     "exclusive Maybach 젒IO",
+     1
+    ],
+    [
+     "c usive Maybach w el로",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 6.25,
+   "end": 9.25,
+   "x": 0.2535,
+   "y": 0.6297,
+   "w": 0.4924,
+   "h": 0.0152,
+   "frames": 6,
+   "text": "여기에 48V 마일드 하이브리드 시스템이",
+   "ocr": "여기에 48V 마일드 하이브리드 시스템이",
+   "readings": [
+    [
+     "여기에 48V 마일드 하이브리드 시스템이",
+     6
+    ],
+    [
+     "여기에 48ⅴ 마일드 하이브리드 시스템이",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 7.25,
+   "end": 9.25,
+   "x": 0.0819,
+   "y": 0.5742,
+   "w": 0.2903,
+   "h": 0.018,
+   "frames": 4,
+   "text": "Adaptive LED Tail Lights",
+   "ocr": "Adaptive LED Tail Lights",
+   "readings": [
+    [
+     "Adaptive LED Tail Lights",
+     3
+    ],
+    [
+     "il Lights",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 7.75,
+   "end": 9.25,
+   "x": 0.0903,
+   "y": 0.5754,
+   "w": 0.2826,
+   "h": 0.0168,
+   "frames": 3,
+   "text": "(Idpli\\eI.EI)laiIIi2111s",
+   "ocr": "(Idpli\\eI.EI)laiIIi2111s",
+   "readings": [
+    [
+     "(Idpli\\eI.EI)laiIIi2111s",
+     2
+    ],
+    [
+     "(ldpli\\el.lll)lailliullls",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 9.75,
+   "end": 19.75,
+   "x": 0.0035,
+   "y": 0.3523,
+   "w": 0.2257,
+   "h": 0.0098,
+   "frames": 20,
+   "text": "출처: MercedesBen기nd",
+   "ocr": "출처: MercedesBen기nd",
+   "readings": [
+    [
+     "출처: MercedesBen기nd",
+     10
+    ],
+    [
+     "출세 MercedesBen기nd",
+     10
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 9.75,
+   "end": 11.75,
+   "x": 0.3187,
+   "y": 0.6297,
+   "w": 0.3639,
+   "h": 0.0152,
+   "frames": 4,
+   "text": "주행의 부드러움을 더해줍니다",
+   "ocr": "주행의 부드러움을 더해줍니다",
+   "readings": [
+    [
+     "주행의 부드러움을 더해줍니다",
+     4
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 11.75,
+   "end": 14.75,
+   "x": 0.2972,
+   "y": 0.6297,
+   "w": 0.4076,
+   "h": 0.0152,
+   "frames": 6,
+   "text": "공식 수치상 최고 출력 557마력과",
+   "ocr": "공식 수치상 최고 출력 557마력과",
+   "readings": [
+    [
+     "공식 수치상 최고 출력 557마력과",
+     6
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 12.25,
+   "end": 15.25,
+   "x": 0.0806,
+   "y": 0.5828,
+   "w": 0.3104,
+   "h": 0.0187,
+   "frames": 4,
+   "text": "and AIRBALANCE Package",
+   "ocr": "and AIRBALANCE Package",
+   "readings": [
+    [
+     "and AIRBALANCE Package",
+     1
+    ],
+    [
+     "and AIRBALANCE Packag",
+     1
+    ],
+    [
+     "and AIRBALANCE•Package",
+     1
+    ],
+    [
+     "and AIRBALAN CÉOac",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 12.25,
+   "end": 13.25,
+   "x": 0.0826,
+   "y": 0.5844,
+   "w": 0.1083,
+   "h": 0.0133,
+   "frames": 2,
+   "text": "all(i .\\IKI!",
+   "ocr": "all(i .\\IKI!",
+   "readings": [
+    [
+     "all(i .\\IKI!",
+     1
+    ],
+    [
+     "all(i.\\ll{il",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 13.75,
+   "end": 15.25,
+   "x": 0.0826,
+   "y": 0.5633,
+   "w": 0.3104,
+   "h": 0.0152,
+   "frames": 2,
+   "text": "61('()l(Jl •\\lllbi(illl l.igllliIlR",
+   "ocr": "61('()l(Jl •\\lllbi(illl l.igllliIlR",
+   "readings": [
+    [
+     "61('()l(Jl •\\lllbi(illl l.igllliIlR",
+     1
+    ],
+    [
+     "()4 ( \\llli)it•ll[ l.ightinc",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.25,
+   "end": 15.25,
+   "x": 0.0806,
+   "y": 0.5617,
+   "w": 0.2986,
+   "h": 0.0187,
+   "frames": 2,
+   "text": "64 C010r Ambient Lightin",
+   "ocr": "64 C010r Ambient Lightin",
+   "readings": [
+    [
+     "64 C010r Ambient Lightin",
+     1
+    ],
+    [
+     "64 C010rAmbient ghtin",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 14.75,
+   "end": 18.25,
+   "x": 0.2861,
+   "y": 0.6293,
+   "w": 0.4299,
+   "h": 0.0176,
+   "frames": 7,
+   "text": "최대 토크 74.4kgf·m를 발휘합니다",
+   "ocr": "최대 토크 74.4kgfm를 발휘합니다",
+   "readings": [
+    [
+     "최대 토크 74.4kgfm를 발휘합니다",
+     7
+    ],
+    [
+     "최대 토크 74.4kgfmS 발휘합니다",
+     7
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 15.75,
+   "end": 17.25,
+   "x": 0.0833,
+   "y": 0.5742,
+   "w": 0.2215,
+   "h": 0.018,
+   "frames": 2,
+   "text": "Unique Maybach signia",
+   "ocr": "Unique Maybach signia",
+   "readings": [
+    [
+     "Unique Maybach signia",
+     1
+    ],
+    [
+     "Unique May",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 17.75,
+   "end": 19.75,
+   "x": 0.0806,
+   "y": 0.5617,
+   "w": 0.3986,
+   "h": 0.0187,
+   "frames": 4,
+   "text": "MuIticontour Seats with Massage",
+   "ocr": "MuIticontour Seats with Massage",
+   "readings": [
+    [
+     "MuIticontour Seats with Massage",
+     3
+    ],
+    [
+     "Måiticontour Seats with Massage",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 17.75,
+   "end": 18.75,
+   "x": 0.084,
+   "y": 0.5629,
+   "w": 0.3372,
+   "h": 0.0146,
+   "frames": 2,
+   "text": "Nllllli(()I)lt)llI'.Seatqvilll",
+   "ocr": "Nllllli(()I)lt)llI'.Seatqvilll",
+   "readings": [
+    [
+     "Nllllli(()I)lt)llI'.Seatqvilll",
+     1
+    ],
+    [
+     "Illlli(()I)l()llI'.Sput•villl \\1『가``a및e",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 17.75,
+   "end": 19.75,
+   "x": 0.0806,
+   "y": 0.5828,
+   "w": 0.2903,
+   "h": 0.0187,
+   "frames": 4,
+   "text": "CIimatization & Memory",
+   "ocr": "CIimatization & Memory",
+   "readings": [
+    [
+     "CIimatization & Memory",
+     3
+    ],
+    [
+     "Climatization & Memorv",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 18.25,
+   "end": 19.75,
+   "x": 0.0847,
+   "y": 0.5633,
+   "w": 0.0576,
+   "h": 0.0133,
+   "frames": 2,
+   "text": "llllli",
+   "ocr": "llllli",
+   "readings": [
+    [
+     "llllli",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 18.25,
+   "end": 20.75,
+   "x": 0.316,
+   "y": 0.6297,
+   "w": 0.3681,
+   "h": 0.0152,
+   "frames": 5,
+   "text": "거대한 차체에도 정지 상태에서",
+   "ocr": "거대한 자체에도 정지 상태에서",
+   "readings": [
+    [
+     "거대한 자체에도 정지 상태에서",
+     5
+    ],
+    [
+     "거대한 차체에도 정지 상태에서",
+     3
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 19.75,
+   "end": 24.75,
+   "x": 0.0042,
+   "y": 0.3523,
+   "w": 0.225,
+   "h": 0.0098,
+   "frames": 10,
+   "text": "풀 서: MercedesBenztnd",
+   "ocr": "풀 서: MercedesBenztnd",
+   "readings": [
+    [
+     "풀 서: MercedesBenztnd",
+     10
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.25,
+   "end": 21.75,
+   "x": 0.0819,
+   "y": 0.5727,
+   "w": 0.4347,
+   "h": 0.0187,
+   "frames": 3,
+   "text": "Automatic Maybach Running Boards",
+   "ocr": "Automatic Maybach Running Boards",
+   "readings": [
+    [
+     "Automatic Maybach Running Boards",
+     2
+    ],
+    [
+     "Automatic Maybach Running Boar",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 20.75,
+   "end": 24.25,
+   "x": 0.2326,
+   "y": 0.6293,
+   "w": 0.5375,
+   "h": 0.0156,
+   "frames": 7,
+   "text": "시속 100KM까지 단 4.9초 만에 도달합니다",
+   "ocr": "시속 100KM까지 단 4.9초 만에 도달합니다",
+   "readings": [
+    [
+     "시속 100KM까지 단 4.9초 만에 도달합니다",
+     7
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 24.25,
+   "end": 26.75,
+   "x": 0.3083,
+   "y": 0.6293,
+   "w": 0.3847,
+   "h": 0.0156,
+   "frames": 5,
+   "text": "한국 출시 사양 기준 복합 연비는",
+   "ocr": "한국 출시 사양 기준 복합 연비는",
+   "readings": [
+    [
+     "한국 출시 사양 기준 복합 연비는",
+     5
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 24.75,
+   "end": 30.75,
+   "x": 0.0042,
+   "y": 0.3523,
+   "w": 0.225,
+   "h": 0.0098,
+   "frames": 12,
+   "text": "출처: MercedesBen기nd",
+   "ocr": "출처: MercedesBen기nd",
+   "readings": [
+    [
+     "출처: MercedesBen기nd",
+     10
+    ],
+    [
+     "출세 MercedesBen기nd",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 26.75,
+   "end": 27.75,
+   "x": 0.0806,
+   "y": 0.5617,
+   "w": 0.2625,
+   "h": 0.0148,
+   "frames": 2,
+   "text": "Mercedes Me Connect",
+   "ocr": "Mercedes Me Connect",
+   "readings": [
+    [
+     "Mercedes Me Connect",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 26.75,
+   "end": 27.75,
+   "x": 0.0792,
+   "y": 0.5828,
+   "w": 0.3069,
+   "h": 0.0187,
+   "frames": 2,
+   "text": "with Remote Engine Start",
+   "ocr": "with Remote Engine Start",
+   "readings": [
+    [
+     "with Remote Engine Start",
+     2
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 26.75,
+   "end": 30.75,
+   "x": 0.2562,
+   "y": 0.6297,
+   "w": 0.4917,
+   "h": 0.0152,
+   "frames": 8,
+   "text": "리터당 6.1KM로 공식 인증을 받았습니다",
+   "ocr": "리터당 6.IKM로 공식 인증을 받았습니다",
+   "readings": [
+    [
+     "리터당 6.IKM로 공식 인증을 받았습니다",
+     8
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 31.25,
+   "end": 32.25,
+   "x": 0.1792,
+   "y": 0.5848,
+   "w": 0.6396,
+   "h": 0.0453,
+   "frames": 2,
+   "text": "사각지대, 아찔하셨죠?",
+   "ocr": "사각지대, 아찔하셨죠?",
+   "readings": [
+    [
+     "사각지대, 아찔하셨죠?",
+     2
+    ]
+   ],
+   "caption": true,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 33.25,
+   "end": 34.75,
+   "x": 0.1319,
+   "y": 0.357,
+   "w": 0.7736,
+   "h": 0.0461,
+   "frames": 3,
+   "text": "한이던 구넣식7가/`1 모법,니과!뇨",
+   "ocr": "한이던 구넣식7가/`1 모법,니과!뇨",
+   "readings": [
+    [
+     "한이던 구넣식7가/`1 모법,니과!뇨",
+     1
+    ],
+    [
+     "한이던 구넣식가/`1 모법,니과!",
+     1
+    ],
+    [
+     "간 한이던 구넣식가/`1 모법,니과!=",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 35.25,
+   "end": 36.75,
+   "x": 0.3514,
+   "y": 0.4633,
+   "w": 0.0917,
+   "h": 0.0094,
+   "frames": 3,
+   "text": "OPtic-Glass",
+   "ocr": "OPtic-Glass",
+   "readings": [
+    [
+     "OPtic-Glass",
+     1
+    ],
+    [
+     "OPtic-GlasS",
+     1
+    ],
+    [
+     "Optic•Class",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  },
+  {
+   "start": 35.25,
+   "end": 36.25,
+   "x": 0.5542,
+   "y": 0.5898,
+   "w": 0.0896,
+   "h": 0.016,
+   "frames": 2,
+   "text": "음틱글개스",
+   "ocr": "음틱글개스",
+   "readings": [
+    [
+     "음틱글개스",
+     1
+    ],
+    [
+     "음맄글개스",
+     1
+    ]
+   ],
+   "caption": false,
+   "fixed_by": "agy"
+  }
+ ],
+ "agy": true,
+ "note": "",
+ "made": "2026-11-11T16:15:13"
+}

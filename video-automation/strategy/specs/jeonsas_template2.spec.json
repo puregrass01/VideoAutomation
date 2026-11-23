@@ -1,0 +1,1657 @@
+{
+  "spec_version": "0.1",
+  "meta": {
+    "template_name": "jeonsas_template2",
+    "source_type": "team_space_draft",
+    "duration_s": 74.433,
+    "notes": "폰트는 Noto Sans KR 규칙(10장)을 적용하고, pyCapCut 미매칭·VIP 에셋은 needs_review로 분리함."
+  },
+  "canvas": {
+    "w": 1920,
+    "h": 1080,
+    "fps": 30.0,
+    "aspect": "16:9"
+  },
+  "audio": {
+    "bgm_slot": "bgm_main",
+    "bpm": null,
+    "downbeats_s": [
+      0.0,
+      2.233,
+      4.433,
+      5.8,
+      8.733,
+      13.567,
+      17.667,
+      22.333,
+      32.3,
+      34.433,
+      40.833,
+      50.667,
+      58.233,
+      64.467,
+      65.2
+    ],
+    "sections": [
+      {
+        "label": "full",
+        "start": 0.0,
+        "end": 74.433
+      }
+    ]
+  },
+  "styles": {
+    "default_ko": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 7.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "style_s01_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.0,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    "style_s03_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 8.94,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    "style_s05_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.0,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    "style_s05_2": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 3.46,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.394
+      ]
+    },
+    "style_s07_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 3.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ]
+    },
+    "style_s07_2": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 4.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.67,
+        0.5
+      ]
+    },
+    "style_s07_3": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 4.5,
+      "color": "#D2802D",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.418,
+        0.5
+      ]
+    },
+    "style_s08_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 4.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.875
+      ]
+    },
+    "style_s08_2": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 3.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.096
+      ]
+    },
+    "style_s08_3": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 4.5,
+      "color": "#CFCFCF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.87
+      ]
+    },
+    "style_s08_4": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 4.5,
+      "color": "#FF383F",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.87
+      ]
+    },
+    "style_s08_5": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 3.0,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.756
+      ]
+    },
+    "style_s09_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 4.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.67,
+        0.5
+      ]
+    },
+    "style_s09_2": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 4.5,
+      "color": "#D2802D",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.418,
+        0.5
+      ]
+    },
+    "style_s10_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 5.0,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.879
+      ]
+    },
+    "style_s11_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 3.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.096
+      ]
+    },
+    "style_s11_2": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.276,
+        0.866
+      ]
+    },
+    "style_s11_3": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 4.0,
+      "color": "#E2E2E2",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.711,
+        0.889
+      ]
+    },
+    "style_s12_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 5.0,
+      "color": "#000000",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.879
+      ]
+    },
+    "style_s13_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 4.5,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.847
+      ]
+    },
+    "style_s14_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 3.5,
+      "color": "#000000",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.645
+      ]
+    },
+    "style_s15_1": {
+      "font": "Noto Sans KR Bold",
+      "latin_font": "NotoSans_Condensed-Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 3.5,
+      "color": "#000000",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.645
+      ]
+    }
+  },
+  "scenes": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "dur": 2.233,
+      "snap": "cut#1",
+      "slot": {
+        "id": "clip_01",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.233,
+        "subject_hint": "IMG_2808",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "2025 랜드로버 레인지로버 스포츠",
+          "style": "style_s01_1",
+          "t": [
+            0.0,
+            2.233
+          ],
+          "in": {
+            "class": "유형 1",
+            "dur": 0.1,
+            "capcut": {
+              "enum": "TextIntro.打字机_I",
+              "resource_id": "6724920249654710791",
+              "is_vip": false,
+              "title": "打字机 I"
+            }
+          },
+          "out": {
+            "class": "페이드 아웃",
+            "dur": 0.1,
+            "capcut": {
+              "enum": "TextOutro.渐隐",
+              "resource_id": "6724919382104871427",
+              "is_vip": false,
+              "title": "渐隐"
+            }
+          },
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "浅金属",
+            "resource_id": "7331665446078401798",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_effect:浅金属(7331665446078401798)"
+      ]
+    },
+    {
+      "id": "s02",
+      "start": 2.233,
+      "dur": 2.2,
+      "snap": "cut#2",
+      "slot": {
+        "id": "clip_02",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.2,
+        "subject_hint": "IMG_2813",
+        "fit": "cover"
+      },
+      "motion": {
+        "type": "FF 안",
+        "from": 1.0,
+        "to": 1.08,
+        "ease": "ease_out",
+        "capcut": {
+          "resource_id": "7211044701367964162",
+          "name": "FF 안",
+          "unmatched": true
+        }
+      },
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "video_anim:FF 안(7211044701367964162)"
+      ]
+    },
+    {
+      "id": "s03",
+      "start": 4.433,
+      "dur": 1.367,
+      "snap": "cut#3",
+      "slot": {
+        "id": "clip_03",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 1.367,
+        "subject_hint": "IMG_2821",
+        "fit": "cover"
+      },
+      "motion": {
+        "type": "줌 2",
+        "from": 1.0,
+        "to": 1.08,
+        "ease": "ease_out",
+        "capcut": {
+          "enum": "IntroType.动感放大",
+          "resource_id": "6740867832570974733",
+          "is_vip": false,
+          "title": "动感放大"
+        }
+      },
+      "texts": [
+        {
+          "text": "Land Rover",
+          "style": "style_s03_1",
+          "t": [
+            0.0,
+            1.367
+          ],
+          "in": {
+            "class": "유형 1",
+            "dur": 0.1,
+            "capcut": {
+              "enum": "TextIntro.打字机_I",
+              "resource_id": "6724920249654710791",
+              "is_vip": false,
+              "title": "打字机 I"
+            }
+          },
+          "out": {
+            "class": "페이드 아웃",
+            "dur": 0.1,
+            "capcut": {
+              "enum": "TextOutro.渐隐",
+              "resource_id": "6724919382104871427",
+              "is_vip": false,
+              "title": "渐隐"
+            }
+          },
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "浅金属",
+            "resource_id": "7331665446078401798",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_effect:浅金属(7331665446078401798)"
+      ]
+    },
+    {
+      "id": "s04",
+      "start": 5.8,
+      "dur": 2.933,
+      "snap": "cut#4",
+      "slot": {
+        "id": "clip_04",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.933,
+        "subject_hint": "IMG_2823",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s05",
+      "start": 8.733,
+      "dur": 4.833,
+      "snap": "cut#5",
+      "slot": {
+        "id": "clip_05",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.833,
+        "subject_hint": "IMG_2847",
+        "fit": "cover"
+      },
+      "motion": {
+        "type": "페이드 인",
+        "from": 1.0,
+        "to": 1.08,
+        "ease": "ease_out",
+        "capcut": {
+          "enum": "IntroType.渐显",
+          "resource_id": "6798320778182922760",
+          "is_vip": false,
+          "title": "渐显"
+        }
+      },
+      "texts": [
+        {
+          "text": "스타포쉬 전동사이드스텝",
+          "style": "style_s05_1",
+          "t": [
+            0.334,
+            4.833
+          ],
+          "in": {
+            "class": "유형 1",
+            "dur": 0.367,
+            "capcut": {
+              "enum": "TextIntro.打字机_I",
+              "resource_id": "6724920249654710791",
+              "is_vip": false,
+              "title": "打字机 I"
+            }
+          },
+          "out": {
+            "class": "페이드 아웃",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextOutro.渐隐",
+              "resource_id": "6724919382104871427",
+              "is_vip": false,
+              "title": "渐隐"
+            }
+          },
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "浅金属",
+            "resource_id": "7331665446078401798",
+            "capcut": null
+          }
+        },
+        {
+          "text": "진행한 시공",
+          "style": "style_s05_2",
+          "t": [
+            0.334,
+            4.833
+          ],
+          "in": {
+            "class": "유형 1",
+            "dur": 0.367,
+            "capcut": {
+              "enum": "TextIntro.打字机_I",
+              "resource_id": "6724920249654710791",
+              "is_vip": false,
+              "title": "打字机 I"
+            }
+          },
+          "out": {
+            "class": "페이드 아웃",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextOutro.渐隐",
+              "resource_id": "6724919382104871427",
+              "is_vip": false,
+              "title": "渐隐"
+            }
+          },
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "浅金属",
+            "resource_id": "7331665446078401798",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_effect:浅金属(7331665446078401798)"
+      ]
+    },
+    {
+      "id": "s06",
+      "start": 13.567,
+      "dur": 4.1,
+      "snap": "cut#6",
+      "slot": {
+        "id": "clip_06",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.1,
+        "subject_hint": "IMG_2850",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s07",
+      "start": 17.667,
+      "dur": 4.667,
+      "snap": "cut#7",
+      "slot": {
+        "id": "clip_07",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.667,
+        "subject_hint": "eb1997cbc33497040288166235d919b0",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "차량 하부에 스타포쉬 전동사이드스텝을 장착했습니다",
+          "style": "style_s07_1",
+          "t": [
+            0.0,
+            2.433
+          ],
+          "in": {
+            "class": "페이드 인",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.渐显",
+              "resource_id": "6724916044072227332",
+              "is_vip": false,
+              "title": "渐显"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "浅金属",
+            "resource_id": "7331665446078401798",
+            "capcut": null
+          }
+        },
+        {
+          "text": "설치 전",
+          "style": "style_s07_2",
+          "t": [
+            2.633,
+            4.633
+          ],
+          "in": {
+            "class": "페이드 인",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.渐显",
+              "resource_id": "6724916044072227332",
+              "is_vip": false,
+              "title": "渐显"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "전동사이드스텝",
+          "style": "style_s07_3",
+          "t": [
+            2.666,
+            4.666
+          ],
+          "in": {
+            "class": "페이드 인",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.渐显",
+              "resource_id": "6724916044072227332",
+              "is_vip": false,
+              "title": "渐显"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": {
+        "class": "버블 블러",
+        "dur": 1.0,
+        "capcut": {
+          "enum": "TransitionType.泡泡模糊",
+          "resource_id": "7159450506648097281",
+          "is_vip": false,
+          "title": "泡泡模糊"
+        },
+        "fallback": "dissolve"
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_effect:浅金属(7331665446078401798)"
+      ]
+    },
+    {
+      "id": "s08",
+      "start": 22.333,
+      "dur": 9.967,
+      "snap": "cut#8",
+      "slot": {
+        "id": "clip_08",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 9.967,
+        "subject_hint": "작업 전 (3)",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "사이드 스텝이 없어 허전한 하부",
+          "style": "style_s08_1",
+          "t": [
+            0.2,
+            2.634
+          ],
+          "in": {
+            "class": "페이드 인",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.渐显",
+              "resource_id": "6724916044072227332",
+              "is_vip": false,
+              "title": "渐显"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "浅金属",
+            "resource_id": "7331665446078401798",
+            "capcut": null
+          }
+        },
+        {
+          "text": "( 시공 전 )",
+          "style": "style_s08_2",
+          "t": [
+            0.2,
+            9.734
+          ],
+          "in": null,
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "黄字黑边黄边",
+            "resource_id": "7331667084180573445",
+            "capcut": null
+          }
+        },
+        {
+          "text": "높은 높이로 인해 불편한 승하차",
+          "style": "style_s08_3",
+          "t": [
+            3.067,
+            5.5
+          ],
+          "in": {
+            "class": "페이드 인",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.渐显",
+              "resource_id": "6724916044072227332",
+              "is_vip": false,
+              "title": "渐显"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "基础红白立体1",
+            "resource_id": "7494550818452999477",
+            "capcut": null
+          }
+        },
+        {
+          "text": "어린 자녀들의 경우 승하차 시 매우 위험",
+          "style": "style_s08_4",
+          "t": [
+            5.934,
+            9.734
+          ],
+          "in": {
+            "class": "밀기 R",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.向右滑动",
+              "resource_id": "6724920136056181256",
+              "is_vip": false,
+              "title": "向右滑动"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "发光-红蓝双色",
+            "resource_id": "7343570075229637896",
+            "capcut": null
+          }
+        },
+        {
+          "text": "[ 어두운 저녁 넘어질 위험 증가]",
+          "style": "style_s08_5",
+          "t": [
+            7.534,
+            9.734
+          ],
+          "in": {
+            "class": "페이드 인",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.渐显",
+              "resource_id": "6724916044072227332",
+              "is_vip": false,
+              "title": "渐显"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "黑字白边黑底",
+            "resource_id": "7331668361207631110",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": {
+        "class": "눈을 깜박이세요",
+        "dur": 0.467,
+        "capcut": {
+          "enum": "TransitionType.眨眼",
+          "resource_id": "6864867302936941064",
+          "is_vip": false,
+          "title": "眨眼"
+        },
+        "fallback": "dissolve"
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_effect:发光-红蓝双色(7343570075229637896)",
+        "text_effect:基础红白立体1(7494550818452999477)",
+        "text_effect:基础黑白描边1(7507303115079617853)",
+        "text_effect:浅金属(7331665446078401798)",
+        "text_effect:黄字黑边黄边(7331667084180573445)",
+        "text_effect:黑字白边黑底(7331668361207631110)"
+      ]
+    },
+    {
+      "id": "s09",
+      "start": 32.3,
+      "dur": 2.133,
+      "snap": "cut#9",
+      "slot": {
+        "id": "clip_09",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.133,
+        "subject_hint": "eb1997cbc33497040288166235d919b0",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "설치 후",
+          "style": "style_s09_1",
+          "t": [
+            0.233,
+            2.133
+          ],
+          "in": {
+            "class": "페이드 인",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.渐显",
+              "resource_id": "6724916044072227332",
+              "is_vip": false,
+              "title": "渐显"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "전동사이드스텝",
+          "style": "style_s09_2",
+          "t": [
+            0.233,
+            2.133
+          ],
+          "in": {
+            "class": "페이드 인",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.渐显",
+              "resource_id": "6724916044072227332",
+              "is_vip": false,
+              "title": "渐显"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": {
+        "class": "흐리게",
+        "dur": 0.467,
+        "capcut": {
+          "enum": "TransitionType.转场_模糊",
+          "resource_id": "6916426617455645186",
+          "is_vip": false,
+          "title": "转场-模糊"
+        },
+        "fallback": "dissolve"
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s10",
+      "start": 34.433,
+      "dur": 6.4,
+      "snap": "cut#10",
+      "slot": {
+        "id": "clip_10",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 6.4,
+        "subject_hint": "설치 완료 (2)_091611",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "외관과 잘 어울리는 고급스러운 디자인",
+          "style": "style_s10_1",
+          "t": [
+            0.2,
+            6.167
+          ],
+          "in": null,
+          "out": {
+            "class": "페이드 아웃",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextOutro.渐隐",
+              "resource_id": "6724919382104871427",
+              "is_vip": false,
+              "title": "渐隐"
+            }
+          },
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "白金宠粉",
+            "resource_id": "7339733523370102021",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": {
+        "class": "오른쪽",
+        "dur": 0.467,
+        "capcut": {
+          "enum": "TransitionType.向右",
+          "resource_id": "6724227599616184836",
+          "is_vip": false,
+          "title": "向右"
+        },
+        "fallback": "dissolve"
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_effect:白金宠粉(7339733523370102021)"
+      ]
+    },
+    {
+      "id": "s11",
+      "start": 40.833,
+      "dur": 9.833,
+      "snap": "cut#11",
+      "slot": {
+        "id": "clip_11",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 9.833,
+        "subject_hint": "설치완료 (1)",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "( 시공 후 )",
+          "style": "style_s11_1",
+          "t": [
+            0.0,
+            9.833
+          ],
+          "in": null,
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "黄字黑边黄边",
+            "resource_id": "7331667084180573445",
+            "capcut": null
+          }
+        },
+        {
+          "text": "승하차 할 때를",
+          "style": "style_s11_2",
+          "t": [
+            0.3,
+            9.134
+          ],
+          "in": null,
+          "out": {
+            "class": "페이드 아웃",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextOutro.渐隐",
+              "resource_id": "6724919382104871427",
+              "is_vip": false,
+              "title": "渐隐"
+            }
+          },
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "蓝色立体花字改",
+            "resource_id": "7493057036972723517",
+            "capcut": null
+          }
+        },
+        {
+          "text": "제외하고는 차량 하부로 폴딩",
+          "style": "style_s11_3",
+          "t": [
+            0.3,
+            9.134
+          ],
+          "in": null,
+          "out": {
+            "class": "페이드 아웃",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextOutro.渐隐",
+              "resource_id": "6724919382104871427",
+              "is_vip": false,
+              "title": "渐隐"
+            }
+          },
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "基础白立体投影",
+            "resource_id": "7488436197384047933",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": {
+        "class": "추억 슬라이딩 II",
+        "dur": 0.667,
+        "capcut": {
+          "enum": "TransitionType.回忆拉屏_II",
+          "resource_id": "7309740200605782530",
+          "is_vip": true,
+          "title": "回忆拉屏 II"
+        },
+        "fallback": "dissolve"
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_effect:基础白立体投影(7488436197384047933)",
+        "text_effect:蓝色立体花字改(7493057036972723517)",
+        "text_effect:黄字黑边黄边(7331667084180573445)",
+        "transition_out:추억 슬라이딩 II(7309740200605782530)"
+      ]
+    },
+    {
+      "id": "s12",
+      "start": 50.667,
+      "dur": 7.567,
+      "snap": "cut#12",
+      "slot": {
+        "id": "clip_12",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 7.567,
+        "subject_hint": "설치완료 (1)",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "300KG의 무게를 버틸 수 있는 견고함",
+          "style": "style_s12_1",
+          "t": [
+            0.333,
+            7.133
+          ],
+          "in": {
+            "class": "축소",
+            "dur": 0.5,
+            "capcut": {
+              "resource_id": "6724921217721045515",
+              "name": "축소",
+              "unmatched": true
+            }
+          },
+          "out": {
+            "class": "페이드 아웃",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextOutro.渐隐",
+              "resource_id": "6724919382104871427",
+              "is_vip": false,
+              "title": "渐隐"
+            }
+          },
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "Black Metallic",
+            "resource_id": "7311221734370184466",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": {
+        "class": "추억 슬라이딩 II",
+        "dur": 0.667,
+        "capcut": {
+          "enum": "TransitionType.回忆拉屏_II",
+          "resource_id": "7309740200605782530",
+          "is_vip": true,
+          "title": "回忆拉屏 II"
+        },
+        "fallback": "dissolve"
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_anim:축소(6724921217721045515)",
+        "text_effect:Black Metallic(7311221734370184466)",
+        "transition_out:추억 슬라이딩 II(7309740200605782530)"
+      ]
+    },
+    {
+      "id": "s13",
+      "start": 58.233,
+      "dur": 6.233,
+      "snap": "cut#13",
+      "slot": {
+        "id": "clip_13",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 6.233,
+        "subject_hint": "설치완료 (2) (2)",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "승하차 중 문이 닫혀도 \n세이프티 기능으로 안전!",
+          "style": "style_s13_1",
+          "t": [
+            0.334,
+            6.0
+          ],
+          "in": {
+            "class": "타자기",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.打字机",
+              "resource_id": "7210980292243231233",
+              "is_vip": false,
+              "title": "打字机"
+            }
+          },
+          "out": {
+            "class": "페이드 아웃",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextOutro.渐隐",
+              "resource_id": "6724919382104871427",
+              "is_vip": false,
+              "title": "渐隐"
+            }
+          },
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "白金宠粉",
+            "resource_id": "7339733523370102021",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": {
+        "class": "오른쪽 물결",
+        "dur": 0.467,
+        "capcut": {
+          "enum": "TransitionType.水波向右",
+          "resource_id": "6858191510865711629",
+          "is_vip": false,
+          "title": "水波向右"
+        },
+        "fallback": "dissolve"
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_effect:日本本土风-花字8(7308624104641400082)",
+        "text_effect:白金宠粉(7339733523370102021)"
+      ]
+    },
+    {
+      "id": "s14",
+      "start": 64.467,
+      "dur": 9.967,
+      "snap": "cut#14",
+      "slot": {
+        "id": "clip_14",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 9.967,
+        "subject_hint": "bb26fbf7eefbdf93d8a9c38c47f71d28",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "문의 010-5931-9658",
+          "style": "style_s14_1",
+          "t": [
+            0.733,
+            9.966
+          ],
+          "in": {
+            "class": "페이드 인",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.渐显",
+              "resource_id": "6724916044072227332",
+              "is_vip": false,
+              "title": "渐显"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "浅金属",
+            "resource_id": "7331665446078401798",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_effect:浅金属(7331665446078401798)"
+      ]
+    },
+    {
+      "id": "s15",
+      "start": 65.2,
+      "dur": 9.233,
+      "snap": "cut#15",
+      "slot": {
+        "id": "clip_15",
+        "kind": "photo",
+        "aspect": "16:9",
+        "min_src_dur": 9.233,
+        "subject_hint": "스타포쉬 로고(검은색)",
+        "fit": "cover"
+      },
+      "motion": {
+        "type": "페이드 인",
+        "from": 1.0,
+        "to": 1.08,
+        "ease": "ease_out",
+        "capcut": {
+          "enum": "IntroType.渐显",
+          "resource_id": "6798320778182922760",
+          "is_vip": false,
+          "title": "渐显"
+        }
+      },
+      "texts": [
+        {
+          "text": "문의 010-5931-9658",
+          "style": "style_s15_1",
+          "t": [
+            0.0,
+            9.233
+          ],
+          "in": {
+            "class": "페이드 인",
+            "dur": 0.5,
+            "capcut": {
+              "enum": "TextIntro.渐显",
+              "resource_id": "6724916044072227332",
+              "is_vip": false,
+              "title": "渐显"
+            }
+          },
+          "out": null,
+          "loop": null,
+          "capcut_text_effect": {
+            "name": "浅金属",
+            "resource_id": "7331665446078401798",
+            "capcut": null
+          }
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 0.99,
+        "transition": 0.85,
+        "text_style": 0.75
+      },
+      "needs_review": [
+        "text_effect:浅金属(7331665446078401798)"
+      ]
+    }
+  ]
+}

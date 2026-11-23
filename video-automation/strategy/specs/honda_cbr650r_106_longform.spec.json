@@ -1,0 +1,1155 @@
+{
+  "spec_version": "0.1",
+  "meta": {
+    "template_name": "honda_cbr650r_106_opticglass_longform",
+    "template_category": "longform",
+    "source_type": "local_draft",
+    "template": "polestar4_optic",
+    "reference_template_id": "1D4243F2-179F-43c2-AC12-977981653637",
+    "outro_pool_dir": "C:\\Users\\bssho\\OneDrive\\문서\\카카오톡 받은 파일\\아웃트로\\아웃트로",
+    "selected_outro": "옵틱글래스 광각미러 아웃트로.mp4",
+    "duration_s": 80.144,
+    "notes": "옵틱글래스 공식 16:9 롱폼 템플릿(26 폴스타4 옵틱 [26.03.13] / 1D4243F2) 기반 2025 혼다 CBR650R E-클러치 광각미러 롱폼 명세 (100% 실제 4K .MOV 영상, 외곽선 없는 불투명 검정 배경 박스 자막(가이드 정합), 시공 후 확장 화살표 4개 강조, 로고_번호판 및 얼굴 마스킹 적용)."
+  },
+  "canvas": {
+    "w": 1920,
+    "h": 1080,
+    "fps": 30.0,
+    "aspect": "16:9"
+  },
+  "audio": {
+    "bgm_slot": "C:\\Users\\bssho\\Downloads\\paperclip-master\\video-automation\\work\\media\\1. 잔여 차량\\106. 혼다 2025년식 cbr650r e클러치 광각미러\\honda_cbr650r_106_longform_bgm_41s.mp3",
+    "bpm": 120.0,
+    "downbeats_s": [
+      0.0,
+      2.333,
+      4.867,
+      6.4,
+      7.6,
+      9.3,
+      10.433,
+      12.133,
+      15.333,
+      18.933,
+      22.833,
+      26.967,
+      29.767,
+      33.567,
+      39.567,
+      43.1,
+      48.667,
+      52.467,
+      54.227,
+      56.227,
+      58.127,
+      59.994,
+      62.994,
+      67.644,
+      73.044
+    ],
+    "sections": [
+      {
+        "label": "full",
+        "start": 0.0,
+        "end": 80.144
+      }
+    ]
+  },
+  "styles": {
+    "longform_stroke_sub": {
+      "font": "Paperlogy 7 Bold",
+      "latin_font": "Paperlogy-7Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.0,
+      "color": "#FFFFFF",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.85
+      ]
+    },
+    "longform_corner_badge": {
+      "font": "Paperlogy 7 Bold",
+      "latin_font": "Paperlogy-7Bold",
+      "weight": 700,
+      "capcut_font": {
+        "resource_id": "7189852363404874242",
+        "enum_name": null
+      },
+      "size_pct": 6.5,
+      "color": "#FFE650",
+      "stroke": null,
+      "background": {
+        "enabled": true,
+        "color": "#000000",
+        "alpha": 1.0,
+        "radius": 0.14
+      },
+      "anchor": [
+        0.5,
+        0.12
+      ]
+    }
+  },
+  "scenes": [
+    {
+      "id": "s00",
+      "start": 0.0,
+      "dur": 2.333,
+      "snap": "cut#s00",
+      "slot": {
+        "id": "clip_s00",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.333,
+        "subject_hint": "lf_s00_cbr650r_hero.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "2025 혼다 CBR650R E-클러치",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.4,
+            2.333
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "옵틱글래스 광각미러 시공",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.4,
+            2.333
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": {
+        "type": "cross_dissolve",
+        "capcut_name": "혼합",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s01",
+      "start": 2.333,
+      "dur": 2.533,
+      "snap": "cut#s01",
+      "slot": {
+        "id": "clip_s01",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.533,
+        "subject_hint": "lf_s01_cbr650r_front_mirrors_intro.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": {
+        "type": "wipe",
+        "capcut_name": "오른쪽",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s02",
+      "start": 4.867,
+      "dur": 1.533,
+      "snap": "cut#s02",
+      "slot": {
+        "id": "clip_s02",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 1.533,
+        "subject_hint": "lf_s02_cbr650r_left_side_exterior.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": {
+        "type": "slide",
+        "capcut_name": "왼쪽",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s03",
+      "start": 6.4,
+      "dur": 1.2,
+      "snap": "cut#s03",
+      "slot": {
+        "id": "clip_s03",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 1.2,
+        "subject_hint": "lf_s03_cbr650r_fairing_broll.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": {
+        "type": "fade",
+        "capcut_name": "흐리게",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s04",
+      "start": 7.6,
+      "dur": 1.7,
+      "snap": "cut#s04",
+      "slot": {
+        "id": "clip_s04",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 1.7,
+        "subject_hint": "lf_s04_cbr650r_tank_emblem.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": {
+        "type": "zoom",
+        "capcut_name": "지연 줌",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s05",
+      "start": 9.3,
+      "dur": 1.133,
+      "snap": "cut#s05",
+      "slot": {
+        "id": "clip_s05",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 1.133,
+        "subject_hint": "lf_s05_cbr650r_right_fairing_broll.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": {
+        "type": "cross_dissolve",
+        "capcut_name": "혼합",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s06",
+      "start": 10.433,
+      "dur": 1.7,
+      "snap": "cut#s06",
+      "slot": {
+        "id": "clip_s06",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 1.7,
+        "subject_hint": "lf_s06_cbr650r_wheel_broll.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": {
+        "type": "wipe",
+        "capcut_name": "오른쪽",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s07",
+      "start": 12.133,
+      "dur": 3.2,
+      "snap": "cut#s07",
+      "slot": {
+        "id": "clip_s07",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 3.2,
+        "subject_hint": "lf_s07_reason_title_card.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "BY OPTICGLASS",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            3.067
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "광각미러가 꼭 필요한 이유",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            3.067
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": {
+        "type": "slide",
+        "capcut_name": "왼쪽",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s08",
+      "start": 15.333,
+      "dur": 3.6,
+      "snap": "cut#s08",
+      "slot": {
+        "id": "clip_s08",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 3.6,
+        "subject_hint": "lf_s08_stock_narrow_fov.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "순정미러의 좁은 시야",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            3.5
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": {
+        "type": "fade",
+        "capcut_name": "흐리게",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s08b",
+      "start": 18.933,
+      "dur": 3.9,
+      "snap": "cut#s08b",
+      "slot": {
+        "id": "clip_s08b",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 3.9,
+        "subject_hint": "lf_s08b_stock_mirror_housing.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "운행 시 차선 확인 어려움!",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            3.7
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": {
+        "type": "zoom",
+        "capcut_name": "지연 줌",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s09",
+      "start": 22.833,
+      "dur": 4.133,
+      "snap": "cut#s09",
+      "slot": {
+        "id": "clip_s09",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.133,
+        "subject_hint": "lf_s09_blindspot_danger.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "초보운전자에게는 특히나 치명적인 좁은 시야!",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.167,
+            4.034
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "혼잡한 도로에서 사고 발생 확률 UP!",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.567,
+            4.034
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": {
+        "type": "cross_dissolve",
+        "capcut_name": "혼합",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s09b",
+      "start": 26.967,
+      "dur": 2.8,
+      "snap": "cut#s09b",
+      "slot": {
+        "id": "clip_s09b",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.8,
+        "subject_hint": "lf_s09b_stock_mirror_side.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": {
+        "type": "wipe",
+        "capcut_name": "오른쪽",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s10",
+      "start": 29.767,
+      "dur": 3.8,
+      "snap": "cut#s10",
+      "slot": {
+        "id": "clip_s10",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 3.8,
+        "subject_hint": "lf_s10_blindspot_expert.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "운전고수도 무시할 수 없는 사각지대!",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.166,
+            3.7
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": {
+        "type": "slide",
+        "capcut_name": "왼쪽",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s11",
+      "start": 33.567,
+      "dur": 6.0,
+      "snap": "cut#s11",
+      "slot": {
+        "id": "clip_s11",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 6.0,
+        "subject_hint": "lf_s11_opticglass_install.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": {
+        "type": "fade",
+        "capcut_name": "흐리게",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s12",
+      "start": 39.567,
+      "dur": 3.533,
+      "snap": "cut#s12",
+      "slot": {
+        "id": "clip_s12",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 3.533,
+        "subject_hint": "lf_s12_wide_fov_solution.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "옵틱글래스 광각미러로 한방에 해결!",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.0,
+            3.4
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": {
+        "type": "zoom",
+        "capcut_name": "지연 줌",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s12b",
+      "start": 43.1,
+      "dur": 5.567,
+      "snap": "cut#s12b",
+      "slot": {
+        "id": "clip_s12b",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.567,
+        "subject_hint": "lf_s12b_optic_mirror_front.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "사각지대 해소 가능한 넓은 시야,",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.2,
+            5.567
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "편리해진 차선/주차라인 확인",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.6,
+            5.567
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": {
+        "type": "cross_dissolve",
+        "capcut_name": "혼합",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s12c",
+      "start": 48.667,
+      "dur": 3.8,
+      "snap": "cut#s12c",
+      "slot": {
+        "id": "clip_s12c",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 3.8,
+        "subject_hint": "lf_s12c_optic_mirror_side.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s13",
+      "start": 52.467,
+      "dur": 1.76,
+      "snap": "cut#s13",
+      "slot": {
+        "id": "clip_s13",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 1.76,
+        "subject_hint": "lf_s13_before_single_color.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "시공 전",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            1.76
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s14",
+      "start": 54.227,
+      "dur": 2.0,
+      "snap": "cut#s14",
+      "slot": {
+        "id": "clip_s14",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 2.0,
+        "subject_hint": "lf_s14_after_single_color.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "시공 후",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            2.0
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s15",
+      "start": 56.227,
+      "dur": 1.9,
+      "snap": "cut#s15",
+      "slot": {
+        "id": "clip_s15",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 1.9,
+        "subject_hint": "lf_s15_split_cbr650r_5050.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s16",
+      "start": 58.127,
+      "dur": 1.867,
+      "snap": "cut#s16",
+      "slot": {
+        "id": "clip_s16",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 1.867,
+        "subject_hint": "lf_s16_split_cbr650r_hold.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "시공 전",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            1.867
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        },
+        {
+          "text": "시공 후",
+          "style": "longform_corner_badge",
+          "t": [
+            0.0,
+            1.867
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s16b",
+      "start": 59.994,
+      "dur": 3.0,
+      "snap": "cut#s16b",
+      "slot": {
+        "id": "clip_s16b",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 3.0,
+        "subject_hint": "lf_s16b_split_cbr650r_install.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "혼잡한 도로에서도 걱정 없이 안전한 운전",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.1,
+            2.9
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s16c",
+      "start": 62.994,
+      "dur": 4.65,
+      "snap": "cut#s16c",
+      "slot": {
+        "id": "clip_s16c",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 4.65,
+        "subject_hint": "lf_s16c_after_single_mounted.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "비가 오나 눈이 오나 쾌적한 시야 제공",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.1,
+            4.55
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s16w",
+      "start": 67.644,
+      "dur": 5.4,
+      "snap": "cut#s16w",
+      "slot": {
+        "id": "clip_s16w",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 5.4,
+        "subject_hint": "lf_s16w_warm_close_profile.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [
+        {
+          "text": "옵틱글래스로 교체하고 언제나 안전한 운행",
+          "style": "longform_stroke_sub",
+          "t": [
+            0.2,
+            5.2
+          ],
+          "in": {
+            "class": "fade_in",
+            "dur": 0.25
+          },
+          "out": {
+            "class": "fade_out",
+            "dur": 0.2
+          },
+          "loop": null,
+          "capcut_text_effect": null
+        }
+      ],
+      "transition_out": {
+        "type": "fade",
+        "capcut_name": "흐리게",
+        "dur": 0.35
+      },
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    },
+    {
+      "id": "s17",
+      "start": 73.044,
+      "dur": 7.1,
+      "snap": "cut#s17",
+      "slot": {
+        "id": "clip_s17",
+        "kind": "video",
+        "aspect": "16:9",
+        "min_src_dur": 7.1,
+        "subject_hint": "random_outro:옵틱글래스 광각미러 아웃트로.mp4",
+        "fit": "cover"
+      },
+      "motion": null,
+      "texts": [],
+      "transition_out": null,
+      "effects": [],
+      "audio_cue": null,
+      "confidence": {
+        "timing": 1.0,
+        "transition": 1.0,
+        "text_style": 1.0
+      },
+      "needs_review": []
+    }
+  ]
+}

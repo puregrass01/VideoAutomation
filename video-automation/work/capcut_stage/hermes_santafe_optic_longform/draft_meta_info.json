@@ -1,0 +1,1794 @@
+{
+  "cloud_draft_cover": false,
+  "cloud_draft_sync": false,
+  "cloud_package_completed_time": "2025-05-28T23:39:05+00:00",
+  "draft_cloud_capcut_purchase_info": "",
+  "draft_cloud_last_action_download": false,
+  "draft_cloud_package_type": "",
+  "draft_cloud_purchase_info": "",
+  "draft_cloud_template_id": "",
+  "draft_cloud_tutorial_info": "",
+  "draft_cloud_videocut_purchase_info": "",
+  "draft_cover": "draft_cover.jpg",
+  "draft_deeplink_url": "",
+  "draft_enterprise_info": {
+    "draft_enterprise_extra": "",
+    "draft_enterprise_id": "",
+    "draft_enterprise_name": "",
+    "enterprise_material": []
+  },
+  "draft_fold_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft/hermes_santafe_optic_longform",
+  "draft_id": "3ADB9E9B-3E03-4745-8FAF-3B812BFF1550",
+  "draft_is_ae_produce": false,
+  "draft_is_ai_packaging_used": false,
+  "draft_is_ai_shorts": false,
+  "draft_is_ai_translate": false,
+  "draft_is_article_video_draft": false,
+  "draft_is_cloud_temp_draft": false,
+  "draft_is_from_deeplink": "false",
+  "draft_is_invisible": false,
+  "draft_is_pippit_draft": false,
+  "draft_is_web_article_video": false,
+  "draft_materials": [
+    {
+      "type": 0,
+      "value": [
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 2333333,
+          "enter_from": 0,
+          "extra_info": "lf_s00_santafe_hero.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s00_santafe_hero.mp4",
+          "height": 1080,
+          "id": "3ffe45fe-7bd3-45b3-8ef2-aa1c327353cc",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 2333333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 2533334,
+          "enter_from": 0,
+          "extra_info": "lf_s01_sf_ext_front_right.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s01_sf_ext_front_right.mp4",
+          "height": 1080,
+          "id": "8f2dc8e7-8599-4e02-af3e-901cd1a455b0",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 2533334,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 1533333,
+          "enter_from": 0,
+          "extra_info": "lf_s02_sf_ext_front_left.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s02_sf_ext_front_left.mp4",
+          "height": 1080,
+          "id": "b83ea15a-0cd3-46ca-bcbb-ef6c5f387876",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 1533333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 1200000,
+          "enter_from": 0,
+          "extra_info": "lf_s03_sf_ext_grille_headlight.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s03_sf_ext_grille_headlight.mp4",
+          "height": 1080,
+          "id": "c5433529-d500-4331-a6f2-fa44c44c11b3",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 1200000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 1700000,
+          "enter_from": 0,
+          "extra_info": "lf_s04_sf_ext_wheel_side.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s04_sf_ext_wheel_side.mp4",
+          "height": 1080,
+          "id": "1c4a2322-a3b6-44c8-9593-d68dbf12516b",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 1700000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 1133333,
+          "enter_from": 0,
+          "extra_info": "lf_s05_sf_ext_rear_tailgate.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s05_sf_ext_rear_tailgate.mp4",
+          "height": 1080,
+          "id": "9bec246b-f314-4cde-bd80-a323650d6ec4",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 1133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 1700000,
+          "enter_from": 0,
+          "extra_info": "lf_s06_sf_ext_side_mirror.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s06_sf_ext_side_mirror.mp4",
+          "height": 1080,
+          "id": "900b2f94-ac3f-4898-baeb-8ed5e1a61406",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 1700000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 3400000,
+          "enter_from": 0,
+          "extra_info": "lf_s07_reason_title_card.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s07_reason_title_card.mp4",
+          "height": 1080,
+          "id": "61b089d9-c409-4463-8119-d24dbcd32008",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3400000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 3200000,
+          "enter_from": 0,
+          "extra_info": "lf_s08_stock_narrow_fov.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s08_stock_narrow_fov.mp4",
+          "height": 1080,
+          "id": "3bcfad5a-f557-4367-9df7-274618941d3a",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3200000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 1600000,
+          "enter_from": 0,
+          "extra_info": "lf_s08b_install_glass_front_4246.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s08b_install_glass_front_4246.mp4",
+          "height": 1080,
+          "id": "9361421b-2523-4607-878a-b114a37ec282",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 1600000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 4133334,
+          "enter_from": 0,
+          "extra_info": "lf_s09_blindspot_danger.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s09_blindspot_danger.mp4",
+          "height": 1080,
+          "id": "ffb4a58c-4887-483b-a621-84ad159638e4",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4133334,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 3800000,
+          "enter_from": 0,
+          "extra_info": "lf_s10_blindspot_expert.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s10_blindspot_expert.mp4",
+          "height": 1080,
+          "id": "4d6c652d-6194-41e1-8c3d-f1db7d6eeead",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3800000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 3500000,
+          "enter_from": 0,
+          "extra_info": "lf_s11_opticglass_install.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s11_opticglass_install.mp4",
+          "height": 1080,
+          "id": "d2fb4bf3-821e-424c-bdb9-f138afc7c770",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3500000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 5700000,
+          "enter_from": 0,
+          "extra_info": "lf_s11b_install_stock_mirror_4266.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s11b_install_stock_mirror_4266.mp4",
+          "height": 1080,
+          "id": "3bcfad5a-f557-4367-9df7-274618941d3a",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5700000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 3300000,
+          "enter_from": 0,
+          "extra_info": "lf_s11c_install_glass_swap_4260.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s11c_install_glass_swap_4260.mp4",
+          "height": 1080,
+          "id": "3bcfad5a-f557-4367-9df7-274618941d3a",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3300000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 4200000,
+          "enter_from": 0,
+          "extra_info": "lf_s12_wide_fov_solution.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s12_wide_fov_solution.mp4",
+          "height": 1080,
+          "id": "3bcfad5a-f557-4367-9df7-274618941d3a",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4200000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 3900000,
+          "enter_from": 0,
+          "extra_info": "lf_s12b_after_optic_glass_4266.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s12b_after_optic_glass_4266.mp4",
+          "height": 1080,
+          "id": "9361421b-2523-4607-878a-b114a37ec282",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3900000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 5800000,
+          "enter_from": 0,
+          "extra_info": "lf_s12c_after_optic_glass_4260.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s12c_after_optic_glass_4260.mp4",
+          "height": 1080,
+          "id": "3ffe45fe-7bd3-45b3-8ef2-aa1c327353cc",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5800000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 3500000,
+          "enter_from": 0,
+          "extra_info": "lf_s13_before_single_color.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s13_before_single_color.mp4",
+          "height": 1080,
+          "id": "3ffe45fe-7bd3-45b3-8ef2-aa1c327353cc",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3500000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 1333333,
+          "enter_from": 0,
+          "extra_info": "lf_s14_after_single_color.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s14_after_single_color.mp4",
+          "height": 1080,
+          "id": "3ffe45fe-7bd3-45b3-8ef2-aa1c327353cc",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 1333333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 1900000,
+          "enter_from": 0,
+          "extra_info": "lf_s15_split_santafe_left_5050.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s15_split_santafe_left_5050.mp4",
+          "height": 1080,
+          "id": "3ffe45fe-7bd3-45b3-8ef2-aa1c327353cc",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 1900000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 1866667,
+          "enter_from": 0,
+          "extra_info": "lf_s16_split_santafe_right_5050.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s16_split_santafe_right_5050.mp4",
+          "height": 1080,
+          "id": "3ffe45fe-7bd3-45b3-8ef2-aa1c327353cc",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 1866667,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 6000000,
+          "enter_from": 0,
+          "extra_info": "lf_s16b_split_santafe_driver_4266.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s16b_split_santafe_driver_4266.mp4",
+          "height": 1080,
+          "id": "3ffe45fe-7bd3-45b3-8ef2-aa1c327353cc",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 6000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 4200000,
+          "enter_from": 0,
+          "extra_info": "lf_s16w_warm_close_mirror_4284.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s16w_warm_close_mirror_4284.mp4",
+          "height": 1080,
+          "id": "3ffe45fe-7bd3-45b3-8ef2-aa1c327353cc",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4200000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7100000,
+          "enter_from": 0,
+          "extra_info": "lf_s17_opticglass_outro.mp4",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_s17_opticglass_outro.mp4",
+          "height": 1080,
+          "id": "34209749-4762-409c-bfc6-df304228f4f4",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7100000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 1920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "lf_hyundai_logo_shadow.png",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/lf_hyundai_logo_shadow.png",
+          "height": 206,
+          "id": "3ffe45fe-7bd3-45b3-8ef2-aa1c327353cc",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": 10800000000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 258
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 80566667,
+          "enter_from": 0,
+          "extra_info": "santafe_longform_bgm_41s.mp3",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/santafe_longform_bgm_41s.mp3",
+          "height": 0,
+          "id": "31c4c477-4c9f-4762-a076-d4ff46a45529",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366512,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "music",
+          "roughcut_time_range": {
+            "duration": 80566667,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 0
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 8021666,
+          "enter_from": 0,
+          "extra_info": "IMG_4215.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4215.MOV",
+          "height": 2160,
+          "id": "12d3114d-aeb1-46fa-b91e-8c4d35b80460",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 8021666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 5803333,
+          "enter_from": 0,
+          "extra_info": "IMG_4218.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4218.MOV",
+          "height": 2160,
+          "id": "11baf9c9-8d37-4e32-a90a-30ee702b4a13",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5803333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 4353333,
+          "enter_from": 0,
+          "extra_info": "IMG_4219.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4219.MOV",
+          "height": 2160,
+          "id": "bdb289e9-024f-4509-9086-ce2ea0cf9df0",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4353333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 5170000,
+          "enter_from": 0,
+          "extra_info": "IMG_4220.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4220.MOV",
+          "height": 2160,
+          "id": "5b4ba933-59bf-4c85-be42-c0465bf53ad6",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5170000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 8738333,
+          "enter_from": 0,
+          "extra_info": "IMG_4222.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4222.MOV",
+          "height": 2160,
+          "id": "30b8093f-5baf-442b-b4f1-e78181311af7",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 8738333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 17995000,
+          "enter_from": 0,
+          "extra_info": "IMG_4223.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4223.MOV",
+          "height": 2160,
+          "id": "28f3e9ee-9a7e-4de1-888f-cdb9c7026ea7",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 17995000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 6871666,
+          "enter_from": 0,
+          "extra_info": "IMG_4224.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4224.MOV",
+          "height": 2160,
+          "id": "075b5c9f-06b5-4ee8-b85d-bf18f851fc7c",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 6871666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 9538333,
+          "enter_from": 0,
+          "extra_info": "IMG_4226.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4226.MOV",
+          "height": 2160,
+          "id": "6ddfa16a-1e67-4049-9758-40126399d021",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 9538333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 9105000,
+          "enter_from": 0,
+          "extra_info": "IMG_4229.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4229.MOV",
+          "height": 2160,
+          "id": "25d4da32-83ce-4414-b1f4-c562625ffda7",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 9105000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 13775000,
+          "enter_from": 0,
+          "extra_info": "IMG_4230.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4230.MOV",
+          "height": 2160,
+          "id": "a23b8649-2c28-4c70-a888-3875a7e282d6",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 13775000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 6170000,
+          "enter_from": 0,
+          "extra_info": "IMG_4231.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4231.MOV",
+          "height": 2160,
+          "id": "e16fe20a-5e26-41bd-8386-d1cc4ae3bc3e",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 6170000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 17076666,
+          "enter_from": 0,
+          "extra_info": "IMG_4234.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4234.MOV",
+          "height": 2160,
+          "id": "e2efd589-32b7-4b73-a167-d5b9b1b1e056",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 17076666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 5403333,
+          "enter_from": 0,
+          "extra_info": "IMG_4236.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4236.MOV",
+          "height": 2160,
+          "id": "c41c502e-21b7-444f-866c-c586508c6c18",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5403333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7755000,
+          "enter_from": 0,
+          "extra_info": "IMG_4244.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4244.MOV",
+          "height": 2160,
+          "id": "a6ad7719-3a5f-4332-b940-0537d29fbee1",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7755000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 3485000,
+          "enter_from": 0,
+          "extra_info": "IMG_4246.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4246.MOV",
+          "height": 2160,
+          "id": "60b06906-5111-44e5-8797-151e6697e246",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3485000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7371666,
+          "enter_from": 0,
+          "extra_info": "IMG_4253.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4253.MOV",
+          "height": 3840,
+          "id": "731468a6-37fa-4e25-acb9-fa01a4d57d96",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7371666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 2160
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 8505000,
+          "enter_from": 0,
+          "extra_info": "IMG_4260.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4260.MOV",
+          "height": 2160,
+          "id": "8ae61308-c43e-4e1e-9ce7-9ee5a47dbe5f",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 8505000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 9923333,
+          "enter_from": 0,
+          "extra_info": "IMG_4266.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4266.MOV",
+          "height": 3840,
+          "id": "96fb9141-430c-4ea4-a79f-c87c36f75bb0",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 9923333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 2160
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 4803333,
+          "enter_from": 0,
+          "extra_info": "IMG_4269.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4269.MOV",
+          "height": 2160,
+          "id": "c452606c-0e7a-44f5-975a-fc5ba9ebb30e",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4803333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 18078333,
+          "enter_from": 0,
+          "extra_info": "IMG_4270.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4270.MOV",
+          "height": 2160,
+          "id": "01ac8984-3aad-4f21-b0f7-fe73351fab90",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 18078333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 5070000,
+          "enter_from": 0,
+          "extra_info": "IMG_4278.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4278.MOV",
+          "height": 2160,
+          "id": "594481ac-8a43-49eb-9b6c-23bb23e48ee6",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5070000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 5836666,
+          "enter_from": 0,
+          "extra_info": "IMG_4280.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4280.MOV",
+          "height": 2160,
+          "id": "d8ce13be-89e9-4975-a11a-cbe69381e97f",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 5836666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 6336666,
+          "enter_from": 0,
+          "extra_info": "IMG_4281.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4281.MOV",
+          "height": 2160,
+          "id": "6ec655a2-459d-4c60-a2fe-a66cfd003c18",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 6336666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 4470000,
+          "enter_from": 0,
+          "extra_info": "IMG_4283.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4283.MOV",
+          "height": 2160,
+          "id": "d135cf4a-fc1d-474b-bd3f-ca3450802ddb",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4470000,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 4051666,
+          "enter_from": 0,
+          "extra_info": "IMG_4284.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4284.MOV",
+          "height": 2160,
+          "id": "e44be211-969f-476d-808d-60d136d7c711",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 4051666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 3851666,
+          "enter_from": 0,
+          "extra_info": "IMG_4286.MOV",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/gdrive_raw/IMG_4286.MOV",
+          "height": 2160,
+          "id": "71bf46d0-a560-4ad6-a1e0-1db1bf7a4926",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 3851666,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 80566667,
+          "enter_from": 0,
+          "extra_info": "santafe_longform_phonk_41s.mp3",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/santafe_longform_phonk_41s.mp3",
+          "height": 0,
+          "id": "47999105-135a-4bd4-9347-ce122c88463e",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "music",
+          "roughcut_time_range": {
+            "duration": 80566667,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 0
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 10800000000,
+          "enter_from": 0,
+          "extra_info": "로고_번호판.png",
+          "file_Path": "C:/Users/bssho/Downloads/paperclip-master/구글드라이브다운파일/media/santafe/로고_번호판.png",
+          "height": 200,
+          "id": "18f590b9-d453-4cba-8e13-840a1db0a068",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "photo",
+          "roughcut_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 920
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "CMC 크래프트 PPF 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/CMC 크래프트 PPF 아웃트로.mp4",
+          "height": 2160,
+          "id": "54c1923e-6502-40ad-8c40-d0c70939f815",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "CMC 크래프트 썬팅 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/CMC 크래프트 썬팅 아웃트로.mp4",
+          "height": 2160,
+          "id": "9eb04151-e30e-411d-90d4-e670c529f137",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "블랙미 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/블랙미 아웃트로.mp4",
+          "height": 2160,
+          "id": "23b0bafd-1011-4874-97b8-a914de49bb89",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "블랙사운드 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/블랙사운드 아웃트로.mp4",
+          "height": 2160,
+          "id": "6307f8f2-474c-4b08-b5c4-8ee2c6bb9e63",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "스타포쉬 LED엠블럼 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/스타포쉬 LED엠블럼 아웃트로.mp4",
+          "height": 2160,
+          "id": "0110f131-f744-430c-9d98-fb23ac3d1858",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "스타포쉬 전사스 아웃트로 .mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/스타포쉬 전사스 아웃트로 .mp4",
+          "height": 2160,
+          "id": "b7cff94a-2547-481b-b181-f24fb61e21a6",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 광각미러 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 광각미러 아웃트로.mp4",
+          "height": 2160,
+          "id": "a80bda16-ae50-4845-bb0e-b0721b76b03d",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 오토사이드미러 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 오토사이드미러 아웃트로.mp4",
+          "height": 2160,
+          "id": "fc046078-033f-486c-a1e6-a06135476372",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "옵틱글래스 옵틱시스템 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/옵틱글래스 옵틱시스템 아웃트로.mp4",
+          "height": 2160,
+          "id": "0a03bb99-f397-4164-940d-868c9c363c0b",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        },
+        {
+          "ai_group_type": "",
+          "create_time": 1794292823,
+          "duration": 7133333,
+          "enter_from": 0,
+          "extra_info": "퓨어그래스 코일매트 아웃트로.mp4",
+          "file_Path": "C:/Users/bssho/OneDrive/문서/카카오톡 받은 파일/아웃트로/아웃트로/퓨어그래스 코일매트 아웃트로.mp4",
+          "height": 2160,
+          "id": "988f3a00-9f9f-4c3e-863d-9678d8d0be54",
+          "import_time": 1794292823,
+          "import_time_ms": 1794292823366797,
+          "item_source": 1,
+          "material_color_tag": "",
+          "md5": "",
+          "metetype": "video",
+          "roughcut_time_range": {
+            "duration": 7133333,
+            "start": 0
+          },
+          "sub_time_range": {
+            "duration": -1,
+            "start": -1
+          },
+          "type": 0,
+          "width": 3840
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "value": []
+    },
+    {
+      "type": 2,
+      "value": []
+    },
+    {
+      "type": 3,
+      "value": []
+    },
+    {
+      "type": 6,
+      "value": []
+    },
+    {
+      "type": 7,
+      "value": []
+    },
+    {
+      "type": 8,
+      "value": []
+    }
+  ],
+  "draft_materials_copied_info": [],
+  "draft_name": "hermes_santafe_optic_longform",
+  "draft_need_rename_folder": false,
+  "draft_new_version": "164.0.0",
+  "draft_removable_storage_device": "",
+  "draft_root_path": "C:/Users/bssho/AppData/Local/CapCut/User Data/Projects/com.lveditor.draft",
+  "draft_segment_extra_info": [
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "4515B779-EBAD-4613-AA57-9E41BE716BA6"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "4FAE31D9-28B6-4a3e-A5BB-321ECCCFCCE7"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "E7BCE574-FB7B-4365-BD56-C92050840F5F"
+    },
+    {
+      "extra_mask_aspect_ratio_locked": false,
+      "extra_segmend_id": "F59FD670-0637-48bd-9E20-8D0467AD4785"
+    }
+  ],
+  "draft_timeline_materials_size_": 751667134,
+  "draft_type": "",
+  "draft_web_article_video_enter_from": "",
+  "pippit_avatar_url": "",
+  "pippit_extra_info": "",
+  "pippit_id": "",
+  "pippit_user_name": "",
+  "tm_draft_cloud_completed": "1748475545000",
+  "tm_draft_cloud_entry_id": -1,
+  "tm_draft_cloud_modified": 1748475231781864,
+  "tm_draft_cloud_parent_entry_id": -1,
+  "tm_draft_cloud_space_id": 7327545136085664770,
+  "tm_draft_cloud_user_id": -1,
+  "tm_draft_create": 1784618436715121,
+  "tm_draft_modified": 1784622296384116,
+  "tm_draft_removed": 0,
+  "tm_duration": 80566667
+}
