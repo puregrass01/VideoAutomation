@@ -28,7 +28,7 @@ description: 옵틱글래스(OpticGlass) 영상 편집·썸네일·구글 드라
 4. **타임라인 편집·빌드 에이전트 (`video_editor`)**:
    - CapCut 헤드리스 빌드 (`build_longform.py`, `build_shorts.py`): 16:9 롱폼, 57.7초 wide1, 9:16 숏폼 초안 조립.
    - BGM 100% 전 구간 커버(무빈틈 루프) 및 원본 현장음 음소거.
-   - 정적 굵은 한글 폰트(`Paperlogy-7Bold.ttf`) 및 불투명 검정 배경 박스(`#000000`) 자막 적용.
+   - 정적 한글 폰트(`NotoSansKR-Bold-Static.ttf`, `Paperlogy-7Bold.ttf` 등) 기반 자막 필수 합성(`opticglass_wide1`·신규 롱폼은 불투명 검정 배경 박스 없이 템플릿·`@optic_glass` 스타일 준수, 기존 수동 80초 5대 시나리오만 검정 박스 유지).
    - 비교 구간 전·중·후 화면 전환(Transition) 완전 배제.
 5. **썸네일·패키징 에이전트 (`qa_thumbnail`)**:
    - 1280x720 유튜브 썸네일 생성 (`generate_thumbnail.py`, 레이아웃은 2장: `split_horizontal`, `split_vertical`): 하단 자막 바 없음, 가우시안 블러(GaussianBlur) 전면 금지.

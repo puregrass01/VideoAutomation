@@ -1,39 +1,46 @@
 ---
 name: code-review
-description: "Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes: Standards (does the code follow this repo's documented coding standards?) and Spec (does the code match what the originating issue/spec asked for?). Runs both reviews in parallel sub-agents and reports them side by side. Use when the user wants to review a branch, a PR, work-in-progress changes, or asks to \"review since X\"."
+description: "Review the changes since a fixed point (commit, branch, tag, merge-base, or working-tree WIP including untracked files) along two axes: Standards (does the code follow this repo's documented coding standards?) and Spec (optional — only when the user explicitly supplies a spec). Runs reviews in fresh sub-agents and reports them side by side. Use when the user wants to review a branch, a PR, work-in-progress changes, or asks to \"review since X\"."
 ---
 
-Two-axis review of the diff between `HEAD` and a fixed point the user supplies:
+Two-axis review of changes since a fixed point (committed range and/or working-tree WIP including untracked files):
 
 - **Standards**: does the code conform to this repo's documented coding standards?
-- **Spec**: does the code faithfully implement the originating issue / spec?
+- **Spec** *(optional)*: does the code faithfully implement a user-supplied spec?
 
-Both axes run as **parallel sub-agents** so they don't pollute each other's context, then this skill aggregates their findings. Start every sub-agent with a fresh context window.
-
-The issue tracker should have been provided to you. If not, tell the user to run `/setup-matt-pocock-skills`.
+When both axes run, spawn them as **parallel sub-agents** so they don't pollute each other's context, then aggregate their findings. Start every sub-agent with a fresh context window.
 
 ## Process
 
-### 1. Pin the fixed point
+### 1. Pin the fixed point & build a safe diff scope
 
-Whatever the user said is the fixed point (a commit SHA, branch name, tag, `main`, `HEAD~5`, etc.). If they didn't specify one, ask for it.
+Always invoke git with `-c core.quotepath=false` so non-ASCII (e.g., Korean) file paths are never escaped.
 
-Capture the diff command once: `git diff <fixed-point>...HEAD` (three-dot, so the comparison is against the merge-base). Also note the list of commits via `git log <fixed-point>..HEAD --oneline`.
+Whatever the user said is the fixed point (a commit SHA, branch name, tag, `main`, `HEAD`, `WIP`, `HEAD~5`, etc.). If they didn't specify one, ask for it. Confirm non-WIP refs resolve via `git rev-parse <fixed-point>`.
 
-Before going further, confirm the fixed point resolves (`git rev-parse <fixed-point>`) and the diff is non-empty. A bad ref or empty diff should fail here, not inside two parallel sub-agents.
+Choose the diff scope once before spawning sub-agents:
 
-### 2. Identify the spec source
+1. **Working-tree / WIP scope** — use when the user asks to review work-in-progress / uncommitted changes, passes `HEAD` or `WIP`, OR when `git -c core.quotepath=false status --porcelain` is non-empty and `git diff --quiet <fixed-point>..HEAD` succeeds (identical committed trees, e.g., after a squash merge):
+   - Tracked diff (staged + unstaged): `git -c core.quotepath=false diff <fixed-point>` (use `HEAD` if `<fixed-point>` is `WIP` or matches `HEAD`'s tree).
+   - Untracked files: list with `git -c core.quotepath=false ls-files --others --exclude-standard` and pass every untracked path (plus its contents or `git diff --no-index /dev/null <path>`) to the sub-agent(s) so new WIP files are never omitted.
+   - Commit list: `working tree (uncommitted)` plus `git -c core.quotepath=false log <fixed-point>..HEAD --oneline` if `<fixed-point>` differs from `HEAD`.
+   - Confirm at least one of the tracked diff or the untracked file list is non-empty; fail here only if both are empty.
+2. **Committed-range scope** — use when the working tree is clean or the user explicitly asks for committed changes only:
+   - Check `git -c core.quotepath=false diff --shortstat <fixed-point>...HEAD` vs `git -c core.quotepath=false diff --shortstat <fixed-point>..HEAD`.
+   - Default to three-dot `git -c core.quotepath=false diff <fixed-point>...HEAD`. If three-dot explodes due to a diverged or squash-merged base (e.g., `...HEAD` is >2x larger than `..HEAD`, exceeds ~500 KB, or touches >200 files while `..HEAD` is compact), switch to two-dot `git -c core.quotepath=false diff <fixed-point>..HEAD`.
+   - If the diff is still oversized because of binary or media assets, filter them out with pathspecs (`-- . ':(exclude)*.png' ':(exclude)*.jpg' ':(exclude)*.jpeg' ':(exclude)*.mp4' ':(exclude)*.mov' ':(exclude)*.wav' ':(exclude)*.mp3' ':(exclude)*.ttf' ':(exclude)*.otf' ':(exclude)*.exe'`) and note any excluded patterns in the prompt.
+   - Note the commit list via `git -c core.quotepath=false log <fixed-point>..HEAD --oneline`. Confirm the diff is non-empty before proceeding.
 
-Look for the originating spec, in this order:
+### 2. Spec source (no automatic discovery)
 
-1. Issue references in the commit messages (`#123`, `Closes #45`, GitLab `!67`, etc.), fetched via the workflow in the tracker doc.
-2. A path the user passed as an argument.
-3. A spec file under `docs/`, `specs/`, or `.scratch/` matching the branch name or feature.
-4. If nothing is found, ask the user where the spec is. If they say there isn't one, the **Spec** sub-agent will skip and report "no spec available".
+Do **not** search commit messages, issue trackers, PRs, `docs/`, `specs/`, or `.scratch/`, and do **not** block asking the user where the spec is.
+
+- If the user explicitly supplied a spec file path or inline spec text in their request, pass it to the **Spec** sub-agent.
+- Otherwise, skip the **Spec** sub-agent and record `Skipped — no spec provided.` under `## Spec`.
 
 ### 3. Identify the standards sources
 
-Search the repo for every file that documents how code should be written. When `CODING_STANDARDS.md` or `CONTRIBUTING.md` exists, it must be on the list.
+Search the repo for every file that documents how code should be written. When `CODING_STANDARDS.md` or `CONTRIBUTING.md` exists, include it. When neither exists, include repo instruction/rule documents (such as `AGENTS.md`, `GEMINI.md`, and `.agents/rules/*.md`).
 
 On top of whatever the repo documents, the Standards axis always carries the **smell baseline** below: a fixed set of Fowler code smells (_Refactoring_, ch.3) that applies even when a repo documents nothing. Two rules bind it:
 
@@ -55,27 +62,25 @@ Each smell reads *what it is* → *how to fix*; match it against the diff:
 - **Middle Man**: a class or function that mostly just delegates onward. → cut it, call the real target direct.
 - **Refused Bequest**: a subclass or implementer that ignores or overrides most of what it inherits. → drop the inheritance, use composition.
 
-### 4. Spawn both sub-agents in parallel
+### 4. Spawn sub-agent(s) in parallel
 
-Issue both sub-agent calls together, in the foreground, and aggregate the reports they return.
+When a spec was explicitly provided, issue both sub-agent calls together in the foreground; otherwise spawn only the **Standards** sub-agent.
 
 **Standards sub-agent prompt** should include:
 
-- The full diff command and commit list.
+- The full diff command, commit list, and any untracked WIP file paths (and excluded asset patterns, if any).
 - The list of standards-source files you found in step 3, **plus the smell baseline from step 3** pasted in full (the sub-agent has no other access to it).
-- The brief: "Report, per file/hunk where relevant, (a) every place the diff violates a documented standard: cite the standard (file + the rule); and (b) any baseline smell you spot: name it and quote the hunk. Distinguish hard violations from judgement calls: documented-standard breaches can be hard, but baseline smells are always judgement calls, and a documented repo standard overrides the baseline. Skip anything tooling enforces. Under 400 words."
+- The brief: "Report, per file/hunk where relevant, (a) every place the diff violates a documented standard: cite the standard (file + the rule); and (b) any baseline smell you spot: name it and quote the hunk. Distinguish hard violations from judgement calls: documented-standard breaches can be hard, but baseline smells are always judgement calls, and a documented repo standard overrides the baseline. Skip anything tooling enforces. Under 800 words."
 
-**Spec sub-agent prompt** should include:
+**Spec sub-agent prompt** *(only when user provided a spec)* should include:
 
-- The diff command and commit list.
-- The path or fetched contents of the spec.
-- The brief: "Report: (a) requirements the spec asked for that are missing or partial; (b) behaviour in the diff that wasn't asked for (scope creep); (c) requirements that look implemented but where the implementation looks wrong. Quote the spec line for each finding. Under 400 words."
-
-If the spec is missing, skip the Spec sub-agent and note this in the final report.
+- The diff command, commit list, and any untracked WIP file paths.
+- The path or contents of the user-provided spec.
+- The brief: "Report: (a) requirements the spec asked for that are missing or partial; (b) behaviour in the diff that wasn't asked for (scope creep); (c) requirements that look implemented but where the implementation looks wrong. Quote the spec line for each finding. Under 800 words."
 
 ### 5. Aggregate
 
-Present the two reports under `## Standards` and `## Spec` headings, verbatim or lightly cleaned. Do **not** merge or rerank findings, because the two axes are deliberately separate (see _Why two axes_).
+Present the two reports under `## Standards` and `## Spec` headings, verbatim or lightly cleaned (or `Skipped — no spec provided.` under `## Spec`). Do **not** merge or rerank findings, because the two axes are deliberately separate (see _Why two axes_).
 
 End with a one-line summary: total findings per axis, and the worst issue _within each axis_ (if any). Don't pick a single winner across axes: that's the reranking the separation exists to prevent.
 
